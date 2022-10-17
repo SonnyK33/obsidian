@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "8697a0076bb875e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26172a80e013acc3",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Options.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c2bf0d0b2fb1eef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cdaf50dd67da41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed48771927d507d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "62b5ec31792c739d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e08b239b526fc40",
+    "type": "split",
+    "children": [
+      {
+        "id": "025668bbd7b469c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2391da7a6e244d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Options.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "26172a80e013acc3",
+  "lastOpenFiles": [
+    "Time Series.md",
+    "Options.md",
+    "Factor Investing Credit.md",
+    "Communist.md",
+    "Midnight's Borders.md",
+    "To Live.md",
+    "Rickshaw Boy.md",
+    "War of the Worlds.md",
+    "India.md",
+    "Home in the World (Amartya Sen).md"
+  ]
+}
