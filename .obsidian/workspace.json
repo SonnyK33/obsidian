@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "26172a80e013acc3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Stillwell (Tuchman).md",
-            "mode": "source",
-            "source": false
+        "id": "0180f35668936f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "26172a80e013acc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stillwell (Tuchman).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "435c1dbcfd233e1c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stillwell (Tuchman).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c21b3e1a09edb335",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Stillwell (Tuchman).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -87,7 +120,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26172a80e013acc3",
+  "active": "eed48771927d507d",
   "lastOpenFiles": [
     "Factor Investing Credit.md",
     "Midnight's Borders.md",
