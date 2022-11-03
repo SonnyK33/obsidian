@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Stillwell (Tuchman).md",
+                "file": "Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Stillwell (Tuchman).md",
+                "file": "Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,11 +119,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eed48771927d507d",
+  "active": "26172a80e013acc3",
   "lastOpenFiles": [
+    "Stillwell (Tuchman).md",
     "Factor Investing Credit.md",
     "Midnight's Borders.md",
-    "Stillwell (Tuchman).md",
     "Options.md",
     "Time Series.md",
     "Communist.md",
