@@ -1,3 +1,7 @@
+Author:  Barbara Tuchman
+Type: #source #book
+Topics: #China #foreign_policy #USA
+
 Tuchman gives an account of US general Joseph [[Stillwell]]’s efforts in [[China]] from post-WW1 through the defeat of Japan in WW2. Stillwell was a sinophile who grew to love China, its language, and its people starting as a language officer after WW1. He was the US’ main military liaison to [[Chang Kai-Shek]] and the head of various military commands in China during its war with Japan. He was constantly at odds with CKS as he didn’t respect his competence and didn’t think he had the respect or will of the people on his side. He wanted to help China defeat Japan and thought American money and materiel should be directed to that usage. He believed that CKS was more interested in hoarding aid and defeating his main rival - the communists.
 
 Much of the China discourse today focuses on how the US “lost” China during this period and how the US must protect [[Taiwan]] from China. This book explains how the US lost China - by backing an illegitimate and unrepresentative leader, and by not understanding the appeal of the communists to the peasant masses. It also puts the Taiwan conflict into context - Taiwan is not just a country that China wants to take over; rather it is the legacy of US interference in the Chinese civil war. The US-backed CKS who lost to the communists despite incredible US aid, fled to Taiwan. The US navy quickly entered the region and forbade Mao from retaking Taiwan (which was previously colonized by first the Dutch and then the Japanese).

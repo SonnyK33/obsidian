@@ -1,4 +1,6 @@
-by [[HG Wells]]
+Author: HG Wells
+Type: #source #book
+Topics: #Britain #USA #hegemony #science_fiction
 
 Describes an alien invasion in 19th century Britain. The aliens are locust-like, slowly dstroying everything they come into contact with. Wells said book was an allegory for [[imperialism]] - particularly the impact of European colonization on Aboriginal Tasmanians. 
 

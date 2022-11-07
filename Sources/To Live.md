@@ -1,4 +1,6 @@
-By Yu Hua
+Author:  Yu Hua
+Type: #source #book
+Topics: #China #Communism 
 
 To Live tells the story of twentieth century [[China]], from a feudal state to a communist one through the life of one man, Fugui. The son of a wealthy landowner, Fugui starts off as a selfish gambler who loses the family fortune at a casino. He has servants and is spoiled by his priviliege. 
 
