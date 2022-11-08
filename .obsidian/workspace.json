@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Stillwell and the American Experience in China (1911-1945) - WIP.md",
+                "file": "Sources/Stillwell and the American Experience in China (1911-1945).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd7f5ed52eec0be7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Molecules/US support for Dictators.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f597a288e6485367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Second Leg Down - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Stillwell and the American Experience in China (1911-1945) - WIP.md",
+                "file": "Sources/Second Leg Down - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f88073101929785",
+  "active": "f597a288e6485367",
   "lastOpenFiles": [
-    "Sources/Seven Lives of Pakistan  - WIP.md",
-    "Sources/Stillwell and the American Experience in China (1911-1945) - WIP.md",
+    "US involvement in China pre-WW2.md",
+    "Sources/Stillwell and the American Experience in China (1911-1945).md",
+    "Molecules/US support for Dictators.md",
+    "Sources/Second Leg Down - WIP.md",
     "Options.md",
-    "Sources/Second Leg Down.md",
-    "Sources/To Live.md",
-    "Sources/War of the Worlds.md",
-    "Sources/Rickshaw Boy.md",
+    "Molecules/Secularism in post-partition India and Pakistan.md",
     "Sources/Midnight's Borders.md",
-    "Sources/Home in the World (Amartya Sen).md",
-    "India.md"
+    "Sources/a man's fate.md",
+    "Sources/Seven Lives of Pakistan  - WIP.md",
+    "Sources/To Live.md"
   ]
 }

@@ -2,6 +2,16 @@ Author:  Hari Krishnan
 Type: #source #book
 Topics: #volatility #trading #systematic
 
+Summary:
+
+
+Atoms:
+- skew and its iterpretation
+- RV VIX trades
+- post-sell off trades
+- 
+
+
 Deeply [[OTM]] Options (10 [[delta]] for example)
 It often makes sense to buy deeply OTM options even though they’re likely to expire worthless. If the underlying moves 30pct towards the strike, what seemed unlikely will seem possible and there will be a rush to buy them, causing them to outperform higher delta nearer struck options. You could combine that with selling the further ITM options which may be overpriced. The spread trade lets you neutralize the volatility. 
 
