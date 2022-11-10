@@ -1,6 +1,6 @@
 Author:  Barbara Tuchman
 Type: #source #book
-Topics: #China #foreign_policy #USA
+Topics: #China #foreign_policy #USA #Imperialism 
 
 Summary
 - Stillwell as the American military liasison officer to CKS

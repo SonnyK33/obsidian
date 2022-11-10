@@ -37,14 +37,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Second Leg Down - WIP.md",
+                "file": "Sources/a man's fate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8646a48e8ae97fbe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Top Traders Podcast GM 23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c5e683a92361686b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Top Traders Podcast GM 23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88e44dec90ef35d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monetary Tightening - 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0381b9008f4d588b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "China vs US - Dollar Dominance.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -102,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Second Leg Down - WIP.md",
+                "file": "China vs US - Dollar Dominance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +168,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f597a288e6485367",
+  "active": "0381b9008f4d588b",
   "lastOpenFiles": [
-    "US involvement in China pre-WW2.md",
-    "Sources/Stillwell and the American Experience in China (1911-1945).md",
-    "Molecules/US support for Dictators.md",
+    "FX Trading.md",
     "Sources/Second Leg Down - WIP.md",
+    "imperialism.md",
+    "Sources/Stillwell and the American Experience in China (1911-1945).md",
+    "Sources/Top Traders Podcast GM 23.md",
+    "Monetary Tightening - 2022.md",
+    "China vs US - Dollar Dominance.md",
+    "Ordinary people amid political changes.md",
     "Options.md",
-    "Molecules/Secularism in post-partition India and Pakistan.md",
-    "Sources/Midnight's Borders.md",
-    "Sources/a man's fate.md",
-    "Sources/Seven Lives of Pakistan  - WIP.md",
-    "Sources/To Live.md"
+    "Factor Investing Credit.md"
   ]
 }
