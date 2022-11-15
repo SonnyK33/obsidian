@@ -102,9 +102,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0d72b0573b4c1b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skew.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b572d41ea888ca96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Time Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2436a39a0f32d2da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Time Series.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a4c097ae6becb5d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Algorthmic Trading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -162,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skew.md",
+                "file": "Sources/Algorthmic Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,17 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "282e1f1705e39f82",
+  "active": "a4c097ae6becb5d4",
   "lastOpenFiles": [
+    "Stationarity.md",
+    "Sources/Time Series.md",
+    "Sources/Algorthmic Trading.md",
+    "Sources/Home in the World (Amartya Sen).md",
     "Sources/Second Leg Down - WIP.md",
-    "Skew.md",
-    "China vs US - Dollar Dominance.md",
-    "FX Trading.md",
-    "imperialism.md",
     "Sources/Stillwell and the American Experience in China (1911-1945).md",
-    "Sources/Top Traders Podcast GM 23.md",
-    "Monetary Tightening - 2022.md",
-    "Ordinary people amid political changes.md",
-    "Options.md"
+    "Sources/Midnight's Borders.md",
+    "Vol Term Structure.md",
+    "Sources/Seven Lives of Pakistan  - WIP.md",
+    "Skew.md"
   ]
 }

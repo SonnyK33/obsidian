@@ -1,3 +1,7 @@
+Type: #source
+Title: Advanced Algorthmic Trading 
+Author: MIchael Halls-Moore
+
 [Time Series]
 - for quantitative finance, assume time series are results of random variables
 - sequence of random variables is known as a discrete-time stochastic process
@@ -38,29 +42,7 @@
     
     -   this is because almost all of the correlation is explained by the first lag, the future lags have limited correlation w/ the first observation when controlling for the first period’s correlation
     
-    #Stationarity
     
--   models covered require weak stationarity
-    
-    -   mean of time series is constant (i.e. mean reverting)
-	    - mu(t) = mu; i.e. it doesn't vary with time and hence we can use the sample mean to estimate the population mean 
-    -   autocorrelation only depends on time difference b/w points
-    -   finite and constant variance
--   in non-stationary TS, auto-correlations will slowly die off
-- if we have a stationary TS in the mean and in teh variance, can discuss second order stationarity - TS is second order stationary if correlation between sequential observations is only a function of the lag
-
-- strict stationarity requires that distribution of a time series is contant for different time periods 
-	- i.e. mean and variance are constant 
-
--   in stationary, auto-correlations will all be close to zero
-    
--   can also run [Augmented Dickey-Fuller] test to check; where null hypothesis is non-stationarity
-    
--   can transform a non-stationary TS to stationary by differencing
-    
--   can detrend by removing deterministic relationship with time
-    
-    -   can regress time series on time, and then use the residuals
 
 TS Models
 - goal is to fit a model to a time series until the remaining series lacks any serial correlation 
