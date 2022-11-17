@@ -13,64 +13,9 @@ When vol is low like in 2017, looks for dispersion trades bc correlation is low�
 
 Index is pinned so constituents needs to move
 
-**IV vs RV**
-
-Realized vol vs [[Implied vol]]
-Delta hedging a short option is guaranteed to make profits When realized volatility is below implied. However, infrequent big moves can make it hard to get filled and blow up the hedge. It’s often better to hedge an option with another option to truncate the blow up risk. Having a trade with bounded downside is easier to maintain and often easier to extract alpha from.
 
 
 
-**VIX**
-
-The vix is calculated by a weighted average of all outstanding OTM options. Vix spot would be an ideal hedge but it can’t be bought. Vix futures aren’t a long term strategy as the curve is mostly in contango.
-
-Short Vix futures + over buying ATM calls at 1.5x ratio to start delta neutral. If vol falls, you benefit from short position and net negative delta. If vol rises, delta rises and you get convex payouts.
-
-From podcast with Ben (acid capitalist)
-
-  
-
-There’s an intrinsic level that Vix futures can go vs spot SPX vol. beyond that level you’re being paid to take a convex bet
-
-ATM option is best guess for short term RV
-
-Variance swap should be that plus a premium bc has a squared exposure to that so you’re short concvexiry wrt to vol you lose a lot of vol goes up
-
-You lose way more if you’re short a variance swap so you have to be paid for that
-
-So if atm vol is 20, variance swap could be 23
-
-Vix future is a forward on variance swap calc
-
-The way it’s trading, the Vix was implying it would trade at a discount to atm vol 
-
-Can’t trade there bc you could  be getting free convexiry vs vol
-
-From mutiny podcast -22 w Kris
-
-Generates yield w capped short Vega trades -
-
-Selling call spreads on VIX or put spreads on equities in order to fund long gamma trades - long 5 delta puts or calls
-
-Trend following systems can diversify across timeframes. For example multiple moving average crossover systems have little correlation with each other (eg signal from crossing 5d moving avg vs crossing 50d).
-
-VIX trades
-
-When Vix in contango - short/short
-
-Short front month Vix for roll yield and short SandP
-
-Opposite when inverted
-
-Risk is sudden Vix spike, though you normally have a warning due to vol clustering 
-
-Sometimes you benefit when vix goes up and stocks go up or the opposite 
-
-  
-
-Calendar spread - long front month to be long vol but financed w short future month (which gives roll yield) 
-
-Doing this intraday is more capital efficient as most margin requirements are overnight
 
 
 
@@ -113,6 +58,8 @@ Tracking price action and volatility (eg an indicator based on when price and vo
 Trend Following
 Trend following slightly diversifies as isn’t correlated w volatility.
 
+
+Trend following systems can diversify across timeframes. For example multiple moving average crossover systems have little correlation with each other (eg signal from crossing 5d moving avg vs crossing 50d).
 **vol surface**
 
 

@@ -8,79 +8,19 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f88073101929785",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Stillwell and the American Experience in China (1911-1945).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dd7f5ed52eec0be7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Molecules/US support for Dictators.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f597a288e6485367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/a man's fate.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8646a48e8ae97fbe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Top Traders Podcast GM 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c5e683a92361686b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Top Traders Podcast GM 23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "88e44dec90ef35d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Monetary Tightening - 2022.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0381b9008f4d588b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Algorthmic Trading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "670080ff04818778",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -92,55 +32,19 @@
             }
           },
           {
-            "id": "282e1f1705e39f82",
+            "id": "33853be9f5d05aa7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skew.md",
+                "file": "Sources/Second Leg Down - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0d72b0573b4c1b87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Skew.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b572d41ea888ca96",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Time Series.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2436a39a0f32d2da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Time Series.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a4c097ae6becb5d4",
+            "id": "3583e4984c3331fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,9 +54,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2ffe7c732343328",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cointegration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "41c8b628f6703e4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bollinger Bands.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -210,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Algorthmic Trading.md",
+                "file": "Bollinger Bands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4c097ae6becb5d4",
+  "active": "41c8b628f6703e4e",
   "lastOpenFiles": [
-    "Stationarity.md",
-    "Sources/Time Series.md",
     "Sources/Algorthmic Trading.md",
-    "Sources/Home in the World (Amartya Sen).md",
+    "Bollinger Bands.md",
+    "Cointegration.md",
+    "Stationarity.md",
+    "Augmented Dickey-Fuller.md",
+    "Sources/Time Series.md",
     "Sources/Second Leg Down - WIP.md",
-    "Sources/Stillwell and the American Experience in China (1911-1945).md",
-    "Sources/Midnight's Borders.md",
-    "Vol Term Structure.md",
-    "Sources/Seven Lives of Pakistan  - WIP.md",
-    "Skew.md"
+    "VIX.md",
+    "Sources/Rickshaw Boy.md",
+    "Variance Risk Premium.md"
   ]
 }

@@ -23,7 +23,7 @@ References: [[Time Series]] [[Algorthmic Trading]]
 
 -   in stationary, auto-correlations will all be close to zero
     
--   can also run [Augmented Dickey-Fuller] test to check; where null hypothesis is non-stationarity
+-   can also run [[Augmented Dickey-Fuller]] test to check; where null hypothesis is non-stationarity
 	- ADF tests if the next value depends on the current value (specifically the null hypothesis is that coefficient between the next value and the current difference from the mean is zero )
 	- can also interpret the ADF test statistic ($\lambda$ ) as the speed of mean reversion and still use a strategy if we can't reject the null hypothesis 
 	- if the linear model is transformed by ignoring drift and the lags, you get the Ornstein-Uhlenbeck formula for a mean-reverting process
