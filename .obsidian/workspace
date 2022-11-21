@@ -1,15 +1,27 @@
 {
   "main": {
+<<<<<<< HEAD
     "id": "8697a0076bb875e0",
     "type": "split",
     "children": [
       {
         "id": "26172a80e013acc3",
+=======
+    "id": "861567f1d29a2bc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "067e23bfa8e25e9c",
+>>>>>>> 18999c3 (added work files)
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "Stillwell (Tuchman).md",
+=======
+            "file": "10.13.22.md",
+>>>>>>> 18999c3 (added work files)
             "mode": "source",
             "source": false
           }
@@ -19,6 +31,7 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
     "id": "c2bf0d0b2fb1eef9",
     "type": "split",
     "children": [
@@ -28,6 +41,17 @@
         "children": [
           {
             "id": "eed48771927d507d",
+=======
+    "id": "1ae01380d9103df4",
+    "type": "split",
+    "children": [
+      {
+        "id": "33e4d211ee6bf8d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3086353c753536bc",
+>>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +59,11 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "62b5ec31792c739d",
+=======
+            "id": "3209297bea28b8af",
+>>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,6 +84,7 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
     "id": "1e08b239b526fc40",
     "type": "split",
     "children": [
@@ -65,11 +94,26 @@
         "children": [
           {
             "id": "8e2391da7a6e244d",
+=======
+    "id": "8c09151e86960740",
+    "type": "split",
+    "children": [
+      {
+        "id": "d58ba0fd1f4fc7da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ca893926cd2cfd",
+>>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Stillwell (Tuchman).md",
+=======
+                "file": "10.13.22.md",
+>>>>>>> 18999c3 (added work files)
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,6 +131,7 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
   "active": "26172a80e013acc3",
   "lastOpenFiles": [
     "Factor Investing Credit.md",
@@ -99,5 +144,13 @@
     "Rickshaw Boy.md",
     "War of the Worlds.md",
     "India.md"
+=======
+  "active": "067e23bfa8e25e9c",
+  "lastOpenFiles": [
+    "10.12.22.md",
+    "9.23.22.md",
+    "Pakistan.md",
+    "9.22.22.md"
+>>>>>>> 18999c3 (added work files)
   ]
 }
