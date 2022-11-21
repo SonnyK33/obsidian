@@ -1,16 +1,5 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "8697a0076bb875e0",
-    "type": "split",
-    "children": [
-      {
-        "id": "0180f35668936f8a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "0381b9008f4d588b",
-=======
     "id": "861567f1d29a2bc5",
     "type": "split",
     "children": [
@@ -20,45 +9,29 @@
         "children": [
           {
             "id": "067e23bfa8e25e9c",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Sources/Algorthmic Trading.md",
-=======
                 "file": "10.14.22.md",
->>>>>>> 18999c3 (added work files)
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "670080ff04818778",
-=======
             "id": "69168fffde8c586f",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Sources/Second Leg Down - WIP.md",
-=======
                 "file": "11.2.22.md",
->>>>>>> 18999c3 (added work files)
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "33853be9f5d05aa7",
-=======
             "id": "5734c9f3ced15708",
             "type": "leaf",
             "state": {
@@ -106,103 +79,107 @@
           },
           {
             "id": "248a7348db251956",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Sources/Second Leg Down - WIP.md",
-=======
                 "file": "11.16.22.md",
->>>>>>> 18999c3 (added work files)
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "3583e4984c3331fe",
-=======
             "id": "60b25a12a507f4a6",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Sources/Algorthmic Trading.md",
-=======
-                "file": "11.16.22.md",
->>>>>>> 18999c3 (added work files)
+                "file": "Fed Policy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "f2ffe7c732343328",
-=======
+            "id": "b74355c5d864af9b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DISH.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2566783f87fe37b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Shipping.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bfc5fde7fd2d6f8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tranches.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15987e4865edba66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monetary Tightening - 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "fab8e2c25a2dba79",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Cointegration.md",
-=======
                 "file": "10.13.22.md",
->>>>>>> 18999c3 (added work files)
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "41c8b628f6703e4e",
-=======
             "id": "ca6a6406e7eb3637",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Bollinger Bands.md",
-=======
                 "file": "10.13.22.md",
->>>>>>> 18999c3 (added work files)
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-<<<<<<< HEAD
-        "currentTab": 5
-=======
-        "currentTab": 7
->>>>>>> 18999c3 (added work files)
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "c2bf0d0b2fb1eef9",
-    "type": "split",
-    "children": [
-      {
-        "id": "2cdaf50dd67da41d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "eed48771927d507d",
-=======
     "id": "1ae01380d9103df4",
     "type": "split",
     "children": [
@@ -212,7 +189,6 @@
         "children": [
           {
             "id": "3086353c753536bc",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -222,11 +198,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "62b5ec31792c739d",
-=======
             "id": "3209297bea28b8af",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "search",
@@ -247,17 +219,6 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "1e08b239b526fc40",
-    "type": "split",
-    "children": [
-      {
-        "id": "025668bbd7b469c2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8e2391da7a6e244d",
-=======
     "id": "8c09151e86960740",
     "type": "split",
     "children": [
@@ -267,16 +228,11 @@
         "children": [
           {
             "id": "a6ca893926cd2cfd",
->>>>>>> 18999c3 (added work files)
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "Bollinger Bands.md",
-=======
-                "file": "11.16.22.md",
->>>>>>> 18999c3 (added work files)
+                "file": "Monetary Tightening - 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -294,32 +250,17 @@
     "width": 300,
     "collapsed": true
   },
-<<<<<<< HEAD
-  "active": "41c8b628f6703e4e",
+  "active": "15987e4865edba66",
   "lastOpenFiles": [
-    "Sources/Algorthmic Trading.md",
-    "Bollinger Bands.md",
-    "Cointegration.md",
-    "Stationarity.md",
-    "Augmented Dickey-Fuller.md",
-    "Sources/Time Series.md",
-    "Sources/Second Leg Down - WIP.md",
-    "VIX.md",
-    "Sources/Rickshaw Boy.md",
-    "Variance Risk Premium.md"
-=======
-  "active": "60b25a12a507f4a6",
-  "lastOpenFiles": [
-    "DISH.md",
-    "11.16.22.md",
+    "Untitled.md",
     "Tranches.md",
-    "Japan Monetary Policy.md",
-    "Pakistan.md",
-    "Fed Policy.md",
-    "10.14.22.md",
-    "10.13.22.md",
-    "9.22.22.md",
-    "9.23.22.md"
->>>>>>> 18999c3 (added work files)
+    "To Read.md",
+    "Sources/Sabre Roadshow call 11.21.22.md",
+    "Molecules/Ordinary people amid political changes.md",
+    "Variance Risk Premium.md",
+    "Delta_Hedging.md",
+    "Shipping.md",
+    "DISH.md",
+    "11.18.22.md"
   ]
 }

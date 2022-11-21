@@ -1,3 +1,7 @@
+Type: #Atom 
+References: 
+#convexity 
+
 Theta
 - 1 year theta = 1yr carry + 1yr rolldown 
 - higher risk tranches have more theta (why?)
