@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Second Leg Down - WIP.md",
+                "file": "Sources/Second Leg Down.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Second Leg Down - WIP.md",
+                "file": "Sources/Second Leg Down.md",
                 "mode": "source",
                 "source": false
               }
@@ -109,14 +109,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Monetary Tightening - 2022.md",
+                "file": "Sources/Second Leg Down.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cc733b9fcf58871a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Money creation in the modern economy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2b700c7dddf8c920",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Money Creation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8d4564d6b23e9af1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "KalmanFilter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -174,7 +210,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Monetary Tightening - 2022.md",
+                "file": "KalmanFilter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,17 +228,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5f8d08a0bbb01e97",
+  "active": "8d4564d6b23e9af1",
   "lastOpenFiles": [
-    "Sources/Second Leg Down - WIP.md",
-    "Vol Term Structure.md",
-    "FX Trading.md",
-    "Options.md",
-    "Molecules/Vulnerability of Hegemony.md",
-    "Delta_Hedging.md",
-    "Skew.md",
-    "Momentum Trading.md",
-    "Stationarity.md",
-    "Sources/Algorthmic Trading.md"
+    "Bollinger Bands.md",
+    "Sources/Seven Lives of Pakistan  - WIP.md",
+    "Shipping.md",
+    "Pakistan.md",
+    "Sources/Second Leg Down.md",
+    "Dispersion.md",
+    "Money Creation.md",
+    "Money creation in the modern economy.md",
+    "Futures Curves.md",
+    "Vol Surface.md"
   ]
 }

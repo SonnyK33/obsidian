@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Second Leg Down - WIP]] [[delta]] [[vega]]
+References: [[Second Leg Down]] [[delta]] [[vega]]
 [https://twitter.com/pat_hennessy/status/1583187292276940800?s=21](https://twitter.com/pat_hennessy/status/1583187292276940800?s=21)
 
 
