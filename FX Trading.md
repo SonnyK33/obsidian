@@ -1,4 +1,4 @@
-Type: #Atom 
+Type: #Atom #FX
 References: [[Top Traders Podcast GM 23]]
 
 

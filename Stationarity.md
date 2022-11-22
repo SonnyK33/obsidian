@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Time Series]] [[Algorthmic Trading]]
+References: [[Time Series]] [[Algorthmic Trading]] [[Momentum Trading]]
 
 
  - mean-reversion implies that the change in price series of the next element is proportional to the difference between the current element and the mean
