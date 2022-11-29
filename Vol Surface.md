@@ -7,7 +7,7 @@ Vol term structure describes varying implied volatilities for different option m
 
 **Relative Value Trades**
 
-People tend to overpay for medium term puts and there’s likely value in short term (weekly or less) or long term puts. Some statistical studies show that returns have very fat tails for short term horizons (4 or less days), and hence there’s value in buying weekly OTM puts. Since volatility begets more volatility, you can wait for the first move before buying a weekly put. This is a better strategy than continuously buying and rolling. Though time decay is severe, you’re already paying less as most of the heavily decaying days have already occurred. The fact that continuosly rolling puts is a losing trade implies that you're paying for convexity - ore evidence of fat tails.
+People tend to overpay for medium term puts and there’s likely value in short term (weekly or less) or long term puts. Some statistical studies show that returns have very fat tails for short term horizons (4 or less days), and hence there’s value in buying weekly OTM puts. Since volatility begets more volatility, you can wait for the first move before buying a weekly put. This is a better strategy than continuously buying and rolling. Though time decay is severe, you’re already paying less as most of the heavily decaying days have already occurred. The fact that continuosly rolling puts is a losing trade implies that you're paying for convexity - more evidence of fat tails.
 
 On risk adjusted basis, skew is highest for 30day period bc that’s a popular timeframe to buy protection. There may be RV trades in earlier or later maturities. 30 days - 3 months tend to be the most popular timeframes for options. 
 

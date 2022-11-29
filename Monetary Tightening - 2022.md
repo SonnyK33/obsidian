@@ -2,6 +2,7 @@ Type: #Atom
 Topics #Central_banks 
 References: [[Top Traders Podcast GM 23]]
 Fedguy - https://fedguy.com/stock-and-flow/
+[[Money Creation]]
 
 When China entered WTO in 2001, was the start of cheap goods on the west. Western central banks were afraid of deflation and so lowered rates - this has led to excess leverage 
 - Walter bagehot- Lombard street - argued central banks should lend at higher rates against good collateral 

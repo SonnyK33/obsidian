@@ -27,3 +27,6 @@
 		- "Bicycle Thieves" - movie and book - part of Italian [neorealist] [neorealist drama] about the working class in post WW2 Italy
 			- rated amongst the best films ever 
 			- [Prison Notebooks] by Antonio Gramsci [marxism]
+
+[[Seven Lives of Pakistan]]
+-  short stories from manto, jinnahs official biographer

@@ -1,7 +1,7 @@
 Type: #source 
 Title: Algorithmic Trading
 Author: Ernest Chan
-References: [[Stationarity]] [[Cointegration]]
+References: [[Stationarity]] [[Cointegration]] [[Momentum Trading]]
 
 Chapter 2: Basics of Mean Reversion
 

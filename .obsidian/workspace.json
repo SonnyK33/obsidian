@@ -8,151 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0381b9008f4d588b",
+            "id": "03a57230a3326a95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Thematic Investing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b8e053689fdcaae0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOE Money creation - WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "810e9420b7ee7354",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BOE Money creation - WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ba181f4a69424111",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Market Tremors.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cac730fd65f2dbf7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Sources/Algorthmic Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "670080ff04818778",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Second Leg Down.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "33853be9f5d05aa7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Second Leg Down.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3583e4984c3331fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Algorthmic Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2ffe7c732343328",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Cointegration.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "41c8b628f6703e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.15.22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "62982ea72be19527",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "11.17.22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4124e0fe32b815b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Algorthmic Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5f8d08a0bbb01e97",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Second Leg Down.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc733b9fcf58871a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Money creation in the modern economy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2b700c7dddf8c920",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Money Creation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8d4564d6b23e9af1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "KalmanFilter.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 11
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -210,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "KalmanFilter.md",
+                "file": "Sources/Algorthmic Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d4564d6b23e9af1",
+  "active": "cac730fd65f2dbf7",
   "lastOpenFiles": [
-    "Bollinger Bands.md",
-    "Sources/Seven Lives of Pakistan  - WIP.md",
-    "Shipping.md",
-    "Pakistan.md",
+    "Momentum Trading.md",
+    "Sources/Algorthmic Trading.md",
+    "Sources/Time Series.md",
+    "Stationarity.md",
+    "Cointegration.md",
+    "Skew.md",
     "Sources/Second Leg Down.md",
-    "Dispersion.md",
-    "Money Creation.md",
-    "Money creation in the modern economy.md",
-    "Futures Curves.md",
-    "Vol Surface.md"
+    "Sources/Plays by Federico Lorca.md",
+    "Sources/Midnight's Borders.md",
+    "Sources/Market Tremors.md"
   ]
 }

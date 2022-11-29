@@ -1,7 +1,7 @@
 Type: #Atom 
-References: [[Second Leg Down]] [[delta]] [[vega]]
+References: [[Second Leg Down]] [[delta]] [[vega]] [[Vol Surface]]
 [https://twitter.com/pat_hennessy/status/1583187292276940800?s=21](https://twitter.com/pat_hennessy/status/1583187292276940800?s=21)
-
+[https://twitter.com/bennpeifert/status/1471964060463759362?s=21](https://twitter.com/bennpeifert/status/1471964060463759362?s=21)
 
 Option skew is the difference in implied volatility for varying strikes of calls and puts for the same underlying. The x-axis are strikes (moneyness or delta), and the y-axis are implied volatilities. For most risk assets (e.g. equities), the skew is inverted--implied volatilities are higher for lower strikes than for higher strikes. This reflects the excess demand for puts over calls, which results from investors' desire to hedge naturally long positions. Treasuries may exhbit put skew if investors are worried about inflation or call skew if there's a flight to quality. Commodities like oil may show a more symmetrical smile due to demand for high strikes (e.g. consumers of oil) and for low strikes (e.g. producers of oil).
 
@@ -11,6 +11,24 @@ There are different measures for skew. For example, risk reversal skew tracks th
 
 During risk-off periods, there is typically more demand for puts and hence the skew further inverts (or steepens). A trade which benefits from demand for tail hedges exceeding lower strikes is long-skew. 
 
+*Skew Delta*
+Takes into account how an option's IV slides up and down the skew curve as the underlying moves.
+
+Your change in PnL due to rolling up or down the skew curve. If skew is negative, lower strikes have a higher IV. If you’re short vol (eg sold an ATM straddle) and stock prices rise, your straddle strikes will be ITM (ie lower than the underlying price) and will have a higher IV (due to negative skew curve) and your PnL will be lower all things equal (since you were short vol). The skew delta may even offset the impact of lower overall vol. 
+
+This is related to [[sticky strike]]  
+
+*Commodity Skew*
+source: podcast with former Susquehanna oil vol trader (believe on flirting w. models)
+Oil tends to have producers hedging their exposure while oil products have consumers hedging their exposure. In crude you have put buyers and call sellers (hedgers).
+In heating oil you have call spread Buyers and put sellers.
+During 3/2020, when oil went negative everyone switched to calendar spread models as it accounted for negative and positive differences between front month and next.
+
+She looks for kinks in vol surface; if not due to seasonality, there may be a trade..
+
+  
+
+When oil went negative everyone switched to calendar spread models as it accounted for negative and positive differences between front month and next
 
 **RV trades**
 _Deeply OTM Options (10 delta for example)_
@@ -33,8 +51,7 @@ Skew is currently historically flat. Forward prices are also at an unusually hig
 
 
 
-Sometimes you see call skew with treasury yields.
-
-Even if you have positive average returns, large drawdowns can cause you to decay towards zero. For example +50pct followed by -45pxt will veer towards zero.
-
 May do a short 25delta put vs 2.5 long OTM puts to stay delta neutral
+
+
+

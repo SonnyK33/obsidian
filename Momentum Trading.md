@@ -1,6 +1,6 @@
 Type: #Atom 
 Sources:
-References: [[Stationarity]]
+References: [[Stationarity]] [[Algorthmic Trading]]
 
 -   securities may exhibit momentum after a new piece of information comes out - i.e. the slow diffusion of new information
 -   need to look for evidence of regime change

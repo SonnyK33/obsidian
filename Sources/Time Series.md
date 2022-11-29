@@ -1,8 +1,9 @@
 Type: #source
 Title: Advanced Algorthmic Trading 
 Author: MIchael Halls-Moore
-
+References: [[Algorthmic Trading]]
 [Time Series]
+
 - for quantitative finance, assume time series are results of random variables
 - sequence of random variables is known as a discrete-time stochastic process
 - Time series include:
