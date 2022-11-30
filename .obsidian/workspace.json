@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chip war.md",
+                "file": "Tranches.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chip war.md",
+                "file": "Tranches.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,15 +170,15 @@
   },
   "active": "6ffcc758a504cb4c",
   "lastOpenFiles": [
-    "China - Outline.md",
-    "Oil Price Caps.md",
-    "Oil - Outline.md",
-    "Sources/Commodities Note.md",
+    "Stationarity.md",
+    "Sources/Algorthmic Trading.md",
     "Meta-labeling.md",
-    "Sources/Like a Fading Shadow.md",
-    "Sources/Plays by Federico Lorca.md",
-    "Edge.md",
-    "Variance Risk Premium.md",
-    "VIX.md"
+    "Tranches.md",
+    "VIX.md",
+    "To Read.md",
+    "Shipping.md",
+    "Factor Investing Credit.md",
+    "Thematic Investing.md",
+    "Chip war.md"
   ]
 }

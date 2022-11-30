@@ -17,7 +17,7 @@ JTD
 
  Dispersion
  - higher dispersion leads to wider equity tranches and tighter senior tranches as means worse credits widen and best credits tighten 
- - one step closer oto JTD
+ - one step closer to JTD
 
 Correlation
 - spread of index only reflects spreads (risk) of constituents, not the correlation
@@ -40,4 +40,17 @@ Convexity
 	- hence the tranche becomes riskier to the downside as spreads widen 
 
 Trades
-- senior tranche may give best market to market on spread widening per unit of premium due to convexity (vs equity tranche or index)
+- senior tranche may give best mark to market on spread widening per unit of premium due to convexity (vs equity tranche or index)
+- Short HY 39 Jr Mezz vs Index
+	- expect dispersion to increase
+		- low correlation/high dispersion -> want to be short lower tranches 
+	- higher dispersion w/o JTD would affect Jr mezz more than equity as cash prices are already low and so equity tranche somewhat saturated
+		- long risk equity tranche is now positively convex (delta hedged) as is trading below expected expected losses
+	- outright short is expensive (>900 on HY 33 - Dec'24)
+		- but delta is >3x
+			- subordination is not 15% given losses that've already been experienced (in 15-25 tranche, effective subordination is ~5%)
+				- attachment point now at 5 more defaults x 100 expected losses
+				- don't need the defaults, just the risk of one 
+	- risk is dipersion narrows and weakest names bounce back
+		- currently, the weakest names are being driven by idiosyncratic issues
+			- 
