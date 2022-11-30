@@ -2,6 +2,7 @@ Type: #Atom
 References: [[Time Series]] [[Algorthmic Trading]] [[Momentum Trading]]
 
 
+
  - mean-reversion implies that the change in price series of the next element is proportional to the difference between the current element and the mean
  - mathematical description of stationarity is that the variance of the log of prices increases slower than geometric  random walk, that is, it's sublinear
 	 - sublinear function is $\tau$<sup>2H</sup>  where tau is the time between two measurements and H(urst exponent)<0.5 if it's stationary 
