@@ -5,6 +5,7 @@ References: [[China - Outline]]
 [[india - Outline]]
 [[Venezuela - Outline]]
 [[New Alliances - Outline]]
+[[Oil - Outline]]
 Tags: #GCC #alliances
 
 Oil prices could spike when caps come into effect in early December. 2.3m bbl/d will need to find a new destination and will need vessels that don't need Western insurance to operate.

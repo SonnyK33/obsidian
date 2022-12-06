@@ -2,6 +2,55 @@ Type: #Atom
 References: 
 #convexity 
 
+
+Indices
+- indices give exposure to a portfolio of individual CDS contracts
+- losses on the index = weight of the defaulted credits x LGD on those credits 
+- IG and main indices have 125 members so each name = 0.8%
+- HY CDX has 100 members
+
+Tranches
+- gives exposure to a sub-segment of the index
+- for HY:
+	- equity tranche (0-15%)
+	- Junior Mezz (15%-25%)
+	- Sr Mezz (25-35%)
+	- Senior (35%-100%)
+- currently the HY index has taken a roughly 10.5% hit and so the equity tranche has 4.5% left
+
+
+
+Mark to Market
+- tranche PnL through expiry will be determined by actual defaults and recovery rates
+- MtM though is determined by spread changes on the index (which is a function of individual spreads and correlation) as well as defaults
+	- MtM loss will be bigger on lower tranches (higher delta)
+
+Tranche Cashflows
+- when a credit defaults, its weight * LGD / tranche width = tranche loss
+- e.g. if a HY credit defaults and recovers 20%, loss on equity tranche = 1% x 80% / 15% = 5.33% 
+- tranche notional starts as the width between attachment and detachment points (100 for the index)
+	- each default reduces notional by 1/number of members
+	- coupons are paid on remaning notional 
+
+Delta
+- a measure of tranche's sensitivity to general moves in the index (i.e. all memebrs move by the same amount)
+- if delta is 2.0 on a tranche, its MtM will be 2x that of the index
+	- they are computed by moving the underlying spreads by a small amount  in each direction and calculating how the tranches and index move in response 
+		- the ratio is equal to the delta 
+	- e.g. if spreads widen 1bp, the losses on a 5yr tranche with 2x = 1bp x ~5 duration x 2 delta = 10bps loss 
+- more senior tranches have lower deltas (<1 for senior tranche)
+- for equity like tranches, the delta decreases at maturity increases; opposite for senior tranches
+	- for the equity tranches, longer durations will have spreads so high that the delta will have to come down (relative to earlier maturities)
+		- opposite for senior tranches 
+- if delta hedged, you're hedged against general small moves in index; you're still exposed to:
+	- large moves (convexity or gamma)
+	- moves in individual names (dispersion or iGamma)
+	- supply and demand for specific tranches (changes in implied correlation)
+	- theta (negative carry of time just passing by)
+	- jump to default
+	
+
+
 Theta
 - 1 year theta = 1yr carry + 1yr rolldown 
 - higher risk tranches have more theta (why?)
@@ -33,11 +82,33 @@ Correlation
 			- 90% chance of no hits to the equity tranche so less risk for the equity tranche 
 - high correlation makes senior tranches more risky because if one credit defaults, likely to have more defaults, and hence likelier to hit the senior tranche 
 
+Implied Correlation
+- correlation determines how expected loss is distributed through the tranches
+	- expected loss = spread x duration 
+	- e.g. 2yr expected loss = 2 x 330bps = ~6.6%
+
+
 Convexity
+- long risk in equity tranche (delta hedged) is positively convex because you'll make more on a tightening and lose less in a widening than the delta-adjusted position in the index
+	- so long risk equity + short risk delta adjusted index will be positive MtM for large moves 
+	- PnL looks like a straddle 
+	- still have JtD risk
+- long risk in senior tranches is negatively convex
+	- as spreads widen, the equity tranche quickly exhausts (hence positively convex) but more risk shifts to more senior tranches 
 - short risk senior tranches are positively convex (i.e. owning protection on senior tranche)
 	- at inception, the spread on senior tranche is compensating for risk of rising spreads not JTD (as equity tranche has to absorb those first)
 	- as spreads widen though, an increasing amount of expected losses are expected to be borne by senior tranche (as equity tranche will be exhausted)
 	- hence the tranche becomes riskier to the downside as spreads widen 
+- long/short convexity depends on where the expected losses on the index are
+	- tranches, whose attachment point is above the current expected loss (spread x duration), will be positively convex (for owners/short risk)		
+	- tranches below the attachment point will be positively convex for long risk (sellers)
+- in general, if you're below the expected loss threshold you're equity-like, and if you're long-risk, you are:
+	- positively convex to spread movements
+	- long correlation / short dispersion
+	- long theta
+	- short JTD
+- if you're above the threshold, you're senior like, with the opposite relationships to convexity and correlation 
+- can calculate an implied correlation from tranche pricing - is an analogue to implied vol for options
 
 Trades
 - senior tranche may give best mark to market on spread widening per unit of premium due to convexity (vs equity tranche or index)
