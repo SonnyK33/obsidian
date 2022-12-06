@@ -4,95 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "0180f35668936f8a",
+        "id": "37c5f59faf3ae065",
         "type": "tabs",
         "children": [
           {
-            "id": "03a57230a3326a95",
+            "id": "115715c25159afa9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Thematic Investing.md",
+                "file": "Sources/Central Banking 101 - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b8e053689fdcaae0",
+            "id": "c12af1c07ab9a42f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BOE Money creation - WIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "810e9420b7ee7354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "BOE Money creation - WIP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba181f4a69424111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Market Tremors.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cac730fd65f2dbf7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Like a Fading Shadow.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa12b0fb59492eb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meta-labeling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6ffcc758a504cb4c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tranches.md",
+                "file": "Sources/Central Banking 101 - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tranches.md",
+                "file": "Sources/Central Banking 101 - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,17 +108,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6ffcc758a504cb4c",
+  "active": "c12af1c07ab9a42f",
   "lastOpenFiles": [
-    "Stationarity.md",
-    "Sources/Algorthmic Trading.md",
-    "Meta-labeling.md",
-    "Tranches.md",
-    "VIX.md",
-    "To Read.md",
-    "Shipping.md",
-    "Factor Investing Credit.md",
+    "Molecules/Dollar Hegemony.md",
+    "Molecules/Secularism in post-partition India and Pakistan.md",
+    "Molecules/US support for Dictators.md",
+    "Sources/Central Banking 101 - WIP.md",
+    "Central Bank Operations.md",
+    "Types of Money.md",
+    "Untitled.md",
     "Thematic Investing.md",
-    "Chip war.md"
+    "Tranches.md",
+    "Delta_Hedging.md"
   ]
 }
