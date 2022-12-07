@@ -3,12 +3,17 @@ Tags: #convexity
 References: GS primer
 [[Second Leg Down]]
 
+
+Tranches are subsections of credit indices which allow you to take a view on the number of defaults in a set period, as well as correlations between single names. The lowest tranche - the equity - represents the first 15 defaults for the HY index. As defaults occur, the lowest tranches become impaired first. Taking a short risk position in one of the junior tranches allows you take a view that defaults will occur without picking the names. The equity tranche will underform (on a delta hedged basis) the rest of the tranches as dispersion increases, so tranches also allow you to take a view regarding correlation/dispersion. 
+
+
 TODOs:
 - link w/ delta
 - atom giving gist of tranche
 - molecule comparing to put spreads and capital structure trades
 - link with trade framework - under what scenarios would certain trades work?
 	- link w/ second leg down - what trade to do when vol already high and spreads are wide?
+- compare implied correlation w/ implied correlations from equity index/single name volatilities
 
 Indices
 - indices give exposure to a portfolio of individual CDS contracts
@@ -64,12 +69,13 @@ Theta
 - delta hedged long risk equity tranche typically has positive theta (negative for senior tranches)
 	- so positive theta and positive convexity? only true assuming no defaults
 	- compensation for bearing JTD risk?
+- carry is so high on the equity tranche it offsets the negative index carry even delta adjusted
 	
 JTD
 - delta hedged equity tranche have positive convexity and theta but negative JTD
 - delta hedged senior tranches have negative convexity and negative theta but positive JTD 
 	- make more on the short index leg than lose on the long senior tranche leg (delta doesn't capture big moves)
-- JTD on equity tranche will be less than weight of one credit x loss rate x tranche width
+- JTD on equity tranche will be less than weight of one credit x loss rate x tranche width (bc some priced in already?)
 
  Dispersion
  - higher dispersion leads to wider equity tranches and tighter senior tranches as means worse credits widen and best credits tighten 
