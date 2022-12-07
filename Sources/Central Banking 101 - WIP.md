@@ -26,7 +26,14 @@ Due to the US dollar's status as the de facto global reserve currency, the actio
 
 
 Follow ups -
+[[To Read - Outline]]
+
 1) How do central bank operations differ between the Fed, ECB, BOE, BOJ, BOC, and most EM banks? What are the implications?
+6) Look at MMT -  gets monetary system right but may give too much credit to government officials who need some constraints a on spending.
+7) Why the break down in phillips curve?  Low labour force participation rate? Low interest rates led to more job growth but not spending? 
+
+
+[[To Write - Outline]]
 
 2) what will current actions do to financial markets (inflation, asset prices etc)
 
@@ -34,9 +41,8 @@ Follow ups -
 
 4) are current actions really disinflationary ?
 
-5) Why the break down in phillips curve?  Low labour force participation rate? Low interest rates led to more job growth but not spending? 
 
-6) Look at MMT -  gets monetary system right but may give too much credit to government officials who need some constraints a on spending.
+
 
 
 

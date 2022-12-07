@@ -1,7 +1,14 @@
-Type: #Atom 
-References: 
-#convexity 
+Type: #source 
+Tags: #convexity 
+References: GS primer
+[[Second Leg Down]]
 
+TODOs:
+- link w/ delta
+- atom giving gist of tranche
+- molecule comparing to put spreads and capital structure trades
+- link with trade framework - under what scenarios would certain trades work?
+	- link w/ second leg down - what trade to do when vol already high and spreads are wide?
 
 Indices
 - indices give exposure to a portfolio of individual CDS contracts

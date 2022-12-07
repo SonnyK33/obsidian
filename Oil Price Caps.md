@@ -11,13 +11,17 @@ Tags: #GCC #alliances
 Oil prices could spike when caps come into effect in early December. 2.3m bbl/d will need to find a new destination and will need vessels that don't need Western insurance to operate.
 
 Follow-ups:
+[[To Write - Outline]]
 - GCC countries worried caps could be used against them (why they're supporting Russia)
+- Will this bring India closer with China
+
+[[To Read - Outline]] 
 - Who are the non-Western insurance companies who could insure vessels?
 	- how many of these dark vessels exist?
 	- has Venezuela been using them?
 - how much does it cost to insure a vessel?
 - How much more expensive would oil be without this insurance?
-- Will this bring India closer with China
+- 
 - 
 
 - oil market will get a lot tighter with the EU price cap set to start next week

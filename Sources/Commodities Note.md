@@ -12,12 +12,17 @@ Reference: [[Oil - Outline]] [[Natural Gas - Outline]]
 Tags: #capital_allocation #management_incentives
 
 Follow-ups:
+[[To Read - Outline]]
+	- EM governments (read Geopolitical Alpha)
+
+[[To Write - Outline]]
 Similar framework for predicting capital allocation for other credits:
 	- TMT fiber expansion, consumer discretionary, autos, tech (META spending on metaverse)
-	- EM governments (read Geopolitical Alpha)
+
 Natural gas becoming a global commodity
 	- EU reliance on US, Qatar for LNG
 How is LNG manufacturered and what are global needs?
+[[To do - Outline]]
 Incorporate Au and Ag signals into algo
 
 

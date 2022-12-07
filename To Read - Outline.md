@@ -1,5 +1,7 @@
-[[Home in the World (Amartya Sen)]]
 
+
+**Non Fiction**
+ [[Home in the World (Amartya Sen)]]
 - social choice theory
 	- fiction and non-fiction by [[Tagore]] 
 		- Home and the world
@@ -13,7 +15,30 @@
 	- English works
 		- ['Mentally you are still in Mandalay'] by [Orwell]
 		- [Take up the white man's burden] by [Kipling]
-		 
+
+[[Central Banking 101 - WIP]]
+
+- How do central bank operations differ between the Fed, ECB, BOE, BOJ, BOC, and most EM banks? What are the implications?
+-  Look at MMT -  gets monetary system right but may give too much credit to government officials who need some constraints a on spending.
+-  Why the break down in phillips curve?  Low labour force participation rate? Low interest rates led to more job growth but not spending? 
+
+-[[Commodities Note]]
+- EM governments (read Geopolitical Alpha)
+
+
+[[Oil Price Caps]]
+ Who are the non-Western insurance companies who could insure vessels?
+	- how many of these dark vessels exist?
+	- has Venezuela been using them?
+- how much does it cost to insure a vessel?
+- How much more expensive would oil be without this insurance?
+
+
+
+
+	**Fiction**
+	[[Home in the World (Amartya Sen)]]
+
 	Bengali works - 
 		- Men and Rivers "Nadi O Nari" by [Kabir, Humayun]- about peasants living close to the river
 		- Charyapada - mystical poems written in an ancestor language to Bengali 
