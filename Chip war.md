@@ -4,6 +4,7 @@ References:
 [https://on.ft.com/3VxK8oC](https://protect-us.mimecast.com/s/hxTcCjRN9qUnNB8XuWzTzK)
 https://on.ft.com/3gqHeDq
 [[Japan - Outline]]
+[[Top Traders Podcast GM 29]]
 
 AAPL and TSLA most at risk from new china paradigm
 The cost of aapl chips is higher than what's reflected in prices and they can't pass on prices to consumers in current environment. The main takeaway for chip war is more inflation for everyone and that high tech disinflation narrative is over.

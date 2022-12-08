@@ -1,6 +1,7 @@
 Type: #Atom #source 
 Author: Goehring & Rozencwajg
 Reference: [[Oil - Outline]] [[Natural Gas - Outline]]
+[[Top Traders Podcast GM 29]]
 [[Copper - Outline]]
 [[Gold - Outline]]
 [[Agriculture - Outline]]

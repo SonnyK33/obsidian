@@ -1,6 +1,6 @@
 Type: #Atom 
 References: [[BOE Money creation - WIP]] [[Second Leg Down]] [[Central Banking 101 - WIP]]
-
+[[Quantitative Tightening]] [[Quantitative Easing]]
 
 **How is money created**
 1) In the modern economy money is primarily created by commercial banks who create money by lending it out. When a bank issues a loan, it simultaneously creates a bank deposit for the borrower; this bank deposit is new money in the economy. When the loan is paid off, the reverse happens - the deposit and loan are both eliminated. Many think that it's the other way around - loans are issued from deposits held.
@@ -69,6 +69,3 @@ So the quantity of reserves is a function of banks' willingness to lend (not the
 Below the zero-bound for rates, rate cuts start to lose power, and hence central bank shifted to alternative means of stimulus like QE. Negative rates mean banks should shift from reserves to currency (which pay zero but more than negative). Future changes to the cost of reserves would then have no impact on lending (since banks wouldn't hold any reserves).
   
 
-**QE**
-
-Money is created whenever banks make new loans. Broad money (deposits + currency) can also be created by central banks purchasing treasuries directly from non-banks. The entity will sell treasuries and receive bank deposits. The entity' bank will be credited with new reserves (since the entity doesn't have an account at the Fed) and will also have a new liability (the entity's deposit). The non-bank may then have more cash than it wishes and choose to invest or spend it (the point of QE)

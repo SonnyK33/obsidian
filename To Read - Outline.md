@@ -34,7 +34,12 @@
 - How much more expensive would oil be without this insurance?
 
 
+	[[Top Traders Podcast GM 29]]
+	Book by Engelhart and thodzol comparative politics 
 
+
+[[Founders Podcast - Ed Thorpe]]
+- book - for all markets
 
 	**Fiction**
 	[[Home in the World (Amartya Sen)]]

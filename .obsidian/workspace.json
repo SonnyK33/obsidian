@@ -32,12 +32,36 @@
             }
           },
           {
-            "id": "3a11f63db5e1dbfa",
+            "id": "b22b693246711d66",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Rickshaw Boy.md",
+                "file": "Inflation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "faeabada59df1417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Top Traders Podcast GM 29.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e7399ec08d821395",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Quantitative Tightening.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Rickshaw Boy.md",
+                "file": "Quantitative Tightening.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,17 +156,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3a11f63db5e1dbfa",
+  "active": "e7399ec08d821395",
   "lastOpenFiles": [
-    "India.md",
-    "Sources/Midnight's Borders.md",
-    "Credit Correlation.md",
     "Sources/Tranches -WIP.md",
+    "Founders Podcast - Ed Thorpe.md",
     "To Read - Outline.md",
-    "Sources/How to take smart notes.md",
-    "Sources/Like a Fading Shadow.md",
-    "To do - Outline.md",
-    "Sources/Time Series.md",
-    "Sources/Second Leg Down.md"
+    "To-read.md",
+    "Top Traders Podcast GM 29.md",
+    "Sources/Commodities Note.md",
+    "Chip war.md",
+    "Inflation.md",
+    "US Rates.md",
+    "Augmented Dickey-Fuller.md"
   ]
 }
