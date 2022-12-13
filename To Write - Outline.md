@@ -24,3 +24,6 @@ How is LNG manufacturered and what are global needs?
 
 [[Midnight's Borders]]
 - removing versus creating borders
+
+[[Historicaly - Sylla (CFA Franc)]]
+- work on - [[Currency and Hegemony]]

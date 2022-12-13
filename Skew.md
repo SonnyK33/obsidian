@@ -1,7 +1,10 @@
 Type: #Atom 
-References: [[Second Leg Down]] [[delta]] [[vega]] [[Vol Surface]]
+References: [[Second Leg Down]] [[Delta_Hedging]] [[vega]] [[Vol Surface]]
 [https://twitter.com/pat_hennessy/status/1583187292276940800?s=21](https://twitter.com/pat_hennessy/status/1583187292276940800?s=21)
 [https://twitter.com/bennpeifert/status/1471964060463759362?s=21](https://twitter.com/bennpeifert/status/1471964060463759362?s=21)
+[[Pinning - Trades]]
+
+
 
 Option skew is the difference in implied volatility for varying strikes of calls and puts for the same underlying. The x-axis are strikes (moneyness or delta), and the y-axis are implied volatilities. For most risk assets (e.g. equities), the skew is inverted--implied volatilities are higher for lower strikes than for higher strikes. This reflects the excess demand for puts over calls, which results from investors' desire to hedge naturally long positions. Treasuries may exhbit put skew if investors are worried about inflation or call skew if there's a flight to quality. Commodities like oil may show a more symmetrical smile due to demand for high strikes (e.g. consumers of oil) and for low strikes (e.g. producers of oil).
 
