@@ -21,3 +21,6 @@ How is LNG manufacturered and what are global needs?
 [[Oil Price Caps]]
 - GCC countries worried caps could be used against them (why they're supporting Russia)
 - Will this bring India closer with China
+
+[[Midnight's Borders]]
+- removing versus creating borders

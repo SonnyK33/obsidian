@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vietnam.md",
+                "file": "Sources/Midnight's Borders.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vietnam.md",
+                "file": "Sources/Midnight's Borders.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -170,15 +170,15 @@
   },
   "active": "7a32884cd3bfd819",
   "lastOpenFiles": [
+    "To Write - Outline.md",
+    "Sources/Midnight's Borders.md",
+    "To Read - Outline.md",
+    "To-read.md",
+    "Sources/How to take smart notes.md",
+    "Vietnam.md",
     "China.md",
     "China vs US - Dollar Dominance.md",
-    "Vietnam.md",
     "China - Outline.md",
-    "To Read - Outline.md",
-    "Sources/Commodities Note.md",
-    "Gold - Outline.md",
-    "Quantitative Tightening.md",
-    "Sources/Tranches -WIP.md",
-    "Founders Podcast - Ed Thorpe.md"
+    "Sources/Commodities Note.md"
   ]
 }

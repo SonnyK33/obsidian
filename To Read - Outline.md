@@ -41,6 +41,15 @@
 [[Founders Podcast - Ed Thorpe]]
 - book - for all markets
 
+[[Midnight's Borders]]
+- parition violence - midnight's furies
+- Himalayan blunder by John dalvie a brigadier general
+- India inherited a fabricated border. Lies around the border a major cause of future disputes per historian, Gupta   
+- Kashmir in general
+- Nagaland conflict
+- 
+
+
 	**Fiction**
 	[[Home in the World (Amartya Sen)]]
 
@@ -60,3 +69,6 @@
 
 [[Seven Lives of Pakistan]]
 -  short stories from manto, jinnahs official biographer
+
+[[Midnight's Borders]]
+- midnight's children
