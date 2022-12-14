@@ -24,3 +24,6 @@ from:https://fedguy.com/stock-and-flow/
 	- at some point, higher rates have the opposite impact 
 	- this is the argument made by #Turkey for why not raising rates
 - may mean Fed needs to do more aggressive hikes
+
+[[Labour Actions]]
+Lower labour force participation rates and stronger unions mean a higher rate of natural unemployment. Powell said this himself at the Brookings speech in Noveber.

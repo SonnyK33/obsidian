@@ -34,3 +34,10 @@ How is LNG manufacturered and what are global needs?
 
 [[The Humbling of Xi]]
 - misunderstanding Xi and incorrectly contrasting him with Deng, while ignoring the difference in initial conditions
+
+[[Vanna - WIP]]
+- need a good definition and explanation for how works
+- should be an atom
+
+[[Options - Outline]]
+taylor expansion for option pricing

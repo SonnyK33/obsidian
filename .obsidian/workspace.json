@@ -4,71 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "417f906a0b29e98b",
+        "id": "3b0bdd215cc58de2",
         "type": "tabs",
         "children": [
           {
-            "id": "f6b4ae6d4b5ecde6",
+            "id": "1f8f65e8b126c585",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japan Fighter Jet Program.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "92b2aba765ebba07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The World According to Xi Jinping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9cbac48e165b2dd6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Indian Defense Spending.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "312d1c1fcbcde09a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japan - Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1812f20061223a42",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Central Banking 101 - WIP.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Central Banking 101 - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1812f20061223a42",
+  "active": "1f8f65e8b126c585",
   "lastOpenFiles": [
-    "To Write - Outline.md",
-    "Sources/Central Banking 101 - WIP.md",
-    "Types of Money.md",
-    "Fed Policy.md",
+    "Theta - WIP.md",
+    "Japan Fighter Jet Program.md",
     "The World According to Xi Jinping.md",
-    "China - Outline.md",
-    "The Humbling of Xi.md",
-    "Molecules/Solar Panels.md",
-    "Molecules/Currency and Hegemony.md",
-    "Cruelty of Individualism.md"
+    "Indian Defense Spending.md",
+    "Japan - Outline.md",
+    "Copper - Outline.md",
+    "Inflation.md",
+    "Vanna - WIP.md",
+    "To Read - Outline.md",
+    "To-read.md"
   ]
 }

@@ -54,6 +54,16 @@
 - re-read Ascent of Money
 - a history that captures Burns/Volcker
 
+[[Vanna - WIP]]
+- how are 0DTE calls impacting these vanna flows?
+
+ [[Theta - WIP]]
+ vol roll down - ivol on OTM options will rapidly increase as you get close to maturity (even with no changes to underlying)
+- means that a short option won't decay as quickly as you think (or as fast as theta implies)
+- what risk measure captures this?
+
+
+
 	**Fiction**
 	[[Home in the World (Amartya Sen)]]
 

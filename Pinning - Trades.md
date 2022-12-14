@@ -1,8 +1,15 @@
 Type: #Trades 
 References: [[Skew]] [[Delta_Hedging]]
+[[Vanna - WIP]] [[charm]]
+
+
+
+
 
 12.13.22 Trade:
 Delta hedging a positively convex position has dampening effect on the market. So the "santa rally" will likely be muted this year. 
+- 
+- 
 
 
 **From Delta Hedging**
@@ -18,3 +25,4 @@ Dealers tend to be long gamma but can change to short gamma is there’s a big d
 12.13.22
 Skew is at historically low levels as there is limited demand for downside protection. As the Fed's hawkish policy was telegraphed, the market was expecting a down turn going into 2022. That's now been replaced with an expectation that the Fed will quickly pivot and demand for upside risk. The muted demand for puts means dealers aren't as short puts as they are normally. 
 Investors are usually long puts and short calls, making dealers short puts (negative convexity) and long calls (positive convexity). Going into year-end, dealers are likely less short puts and less long calls. I'm not sure how this balances out, but given market action in Q4, I'm assuming the "less short puts" side is winning out meaning dealers are more positively convex. Delta hedging a positively convex position has dampening effect on the market. So the "santa rally" will likely be muted this year. 
+The flattened skew will lead to lower vanna and charm flows

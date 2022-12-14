@@ -1,7 +1,7 @@
 Author:  Joseph Wang
 Type: #source #book
 References: [[Money Creation]] [[Delta_Hedging]] [[Types of Money]] [[Central Bank Operations]]
-[[Dollar Hegemony]] [[Quantitative Tightening]] [[Quantitative Easing]]
+[[Dollar Hegemony]] [[Quantitative Tightening]] [[Quantitative Easing]] [[Inflation]]
 FX swaps - https://www.bis.org/publ/qtrpdf/r_qt0803z.htm
 Tags: #eurodollar 
 
@@ -39,7 +39,7 @@ Follow ups -
 
 3) what are the limitations and how do they differ by type of country (ie reserve currency, borrows in own currency, currency union, EM who borrows in different currency, etc)
 
-4) are current actions really disinflationary ?
+4) are current actions really disinflationary ? see [[Quantitative Easing]]
 5) how have primary auctions for treasuries changed? Do HF play a bigger role?
 
 

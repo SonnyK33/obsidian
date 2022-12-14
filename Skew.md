@@ -4,7 +4,11 @@ References: [[Second Leg Down]] [[Delta_Hedging]] [[vega]] [[Vol Surface]]
 [https://twitter.com/bennpeifert/status/1471964060463759362?s=21](https://twitter.com/bennpeifert/status/1471964060463759362?s=21)
 [[Pinning - Trades]]
 
-
+**Looking at skew for trades**
+- skew gives you an idea of the distribution of outcomes and what's being priced in - which is key to vol trading
+	- you can't just be long vol all the time, if extreme events are priced in
+	- skew also tells you about dealer positioning and how hedging flows could act with or against you (e.g. flat skew in 2022)
+	- 
 
 Option skew is the difference in implied volatility for varying strikes of calls and puts for the same underlying. The x-axis are strikes (moneyness or delta), and the y-axis are implied volatilities. For most risk assets (e.g. equities), the skew is inverted--implied volatilities are higher for lower strikes than for higher strikes. This reflects the excess demand for puts over calls, which results from investors' desire to hedge naturally long positions. Treasuries may exhbit put skew if investors are worried about inflation or call skew if there's a flight to quality. Commodities like oil may show a more symmetrical smile due to demand for high strikes (e.g. consumers of oil) and for low strikes (e.g. producers of oil).
 
