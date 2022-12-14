@@ -40,6 +40,7 @@ Follow ups -
 3) what are the limitations and how do they differ by type of country (ie reserve currency, borrows in own currency, currency union, EM who borrows in different currency, etc)
 
 4) are current actions really disinflationary ?
+5) how have primary auctions for treasuries changed? Do HF play a bigger role?
 
 
 

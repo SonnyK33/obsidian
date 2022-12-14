@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "47e704157c7ccf3c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vol Surface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "77b95f5eeccb8e4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Term Structure - Trades.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6aae741c952e5184",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The World According to Xi Jinping.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "14123cc4a633c83d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Russia - outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "f6b4ae6d4b5ecde6",
             "type": "leaf",
             "state": {
@@ -78,9 +30,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9cbac48e165b2dd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indian Defense Spending.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "312d1c1fcbcde09a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japan - Outline.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1812f20061223a42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Central Banking 101 - WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -109,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "xi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -139,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The World According to Xi Jinping.md",
+                "file": "Sources/Central Banking 101 - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,17 +144,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "92b2aba765ebba07",
+  "active": "1812f20061223a42",
   "lastOpenFiles": [
-    "China - Outline.md",
     "To Write - Outline.md",
-    "Historicaly - Sylla (CFA Franc).md",
-    "Currency and Hegemony.md",
-    "Molecules/Dollar Hegemony.md",
-    "Historicaly  - Buzgalin.md",
-    "Japan Fighter Jet Program.md",
-    "KalmanFilter.md",
-    "Japan Monetary Policy.md",
-    "Augmented Dickey-Fuller.md"
+    "Sources/Central Banking 101 - WIP.md",
+    "Types of Money.md",
+    "Fed Policy.md",
+    "The World According to Xi Jinping.md",
+    "China - Outline.md",
+    "The Humbling of Xi.md",
+    "Molecules/Solar Panels.md",
+    "Molecules/Currency and Hegemony.md",
+    "Cruelty of Individualism.md"
   ]
 }

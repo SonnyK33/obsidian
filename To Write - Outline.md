@@ -8,6 +8,7 @@ Reminds me of the Washington naval treaties in the 1930s that sought to freeze j
 3) what are the limitations and how do they differ by type of country (ie reserve currency, borrows in own currency, currency union, EM who borrows in different currency, etc)
 
 4) are current actions really disinflationary ?
+5) how have primary auctions for treasuries changed? Do HF play a bigger role?
 
 [[Commodities Note]]
 Similar framework for predicting capital allocation for other credits:
@@ -27,3 +28,9 @@ How is LNG manufacturered and what are global needs?
 
 [[Historicaly - Sylla (CFA Franc)]]
 - work on - [[Currency and Hegemony]]
+
+[[Solar Panels]]
+- who benefits from many countries switching to solar panels?
+
+[[The Humbling of Xi]]
+- misunderstanding Xi and incorrectly contrasting him with Deng, while ignoring the difference in initial conditions

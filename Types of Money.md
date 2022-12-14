@@ -31,3 +31,5 @@ Who holds reserves -
 
 
 iv) Treasuries - issued by the treasury and convertible to deposits via repo transactions
+- do primary dealers play as an important of a role in auctions as they did in the past
+- how much liquidity now comes from HF and HFT firms?
