@@ -30,6 +30,7 @@ Option trades not just till they expire - should continuously monitor for decayi
 
 **Greeks**
 [[Theta - WIP]]
+[[Vanna - WIP]]
 The Greeks are just PnL attribution they don't explain why you made money, but how you made money.
 
 At end of trade pnl is Vega x difference in IV and realized vol so units of vega a good way to track a trade 

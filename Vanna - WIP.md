@@ -14,6 +14,7 @@ Flirting w models podcast; Cem Karsan ; S4E1
 
 [[To Read - Outline]]
 - how are 0DTE calls impacting these vanna flows?
+- how to reconcile charm vs vanna flows when the option is OTM and close to maturity (higher vol is pushing the delta higher, but as time to maturity shrinks, the delta on the OTM option is rapidly declining)?
 
 
 Gamma, charm, and vanna - are all about reflexivity in the market. They reflect how dealers will have to hedge their positions.
