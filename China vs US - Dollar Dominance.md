@@ -1,6 +1,7 @@
 Type: #Atom
 Topics: #China 
 References: [[Top Traders Podcast GM 23]] [[Monetary Tightening - 2022]] 
+[[China - Outline]] [[Gold - Outline]]
 
 
  China wants to displace the dollar for Asian trade
@@ -16,3 +17,12 @@ References: [[Top Traders Podcast GM 23]] [[Monetary Tightening - 2022]]
 
 - Moving towards Breton woods 1 where trade flows only went to Allies -
 - Friend shoring - as outlined by yellen, blinken, and freeland
+
+**Gold**
+- China may be acquiring large amounts of gold which it could offer to holders of CGBs who wanted to redeem them for hard currency
+	- a remedy against possible confiscaiton of USD and EUR by the Fed/ECB
+- Gavekal (12.19.21) estimating they have 12k tons of gold (vs the official 2k)
+- wants to get to 20% of total M1; at the above rate, they're half way there
+- China wants regional central banks to accept CGB's as a store of value - the gold reserves allow them to do that
+	- currently the worry that all foreign USD and EUR reserves could be confiscated is hanging over CGB's
+- fits with broader theme of countries paying for energy imports in their own currrency (India and China from Russia for oil and gas respectively)

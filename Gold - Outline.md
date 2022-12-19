@@ -1,5 +1,11 @@
 Type: #Outline #Trades 
 References: [[Commodities Note]]
+[[Dollar Hegemony]] [[China vs US - Dollar Dominance]]
+Gavekal 12.19.22 - A Backstop For CGB Investors
+
+As part of China's goal to de-dollarize the world
+[[China vs US - Dollar Dominance]]
+
 
 Buy/sell signals and central bank actions -
 [[Commodities Note]]

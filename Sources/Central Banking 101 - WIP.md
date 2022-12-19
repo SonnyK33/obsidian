@@ -111,7 +111,7 @@ Offshore banks may not have access to fed discount window. If there’s a run on
 
 
 **5) Interest Rates**
-
+RRP - [[Reverse Repo]]
 The Fed controls the short end of the rate curve through the fed funds rate which is the rate at which banks can borrow reserves on an unsecured basis. Before the GFC, they Fed set this rate by manipulating the amount of reserves in the banking sector such that the rate paid by banks fell into the set range. During the crisis though, reserves went from $20bn to a few trillion and so it couldn’t control the rate through the quantity of reserves. At the time the focus was more to dramatically increase the level of lending. Post crisis, it controls the fed rate by 1) the reverse repo rate (RRP) which is the rate they pay for overnight lending and 2) the interest they pay on reserves. 
 
 The RRP is the rate at which banks (as well as money market funds and other participants) can lend to the fed risk free. They’ll only lend to the private sector above this level so it sets a floor on the overnight rate.  
