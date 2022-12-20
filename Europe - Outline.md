@@ -1,0 +1,18 @@
+Type: #Outline 
+References: [[Chip war]]
+[[Quantitative Tightening]]
+
+**Natural Gas**
+GS - note (Natural Gas: A lower TTF cap means a higher risk of market disruption) - 12.20.22
+- a lower price cap increases the risk of market disruption and will lead to more destruction of industrial capacity
+
+**Chips**
+[[Chip war]]
+
+**Fiscal Spending**
+Caps on natural gas prices plus the push for more advanced chip manufacturing in Germany mean more fiscal spending. That, in addition with quantitative tightening, means much higher Eurozone yields.
+
+
+
+#Trades 
+- short Bunds and BTPs on back of higher fiscal spending + QT

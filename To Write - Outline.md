@@ -41,3 +41,8 @@ How is LNG manufacturered and what are global needs?
 
 [[Options - Outline]]
 taylor expansion for option pricing
+
+[[Japan Monetary Policy]]
+- molecule on broader lesson re: on global vol supresson
+- low JPY vs other policy rates -> more expensive hedging -> should require higher global yields
+- stronger forward JPY -> lowers hedging costs -> would allow for lower global yields 

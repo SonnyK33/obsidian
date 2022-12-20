@@ -3,21 +3,33 @@ Topics #Central_banks
 References: [[Top Traders Podcast GM 23]] [[Zervos and Ferguson]]
 Fedguy - https://fedguy.com/stock-and-flow/
 [[Money Creation]] [[Quantitative Tightening]]
-[[Labour Actions]]
+[[Labour Actions]] [[Reverse Repo Facility]]
 https://twitter.com/MacroAlf/status/1603409716339740672
 https://www.ft.com/content/acbd0a17-762e-4551-b87c-24d101c80195
+Macro compass note - 12.18.22 ("Pay Attention")
+
 Powell will likely be forced to pivot next year. See [[Zervos and Ferguson]]. The balance sheet reduction that the Fed is guiding towards (~3 tr) could cause an impact worth several hundred bps of tightening (see: [[Top Traders Podcast GM 23]]). Unlikely that Fed will go through with that. 
 
 In 12/14's press conference and FOMC release, Powell made it clear that he won't be cutting rates anytime soon and needs to see meaningful reduction in inflation. The main sticking point is in non-housing service inflation which is being driven by a tight labour market.
 See [[Labour Actions]]. The dot plot is now showing a terminal rate about 5% for the duration of 2023, above the September dots even though the last CPI print showed inflation was subsiding. A 5% terminal rate for all of 2023 would likely send the economy into a deep recession. They're projecting inflation in the mid-3's next year and unemployment in the mid-4's. Unemployment likely needs to go much higher. The market is betting that he will be forced to abandon these targets and is still pricing in cuts next year. The 2y rate is still 4.3%; well below where it needs to be with a 5% fed funds rate.
 
-The ECB announced a 50 bp cut on 12/14. They're projecting inflation of 4.2% next year but only a 3% terminal rate next year. So unlike the Fed, the ECB is likely not begin aggressive enough in their projections for next year. Alf at Macro Compass (https://twitter.com/MacroAlf/status/1603409716339740672) argues that 50-100bps real rate is needed to bring down inflation, implying a deposit rate in the mid-4's at least. The Fed may need to pivot from its forecasts and the ECB may have to ramp up. The market is expecting the Fed to blink but is only forecasting a 3.25% terminal rate for the ECB. 
+The ECB announced a 50 bp cut on 12/14. They're projecting inflation of 4.2% next year but only a 3% terminal rate next year. So unlike the Fed, the ECB is likely not begin aggressive enough in their projections for next year. Alf at Macro Compass (https://twitter.com/MacroAlf/status/1603409716339740672) argues that 50-100bps real rate is needed to bring down inflation, implying a deposit rate in the mid-4's at least. The Fed may need to pivot from its forecasts and the ECB may have to ramp up. The market is expecting the Fed to blink but is only forecasting a 3.25% terminal rate for the ECB. The ECBs own inflation projections will require deposit rates above 5pct. Unlike the US, some of the Covid fiscal support hasn’t even come yet, as some will be realized in budgets in 23-24.That plus a more rigid labour market makes more restrictive monetary policy necessary compared to the US.
 
 The ECB is also reducing bond purchases by $200bn next year. This is happening while governments are increasing fiscal spending to soften the blow from inflation. The net result is a lot more Eurozone debt for sale to private investors. Estimates are from 500-600bn versus 200bn this year. This will drive all European bond yields higher, especially those in the periphery. Italy may be most at risk with high debt levels - 150% of GDP.
 
+QT in Europe is  happening without a reverse repo facility (which, in the US, could be a source of excess liquidity and help to keep reserves in the banking sector at a healthy level). See: [[Reverse Repo Facility]]. As Fedguy points out, the RRP is not serving as a source of liquidity in the US, as MMFs would rather lend to the Fed's O/N RRP rate, which is higher than short-term treasury yields.  Most likely outcome is QT is dialed down. 
+
+Banks also being encouraged to repay TLTRO Covid loans which will shrink ECB balance sheet further. 
+
+QT will lower bank reserves.
+
+The declining liquidity will make banks less willing to hold peripheral government debt. So lower reserves means higher credit spreads.
+
+
+
 #Trades 
 US: SPX puts (recession likely)
-EU: equity puts + short Bunds (flatter curve) + short BTPS
+EU: equity puts + short Bunds (flatter curve) + short BTPS, short EU HY
 European bond ETFs - VETA LN, IBCI GY
 
 from [[Top Traders GM 23]]

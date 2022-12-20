@@ -1,5 +1,10 @@
 References: [[Japan Fighter Jet Program]]]
 
+
+Monetary Policy:
+[[Japan Monetary Policy]]
+
+
 Military strategy:
 [[Japan Fighter Jet Program]]]
 

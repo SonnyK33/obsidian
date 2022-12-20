@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Reverse Repo.md",
+                "file": "Japan Monetary Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "672a31dd394c12fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reverse Repo Facility.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +43,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -89,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reverse Repo.md",
+                "file": "Reverse Repo Facility.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f8f65e8b126c585",
+  "active": "672a31dd394c12fc",
   "lastOpenFiles": [
+    "Molecules/Monetary Tightening - 2022.md",
     "Sources/Central Banking 101 - WIP.md",
+    "Central Bank Operations.md",
+    "Reverse Repo Facility.md",
     "Quantitative Tightening.md",
-    "Gold - Outline.md",
-    "China vs US - Dollar Dominance.md",
+    "Europe - Outline.md",
+    "Chip war.md",
     "China - Outline.md",
-    "Molecules/Dollar Hegemony.md",
-    "Molecules/Currency and Hegemony.md",
-    "Sources/Commodities Note.md",
-    "9.22.22.md",
-    "Molecules/Monetary Tightening - 2022.md"
+    "Japan Monetary Policy.md",
+    "To Write - Outline.md"
   ]
 }
