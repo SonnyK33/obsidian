@@ -10,3 +10,7 @@ Type: #Outline
 **Peru**
 [[Peru]]
 [[Copper - Outline]]
+
+**Brazil**
+#Trades 
+- combination of strong commodity prices and a less hawkish monetary policy should be good for Brazilian assets, despite left-leaning government
