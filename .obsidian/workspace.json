@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "361162b4e432281f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vanna - WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eb05d86c90497799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Squeezemetrics - Order Book.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "c4eb2e3dbbbd16da",
             "type": "leaf",
             "state": {
@@ -68,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -126,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/Edge.md",
+                "file": "Squeezemetrics - Order Book.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +177,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bfaf412b9dbed2d6",
+  "active": "eb05d86c90497799",
   "lastOpenFiles": [
-    "2023 Trades.md",
-    "Molecules/Edge.md",
-    "Molecules/Monetary Tightening - 2022.md",
-    "Molecules/Currency and Hegemony.md",
-    "Latam - Outline.md",
-    "Sources/Central Banking 101 - WIP.md",
-    "Central Bank Operations.md",
-    "Reverse Repo Facility.md",
-    "Quantitative Tightening.md",
-    "Europe - Outline.md"
+    "Vanna - WIP.md",
+    "Options - Outline.md",
+    "Molecules/Solar Panels.md",
+    "To Read - Outline.md",
+    "To Write - Outline.md",
+    "Indian Defense Spending.md",
+    "india - Outline.md",
+    "India.md",
+    "Sources/Commodities Note.md",
+    "Gold - Outline.md"
   ]
 }

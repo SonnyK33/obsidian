@@ -62,17 +62,22 @@
 - means that a short option won't decay as quickly as you think (or as fast as theta implies)
 - what risk measure captures this?
 
+[[Gold - Outline]]
+- What led the US to ban private ownership of gold in the past?
+
+[[Solar Panels]]
+- why do polysilicon manufacturers need to sell to chip makers to be competitive?
 
 
-	**Fiction**
-	[[Home in the World (Amartya Sen)]]
+**Fiction**
+[[Home in the World (Amartya Sen)]]
 
-	Bengali works - 
+Bengali works - 
 		- Men and Rivers "Nadi O Nari" by [Kabir, Humayun]- about peasants living close to the river
 		- Charyapada - mystical poems written in an ancestor language to Bengali 
 		- Nazrul Islam - :Are they Hindus or Muslims? Who ask this question, I say. Tell him, my Captain, the children of the motherland are drowning today’
 		
-	- Other -
+- Other -
 		- Bhaskara - Mathematician from 10th century
 		- Aryabhatiya ancient math text from 510 CE
 		- Bijak of Kabir - 15th century mystic poet who was a critic of organized religion 
