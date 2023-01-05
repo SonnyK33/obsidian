@@ -23,3 +23,6 @@ e.g. SBUX unioniziation
 	- the poor with no financial assets and public sector wages may be okay
 - in Turkey, landlords who have rent control and corporations seeking foreign investment have been the losers
 	- may not matter, depending who's in power 
+
+**Central Bank targets**
+Many banks adopted a 2% target as was low enough such that it wouldn't impact households' decisions but wasn't too low that central banks would lose levers to loosen policy. Zero inflation would push rates close to zero. In that scenario, banks would have to adopt heterdox policies (like negative rates) to stimulate the economy.

@@ -91,3 +91,10 @@ Bengali works -
 
 [[Midnight's Borders]]
 - midnight's children
+
+[[Ukraine-Outline]]
+what are other minority groups in Ukraine?
+- new book - A Kidnapped West by Milan Kundera - about small countries in the EU
+
+[[Dollar Hegemony]]
+What caused runs on foregin  banks during covid?

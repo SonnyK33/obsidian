@@ -1,7 +1,7 @@
 Type: #source #speaker
 References: [[China - Outline]] 
 [[The Age of Inflation]] [[Monetary Tightening - 2022]]
-
+[[Ukraine-Outline]]
 [[To Read - Outline]]
 - re-read Rogoff - this time is different
 - re-read Ascent of Money

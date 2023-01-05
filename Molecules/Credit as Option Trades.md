@@ -10,6 +10,7 @@ For a very short term option theta is very high, and it decays rapidity into mat
 At first glance, delta and gamma are similar to duration and convexity. However, while long maturity bonds have more convexity,  long term options have less gamma. That’s because in the Merton model, the underlying isn’t interest rates but the issuer's asset value. If you think of spread as a measure of volatility of the underlying asset, the analogy works. Longer dated options have more Vega. For a bond, higher vol equates to higher yield and will lower the bond price by more than a short dated bond. So bond duration is captured by vega not delta. Convexity would be captured by Volga (the second partial with respect to volatility) 
 
 Check if Volga higher for longer dates options ?
+Maybe duration should be thought of like delta. But a given deterioration of business will raise yields more than an improvement will lower yields. So in that way owning the bond (short the put) is negative convexity/gamma.
 
 
 
