@@ -5,6 +5,8 @@ WILT
 
 Narrative
 
+1 goal
+
 
 **Predictions**
 
@@ -17,7 +19,7 @@ Trade Review
 []
 
 
-1 goal
+
 
 
 Macro

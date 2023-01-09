@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Read - Outline.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abb1853370d477b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 1.9.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "To Read - Outline.md",
+                "file": "WIL/WILT - 1.9.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +153,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fe5707289bc1f439",
+  "active": "abb1853370d477b3",
   "lastOpenFiles": [
-    "Macrohive Podcast - Robert Carver.md",
+    "WIL/WILW - 1.6.23.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 1.9.23.md",
     "To Read - Outline.md",
+    "Macrohive Podcast - Robert Carver.md",
     "Momentum Trading.md",
     "Sources/Algorthmic Trading.md",
     "Gold - Outline.md",
     "China vs US - Dollar Dominance.md",
-    "Italy - Outline.md",
-    "Europe - Outline.md",
-    "Molecules/Monetary Tightening - 2022.md",
-    "China - Outline.md"
+    "Italy - Outline.md"
   ]
 }
