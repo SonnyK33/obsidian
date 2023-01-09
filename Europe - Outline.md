@@ -1,6 +1,7 @@
 Type: #Outline 
 References: [[Chip war]]
 [[Quantitative Tightening]]
+[[Monetary Tightening - 2022]]
 [[Ukraine-Outline]]
 **Natural Gas**
 GS - note (Natural Gas: A lower TTF cap means a higher risk of market disruption) - 12.20.22
@@ -16,3 +17,6 @@ Caps on natural gas prices plus the push for more advanced chip manufacturing in
 
 #Trades 
 - short Bunds and BTPs on back of higher fiscal spending + QT
+
+**Italy**
+[[Italy - Outline]]

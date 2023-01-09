@@ -69,6 +69,12 @@
 - why do polysilicon manufacturers need to sell to chip makers to be competitive?
 
 
+[[Macrohive Podcast - Robert Carver]]
+Systematic Trading 
+
+
+
+
 **Fiction**
 [[Home in the World (Amartya Sen)]]
 

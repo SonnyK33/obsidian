@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILW - 1.6.23.md",
+                "file": "Momentum Trading.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe5707289bc1f439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Read - Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "algo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 1.6.23.md",
+                "file": "To Read - Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +141,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9a84cf9893f57ebe",
+  "active": "fe5707289bc1f439",
   "lastOpenFiles": [
-    "WIL/WILT - 1.6.23.md",
-    "WIL/WILW - 1.6.23.md",
-    "WIL/WILT - 1.5.23.md",
-    "WIL/WILT - 1.4.23.md",
-    "WIL/WILT - Template.md",
-    "WIL/WILT - 1.3.23.md",
-    "Molecules/Monetary Tightening - 2022.md",
+    "Macrohive Podcast - Robert Carver.md",
+    "To Read - Outline.md",
+    "Momentum Trading.md",
+    "Sources/Algorthmic Trading.md",
+    "Gold - Outline.md",
+    "China vs US - Dollar Dominance.md",
+    "Italy - Outline.md",
     "Europe - Outline.md",
-    "US involvement in China pre-WW2.md",
-    "To Read - Outline.md"
+    "Molecules/Monetary Tightening - 2022.md",
+    "China - Outline.md"
   ]
 }

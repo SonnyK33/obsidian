@@ -7,6 +7,8 @@ Fedguy - https://fedguy.com/stock-and-flow/
 https://twitter.com/MacroAlf/status/1603409716339740672
 https://www.ft.com/content/acbd0a17-762e-4551-b87c-24d101c80195
 Macro compass note - 12.18.22 ("Pay Attention")
+[[Europe - Outline]]
+[[Poland]]
 
 Powell will likely be forced to pivot next year. See [[Zervos and Ferguson]]. The balance sheet reduction that the Fed is guiding towards (~3 tr) could cause an impact worth several hundred bps of tightening (see: [[Top Traders Podcast GM 23]]). Unlikely that Fed will go through with that. 
 
@@ -15,7 +17,11 @@ See [[Labour Actions]]. The dot plot is now showing a terminal rate about 5% for
 
 The ECB announced a 50 bp cut on 12/14. They're projecting inflation of 4.2% next year but only a 3% terminal rate next year. So unlike the Fed, the ECB is likely not begin aggressive enough in their projections for next year. Alf at Macro Compass (https://twitter.com/MacroAlf/status/1603409716339740672) argues that 50-100bps real rate is needed to bring down inflation, implying a deposit rate in the mid-4's at least. The Fed may need to pivot from its forecasts and the ECB may have to ramp up. The market is expecting the Fed to blink but is only forecasting a 3.25% terminal rate for the ECB. The ECBs own inflation projections will require deposit rates above 5pct. Unlike the US, some of the Covid fiscal support hasn’t even come yet, as some will be realized in budgets in 23-24.That plus a more rigid labour market makes more restrictive monetary policy necessary compared to the US.
 
-The ECB is also reducing bond purchases by $200bn next year. This is happening while governments are increasing fiscal spending to soften the blow from inflation. The net result is a lot more Eurozone debt for sale to private investors. Estimates are from 500-600bn versus 200bn this year. This will drive all European bond yields higher, especially those in the periphery. Italy may be most at risk with high debt levels - 150% of GDP.
+The ECB is also reducing bond purchases by $200bn next year. This is happening while governments are increasing fiscal spending to soften the blow from inflation. The net result is a lot more Eurozone debt for sale to private investors. Estimates are from 500-600bn versus 200bn this year. This will drive all European bond yields higher, especially those in the periphery. Italy may be most at risk with high debt levels - 150% of GDP. 
+
+
+
+Falling inflation in the EU is almost entirely due to lower energy prices which is due to a warmer than expected winter and govt subsidies which have offset some of the costs. These subsidies are not sustainable. Poland has some of the highest subsidies.
 
 QT in Europe is  happening without a reverse repo facility (which, in the US, could be a source of excess liquidity and help to keep reserves in the banking sector at a healthy level). See: [[Reverse Repo Facility]]. As Fedguy points out, the RRP is not serving as a source of liquidity in the US, as MMFs would rather lend to the Fed's O/N RRP rate, which is higher than short-term treasury yields.  Most likely outcome is QT is dialed down. 
 

@@ -3,6 +3,7 @@ References: [[Commodities Note]]
 [[Dollar Hegemony]] [[China vs US - Dollar Dominance]]
 Gavekal 12.19.22 - A Backstop For CGB Investors
 [[Crescat Capital letter - 12.17.22]]
+[https://on.ft.com/3VwSo82](https://on.ft.com/3VwSo82)
 
 [[To Read - Outline]]
 What led the US to ban private ownership of gold in the past?
@@ -26,7 +27,7 @@ Buy/sell signals and central bank actions -
 [[Commodities Note]]
 Also, from Grants 11.11.22:
 
-The Dutch central bank marking to market their gold reserves (currently marked at $35/oz). Many others may do that to make up for all of the losses on their bond portfolios. Other central banks may be buying gold to make up for similar losses.
+The Dutch central bank marking to market their gold reserves (currently marked at $35/oz). Many others may do that to make up for all of the losses on their bond portfolios. Other central banks may be buying gold to make up for similar losses. Gold buyers are binging on biggest volumes for 55 years (FT - 12.29.22)
 
 
 
