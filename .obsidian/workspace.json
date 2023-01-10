@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILW - 1.6.23.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52d3873f11fc4166",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2023 Trades.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -97,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "algo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 1.6.23.md",
+                "file": "2023 Trades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +165,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "abb1853370d477b3",
+  "active": "52d3873f11fc4166",
   "lastOpenFiles": [
-    "WIL/WILT - 1.9.23.md",
-    "WIL/WILW - 1.6.23.md",
+    "Molecules/Edge.md",
+    "WIL/WILT - 1.10.23.md",
+    "Repo - Outline.md",
+    "Reverse Repo Facility.md",
+    "Central Bank Operations.md",
+    "Sources/Central Banking 101 - WIP.md",
+    "Quantitative Tightening.md",
+    "Money Creation.md",
     "WIL/WILT - Template.md",
-    "To Read - Outline.md",
-    "Macrohive Podcast - Robert Carver.md",
-    "Momentum Trading.md",
-    "Sources/Algorthmic Trading.md",
-    "Gold - Outline.md",
-    "China vs US - Dollar Dominance.md",
-    "Italy - Outline.md"
+    "WIL/WILW - 1.6.23.md"
   ]
 }

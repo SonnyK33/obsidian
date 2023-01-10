@@ -14,3 +14,19 @@ References: [[Edge]]
 	- structurally sticky inflation
 		- getting close to mainstream
 		- not priced in 1yr gold skew (which has flattened since 2021)
+
+**Financing Costs/Credit**
+Calculate your breakeven on a bond. That is, what spread widening would offset net carry (yield less financing cost). How does that widening compare to Oct/Nov wides?
+
+By that metric, CCC's look okay.
+Net carry = YTW (13.3%) - repo (4.5%) = ~9%
+OAD is 3.3 years, so would need a 300 bps widening to lose 9 pts.
+300 bps widening = 1240 bps vs 2022 wides of 1170
+
+Compare that to HYG.
+Net carry = 8% - 4.5% = 3.5%
+Duratio is 4.3 years, so need 75 bps of widening to lose 3 pts. 
+75 bps widening = 500 spread vs October wides of 520
+
+HYG is 50% BB, 40% single-B
+
