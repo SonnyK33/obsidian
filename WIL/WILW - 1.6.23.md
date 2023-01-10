@@ -15,13 +15,6 @@ The inverted yield curve has killed the carry trade. If you want to be long IG b
 Non-distressed HY is also looking very asymmetrical. Owning a performing 10% yield bond (CYH or FYBR 1st liens for instance) is now only paying 5% if being financed. So hurdle rates have increased since 2021 and net carry has decreased. Cutting risk is the only sensible outcome. CLOs will also be cutting their exposure to HY loans as they are close to hitting trigger points for maximum CCC and HY limits. Overall, there's much less money for risky assets. 
 
 
-Predictions:
-S&P
-Gold
-Oil
-30y
-EEM
-
 On my radar - 
 
 1) Healthcare 
