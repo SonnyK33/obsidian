@@ -8,79 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c4eb2e3dbbbd16da",
+            "id": "5b1330359707a4f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Central Bank Operations.md",
+                "file": "Top Traders Vol 06 - Ben Eifert.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4913a1b2c3e8cde7",
+            "id": "787ed5ab0e06e29e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Read - Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9a84cf9893f57ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Momentum Trading.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fe5707289bc1f439",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "abb1853370d477b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52d3873f11fc4166",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2023 Trades.md",
+                "file": "Forward Guidance - DC Analyst.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5
   },
   "right": {
     "id": "1e08b239b526fc40",
@@ -138,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Trades.md",
+                "file": "Forward Guidance - DC Analyst.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "52d3873f11fc4166",
+  "active": "787ed5ab0e06e29e",
   "lastOpenFiles": [
-    "Molecules/Edge.md",
-    "WIL/WILT - 1.10.23.md",
+    "Central Bank Operations.md",
     "Repo - Outline.md",
     "Reverse Repo Facility.md",
-    "Central Bank Operations.md",
-    "Sources/Central Banking 101 - WIP.md",
-    "Quantitative Tightening.md",
-    "Money Creation.md",
-    "WIL/WILT - Template.md",
-    "WIL/WILW - 1.6.23.md"
+    "Forward Guidance - DC Analyst.md",
+    "Top Traders Vol 06 - Ben Eifert.md",
+    "Credit Correlation.md",
+    "Skew.md",
+    "Forward Guidance - Felix Jauvin.md",
+    "China - Outline.md",
+    "WIL/WILT - Template.md"
   ]
 }

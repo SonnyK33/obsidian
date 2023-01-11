@@ -20,3 +20,7 @@ Caps on natural gas prices plus the push for more advanced chip manufacturing in
 
 **Italy**
 [[Italy - Outline]]
+
+
+**France**
+Macron is trying to raise the retirement age due to shifting demographics (less working people). Pensions use up a larger portion of GDP than the EU average.

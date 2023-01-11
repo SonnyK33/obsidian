@@ -20,3 +20,6 @@ Steps being taken by China to displace the dollar
 
 China reopening
 May be at peak infections in China but deaths normally peak 2 wks after so haven’t seen peak hospitalizations yet (as of 1.5.23)
+
+**Industrial policy**
+China will make it easier for companies in hard sciences to list and harder for others (e.g fashion, consumer electronics). Companies must support national objective not just earn profits.
