@@ -4,6 +4,7 @@ References: [[Top Traders Podcast GM 23]] [[Zervos and Ferguson]]
 Fedguy - https://fedguy.com/stock-and-flow/
 [[Money Creation]] [[Quantitative Tightening]]
 [[Labour Actions]] [[Reverse Repo Facility]]
+[[Central Bank Operations]]
 https://twitter.com/MacroAlf/status/1603409716339740672
 https://www.ft.com/content/acbd0a17-762e-4551-b87c-24d101c80195
 Macro compass note - 12.18.22 ("Pay Attention")

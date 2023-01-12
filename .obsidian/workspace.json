@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 1.11.23.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "81a041c18f8880a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 1.12.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 1.11.23.md",
+                "file": "WIL/WILT - 1.12.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +141,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9094b357ced13901",
+  "active": "81a041c18f8880a1",
   "lastOpenFiles": [
+    "Central Bank Operations.md",
+    "Molecules/Monetary Tightening - 2022.md",
+    "WIL/WILT - 1.12.23.md",
     "WIL/WILT - Template.md",
+    "WIL/WILT - 1.11.23.md",
     "WIL/WILT - 1.10.23.md",
     "Forward Guidance - DC Analyst.md",
-    "Central Bank Operations.md",
     "Repo - Outline.md",
     "Reverse Repo Facility.md",
-    "Top Traders Vol 06 - Ben Eifert.md",
-    "Credit Correlation.md",
-    "Skew.md",
-    "Forward Guidance - Felix Jauvin.md"
+    "Top Traders Vol 06 - Ben Eifert.md"
   ]
 }
