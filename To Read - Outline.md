@@ -72,7 +72,8 @@
 [[Macrohive Podcast - Robert Carver]]
 Systematic Trading 
 
-
+[[Zoltan - War and Currency Statecraft]]
+https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0AEF98D2F232072409E9556620AE09B0/9781009014625AR.pdf/can-brics-de-dollarize-the-global-financial-system.pdf
 
 
 **Fiction**

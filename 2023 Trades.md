@@ -30,3 +30,10 @@ Duratio is 4.3 years, so need 75 bps of widening to lose 3 pts.
 
 HYG is 50% BB, 40% single-B
 
+**2023 Bets**
+1) Will the Fed cut rates in 2023?
+2) Will the ECB continue tightening?
+3) Will Italian government stick to fiscal plan?
+4) Will the BoJ abandon YCC?
+5) Will Egypt comply with the IMF program?
+6) Will Argentenians re-elect current government?

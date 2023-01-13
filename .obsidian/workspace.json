@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "3b0bdd215cc58de2",
+        "id": "b4ac76eeae12d8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "5b1330359707a4f3",
+            "id": "0d3d9a189c0938e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Top Traders Vol 06 - Ben Eifert.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "787ed5ab0e06e29e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9094b357ced13901",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "81a041c18f8880a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILW - 1.6.23.md",
+                "file": "WIL/WILW - 1.13.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 1.6.23.md",
+                "file": "WIL/WILW - 1.13.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "81a041c18f8880a1",
+  "active": "0d3d9a189c0938e0",
   "lastOpenFiles": [
+    "WIL/WILT - 1.13.23.md",
+    "WIL/WILW - 1.13.23.md",
     "WIL/WILT - 1.12.23.md",
-    "Central Bank Operations.md",
-    "Molecules/Monetary Tightening - 2022.md",
-    "WIL/WILT - Template.md",
     "WIL/WILT - 1.11.23.md",
     "WIL/WILT - 1.10.23.md",
-    "Forward Guidance - DC Analyst.md",
-    "Repo - Outline.md",
-    "Reverse Repo Facility.md",
-    "Top Traders Vol 06 - Ben Eifert.md"
+    "WIL/WILT - 1.9.23.md",
+    "WIL/WILW - Template.md",
+    "2023 Trades.md",
+    "Molecules/Edge.md",
+    "Zoltan - War and Currency Statecraft.md"
   ]
 }

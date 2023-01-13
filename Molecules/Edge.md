@@ -23,3 +23,13 @@ Questions to Ask:
 	- DM vs EM 
 	- high beta vs low beta credits
 
+
+Try to distill trades into a series of bets. What are you betting on? What is the best way to put that risk on? See [[2023 Trades]] for current bets.
+
+
+
+Fundamentals matter most at the extremes. When an asset is too cheap/expensive to ignore. Too expensive only matters for credit, as equities can't really get so expensive that no one will buy them (as last year showed). When something is so cheap that CF will keep it from defaulting or will allow it to rapidly distribute cash to shareholders, fundamentals matter. When they're so expensive that there's literally no upside left, fundamentals matter. There's always upside left on equities with a strong narrative whcih is why "too expensive" doesn't really matter for equities. 
+
+For IG credit it may seem as though fundamentals don't matter since they are not at the "extreme". However they can still trade at extreme levels (close to a downgrade, biggest out/underperformer etc). A good examples is WBD; it's an improving credit story (simple fundamental analysis will show that) but it also got to extreme levels.
+
+So for a fundamental analyst, the most important thing is to know where to focus. Focus on the extremes (Distressed, high quality credits which trade too tight, crossover credits, those whose equities have fallen a lot, etc)
