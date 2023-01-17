@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0d74b90bdaba367",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "WIL/WILW - 1.13.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,17 +117,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0d3d9a189c0938e0",
+  "active": "a0d74b90bdaba367",
   "lastOpenFiles": [
-    "WIL/WILT - 1.13.23.md",
+    "WIL/WILT - 1.17.23.md",
     "WIL/WILW - 1.13.23.md",
+    "Oil - Outline.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 1.13.23.md",
     "WIL/WILT - 1.12.23.md",
     "WIL/WILT - 1.11.23.md",
     "WIL/WILT - 1.10.23.md",
     "WIL/WILT - 1.9.23.md",
-    "WIL/WILW - Template.md",
-    "2023 Trades.md",
-    "Molecules/Edge.md",
-    "Zoltan - War and Currency Statecraft.md"
+    "WIL/WILW - Template.md"
   ]
 }
