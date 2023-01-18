@@ -24,3 +24,6 @@ Caps on natural gas prices plus the push for more advanced chip manufacturing in
 
 **France**
 Macron is trying to raise the retirement age due to shifting demographics (less working people). Pensions use up a larger portion of GDP than the EU average.
+
+**Tech**
+EU member states are starting to develop regulations on tech firms ahead of Brussels - notably Germany. German laws are giving more power to regulators than the EU ones and are allowing pre-emptive actions.
