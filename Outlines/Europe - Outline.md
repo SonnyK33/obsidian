@@ -18,6 +18,10 @@ Caps on natural gas prices plus the push for more advanced chip manufacturing in
 #Trades 
 - short Bunds and BTPs on back of higher fiscal spending + QT
 
+**Germany**
+Germany is under pressure from the US, UK, and others to supply Ukraine with tanks. A majority of German people are against getting involved in the war due to the memory of germanys militaristic past and ties with Russia. Germany has authority over sending its own tanks and over the re-export of German made tanks used by 13 other countries including Poland.
+
+
 **Italy**
 [[Italy - Outline]]
 
