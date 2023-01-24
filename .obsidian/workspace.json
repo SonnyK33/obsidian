@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b4ac76eeae12d8ae",
+        "id": "0abf8c9a992b08fe",
         "type": "tabs",
         "children": [
           {
-            "id": "0d3d9a189c0938e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0d74b90bdaba367",
+            "id": "bf8cc795693ca0c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,105 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "a4c7e4c003c76686",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5fd96c952fdf9c17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILW - 1.13.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f35392f2d2b2a345",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Outlines/Europe - Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "391bf1a72745d0aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILW - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "52c23a112e969216",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98eba6e08989b341",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e6901ef32efca31f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "17b4aa4741589a3a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 1.23.22.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 1.23.22.md",
+                "file": "Outlines/Latam - Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,17 +104,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "17b4aa4741589a3a",
+  "active": "bf8cc795693ca0c5",
   "lastOpenFiles": [
+    "Brazil Argentina Common Currency.md",
+    "Meta-labeling.md",
+    "Untitled 7.md",
+    "Molecules/Median Voter Theory.md",
+    "WIL/WILW - 1.13.23.md",
     "WIL/WILT - Template.md",
-    "WIL/WILT - 1.20.23.md",
-    "Oil Price Caps.md",
-    "Oil - Outline.md",
-    "WIL/WILT - 1.13.23.md",
-    "WIL/WILT - 1.17.23.md",
-    "WIL/WILT - 1.18.23.md",
-    "WIL/WILT - 1.19.23.md",
-    "WIL/WILW - Template 1.md",
-    "WIL/WILW - Template.md"
+    "WIL/WILW - Template.md",
+    "Outlines/Europe - Outline.md",
+    "Outlines/Latam - Outline.md",
+    "Untitled.md"
   ]
 }

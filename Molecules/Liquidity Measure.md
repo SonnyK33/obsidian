@@ -1,0 +1,6 @@
+Type: #molecule 
+References: [[Reverse Repo Facility]] [[Central Bank Operations]]
+
+ We can track liquidity with an index equal to the Fed's balance sheet (SOMA) - the Treasury's general account (TGA) - the Reverse Repo Facility (RRP). If the Fed expands (contracts) its balance sheet, the TGA decreases (increases), or the RRP decreases (increases), overall system liquidity increases (decreases). This index is basically flat since the start of Q4 which coincides with the market trading in a range. Going forward, SOMA will be decreasing (per QT), TGA can't increase materially until the debt ceiling negotiations are restarted, and RRP will be sticky as rates are above 1m t-bills. Interestingly, if the market starts to price in lower odds of cuts this year, that would push up t-bill rates closer to the terminal rate and cause outflows from the RRP. This would be an increase in liquidity. That is, lower odds of a cut, would increase liquidity in the short-term. 
+
+Delays around debt ceiling negotations actually increase liqidity, as the TGA can't replenish.

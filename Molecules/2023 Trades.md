@@ -37,3 +37,9 @@ HYG is 50% BB, 40% single-B
 4) Will the BoJ abandon YCC?
 5) Will Egypt comply with the IMF program?
 6) Will Argentenians re-elect current government?
+
+
+*Trade Ideas*
+Eurodollar market is pricing in a 1.1% probability of rates being above 5% by December. That is, it's pricing in a 99% chance of a recession, since that's the only realistic scenario where the Fed will be cutting. The market doesn't believe in this higher for longer scenario. This should be a good tail hedge. Short term yields are still pricing in cuts this year, depsite the Fed's repeated warnings. 5 year treasuries may have the most downside here, if market prices in higher for longer rates. 
+
+Decompression starting to look more interesting. More specific catalysts in CCC's and not being paid to take BB or single-B risk. Decompression in long skew which seems like the right way to be positioned, given the market is expecting a soft landing.
