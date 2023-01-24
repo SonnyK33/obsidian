@@ -15,18 +15,44 @@ References: [[Edge]]
 		- getting close to mainstream
 		- not priced in 1yr gold skew (which has flattened since 2021)
 
+**Macro Outlook**
+I see three scenarios:
+1) Base case - sentiment stays positive with higher real wages, steady employment, and better inflation prints. The China reopening and stronger demand from international markets is seen as a tailwind.
+	Equities and rates will be range bound. Spreads are too tight, but there aren't a lot of maturities until 2025. Rates have also rallied a lot (due to recession worries) which has put market in a better mood. The Fed will switch to 25 bps increments which the market will like, but there's no reason for them to cut, which the rates/eurodollar markets is pricing in. At some point, probably by the summer, after a couple of sobering FOMC meetings, it'll be clear that rate relief isn't coming. High debt service will start to wear on corporates. As wage inflation starts to exceed goods inflation (which will prob happen in Q1), unemployment will start to increase.
+
+This means a recession by Q3-Q4 of this year. Equities and rates will sell off, as there won't be relief from the Fed at first.
+
+2) Left tail - a hard landing / mistake.
+This could be caused by a illiquidity issue with treasurires, repo rates, or bank reserves. Funds are still locked in the RRP, and its mainly housholds who are withdrawing deposits and to buy treasuries. The Fed has said that QT will continue even if they have to cut rates. That will mean less bank lending, and not in a linear fashion. A mistake could also come from oil prices between China reopening and the Russian oil ban.
+
+There are lots of geopolitical flashpoints - Russia/Ukraine, China/Taiwan (less so), or Iran.
+
+In this scenario, S&P crashes, but rates rally hard. 
+
+3) Right tail - what's being priced in now.
+Goldilocks scenario where lower rates are good for equities (even though it's recession worries that have lowered rates). Essentially the base case continues. Better inflation prints, high real wages, and  unemployment stays low. Seems impossible that PCE will get to the Fed's target without spiking unemployment and causing a ression. But that's what the market is pricing in. 
+Calls on S&P are overpriced because of how high forwards are (because of higher rates).
+In this unlikely scenario, rates will not cut as there's no reason for the Fed to cut. Best way to hedge this scenario is long oil, long gold, and short eurodollar futures (or 5 year treasuries).
+
+
+
+
 **Financing Costs/Credit**
 Calculate your breakeven on a bond. That is, what spread widening would offset net carry (yield less financing cost). How does that widening compare to Oct/Nov wides?
 
-By that metric, CCC's look okay.
+By that metric, CCC's looked okay a few weeks ago.
 Net carry = YTW (13.3%) - repo (4.5%) = ~9%
 OAD is 3.3 years, so would need a 300 bps widening to lose 9 pts.
 300 bps widening = 1240 bps vs 2022 wides of 1170
 
+Now, YTW is 12.8% - 5% repo = 7.8%
+given OAD, needs a 240 widening 
+Current OAS is 880, so that would be 1120, inside of 2022 levels
+
 Compare that to HYG.
-Net carry = 8% - 4.5% = 3.5%
-Duratio is 4.3 years, so need 75 bps of widening to lose 3 pts. 
-75 bps widening = 500 spread vs October wides of 520
+Net carry = 7.9% - 5% = 3%
+Duratio is 4.3 years, so need 70 bps of widening to lose 3 pts. 
+70 bps widening = 500 spread vs October wides of 520
 
 HYG is 50% BB, 40% single-B
 
