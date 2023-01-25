@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/2023 Trades.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ea9e63bad11d4b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 1.25.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/2023 Trades.md",
+                "file": "WIL/WILT - 1.25.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4fe1b762cf91ce8d",
+  "active": "3ea9e63bad11d4b7",
   "lastOpenFiles": [
-    "Untitled 8.md",
+    "Central Bank Operations.md",
+    "Repo - Outline.md",
+    "Reverse Repo Facility.md",
+    "WIL/WILT - 1.25.23.md",
+    "WIL/WILT - Template.md",
     "Molecules/2023 Trades.md",
+    "Untitled 8.md",
     "Molecules/Edge.md",
     "WIL/WILT - 1.24.23.md",
-    "WIL/WILT - Template.md",
-    "Outlines/Latam - Outline.md",
-    "Brazil Argentina Common Currency.md",
-    "Meta-labeling.md",
-    "Untitled 7.md",
-    "Molecules/Median Voter Theory.md"
+    "Outlines/Latam - Outline.md"
   ]
 }

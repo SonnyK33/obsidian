@@ -22,6 +22,7 @@ The Fed's lower bound is effectively set by the RRP (see below). The Fed commits
 1) Repo and reverse repo facilities
 [[Reverse Repo Facility]]
 The fed controls the repo with the reverse repo facility (allows money market funds to park cash and earn a certain rate - effectively a floor on the repo rate) and the repo facility which lends repo to dealers at a certain rate (effectively a ceiling on the rate). Because treasuries can be repo’d for effectively free and converted to bank deposits, they’re essentially fungible with deposits and cash. 
+The Fed currently pays 10 bps lower on the RRP versus what they pay on reserves. There are calls now for that to revert back to 25 bps to pull liquidity from that facility. 
 
 Currently in the EU, there is excess liquidity due to QE and a lack of collateral (treasury securities). This has caused money market rates to fall below the ECB's set deposit rate. If they enacted a reverse repo system like the one Fed has, it would put a floor on rates as banks could use their excess reserves to earn a rate set by the ECB. Because of the excess liquidity (reserves) in the system, there's limited demand to borrow from money markets - pushing those rates below the ECB deposit rates/
 
