@@ -66,7 +66,7 @@ A size trades based on expected loss. How much am I willing to lose on a trade i
 
 Trades in book should each be the cleanest and most asymmetric expression for a given view.
 If you think labour inflation will continue, to be an issue, what's the best way to express that?
-- CYH, HCA, SBUX
+- CYH, HCA, SBUX, WYNN
 China will play a larger role in lending to EM and running restructuring processes
 - Kenya, Egypt
 Oil has upside risk
