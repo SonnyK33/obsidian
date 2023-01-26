@@ -73,6 +73,9 @@ Oil has upside risk
 - CS long / Egypt short
 Debt ceiling + higher inflation vol + flight from treasuries
 - HCA, UNH
+China/US conflict will continue
+- Japanese fiscal deficit will rise -> will have to abandon YCC
+	- inflation follows Australian CPI which spiked
 
 Macro outlook - 
 [[2023 Trades]]
@@ -98,7 +101,7 @@ I want to be a risk taker and there will be a lots of opportunities in credit wi
 
 -   next year - 
 
--   longs - Colombia, Pemex, maybe VENZ, ODEBRE
+-   longs - Argentina, Pemex, maybe VENZ, ODEBRE
 -   shorts/defaults - Egypt, Pakistan, Poland 
 
   
@@ -111,7 +114,7 @@ I want to be a risk taker and there will be a lots of opportunities in credit wi
 - SABRE
 - BHC
 - EETCS
-- EM (Egypt, Kenya, Pemex, Bahrain, El Salvador )
+- EM (Argentina, Egypt, Kenya, Pemex, Bahrain, El Salvador )
 
   
 

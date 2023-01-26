@@ -30,6 +30,8 @@ References: [[Edge]]
 		- where are these banks lending?
 - YCC change in Japan
 	- Higher local yields make hedged USD yields less attractive, hence lowering demand for USD credit. Higher policy rates in Japan (which drive hedgers' cost of borrowing) would strengthen the JPY in the forward market, lowering hedging costs. That hasn't happened yet, so the net effect of keeping policy rates steady but raising 10y yields (which will increase corporate yields) is make hedged foreign yields less attractive. 
+- BTPs on heavy issuance from the EZ esp Italy
+	- TITIM is a good short, but if you distill it into the key question, shorting BTPs is the most asymmetric and liquid
 - what regions/sectors/occupations are seeing the most wage inflation
 	- which credits does that hit
 - high financing costs are making running a levered book challenging
@@ -44,7 +46,7 @@ I see three scenarios:
 This means a recession by Q3-Q4 of this year. Equities and rates will sell off, as there won't be relief from the Fed at first.
 
 2) Left tail - a hard landing / mistake.
-This could be caused by a illiquidity issue with treasurires, repo rates, or bank reserves. Funds are still locked in the RRP, and its mainly housholds who are withdrawing deposits and to buy treasuries. The Fed has said that QT will continue even if they have to cut rates. That will mean less bank lending, and not in a linear fashion. There's also the chance the Fed makes a technical adjustment to RRP so that the spread between it and IOR is wider. A mistake could also come from oil prices between China reopening and the Russian oil ban.
+This could be caused by a illiquidity issue with treasurires, repo rates, or bank reserves. Funds are still locked in the RRP, and its mainly housholds who are withdrawing deposits and to buy treasuries. The Fed has said that QT will continue even if they have to cut rates. That will mean less bank lending, and not in a linear fashion. There's also the chance the Fed makes a technical adjustment to RRP so that the spread between it and IOR is wider. A mistake could also come from oil prices between China reopening and the Russian oil ban. Hedge this risk by long skew but also short bad names that market forgot about - CYH first liens, Dish Unsecureds getting close, Egypt front-end bonds. 
 
 There are lots of geopolitical flashpoints - Russia/Ukraine, China/Taiwan (less so), or Iran.
 
@@ -55,8 +57,11 @@ Goldilocks scenario where lower rates are good for equities (even though it's re
 Calls on S&P are overpriced because of how high forwards are (because of higher rates).
 In this unlikely scenario, rates will not cut as there's no reason for the Fed to cut. Best way to hedge this scenario is long oil, long gold, and short eurodollar futures (or 5 year treasuries).
 
-I think you need to be positioned short and long skew (short lower attachment points - so IG, senior tranches, etc). Up until recently, CCC's were looking cheap relative to HYG, and so it made sense to be long CCC, short BB's, vega-neutral, so maybe 1.5 x 1. Now you should just be short outright but with a bias for the lower attachment points. The long skew hedges against the left tail. Hedge the right tail by being short 5y treasuries, long oil, and eurodollar puts. 
-Long china equities, long cheap BBB's (WBD for example) single-B's/CCC's (Dish senior secured).
+I think you need to be positioned short and long skew (short lower attachment points - so IG, senior tranches, etc). IGs in the low 70s look extremely tight and Euro crossover in the low 400s. 
+BBs vs BBBs and BBBs vs As are back to spring '22 tights.
+
+Up until recently, CCC's were looking cheap relative to HYG, and so it made sense to be long CCC, short BB's, vega-neutral, so maybe 1.5 x 1. Now you should just be short outright but with a bias for the lower attachment points. The long skew hedges against the left tail. Hedge the right tail by being short 5y treasuries, long oil, and eurodollar puts. 
+Long china equities, long cheap BBB's (WBD for example) single-B's/CCC's (Dish senior secured). Long some idiosyncratic EM stories - ODEBRE, Argentina. Short some higher attachment point EM's - Brazil.
 
 
 **Financing Costs/Credit**
