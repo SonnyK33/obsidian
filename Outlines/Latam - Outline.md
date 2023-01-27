@@ -18,3 +18,4 @@ Lula presides over a very divided country. Sizable minorities were in favour of 
 - combination of strong commodity prices and a less hawkish monetary policy should be good for Brazilian assets, despite left-leaning government
 
 [[Brazil Argentina Common Currency]]
+[[Current Account Deficits]]
