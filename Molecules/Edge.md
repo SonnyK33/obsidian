@@ -23,9 +23,15 @@ Questions to Ask:
 	- DM vs EM 
 	- high beta vs low beta credits
 
+1) Wrong price vs wrong forecasts
+The best fundamental trades should be based on non-consensus views and forecasts. Some trades may be based on the "wrong" price, even if you think consensuf forecasts are correct. However, in most cases, those trades are probably better expressed through index. That is, if one highly levered BB credit looks too tight given its expected financials, likely all BB's trade too tight, and there's a better trade in index.
+Focus on forming non-consensus  views.
 
+The "assets at extremes" methodology looks for assets whose pricing is close to an inflection point. They may be a good proxy for credits where there is disagreement on where it's heading and there's a chance to form non-consensus views. When you distill those assets to the key questions, the next step is to determine the consensus answers to those questions.
 
-
+2) What's consensus?
+Can use options to find implied probabilities. 
+Right now, rate cuts along with a soft landing is consensus. That seems contradictory; nevertheless, that's consensus. Rate cuts  imply a taming in wage inflation. Where do you disagree with that?
 
 
 
