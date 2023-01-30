@@ -1,5 +1,6 @@
 Type: #Atom
 References: [[Japan - Outline]]
+References: Forward Guidance podcast - Weston
 Hedging explanation - NSN OB7GXX6TTDS3 .
 
 [[To Write - Outline]]
@@ -12,6 +13,8 @@ Hedging explanation - NSN OB7GXX6TTDS3 .
 
 **YCC**
 On 12/19, the BOJ announced what is likely the end of the ultra-loose monetary policy by easing YCC and letting the 10y go to 0.5% from 0.25%. The change to YCC was accompanied by an increase in bond purchases, and the BOJ stated that this shouldn't be seen as a tightening but an effort to improve market functionality. They reiterated their stance to not start tightening until CPI hit 2%. A change to YCC was expected when the current BOJ head stepped down in Mar/23, but he chose to do it now (12/20) when the market was least expecting it. the JPY moved more than the 25bp change would imply and speaks to the psychological effect of changing a long-held position. 
+
+The BOJ didn’t change decade strategy because of a few CPI prints. They had to change YCC because bond market wasn’t functioning well with the kink in the curve. They chose to change YCC in December because flows from HF and real money shorting JGBs went down. They couldn't give in when everyone was fighting their policy. Despite this change, anything close to QT is impossible in Japan due to how man JGBs they won.
 
 The 10y and JPY surged, local and other Asian equities fell. Global rates are also expected to fall as Japan was the last holdout in raising rates. 
 
