@@ -97,14 +97,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 1.30.23.md",
+                "file": "WIL/WILW - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fc5a13114da88a47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILW - 1.20.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -162,7 +174,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 1.30.23.md",
+                "file": "WIL/WILW - 1.20.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,17 +201,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6b99d80d36908876",
+  "active": "fc5a13114da88a47",
   "lastOpenFiles": [
+    "WIL/WILT - 1.20.23.md",
+    "WIL/WILT - 1.19.23.md",
+    "WIL/WILW - 1.20.23.md",
+    "WIL/WILT - 1.18.23.md",
+    "WIL/WILT - 1.17.23.md",
+    "WIL/WILW - Template.md",
+    "WIL/WILW - 1.13.23.md",
+    "WIL/WILT - 1.30.23.md",
     "WIL/WILT - Template.md",
-    "Japan Monetary Policy.md",
-    "Japan - Outline.md",
-    "Chip war.md",
-    "Molecules/2023 Trades.md",
-    "Molecules/Edge.md",
-    "WIL/WILT - 1.27.23.md",
-    "WIL/WILT - 1.26.23.md",
-    "WIL/WILT - 1.25.23.md",
-    "WIL/WILT - 1.24.23.md"
+    "Japan Monetary Policy.md"
   ]
 }
