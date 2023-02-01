@@ -7,6 +7,7 @@ Fedguy - https://fedguy.com/stock-and-flow/
 [[Central Bank Operations]]
 https://twitter.com/MacroAlf/status/1603409716339740672
 https://www.ft.com/content/acbd0a17-762e-4551-b87c-24d101c80195
+[[Forward Guidance - Jeff Snider Bob Elliott]]
 Macro compass note - 12.18.22 ("Pay Attention")
 [[Europe - Outline]]
 [[Poland]]
@@ -33,6 +34,8 @@ QT will lower bank reserves.
 The declining liquidity will make banks less willing to hold peripheral government debt. So lower reserves means higher credit spreads.
 
 
+**Unemployment**
+[[Forward Guidance - Jeff Snider Bob Elliott]]
 
 #Trades 
 US: SPX puts (recession likely)

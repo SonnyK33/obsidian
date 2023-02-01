@@ -31,3 +31,7 @@ Macron is trying to raise the retirement age due to shifting demographics (less 
 
 **Tech**
 EU member states are starting to develop regulations on tech firms ahead of Brussels - notably Germany. German laws are giving more power to regulators than the EU ones and are allowing pre-emptive actions.
+
+**Russia**
+[[Russia - outline]]
+The EU is set to cut Russian diesel which makes up 25pct of their needs. Russia could try selling it to India or China, but they have their own refining capacity so may be reluctant to import it. As a result market will get tighter.
