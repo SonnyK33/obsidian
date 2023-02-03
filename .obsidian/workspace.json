@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.2.23.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2c5ee7a8028abf22",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 2.3.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.2.23.md",
+                "file": "WIL/WILT - 2.3.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,9 +141,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1f5fb67655c9616e",
+  "active": "2c5ee7a8028abf22",
   "lastOpenFiles": [
     "WIL/WILT - Template.md",
+    "WIL/WILT - 2.2.23.md",
     "Outlines/Europe - Outline.md",
     "Macrovoices - Darrius Dale.md",
     "Russia - outline.md",
@@ -139,7 +152,6 @@
     "Molecules/Monetary Tightening - 2022.md",
     "Forward Guidance - Jeff Snider Bob Elliott.md",
     "Forward Guidance - Felix Jauvin.md",
-    "WIL/WILW - 1.20.23.md",
-    "WIL/WILT - 1.20.23.md"
+    "WIL/WILW - 1.20.23.md"
   ]
 }
