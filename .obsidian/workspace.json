@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Foreign Banks.md",
+                "file": "Molecules/2023 Trades.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "money market",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,8 +106,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -127,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Foreign Banks.md",
+                "file": "Molecules/2023 Trades.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,15 +155,15 @@
   },
   "active": "667143ed613c4c69",
   "lastOpenFiles": [
+    "Molecules/Edge.md",
+    "Foreign Banks.md",
     "Central Bank Operations.md",
     "Reverse Repo Facility.md",
-    "Foreign Banks.md",
     "Geopolitics of Global Finance.md",
     "Molecules/Dollar Hegemony.md",
     "Zoltan - War and Currency Statecraft.md",
     "WIL/WILT - 2.3.23.md",
     "WIL/WILT - Template.md",
-    "WIL/WILT - 2.2.23.md",
-    "Outlines/Europe - Outline.md"
+    "WIL/WILT - 2.2.23.md"
   ]
 }

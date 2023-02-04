@@ -1,5 +1,6 @@
 Type: #molecule 
 References: [[Edge]]
+John Mauldin letter - 2/4/23, GMO letter from same date
 
 - Where are the asymmetric risks for 2023?
 	- conflict over Taiwan (getting to be mainstream)
@@ -43,7 +44,12 @@ I see three scenarios:
 1) Base case - sentiment stays positive with higher real wages, steady employment, and better inflation prints. The China reopening and stronger demand from international markets is seen as a tailwind.
 	Equities and rates will be range bound. Spreads are too tight, but there aren't a lot of maturities until 2025. Rates have also rallied a lot (due to recession worries) which has put market in a better mood. The Fed will switch to 25 bps increments which the market will like, but there's no reason for them to cut, which the rates/eurodollar markets is pricing in. At some point, probably by the summer, after a couple of sobering FOMC meetings, it'll be clear that rate relief isn't coming. High debt service will start to wear on corporates. As wage inflation starts to exceed goods inflation (which will prob happen in Q1), unemployment will start to increase.
 
-This means a recession by Q3-Q4 of this year. Equities and rates will sell off, as there won't be relief from the Fed at first.
+	There were $2-3 trillion in excess savings in mid-2021. Some estimates are showing half of this remaining. It could take until mid-2023 for this to be drawn down. The economy also tends to do well in the second half of a President's first term, as they engage in stimulative policies. 
+
+	
+	This means a recession by Q3-Q4 of this year. Equities and rates will sell off, as there won't be relief from the Fed at first. Historically, the bulk of market declines have come after the first rate cuts (1929, 2000, 2007, not in 1974 due to inflation). The Atlanta nowcast for GDP is showing a range of +1 to -1.5% and the Atlanta Fed is at 0.7%, so not a recession yet. 
+
+
 
 2) Left tail - a hard landing / mistake.
 This could be caused by a illiquidity issue with treasurires, repo rates, or bank reserves. Funds are still locked in the RRP, and its mainly housholds who are withdrawing deposits and to buy treasuries. The Fed has said that QT will continue even if they have to cut rates. That will mean less bank lending, and not in a linear fashion. There's also the chance the Fed makes a technical adjustment to RRP so that the spread between it and IOR is wider. A mistake could also come from oil prices between China reopening and the Russian oil ban. Hedge this risk by long skew but also short bad names that market forgot about - CYH first liens, Dish Unsecureds getting close, Egypt front-end bonds. 
@@ -96,3 +102,7 @@ HYG is 50% BB, 40% single-B
 Eurodollar market is pricing in a 1.1% probability of rates being above 5% by December. That is, it's pricing in a 99% chance of a recession, since that's the only realistic scenario where the Fed will be cutting. The market doesn't believe in this higher for longer scenario. This should be a good tail hedge. Short term yields are still pricing in cuts this year, depsite the Fed's repeated warnings. 5 year treasuries may have the most downside here, if market prices in higher for longer rates. 
 
 Decompression starting to look more interesting. More specific catalysts in CCC's and not being paid to take BB or single-B risk. Decompression in long skew which seems like the right way to be positioned, given the market is expecting a soft landing.
+
+Margins are starting to decrease and growth is accelerating to the downside. The story is now for non-technology companies. 80% of industry groups are seeing cost growth in excess of sales growth. When earnings growth starts to go negative, the Fed is normally cutting. Higher rates are an additional headwind. 
+
+The industry groups that the biggest margin downside (per Mike Wilson) are autos, energy, and capital goods. 
