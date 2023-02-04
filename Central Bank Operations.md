@@ -5,7 +5,7 @@ Issues in EU - [https://www.ft.com/content/7f651e23-d545-404f-a137-4f92b6486870]
 https://www.ft.com/content/0eea1ae8-acfe-401a-bff3-88e8c6382a32
 [[Forward Guidance - DC Analyst]]
 [[Reverse Repo Facility]]
-
+[[Foreign Banks]]
 
 **Fed Policy Rates**
 Within the the Feds' target range, there are various rates applying to different types of borrowers and lenders. The Fed sets a 25 bp range for the EFFR (effective fed funds' rate) which is the rate at which banks can borrow/lend to each other overnight. 
@@ -35,7 +35,7 @@ The FIMA (Foreign and International Monetary Authority) repo facility allows int
 This is the main tool used by the Fed to maintain rates in its range. It's the rate the Fed pays bank for depositing reserves. Post-GFC, there aren't any reserve requirements, and so all reserves are considered excess. GSE can't earn IORB and so they lend to banks at EFFR. 
 If/when reserves are sufficiently depleted through QT, IORB could trade below FF and SOFR (as the Fed won't have to pay a high rate to get banks to hold reserves)
 
-4) EFFR is the primary target for the Fed. It serves as the borrowing rate for banks and GSEs. Today 90% of all EFFR actvitiy is by GSEs lending to foreign banks (who in turn lend at IORB and earn the spread) . Most of the borrowing is from foreign banks who don't have a depositor base and who can also lend to the Fed at IORB rates. Domestic banks have stricter Basel III regulations that push them to borrow from depositors rather than at EFFR. Domestic banks will typically only borrow at EFFR if they have liquidity needs (GS primer says  this happens when it's above IOR - don't understand this)
+4) EFFR is the primary target for the Fed. It serves as the borrowing rate for banks and GSEs. Today 90% of all EFFR actvitiy is by GSEs lending to foreign banks (who in turn lend at IORB and earn the spread) . Most of the borrowing is from foreign banks who don't have a depositor base and who can also lend to the Fed at IORB rates. Domestic banks have stricter Basel III regulations that push them to borrow from depositors rather than at EFFR. Domestic banks will typically only borrow at EFFR if they have liquidity needs (GS primer says  this happens when it's above IOR - don't understand this) [[Foreign Banks]]
 
 5) OBFR - overnight bank funding rate. This is a blend of FF and some eurodollar transactions. MMFs and foreign central banks lend at this rate. 
 

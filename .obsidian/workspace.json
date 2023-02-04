@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "667143ed613c4c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Foreign Banks.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -85,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "money market",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +106,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -114,7 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.3.23.md",
+                "file": "Foreign Banks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,17 +154,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2c5ee7a8028abf22",
+  "active": "667143ed613c4c69",
   "lastOpenFiles": [
+    "Central Bank Operations.md",
+    "Reverse Repo Facility.md",
+    "Foreign Banks.md",
+    "Geopolitics of Global Finance.md",
+    "Molecules/Dollar Hegemony.md",
+    "Zoltan - War and Currency Statecraft.md",
+    "WIL/WILT - 2.3.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 2.2.23.md",
-    "Outlines/Europe - Outline.md",
-    "Macrovoices - Darrius Dale.md",
-    "Russia - outline.md",
-    "Brazil Argentina Common Currency.md",
-    "Molecules/Monetary Tightening - 2022.md",
-    "Forward Guidance - Jeff Snider Bob Elliott.md",
-    "Forward Guidance - Felix Jauvin.md",
-    "WIL/WILW - 1.20.23.md"
+    "Outlines/Europe - Outline.md"
   ]
 }
