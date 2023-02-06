@@ -1,7 +1,7 @@
 Type: #molecule 
 References: https://twitter.com/gonwei/status/1614558868981309440?s=51&t=6ei97naqxBtir2o3-zT1Rw
 [[Latam - Outline]]
-
+[[WILW - 1.20.23]]
 I liked this framework for how to deal with current account deficits and what questions to focus on.
 
 Assuming it's hard to cut imports:

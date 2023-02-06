@@ -1,58 +1,21 @@
 Type: #WILT 
 
-**Title**
+Commodities and Emerging Markets
+[[Current Account Deficits]]
 
+Transocean is an American offshore oil rig contractor. After years of excess capacity in this sector, contracting rates are finally increasing again. Higher oil prices and fewer available rigs are pushing up day-rates. During their last bond deal, they said they see the most opportunities for offshore drilling in Brazil. This underscores how NOC's (national oil companies) have objectives very different from private E&Ps. While the latter are also increasing capex, NOC's never stopped. It also speaks to another theme for Latin America. While most of the governments are now left leaning, commodities are still an important part of their economy. They are unlikely to shut down commodity exports anytime soon, especially if they are necessary for social spending. Another reason they're unlikely to cut exports is that oil (and commodities more broadly) are going to be increasingly important in a multi-polar world.
 
-RIG sees the most opportunities for offshore drilling in Brazil. This underscores how NOC's (national oil companies) have objectives very different from private E&Ps. While the latter are also increasing capex, NOC's never stopped. It also speaks to another theme for Latin America. While most of the governments are now left leaning, commodities are still an important part of their economy. Tthey are unlikely to shut down commodity exports anytime soon, especially if incomes supports social spending. 
+US shale had shifted power from the GCC, Russia, Venezuela, and Iran to the US. Easy money allowed for record investments into shale assets which propelled the US to became the world's largest producer. US shipments picked up the slack when Russian exports to Europe were taken offline. That shift is now reversing, as the Bakken is expected to produce much less oil and the Permian is nearing or past its peak as well. Shale wells produce most of their oil in the first two years and require companies to continuously drill. This leads to persistent negative cashflows and only worked during an era of ultra-loose money. After covid, the markets are no longer rewarding growth stories in energy and instead want capital returned to shareholders. This  reversal will be good for OPEC and may require normalization with countries like Venezuela and Iran. 
 
-US shale had shifted power from the GCC, Russia, Venezuela, and Iran to the US. US shipments picked up the slack when Russian exports to Europe were taken offline. The US became the world's largest producer. That shift is now reversing, as the bakken is expected to produce much less oil and the permian is nearing or past its peak as well. Shale wells produce most of their oil in the first two years and require companies to continuously drill. This leads to persistent negative cashflows and only worked during an era of ultra-loose money. After covid, the markets are no longer rewarding growth stories in energy and instead want capital returned to shareholders. This  reversal will be good for OPEC and may require normalization with Venezuela and Iran. 
+Developing countries who are large importers will be at the mercy of large producers. Kenya whose oil imports have created a large current account deficit, has the largest financing needs in South Saharan Africa. It has a small IMF program, but that may be insufficient to cover its large external needs (including a 2024 bond maturity). Pakistan similarly is a large oil importer. It's been bailed out by Saudi Arabia and China who would rather use their hard currency inflows to gain favour with strategically important states than accumulate reserves. Oil exporters previously used their current account surpluses to build dollar reserves (and hence finance the US' trade and budget deficits). In a multipolar world, many states (none more so than China) would rather use their dollar reserves while they still can. 
 
- CAD dynamics - Pakistan tweet
- break down all things into constrained optimizations (framework for credits)
+Countries like Pakistan or Kenya have few easy options for fixing their current accounts. In the short-term energy imports can only be cut by devaluing their currency. Since energy is relatively inelastic, this results in higher inflation. Increasing exports requires major changes to the economy. They need to make the economy friendlier for investment (both domestic and foreign) and prioritize exports over domestic consumption. That means cutting protectionist policies like import tariffs which incentivize firms to produce goods and services for the domestic economy. They need to cut fiscal deficits to lower local borrowing costs. Business-frendly regulations like transparent insolvency laws are also important. None of these changes are easy to make quickly. 
 
-Narrative
-All eyes are on the BOJ meeting. Equities are down slightly and rates are down. This is going against the soft landing narrative that has dominated since the beginning of the year. 
+The future is very path dependent. I recently read Kurt Vonnegut's Slaughterhouse Five and have been  thinking about the Tralfamadorians-- the aliens who can see all things at once and have no sense of time. My first thought was that maybe we shouldn't see eveything as causal; sometimes things just happen. The Tralfamadorians don't believe in free will, and while they can see the future, they have no ability to change it. I think Vonnegut was using the aliens' belief in fatalism to highlight how we think of war. We think of it as natural and unavoidable. 
 
-
-The future is very path dependent. I've been thinking back to the aliens in Slaughter House Five who can see all things at once and have no sense of time. My first thought was that maybe we shouldn't see eveything as causal; sometimes things just happen. The other takeaway though is that as strange as the aliens' view seems to be, we claim to do that all the time. We'll make a call about the future and forget about the path dependency.  This becomes more of a risk the further out you forecast. We're calling for a hard landing and a double dip inflation issue. That could happen, but it's important to remember that the second phase of that won't be apparent for a long time. Pretending we can forecast a complex multi-step future like that is saying we can do what the aliens can do. 
-
-Liquidity has been increasing because of flows coming from the RRP which fell by $211 bn. At the same time, TGA balances have been falling due to the lack of issuances (partially caused by debt ceiling issues). When banks participate in the RRP they exchange bank reserve assets for RRP assets and the Fed does the opposite - extinguishes bank reserve liabilities and creates RRP liabilities. When they withdraw from the facility, the opposite happens. That is, the Fed settles the withdrawal from the RRP by increasing bank reserves (not giving them cash). As would be expected with the RRP decrease, bank reserves are up $250bn in the past 7 days.
-
-Banks could be withdrawing from the RRP to buy bills as the spread has narrowed. But that should lead to TGA balances increasing and bank reserves falling again (I think).
-
-
-**Reverse repo with commercial banks**
-Commercial banks with excess reserves (too much liquidity) can lend them back to Fed using the RRP and get treasuries as collateral. They sell the treasuries back to the Fed at a higher rate, thus earning the reverse repo rate. This temporarily converts their reserve asset into a RRP asset (i.e. a loan to the fed collateralized with treasuries). 
-
-T-Account:
-Fed - 
-DR reserve liability (reduces liability)
-CR Repo liability (increases liability)
-
-Commercial bank - 
-DR RRP loan asset (collateral
+My other thought was maybe the aliens were supposed to make us think about how we incorrectly make forecasts about the future. The aliens' claim to be able to see everything (past, present, and future) all at once seems absurd. The lack of causality between the present and the future seems wrong to us, especially because it goes against our belief in free-will. However, we're frequently guilty of removing causality when we make forecasts. We'll make a call about the future and forget about the path dependency.  This becomes more of a risk the further out you forecast. We're calling for a hard landing and a double dip inflation issue. That could happen, but it's important to remember that the second phase of that won't be apparent for a long time. Pretending we can forecast a complex multi-step future like that requires breaking causal links along the way.
 
 
 
-The Treasury can still issue t-bills. They could issue $200bn by the end of the month. That, plus QT, will lead to a $300bn drain from reserves.  MS is arguing this could lead to a 6% reduction in the S&P given the correlation between liquidity and equity markets. Yellen is using extraordinary measures to issue treasuries despite the debt limit. 
 
-Kenya has the largest financing needs among SSA, and it may have issues with its 2024 maturity. 
-
-
-
-Rayonier, a timber company, tried calling its unsecured bonds and issuing a new secured bond. Insufficient investor interest is forcing them to cancel the new issue and redemption. 
-
-
-
-**On my radar -** 
-
-
-
-**Prediction Review**  
-
-1) []
-Previous belief -
-
-Trade Review  - 
-[]
 
