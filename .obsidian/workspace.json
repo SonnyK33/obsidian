@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.6.23.md",
+                "file": "WIL/WILW - 1.20.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.6.23.md",
+                "file": "WIL/WILW - 1.20.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,6 +155,7 @@
   },
   "active": "151c40eca14c1a1b",
   "lastOpenFiles": [
+    "WIL/WILT - 2.6.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILW - 1.20.23.md",
     "Current Account Deficits.md",
@@ -163,7 +164,6 @@
     "Molecules/Edge.md",
     "Foreign Banks.md",
     "Central Bank Operations.md",
-    "Reverse Repo Facility.md",
-    "Geopolitics of Global Finance.md"
+    "Reverse Repo Facility.md"
   ]
 }
