@@ -44,31 +44,19 @@
             }
           },
           {
-            "id": "2c5ee7a8028abf22",
+            "id": "ba3052afb205ddfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "151c40eca14c1a1b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILW - 1.20.23.md",
+                "file": "Pre-socratic.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -126,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 1.20.23.md",
+                "file": "Pre-socratic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,17 +141,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "151c40eca14c1a1b",
+  "active": "ba3052afb205ddfa",
   "lastOpenFiles": [
-    "WIL/WILT - 2.6.23.md",
+    "Philosophy - Outline.md",
     "WIL/WILT - Template.md",
     "WIL/WILW - 1.20.23.md",
+    "WIL/WILT - 2.6.23.md",
     "Current Account Deficits.md",
     "WIL/WILT - 2.3.23.md",
     "Molecules/2023 Trades.md",
     "Molecules/Edge.md",
     "Foreign Banks.md",
-    "Central Bank Operations.md",
-    "Reverse Repo Facility.md"
+    "Central Bank Operations.md"
   ]
 }
