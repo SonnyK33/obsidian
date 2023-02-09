@@ -1,27 +1,24 @@
 Type: #molecule 
 References: [[2023 Trades]]
-Questions to Ask:
-- Where is the asymmetric risk and are you being compensated for it?
-- if you take the risk and you're right, how much do you make? how much do you lose?
-	- what does that imply about the odds being priced in?
-	- are those odds consistent with other parts of the market?
-	- e.g. short-vol has asymmetric risk, and so you're paid a VRP for taking it
-		- VIX term structure is upward sloping because you need to be compensated for being short it
-- compensation for the risk should be proportional to how asymmetric it is not the absolute upside/downside (which are prone to more forecast errors anyways)
 
+What are the drivers of a credit? What factors can be absracted across different sectors and even asset classes (corporates, sovereigns, equities, etc)
+1) What is pricing power?
+2) Operating leverage 
+	a) what are fixed vs variable expenses?
+	b) at what point do fixed costs become variable?
+	c) what are the inflection points for when fixed costs change (e.g. need more staff if revenue gets to a certain point
+3) Are there major changes to factors of production 
+	a) labour
+	b) raw materials
+1) What are capex plans
+2) What is the working capital cycle
+3) Capital structure
+	a) financing costs
+	b) maturities and refinancing needs 
+	
 
-- fundamentals - focus on the variance around estimates rather than their mean
-	- hard to just do a better job at predicting a company's EBITDA esp given how much coverage liquid credits have
-	- instead I try to determine how risky those estimates are
-		- what is the range for sales, costs, etc
-		- what is the range for EBITDA, a FCF and where should things trade in the extremes of that range
-		- based on that, is there asymmetry?
-	- it doesn't matter what next year's EBITDA is, that's unknowable - what matters is the degree to which it can be estimated and the range of possible outcomes
-		- that's how you price risk and look for trading opportunities 
-- by being a generalist, have a better sense of how to price risk
-	- risk-free vs IG vs HY
-	- DM vs EM 
-	- high beta vs low beta credits
+	
+
 
 1) Wrong price vs wrong forecasts
 The best fundamental trades should be based on non-consensus views and forecasts. Some trades may be based on the "wrong" price, even if you think consensuf forecasts are correct. However, in most cases, those trades are probably better expressed through index. That is, if one highly levered BB credit looks too tight given its expected financials, likely all BB's trade too tight, and there's a better trade in index.
@@ -44,6 +41,29 @@ Try to distill trades into a series of bets. What are you betting on? What is th
 Start w things trading at extremes. Distill the trade decision into a few questions - be as specific and fundamental as possible. Do this for  all trades and then look for the most popular questions. 
 If you’re being sufficiently abstract and fundamental, there should be lots of common questions. Come up w alternate hypotheses.  Come up with a distribution of outcomes and compare with asset prices.  
 
+
+Once a posisble trade has been identified, questions to Ask:
+- Where is the asymmetric risk and are you being compensated for it?
+- if you take the risk and you're right, how much do you make? how much do you lose?
+	- what does that imply about the odds being priced in?
+	- are those odds consistent with other parts of the market?
+	- e.g. short-vol has asymmetric risk, and so you're paid a VRP for taking it
+		- VIX term structure is upward sloping because you need to be compensated for being short it
+- compensation for the risk should be proportional to how asymmetric it is not the absolute upside/downside (which are prone to more forecast errors anyways)
+
+
+- fundamentals - focus on the variance around estimates rather than their mean
+	- hard to just do a better job at predicting a company's EBITDA esp given how much coverage liquid credits have
+	- instead I try to determine how risky those estimates are
+		- what is the range for sales, costs, etc
+		- what is the range for EBITDA, a FCF and where should things trade in the extremes of that range
+		- based on that, is there asymmetry?
+	- it doesn't matter what next year's EBITDA is, that's unknowable - what matters is the degree to which it can be estimated and the range of possible outcomes
+		- that's how you price risk and look for trading opportunities 
+- by being a generalist, have a better sense of how to price risk
+	- risk-free vs IG vs HY
+	- DM vs EM 
+	- high beta vs low beta credits
   
 
 Examples  
