@@ -85,14 +85,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.9.23.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c91e3b14977a92fd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 2.10.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.9.23.md",
+                "file": "WIL/WILT - 2.10.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,16 +189,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "99fbae076e0c78dd",
+  "active": "c91e3b14977a92fd",
   "lastOpenFiles": [
-    "WIL/WILT - 2.8.23.md",
-    "WIL/WILT - 2.9.23.md",
-    "Molecules/Edge.md",
     "WIL/WILT - Template.md",
+    "WIL/WILW - 1.20.23.md",
+    "WIL/WILT - 2.9.23.md",
+    "WIL/WILT - 2.8.23.md",
+    "Molecules/Edge.md",
     "Untitled 9.md",
     "Pre-socratic.md",
     "Philosophy - Outline.md",
-    "WIL/WILW - 1.20.23.md",
     "WIL/WILT - 2.6.23.md",
     "Current Account Deficits.md"
   ]
