@@ -109,14 +109,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.13.23.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5a4e1830335293a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 2.14.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -174,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.13.23.md",
+                "file": "WIL/WILT - 2.14.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,8 +213,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "106cb12878295550",
+  "active": "5a4e1830335293a4",
   "lastOpenFiles": [
+    "WIL/WILT - 2.13.23.md",
+    "WIL/WILT - 2.14.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 2.10.23.md",
     "WIL/WILW - 1.20.23.md",
@@ -210,8 +224,6 @@
     "WIL/WILT - 2.8.23.md",
     "Molecules/Edge.md",
     "Untitled 9.md",
-    "Pre-socratic.md",
-    "Philosophy - Outline.md",
-    "WIL/WILT - 2.6.23.md"
+    "Pre-socratic.md"
   ]
 }
