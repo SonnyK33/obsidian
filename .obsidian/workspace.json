@@ -4,131 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0abf8c9a992b08fe",
+        "id": "f277b17cb408c80d",
         "type": "tabs",
         "children": [
           {
-            "id": "bf8cc795693ca0c5",
+            "id": "63ddc5ab050a8017",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - Template.md",
+                "file": "Inflation.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4fe1b762cf91ce8d",
+            "id": "f86df8e2e9a4140f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - Template.md",
+                "file": "Molecules/Dollar Hegemony.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "1f5fb67655c9616e",
+            "id": "e1db54e689d9d162",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ba3052afb205ddfa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pre-socratic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "69556b0f2fa1cbc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 9.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63a3f16f3b538111",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "99fbae076e0c78dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c91e3b14977a92fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "106cb12878295550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5a4e1830335293a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 2.14.23.md",
+                "file": "Copper - Outline.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -157,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "philo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -186,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.14.23.md",
+                "file": "Copper - Outline.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5a4e1830335293a4",
+  "active": "e1db54e689d9d162",
   "lastOpenFiles": [
-    "WIL/WILT - 2.13.23.md",
-    "WIL/WILT - 2.14.23.md",
-    "WIL/WILT - Template.md",
-    "WIL/WILT - 2.10.23.md",
-    "WIL/WILW - 1.20.23.md",
-    "WIL/WILT - 2.9.23.md",
-    "WIL/WILT - 2.8.23.md",
-    "Molecules/Edge.md",
-    "Untitled 9.md",
-    "Pre-socratic.md"
+    "China vs US - Dollar Dominance.md",
+    "Bipolar Currency Regime.md",
+    "Molecules/Dollar Hegemony.md",
+    "Molecules/Currency and Hegemony.md",
+    "Pre-socratic.md",
+    "Philosophy - Outline.md",
+    "Japan Monetary Policy.md",
+    "Japan - Outline.md",
+    "Chip war.md",
+    "Turkey - Outline.md"
   ]
 }

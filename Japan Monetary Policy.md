@@ -38,6 +38,10 @@ Hedge mechanics:
 Higher local yields make hedged USD yields less attractive, hence lowering demand for USD credit. Higher policy rates in Japan (which drive hedgers' cost of borrowing) would strengthen the JPY in the forward market, lowering hedging costs. That hasn't happened yet, so the net effect of keeping policy rates steady but raising 10y yields (which will increase corporate yields) is make hedged foreign yields less attractive. 
 
 
+**New BOJ Head**
+First time BOJ will be headed by an academic since WW2.
+
+
 #Trades 
 1) JPY as a funding currency. This is likely to unwind. Japanese investors own a lot of US credit due to the yield differential, but they hedge the FX. A stronger JPY will require them to increase their hedge which is already too expensive. This could cause them to unload a lot of US credit, particularly IG credit. 
 2) Less demand for structured products which involve selling of options - more volatility 

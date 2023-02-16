@@ -2,6 +2,7 @@ Type: #Atom
 Topics: #China 
 References: [[Top Traders Podcast GM 23]] [[Monetary Tightening - 2022]] 
 [[China - Outline]] [[Gold - Outline]]
+[[Bipolar Currency Regime]]
 
 
  China wants to displace the dollar for Asian trade
