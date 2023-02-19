@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Copper - Outline.md",
+                "file": "WIL/WILW - 1.27.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -102,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Copper - Outline.md",
+                "file": "WIL/WILW - 1.27.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,6 +131,7 @@
   },
   "active": "e1db54e689d9d162",
   "lastOpenFiles": [
+    "Copper - Outline.md",
     "China vs US - Dollar Dominance.md",
     "Bipolar Currency Regime.md",
     "Molecules/Dollar Hegemony.md",
@@ -139,7 +140,6 @@
     "Philosophy - Outline.md",
     "Japan Monetary Policy.md",
     "Japan - Outline.md",
-    "Chip war.md",
-    "Turkey - Outline.md"
+    "Chip war.md"
   ]
 }
