@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e46026041c276303",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Research - WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 1.27.23.md",
+                "file": "Field Research - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,17 +141,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e1db54e689d9d162",
+  "active": "e46026041c276303",
   "lastOpenFiles": [
+    "Molecules/Edge.md",
+    "Field Research - WIP.md",
+    "Measuring the Moat.md",
+    "Analysis of Competing Hypotheses.md",
+    "WIL/WILW - 1.27.23.md",
+    "The Gospel of Deglobalization.md",
     "Copper - Outline.md",
     "China vs US - Dollar Dominance.md",
     "Bipolar Currency Regime.md",
-    "Molecules/Dollar Hegemony.md",
-    "Molecules/Currency and Hegemony.md",
-    "Pre-socratic.md",
-    "Philosophy - Outline.md",
-    "Japan Monetary Policy.md",
-    "Japan - Outline.md",
-    "Chip war.md"
+    "Molecules/Dollar Hegemony.md"
   ]
 }

@@ -1,6 +1,12 @@
 Type: #molecule 
 References: [[2023 Trades]]
 
+[[Field Research - WIP]]
+
+[[Analysis of Competing Hypotheses]]
+
+[[Understand Narrative]]
+
 What are the drivers of a credit? What factors can be absracted across different sectors and even asset classes (corporates, sovereigns, equities, etc)
 1) What is pricing power?
 2) Operating leverage 
