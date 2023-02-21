@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Field Research - WIP.md",
+                "file": "WIL/WILW - 1.27.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Field Research - WIP.md",
+                "file": "WIL/WILW - 1.27.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,8 +143,8 @@
   },
   "active": "e46026041c276303",
   "lastOpenFiles": [
-    "Molecules/Edge.md",
     "Field Research - WIP.md",
+    "Molecules/Edge.md",
     "Measuring the Moat.md",
     "Analysis of Competing Hypotheses.md",
     "WIL/WILW - 1.27.23.md",
