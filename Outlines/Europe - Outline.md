@@ -35,3 +35,6 @@ EU member states are starting to develop regulations on tech firms ahead of Brus
 **Russia**
 [[Russia - outline]]
 The EU is set to cut Russian diesel which makes up 25pct of their needs. Russia could try selling it to India or China, but they have their own refining capacity so may be reluctant to import it. As a result market will get tighter.
+
+**Bankruptcies**
+Bankruptcies in the EU have picked up after Covid relief dried up. Upticks have been seen in France and Spain. The latter also passed a new insolvency law making bankruptcies easier.

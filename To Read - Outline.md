@@ -78,6 +78,12 @@ https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0AEF98D2
 [[All Quiet on the Western Front Movie]]
 History of Prussia
 
+[[Ghost of Kennan]]
+Kennans diaries
+Gaddis’ biography on Kennan
+Lippman’s “Cold War”
+
+
 **Fiction**
 [[Home in the World (Amartya Sen)]]
 

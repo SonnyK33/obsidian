@@ -1,6 +1,7 @@
 Type: #Atom 
 References: Episode 1 and 2, Philosophize This podcast
 [[Myth of  Sisyphus]]
+[[Philosophy - Outline]]]
 
 The ability to develop philosophy required basic needs to be met. You can’t be spending too much brain power on defense and food. From the early days, Western philosophy split into Greek and Italian schools  
 
