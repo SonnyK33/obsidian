@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.24.23.md",
+                "file": "Geopoltical Alpha.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "geopolitical alpha",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,7 +70,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -90,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.24.23.md",
+                "file": "Geopoltical Alpha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,12 +120,12 @@
   },
   "active": "c94ca163c33e7c1a",
   "lastOpenFiles": [
-    "Inflation.md",
-    "WIL/WILT - 2.24.23.md",
-    "WIL/WILT - Template.md",
-    "Geopoltical Alpha.md",
-    "Molecules/Median Voter Theory.md",
     "Geopolitics of Global Finance.md",
+    "Geopoltical Alpha.md",
+    "WIL/WILT - 2.24.23.md",
+    "Inflation.md",
+    "WIL/WILT - Template.md",
+    "Molecules/Median Voter Theory.md",
     "Forward Guidance - Roger Hirst.md",
     "Forward Guidance - Wang and Dominique.md",
     "Forward Guidance - Bianco.md",
