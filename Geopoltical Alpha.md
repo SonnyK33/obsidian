@@ -2,47 +2,29 @@ Type: #source
 References: [[Geopolitics of Global Finance]]
 
 Outline:
+[[To Read - Outline]]
+Read: the economic consequence of peace by Keynes,
+House of Rothschild by Ferguson 
+Mersheimer - great power politics (refresh)
+
+**My Edge:**
+I can add value here - EM skill set, macro, understanding balance of payments etc
+
+**Molecules:**
+Develop idea - neoliberal order -Washington consensus as global vol suppressants - begets more vol
 
 Notes:
 
 **Intro**
 
-Geopolitics for developed markets matters again - the first big example may be the euro area crisis beginning in 2010
 
-  
+Geopolitics for developed markets matters again. The financial crisis and ensuing Euro Area crisis in 2010 was the start. From the end of the cold war until that point, many argued that the whole world was moving towards liberal democracy and globalization. This is now reversing. The destruction of the middle class and the victory of capital over labour is experiencing a backlash. We're now moving towards a new cold war between the US and China. We're seeing the end of the Washington consensus and the re-emergence of polticized monetary policy, strong unions, and high inflation.
 
-Read: the economic consequence of peace by Keynes,
+Stability begets volatility (like Minskys argument on markets), and the stability brought by the US allowed other countries to build up their own economies until they were dominant enough to challenge the US globally or regionally. China's an obvious example. But India, Brazil, Russia, and Saudi Arabia are others. 
 
-House of Rothschild by Ferguson 
+Globalization moves in cycles. It can only last if a dominant power is willing to pick up the tab for global defense, patrolling trade routes etc. The US filled that role by running huge deficits which they could do because of the dollar’s hegemonic status. Neoliberal policies in the US and UK have come under attack domestically due to rising inequality making the US less likely to maintain this role. The developed countries' middle classes bore most of the cost for the US' dominance. The world is now becoming more multipolar, and that will lead to more volatility.
 
-Berlin Wall falling and Gorbachev’s perestroika marked the victory of capitalism - Fukuyama’s end of history for example 
-
-The last several years shows the reverse - new powers, deglobalization
-
-I can add value here - EM skill set, macro, understanding balance of payments etc
-
-Everything’s on the table again
-
-Defeat of Soviet Union was concurrent w Reagan/Thatcherism economics - end of high fiscal deficits and politicized monetary policy, strong unions, and high inflation culminating w oil shock w Yom Kippur war - start of the Washington consensus
-
-Stability begets volatility (like Minskys argument on markets) - stability brought by the US allowed other countries to build up their own economies until they were dominant enough to challenge the US globally or regionally 
-
-  
-
-Deglobalization is structural - it can only last if a dominant power is willing to pick up the tab for global defense, patrolling trade routes etc. US filled that role by running huge deficits which they could do bc of the dollar’s hegemonic status. Neoliberal policies in the us and Uk have come under attack domestically due to rising inequality making the US less likely to maintain this role.
-
-Who bore the cost for the US enforcement of global rules? Primarily the US middle class whose incomes fell as the global labour supply expanded.
-
-  
-
-Multiplolarty will lead to more volatility.refresh on mershwmer - great power politics
-
-Mershwomers other work as well including the great delusion 
-
-Develop idea - neoliberal order -Washington consensus as global vol suppressants - begets more vol
-
-
-In the 1960s inflation didn’t spike even after low unemployment - causes complacency and allowed govt to expand fiscally - Vietnam war, great society entitlements
+In the 1960s inflation didn’t spike even after low unemployment. This caused complacency and allowed the government to expand fiscally -  Vietnam war, great society entitlements for example. (Cross-check here with monetary policy history book)
 
 Led to 1970 stagflation
 
