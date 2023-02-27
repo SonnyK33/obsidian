@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "c94ca163c33e7c1a",
+            "id": "836356dfe127084f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geopoltical Alpha.md",
+                "file": "WIL/WILT - 2.27.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17bd958e47939d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Disunited Kingdom.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "geopolitical alpha",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +82,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geopoltical Alpha.md",
+                "file": "Disunited Kingdom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,17 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c94ca163c33e7c1a",
+  "active": "17bd958e47939d07",
   "lastOpenFiles": [
-    "Geopolitics of Global Finance.md",
-    "Geopoltical Alpha.md",
-    "WIL/WILT - 2.24.23.md",
-    "Inflation.md",
+    "WIL/WILT - 1.3.23.md",
+    "Sources/Algorthmic Trading.md",
+    "Disunited Kingdom.md",
+    "UK - Outline.md",
+    "WIL/WILT - 2.27.23.md",
     "WIL/WILT - Template.md",
-    "Molecules/Median Voter Theory.md",
-    "Forward Guidance - Roger Hirst.md",
-    "Forward Guidance - Wang and Dominique.md",
-    "Forward Guidance - Bianco.md",
-    "China - Outline.md"
+    "Geopoltical Alpha.md",
+    "Geopolitics of Global Finance.md",
+    "WIL/WILT - 2.24.23.md",
+    "Inflation.md"
   ]
 }
