@@ -6,6 +6,10 @@ Outline:
 Read: the economic consequence of peace by Keynes,
 House of Rothschild by Ferguson 
 Mersheimer - great power politics (refresh)
+Psychology of intelligence analysts (CIA)
+The person and the situation. 
+Super forecaster
+
 
 **My Edge:**
 I can add value here - EM skill set, macro, understanding balance of payments etc
@@ -13,7 +17,9 @@ I can add value here - EM skill set, macro, understanding balance of payments et
 **Molecules:**
 Develop idea - neoliberal order -Washington consensus as global vol suppressants - begets more vol
 
-Notes:
+**To Check:**
+In the 1960s inflation didn’t spike even after low unemployment. This caused complacency and allowed the government to expand fiscally -  Vietnam war, great society entitlements for example. (Cross-check here with monetary policy history book). Led to 1970 stagflation
+
 
 **Intro**
 
@@ -24,116 +30,56 @@ Stability begets volatility (like Minskys argument on markets), and the stabilit
 
 Globalization moves in cycles. It can only last if a dominant power is willing to pick up the tab for global defense, patrolling trade routes etc. The US filled that role by running huge deficits which they could do because of the dollar’s hegemonic status. Neoliberal policies in the US and UK have come under attack domestically due to rising inequality making the US less likely to maintain this role. The developed countries' middle classes bore most of the cost for the US' dominance. The world is now becoming more multipolar, and that will lead to more volatility.
 
-In the 1960s inflation didn’t spike even after low unemployment. This caused complacency and allowed the government to expand fiscally -  Vietnam war, great society entitlements for example. (Cross-check here with monetary policy history book)
-
-Led to 1970 stagflation
-
-
 **Framework**
+These are the premises underpinning the constraint system.
 
-First pillar - materialistic dialectic
+First pillar - Materialistic Dialectic
+He uses Marx’s framework of focusing on the material world and people’s interests. This is different from the Hegelian dialectic which says that the world starts from ideas. Marx argued it starts from material interests and ideas are formed afterwards, to justify the realities.
 
-Uses Marx’s framework of focusing on the material world and the people’s interests. Different from Hegelian dialectic which says world starts from ideas. Marx argued it starts from material interests and ideas are formed afterwards,
-
-To justify the realities.
-
-Read:
-
-Psychology of intelligence analysts (CIA)
-
-The person and the situation. 
-
-Super forecastwr 
-
+Second pillar - Seek information that has high diagnostic value.
+This is information that helps you eliminate alternative hypotheses. Information will always be limited and the quality matters more. Too much info can lead to overconfidence (as can specializing). Information that could lead to many outcomes isn’t useful. Evidence should help you narrow down potential outcomes. Once the key problems are identified, you need to come up with competing hypotheses. The next step is find information that helps you distinguish between the hypotheses.
   
+Third pillar - Avoid attribution errors. 
+Analysis (especially in the media) tends to attribute actions to the individual and personalities rather than context and history. People want to believe that humans drive events and not complex factors out of their control (or perhaps caused by the supposed good guys). The media people  what they want to hear. However, context and constraints tend to guide behavior not personalities. A good current example is tying all of Xi’s actions to his personality rather than China’s current status as a rival power to the US. I’d add that context tends to point the finger back at the powerful (often the US) and we don’t want to take responsibility for anything, and so we instead blame it on the foreign dictator. This pillar  drives home the goal of being dispassionate and focused on facts. It also means that one needs to understand the history of a region as much as possible. Reading about the Chinese civil war and subsequent turmoil is much more valuable than the latest psychological profile of Xi.
 
-Second pillar - seek information that has high diagnostic value. This means info that helps you eliminate alternative hypotheses. Information will always be limited and the quality matters more. Too much info can lead to overconfidence (as can specializing). Information that could lead to many outcomes isn’t useful. Evidence should help you narrow down potential outcomes .
-
-  
-
-3rd pillar - avoid attribution errors. Analysis (esp in the media) tends to attribute actions to the individual And his personality rather than the context and history. People want to believe that humans drive events and not complex factors out of our control (or perhaps caused by the supposed good guys) and the media tells them what they want to hear. Context and constraints tend to guide behavior not personalities. A good current example is tying all of Xi’s actions to his personality rather than china’s current status as a rival power to the US. I’d add that context tends to point the finger back at the powerful (often the US) and we don’t want to take responsibility for anything and so instead blame it on the foreign dictator. This pillar seems to drive home the goal of being dispassionate and focused on facts. It also means that one needs to understand the history of a region as much as possible. Reading about the Chinese civil war and subsequent turmoil is much more valuable than the latest psychological profile of Xi.
-
-  
-
-Side note - making lots of predictions and then understanding why they did or didn’t work would be a good tool to understand how these pillars apply to a given situation. Can also try to do it retrospectively. Ex ante, would Putin invade Ukraine?
+Making lots of predictions and then understanding why they did or didn’t work would be a good tool to understand how these pillars apply to a given situation. One can also try to do it retrospectively. Ex ante, would Putin invade Ukraine?
 
 I said no. I thought the risk of backlash was too great and that there was no value to an occupation. Where did I go wrong?
 
-Constraint model equivalent to preference one if constraints don’t exist (obvs)
+Pillar 1 - I thought it was against Putin's interest to invade. What I didn't anticipate was that the Ukraine issue was seen as existential to Putin. It was worth risking economic isolation.
 
-It still is necessary to learn what the preferences are
+Pillar 2 - Information I should've sought:
+- What were the consequences of Ukraine being a de facto NATO member?
+- Would Russia survive isolation?
+- What were the economic consequenes of cutting off trade with Russia? Specifically losing the ability to import
+	- What did Russia import?
+
+Pillar 3 - I think I got this part right. I didnt' focus on Putin or his desire to return to the Soviet Union's glory days.
+
+**Constraint Model**
+The author differentiates between constraints and preferences. The constraint model is equivalent to one based on preferences if constraints don’t exist. This is obvious; if constraints don't exist, leaders will do what they want to do. It still is necessary to learn what the preferences are of leaders. 
 
 **Political Constraints**
+Beware of experts who aren’t actually experts who funnel the views of a small group of people. 
 
-Beware if experts who aren’t actually experts, funnelling (the views of a small group of people) over being overly reliant on a supposed connected source
+He gives the example of Johnson’s actions during negotiations over Brexit. He was acting as if he was okay with a no deal brexit, and many connected sources echoed this. His preferences (as indicated by him) werr to act hawkish. But there were material constraints. Most importantly, a no deal brexit wasn’t popular with anyone. The key insight was that his revealed preference to act aggressively was “nondiagnostic”.  It made sense regardless of whether he actually wanted a no deal exit or not. He had to act tough to get the support from UK independence parties who were taking votes away from Tories.  
 
-  
-
-He gives the example of Johnson’s actions regarding the news it negotiations. He was acting as if he was okay with a no deal brexit and many connected sources echoed this.
-
-  
-
-Preference (as indicated by him) - to act hawkish 
-
-Outcome - no deal brexit 
-
-But there were material constraints - no deal brexit wasn’t popular w anyone 
-
-  
-
-Key insight was his revealed preference to act aggressively was “nondiagnostic” ie made sense regardless of whether he actually wanted a no deal exit 
-
-He had to act tough to get the support from Uk indep parties who were taking votes away from tories
-
-  
-
-Note - this seems obvious to me. The value is to separate a prediction into components.
-
+This seems obvious to me. The value is to separate a prediction into components.
 1) he wants to act aggressively (preference) 
-
 2) this will lead to a no deal Brexit 
-
 3) no constraints 
 
-  
+There are obviously constraints, but his aggressive attitude led people to believe that they didn’t matter or he didn’t care. What you had to recognize is there were multiple reasons for him to act like this (That is, his behavior was non-diagnostic). Leaders always have satisfy domestic constituencies as well (Putnam's two level theory) and hawkish rhetoric is almost always non-diagnostic.   
 
-There are obviously constraints but his aggressive Attitude led ppl to believe they didn’t matter or he didn’t care 
+If constraints are being overlooked, it's worth examining the leaders preferences and the context further. Funneling is what led to wrong forecasts around the Argentine election. Everyone talked to same small group of people in BA who told people what they wanted to hear. I’ve often noted this bias in EM. Rich expats tell rich Americans what they want to hear - that a poor country wants pro-market reforms. The author claims a HF called him a socialist for doubting Macri’s chances.   
 
-What you had to recognize is there were multiple reasons for him to act like this (ie non diagnostic)
+Trusting insiders led people to doubt trump would pass tax reform. Side note - this was the first time since Kennedy/Johnson that an administration passed tax reform during an expansion (as detailed by Binder's Monetary History book). That led to inflation which was exacerbated by higher military spending (over Vietnam) which we're  seeing again. People are easily impressed by access - “So and so is close to the kremlin”. In Argentine case, people ignored how policies were unpopular and looked past the lack of recent polls. There was too much value  put polls run by campaigns.   
 
-  
-
-If constraints being overlooked worth examining the leaders preferences and the context further
-
-Funneling is what led to wrong forecasts around argentine election 
-
-Everyone talked to same small group of people in BA who told ppl what they wanted to hear
-
-Note - I’ve often spoke about this bias in EM - rich expats tell rich Americans what they want to hear - that a poor country wants pro market reforms. The author claims a HF called him a socialist for doubting macro’s chances. 
-
-  
-
-Trusting insiders led ppl to doubt trump would pass tax reform.
-
-Side note - this was the first time since Kennedy/Johnson that an administration passed tax reform during an expansion (as detailed by other book I’m reading) that led to inflation esp with higher military budget which were also seeing
-
-Ppl are easily impressed by access - see that all the time  
-
-“So and so is close to the kremlin” 
-
-  
-
-To read - that cia manual
+In the Trump tax case, people believed Republicans would still care about deficits with Trump in charge. Although it seems obvious to me that Republicans were hypocrites in this area, the S&P did pop 7% post reform, so it wasn’t priced in. Even tea party republicans said it didn’t have to be revenue neutral.
 
 
-In Argentine case, ppl ignored how policies were unpopular and looked past the lack of recent polls
-
-Too much value was put on campaign polls
-
-  
-
-In the tax case, ppl for some reason believed republicans would still Care about deficits. Although it seems obvious to me ppl knew republicans were hypocrites in this topic, the S&P did pop 7pct post reform so it wasn’t priced in. I don’t remember what trump said on this specifically. Why didn’t market price this in? Worth looking into. Even tea party republicans said it didn’t have to be revenue neutral.
-
+***Start Here***
+__________
   
 
 Italy’s budget seems to be the most important analogue today
