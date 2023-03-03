@@ -1,5 +1,6 @@
 Type: #source 
 References: [[Geopolitics of Global Finance]]
+[[Median Voter Theory]]
 
 Outline:
 [[To Read - Outline]]
@@ -9,7 +10,7 @@ Mersheimer - great power politics (refresh)
 Psychology of intelligence analysts (CIA)
 The person and the situation. 
 Super forecaster
-
+Tetlock’s expert political judgement 
 
 **My Edge:**
 I can add value here - EM skill set, macro, understanding balance of payments etc
@@ -19,6 +20,20 @@ Develop idea - neoliberal order -Washington consensus as global vol suppressants
 
 **To Check:**
 In the 1960s inflation didn’t spike even after low unemployment. This caused complacency and allowed the government to expand fiscally -  Vietnam war, great society entitlements for example. (Cross-check here with monetary policy history book). Led to 1970 stagflation
+
+Financial constraints - may differ from underlying economy. These are the best opportunities 
+What does this refer to?
+
+**Todos:**
+Italy’s budget seems to be the most important analogue today
+Use leader's power checklist for new Nigerian President
+Econ constraints/101 - 
+Check balance of payments, domestic budgets, unemployment, etc
+Productivity, savings rate, insolvency laws etc
+
+**Connections:**
+On China property, remember that high apartment prices were one of the sources of the HK protests. It's unlikely that Xi allows China properties to become avenues for speculation. Affordability is key. China cares much more about public preferences than the West would have you believe. They made the decision to be competent rather than revolutionary and focus on public preferences after the collapse of the Soviet Union.
+
 
 
 **Intro**
@@ -75,62 +90,31 @@ If constraints are being overlooked, it's worth examining the leaders preference
 
 Trusting insiders led people to doubt trump would pass tax reform. Side note - this was the first time since Kennedy/Johnson that an administration passed tax reform during an expansion (as detailed by Binder's Monetary History book). That led to inflation which was exacerbated by higher military spending (over Vietnam) which we're  seeing again. People are easily impressed by access - “So and so is close to the kremlin”. In Argentine case, people ignored how policies were unpopular and looked past the lack of recent polls. There was too much value  put polls run by campaigns.   
 
-In the Trump tax case, people believed Republicans would still care about deficits with Trump in charge. Although it seems obvious to me that Republicans were hypocrites in this area, the S&P did pop 7% post reform, so it wasn’t priced in. Even tea party republicans said it didn’t have to be revenue neutral.
+In the Trump tax case, people believed Republicans would still care about deficits with Trump in charge. Although it seems obvious to me that Republicans were hypocrites in this area, the S&P did pop 7% post reform, so it wasn’t priced in. Even tea party republicans said it didn’t have to be revenue neutral. 
 
+Rather than relying on experts with supposed access, you should use certain kinds of political consultants - academics, regulators, and technocrats. It's important to identify the proper questions first (second pillar).
 
-***Start Here***
-__________
-  
+When analyzing a leader’s power, you must consider various factors.
+1) How popular is he
+2) how long has he been in power (most start with a honeymoon period)
+3) how much control over legislature does he have
+4) what's the economic context (did he create or inherit a crisis? Macri vs Bolsonaro for example)
+5) how much support does he have from special interest groups
+6) global context (e.g. Arab Spring, pink tide in Latin America)
 
-Italy’s budget seems to be the most important analogue today
+Johnson faced several constraints preventing a no deal Brexit. The public didn’t support it, he wasn’t perceived as new as he took over May's government, and he lacked control over parliament.
 
-Should use certain kinds of political consultants - academics, regulators, and technocrats over those w supposed access
+Successful governments follow the mean value theorem [[Median Voter Theory]]. They figure out the most important issue, determine what the median voter wants, and then emulates that. Trump and Brexiteers realized globalization and immigration were the most important and they had support from the median voter. While it's important to guage what the public wants, you shouldn't discount the governments ability to change minds. The incumbent especially can influence the media to change what the public thinks is the most important (e.g getting the public to support the US' current wars, despite it not being the main issue for most Americans). Policymakers can deviate from median voter preferences temporarily, but eventually they’re forced to return. For example, Trump passed corporate tax cuts, going against his populist message, but he lost in the midterms.
+ 
+Non-democracies are also guided by MVT. China is  bound by the preferences of the middle class. If US policy threatened its ability to escape the middle income trap, it would get aggressive. Short of that, it will be constrained in acting against the US because median incomes are the most important. The government's abandonment of Covid Zero in the face of protests is evidence of this.
 
-  
-
-Political constraints
-
-Read - tetlock’s expert political judgement 
-
-Analyze a leader’s power. Uses various factors 
-
-Popularity, how long in power (starts w honeymoon period), control over legislature, Econ context (created or inherited crisis - macri vs bolsonaro for example), support of special interest groups, and global context
-
-Johnson faces several constraints preventing a no deal Brexit. The public didn’t support it, he wasn’t perceived as new as he took over Mays government, he lacked control over parliament.
-
-  
-
-Successful governments follow the mean value theorem. Figure the most important issue, what does the median voter want then emulate that. Trump and brexiteerS realized globalization and immigration were the most important and the median voter didn’t support them.
-
-What about the governments ability to influence the press to change what the public thinks is the most important. Eg to support its current wars .. despite not being the main issue for most of the public
-
-Policymakers can deviate from median voter preferences temporarily, but eventually they’re forced to return. Trump passed corporate tax cuts going against his populist message but lost in the mid terms .
-
-  
-
-China is also bound by the preferences of the middle class. If uS policy threatened its ability to escape the middle income trap, it would get aggressive. Short of that, it will be constrained in acting against the US bc median incomes are most important. Reaction to Covid protests proves this.
-
-On China property, remember that high apartment prices were one of the sources of the HK protests. Unlikely that Xi allows China properties to become avenues for speculation. Affordability is key. China cares much more about public preferences than the west acts. They made the decision to be competent rather than revolutionary and focus on public preferences  after the collapse of the Soviet Union.
 
 **Economic Constraints**
+Economic constraints are keeping Germany in the EU. The Euro allowed Germany to depreciate its currency and boost exports. A majority of its exports go to the EU. If it were to leave, it’s exports wouldn’t be economical anymore. It exports far less to China and its domestic market isn’t helped by low birth and immigration rates.
 
-Econ constrains - review Econ 101
+The Euro was put in place to restrain Germany. The previous model of fixing currencies to the Deutschmark gave them too much power. But the depreciated Euro is keeping them in and required them to bail out the periphery during the last crisis. An increasingly multipolar world is also keeping the EU together. They know they can’t rely on the US anymore, and they’re stronger together.
 
-Check balance of payments, domestic budgets, unemployment, etc
-
-Productivity, savings rate, insolvency laws etc
-
-  
-
-Financial constraints - may differ from underlying economy. These are the best opportunities 
-
-  
-
-Econ constraints are keeping Germany in the EU. The euro allowed Germany to depreciate its currency and boost exports. A majority of its exports go to the EU. If it were to leave, it’s exports wouldn’t be economical anymore. It exports far less to China and domestic market isn’t helped by low birth and immigration rates.
-
-The euro was put in place to restrain Germany. The previous model of fixing currencies to Deutschmark gave them too much power. But the depreciated Euro is keeping them in and required them to bail out periphery during last crisis. Increasing multipolar world is also keeping the eu together. They know they can’t rely on the US anymore. They’re stronger together.
-
-Greeks never seriously considered leaving the eurozone as even with a devalued currency it would be hard to compete. It lost most of its exports to Asian competition, and by 2015, mainly exported refined petroleum and mining products. As it’s manufacturing base was gone, it wouldn’t benefit from a devalued currency. It also would’ve needed FDI post devaluation which would be unlikely given the turmoil. They were also fully dependent on imports for energy, making a devaluation even tougher.
+The Greeks never seriously considered leaving the Eurozone. Even with a devalued currency, it would be hard to compete. It lost most of its exports to Asian competition, and by 2015, it mainly exported refined petroleum and mining products. As it’s manufacturing base was gone, it wouldn’t benefit from a devalued currency. It also would’ve needed FDI post devaluation which would be unlikely given the turmoil. They were also fully dependent on imports for energy, making a devaluation even tougher.
 
   
 
