@@ -1,6 +1,7 @@
 Type: #source 
 References: [[Geopolitics of Global Finance]]
 [[Median Voter Theory]]
+[[WILT - 3.6.23]]
 
 Outline:
 [[To Read - Outline]]

@@ -1,6 +1,7 @@
 Type: #Outline 
 References:
 Brazil - [https://on.ft.com/3GDsg64](https://on.ft.com/3GDsg64)
+Ecuador - [[WILT - 3.6.23]]
 2023 Themes:
 - Strong commodity prices - 
 [[Commodities Note]]
