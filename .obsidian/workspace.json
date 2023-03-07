@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Geopoltical Alpha.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b1e36bbdc97d741",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 3.7.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geopoltical Alpha.md",
+                "file": "WIL/WILT - 3.7.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +117,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "bab62206cb980f9b",
+  "active": "9b1e36bbdc97d741",
   "lastOpenFiles": [
-    "Clash of Empires Update Identifying Winners and losers.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 3.7.23.md",
     "Geopoltical Alpha.md",
+    "Clash of Empires Update Identifying Winners and losers.md",
     "Indian Defense Spending.md",
     "Japan Fighter Jet Program.md",
     "Sources/Stillwell and the American Experience in China (1911-1945).md",
     "Molecules/Dollar Hegemony.md",
-    "WIL/WILT - Template.md",
     "Mental Models.md",
     "WIL/WILT - 3.6.23.md",
     "WIL/WILT - 2.27.23.md",
