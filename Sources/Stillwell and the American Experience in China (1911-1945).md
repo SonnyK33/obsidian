@@ -1,6 +1,7 @@
 Author:  Barbara Tuchman
 Type: #source #book
 Topics: #China #foreign_policy #USA #Imperialism 
+References: [[Geopoltical Alpha]]
 
 Summary
 - Stillwell as the American military liasison officer to CKS

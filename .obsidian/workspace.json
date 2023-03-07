@@ -8,48 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1d7d8dc0405064cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 3.6.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f1f692a627b81f2f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Mental Models.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8bc242ca1cf6bfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - Template.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bab62206cb980f9b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Dollar Hegemony.md",
+                "file": "Geopoltical Alpha.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.6.23.md",
+                "file": "Geopoltical Alpha.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,18 +104,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d7d8dc0405064cd",
+  "active": "bab62206cb980f9b",
   "lastOpenFiles": [
+    "Clash of Empires Update Identifying Winners and losers.md",
+    "Geopoltical Alpha.md",
+    "Indian Defense Spending.md",
+    "Japan Fighter Jet Program.md",
+    "Sources/Stillwell and the American Experience in China (1911-1945).md",
+    "Molecules/Dollar Hegemony.md",
     "WIL/WILT - Template.md",
-    "WIL/WILT - 3.6.23.md",
     "Mental Models.md",
+    "WIL/WILT - 3.6.23.md",
     "WIL/WILT - 2.27.23.md",
     "WIL/WILW - Template.md",
-    "Molecules/Dollar Hegemony.md",
-    "Clash of Empires Update Identifying Winners and losers.md",
     "Outlines/Latam - Outline.md",
     "Nigeria - Outline.md",
-    "Geopoltical Alpha.md",
     "Molecules/Median Voter Theory.md",
     "WIL/WILT - 2.15.23.md",
     "WIL/WILT - 2.24.23.md",
