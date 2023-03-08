@@ -37,14 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forward Guidance - Howell.md",
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d04217e1e5c7bfc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 3.8.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forward Guidance - Howell.md",
+                "file": "WIL/WILT - 3.8.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,12 +141,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d3ca2ca2b04d3a67",
+  "active": "d04217e1e5c7bfc9",
   "lastOpenFiles": [
-    "WIL/WILT - 3.7.23.md",
-    "Forward Guidance - Howell.md",
-    "Forward Guidance - Mike Green.md",
     "WIL/WILT - Template.md",
+    "WIL/WILT - 3.8.23.md",
+    "Forward Guidance - Howell - WIP.md",
+    "WIL/WILT - 3.7.23.md",
+    "Forward Guidance - Mike Green.md",
     "Geopoltical Alpha.md",
     "Clash of Empires Update Identifying Winners and losers.md",
     "Indian Defense Spending.md",
@@ -155,7 +168,6 @@
     "WIL/WILT - 1.3.23.md",
     "Sources/Algorthmic Trading.md",
     "UK - Outline.md",
-    "Geopolitics of Global Finance.md",
-    "Inflation.md"
+    "Geopolitics of Global Finance.md"
   ]
 }
