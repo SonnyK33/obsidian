@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d3ca2ca2b04d3a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forward Guidance - Howell.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.7.23.md",
+                "file": "Forward Guidance - Howell.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,10 +129,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "9b1e36bbdc97d741",
+  "active": "d3ca2ca2b04d3a67",
   "lastOpenFiles": [
-    "WIL/WILT - Template.md",
     "WIL/WILT - 3.7.23.md",
+    "Forward Guidance - Howell.md",
+    "Forward Guidance - Mike Green.md",
+    "WIL/WILT - Template.md",
     "Geopoltical Alpha.md",
     "Clash of Empires Update Identifying Winners and losers.md",
     "Indian Defense Spending.md",
