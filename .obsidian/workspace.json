@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "1639032ef9ff3846",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 3.15.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8392c84995fa0ebf",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -114,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.14.23.md",
+                "file": "WIL/WILT - 3.15.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,10 +153,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "ba9ab2eb20fed4fc",
+  "active": "1639032ef9ff3846",
   "lastOpenFiles": [
-    "WIL/WILT - 3.13.23.md",
     "WIL/WILT - 3.14.23.md",
+    "WIL/WILT - 3.15.23.md",
+    "WIL/WILT - 3.13.23.md",
     "WIL/WILT - Template.md",
     "Sources/Second Leg Down.md",
     "VIX.md",
@@ -167,7 +180,6 @@
     "WIL/WILW - Template.md",
     "Outlines/Latam - Outline.md",
     "Nigeria - Outline.md",
-    "Molecules/Median Voter Theory.md",
-    "WIL/WILT - 2.15.23.md"
+    "Molecules/Median Voter Theory.md"
   ]
 }
