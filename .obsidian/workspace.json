@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 3.15.23.md",
+                "file": "WIL/WILW - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "69da3bdc3b6ce668",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILW - 3.17.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.15.23.md",
+                "file": "WIL/WILW - 3.17.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,11 +165,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1639032ef9ff3846",
+  "active": "69da3bdc3b6ce668",
   "lastOpenFiles": [
-    "WIL/WILT - 3.14.23.md",
     "WIL/WILT - 3.15.23.md",
+    "WIL/WILW - 3.17.23.md",
+    "WIL/WILT - 3.14.23.md",
     "WIL/WILT - 3.13.23.md",
+    "WIL/WILW - 1.27.23.md",
+    "WIL/WILW - Template.md",
     "WIL/WILT - Template.md",
     "Sources/Second Leg Down.md",
     "VIX.md",
@@ -177,9 +192,6 @@
     "Mental Models.md",
     "WIL/WILT - 3.6.23.md",
     "WIL/WILT - 2.27.23.md",
-    "WIL/WILW - Template.md",
-    "Outlines/Latam - Outline.md",
-    "Nigeria - Outline.md",
-    "Molecules/Median Voter Theory.md"
+    "Outlines/Latam - Outline.md"
   ]
 }
