@@ -61,7 +61,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILW - 3.17.23.md",
+                "file": "WIL/WILW - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d71bb6862572fbf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILW - 3.23.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 3.17.23.md",
+                "file": "WIL/WILW - 3.23.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -165,14 +177,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "69da3bdc3b6ce668",
+  "active": "d71bb6862572fbf5",
   "lastOpenFiles": [
-    "WIL/WILT - 3.15.23.md",
+    "WIL/WILW - Template.md",
+    "WIL/WILW - 3.23.23.md",
     "WIL/WILW - 3.17.23.md",
+    "WIL/WILT - 3.15.23.md",
     "WIL/WILT - 3.14.23.md",
     "WIL/WILT - 3.13.23.md",
     "WIL/WILW - 1.27.23.md",
-    "WIL/WILW - Template.md",
     "WIL/WILT - Template.md",
     "Sources/Second Leg Down.md",
     "VIX.md",
@@ -191,7 +204,6 @@
     "Molecules/Dollar Hegemony.md",
     "Mental Models.md",
     "WIL/WILT - 3.6.23.md",
-    "WIL/WILT - 2.27.23.md",
-    "Outlines/Latam - Outline.md"
+    "WIL/WILT - 2.27.23.md"
   ]
 }
