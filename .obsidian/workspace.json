@@ -80,6 +80,18 @@
             }
           },
           {
+            "id": "a2660d319a444655",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Should the US Run a Trade Surplus.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "8392c84995fa0ebf",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 3.23.23.md",
+                "file": "Should the US Run a Trade Surplus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,10 +189,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d71bb6862572fbf5",
+  "active": "a2660d319a444655",
   "lastOpenFiles": [
-    "WIL/WILW - Template.md",
     "WIL/WILW - 3.23.23.md",
+    "Should the US Run a Trade Surplus.md",
+    "WIL/WILW - Template.md",
     "WIL/WILW - 3.17.23.md",
     "WIL/WILT - 3.15.23.md",
     "WIL/WILT - 3.14.23.md",
@@ -203,7 +216,6 @@
     "Sources/Stillwell and the American Experience in China (1911-1945).md",
     "Molecules/Dollar Hegemony.md",
     "Mental Models.md",
-    "WIL/WILT - 3.6.23.md",
-    "WIL/WILT - 2.27.23.md"
+    "WIL/WILT - 3.6.23.md"
   ]
 }
