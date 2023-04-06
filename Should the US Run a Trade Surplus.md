@@ -1,13 +1,21 @@
 Type: #source 
 Author: Michael Pettis
+References:
+https://carnegieendowment.org/chinafinancialmarkets/78496
+https://qz.com/1266044/why-does-the-us-run-a-trade-deficit-to-maintain-the-dollars-privileged-position
+[[Triffin Dilemma]]
+[[Volatility Machine]]
 
-If trade was running per fundamentals, the US would be running a trade surplus. In normal times, capital flows from rich countries with an abundance of technology and developed financial markets to less developed countries who need capital. The US should have a high savings rate, partially exacerbated to high levels of income inequality (the rich can save more). A high savings rate would  mean a lower consumption share and hence less imports. Capital flows means the US should run a capital account deficit and consequently a trade surplus (why?). 
+
+If trade was running per fundamentals, the US would be running a trade surplus. In normal times, capital flows from rich countries with an abundance of technology and developed financial markets to less developed countries who need capital. The US should have a high savings rate, partially exacerbated to high levels of income inequality (the rich can save more). A high savings rate would  mean a lower consumption share and hence less imports. Savings (income that isn't consumed) that aren't invested must be exported as capital account deficits. That is, they're converted into foreign currencies and sent abroad. Because you would expect the US to have a higher savings rate than developing countries, there should be less demand to hold USD versus foreign currencies. USD instead would be spent on US exports, thus leading to a trade surplus. Capital flows means the US should run a capital account deficit and consequently a trade surplus. 
 
 Shifts in income distribution affect the savings rate and the investment rate. Investment, along with the capital account, affects ex-post savings (the actual savings rate vs the ex-ante savings - what households plan to save). Any savings that aren't invested must be exported. Exported capital will pay for imports. So the excess savings translates to a current account surplus and a current account deficit. 
 
 In rich countries, high savings won't fully translate to higher investment as investment needs are limited. In poor countries, when infrastructure needs are great, higher savings (and equivalently, lower consumption) should translate to higher investment. Excess savings (S - I) leads to a current account surplus and capital account deficit. Higher savings means less consumption and hence less imports. Excess savings in one region are used to purchase financial assets in another. That is, they're used to import financial assets and leads to a capital account deficit. For example, when excess Chinese savings are used to purchase US treasuries that creates a capital market deficit (DR or "import"). 
 
-In the US, income inequality drives a higher savings rate. One would expect this to lead to a capital account deficit and current account surplus. 
+In the US, income inequality drives a higher savings rate and for savings to rise faster than investment. One would expect this to lead to a capital account deficit and current account surplus. This doesn't happen in the US, as its capital account is largely driven by the decision of foreigners. Currently, 40-50% of foreign capital account deficits (i.e. excess savings) is absorbed by the US. As long as there is so much foreign demand for USD, the US can't be a net exporter of savings. This also implies that the US doesn't actually have excess savings (since this is an accounting identity). So something is causing a savings deficit in other parts of the country. This is offsetting the excess savings created by income equality and all of the imported foreign savings. 
+
+The chronic US trade deficit requires it to either accept higher unemployment or more debt (check companion pieces for explanation). The only way for the US to correct these imbalances is to manage its capital account (e.g. by taxing capital inflows). This is also an issue for other countries with open capital accounts (e.g. UK) and peripheral Europe which took in excess savings from Germany. Per [[Volatility Machine]] by the same author, capital flows into EM's during boom times also drive current account deficits in those countries. 
 
 
 
@@ -73,3 +81,8 @@ Capital Account
 CR EUR 909 
 DR $1,000 
 CR $1,000
+
+**Reserve Currency and BoP**
+Having the reserve currency means you run constant capital account surpluses. That is, you are constantly selling your currency to others (since it's the reserve currency). When other countries sell their goods to you (i.e. you imports), they earn your currency (you can also think about it you being  forced to convert your currency into theirs - either way, they'll earn your currency). As it's the reserve currency, other countries will hold that currency as savings. If it wasn't the reserve currency, they would instead spend it on your countries' exports, hence lowering the trade deficit. Rather than spending it on your exports though, they hold it in your securities. Hence, your reserve status leads to structural trade deficits. Either countries want your goods (or services) or your currency. When the US earns foreign currency, it spends it on imports, as they have no need to hold it as savings. 
+
+While it's true that trade deficits lead to capital surpluses, it's wrong to think (as many argue) that trade deficits don't matter. Different goups will win or lose depending on whether you're exporting your currency or your goods. The rich will benefit from the ability to borrow at lower rates. The poor will lose from having a weaker export sector. 
