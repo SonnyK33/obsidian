@@ -1,6 +1,7 @@
 Type: #source 
 Author: Antonio Molina
 Tags: #escape #conspiracy #cold_war
+[[Myth of Sisyphus]]
 
 Like a fading shadow gives an account of James Earl Ray on the run in Portugal. It contrasts the lies and stories told by Ray while on the run with the author’s own writing process. Like Ray, the author sought refuge in Lisbon while completing one of his earlier novels. He was escaping from his mundane job and family life to the fantasy that was his novel. He talks about those days regretfully— how he left his newborn son and wife to go to Lisbon, and how he spent many nights drinking and doing drugs with friends. In the end, his novel was a success and he returned to his family. Ray’s escape was not successful as he was eventually captured and extradited to the US. The novel was strange and unique; 
 

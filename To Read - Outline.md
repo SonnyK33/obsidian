@@ -83,6 +83,13 @@ Kennans diaries
 Gaddis’ biography on Kennan
 Lippman’s “Cold War”
 
+[[Myth of Sisyphus]]
+Chestov
+Kierkegaard
+Kafka's the Castle
+Brothers Karamzov
+
+
 
 **Fiction**
 [[Home in the World (Amartya Sen)]]
