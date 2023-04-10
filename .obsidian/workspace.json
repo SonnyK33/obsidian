@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ea0e65f5572af485",
+        "id": "4eeb0ea94d34f18a",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8983ce350591d3",
+            "id": "9950a678ea056583",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Myth of Sisyphus.md",
+                "file": "Forward Guidance - Peter Stella.md",
                 "mode": "source",
                 "source": false
               }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Myth of Sisyphus.md",
+                "file": "Forward Guidance - Peter Stella.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,10 +104,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cb8983ce350591d3",
+  "active": "9950a678ea056583",
   "lastOpenFiles": [
-    "To Read - Outline.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "Forward Guidance - Peter Stella.md",
+    "Forward Guidance - Mike Green.md",
     "Myth of Sisyphus.md",
+    "To Read - Outline.md",
     "Sources/Like a Fading Shadow.md",
     "Myth of  Sisyphus.md",
     "Existentialism - Outline.md",
@@ -128,9 +131,6 @@
     "WIL/WILW - 1.6.23.md",
     "WIL/WILT - 3.7.23.md",
     "WIL/WILT - 3.8.23.md",
-    "WIL/WILT - 3.9.23.md",
-    "Forward Guidance - Howell - WIP.md",
-    "Forward Guidance - Mike Green.md",
-    "Geopoltical Alpha.md"
+    "WIL/WILT - 3.9.23.md"
   ]
 }
