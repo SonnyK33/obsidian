@@ -3,6 +3,7 @@ Author: Michael Pettis
 References:
 https://carnegieendowment.org/chinafinancialmarkets/78496
 https://qz.com/1266044/why-does-the-us-run-a-trade-deficit-to-maintain-the-dollars-privileged-position
+[[WILT - 4.10.23]]
 [[Triffin Dilemma]]
 [[Volatility Machine]]
 
