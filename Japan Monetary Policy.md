@@ -2,6 +2,8 @@ Type: #Atom
 References: [[Japan - Outline]]
 References: Forward Guidance podcast - Weston
 Hedging explanation - NSN OB7GXX6TTDS3 .
+https://www.ft.com/content/b2f5a9d0-1602-4a3d-8640-1bb8d55d9166; https://twitter.com/michaelxpettis/status/1645730139265970176
+[[Should the US Run a Trade Surplus]]
 
 [[To Write - Outline]]
 - molecule on broader lesson re: on global vol supresson
@@ -40,6 +42,11 @@ Higher local yields make hedged USD yields less attractive, hence lowering deman
 
 **New BOJ Head**
 First time BOJ will be headed by an academic since WW2.
+The new BOJ head said it will be appropriate to maintain negative rates and YCC for the foreseeable future (https://www.ft.com/content/b2f5a9d0-1602-4a3d-8640-1bb8d55d9166; https://twitter.com/michaelxpettis/status/1645730139265970176).
+What are the implications of this policy for the Japanese people and global liquidity. 
+
+A weaker currency depresses imports and improves the trade balance. This shifts income from households to manufacturers. Lower interest rates also shift income from savers/depositors (housesholds) to borrowers. This will lead to less consumer demand and less investment, and (I think) more consumption. An overall exceess of savings leads to a capital account deficit (purchasing foreign financial assets) and a current account surplus. Net effect is for larger trade deficits in the US, as it's forced to import the excess savings from Japan. 
+
 
 
 #Trades 
