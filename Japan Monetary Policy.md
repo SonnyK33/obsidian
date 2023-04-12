@@ -3,6 +3,7 @@ References: [[Japan - Outline]]
 References: Forward Guidance podcast - Weston
 Hedging explanation - NSN OB7GXX6TTDS3 .
 https://www.ft.com/content/b2f5a9d0-1602-4a3d-8640-1bb8d55d9166; https://twitter.com/michaelxpettis/status/1645730139265970176
+[[Dollar's Imperial Circle]]
 [[Should the US Run a Trade Surplus]]
 
 [[To Write - Outline]]
