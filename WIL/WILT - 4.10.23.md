@@ -1,5 +1,5 @@
 Type: #WILT 
-References: [[Should the US Run a Trade Surplus]]
+References: [[US Trade Policy]]
 https://carnegieendowment.org/chinafinancialmarkets/78304
 [[Current Account Deficits]]
 "GS -  Egypt's Choice: Reform or Further Painful Adjustment 4.4.23"

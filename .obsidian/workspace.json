@@ -49,14 +49,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Distressed Credit - Outline.md",
+                "file": "US Trade Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "82952e0be1b093b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "119758c1d0ebb665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Japan, Germany, and the Challenge of Excess Savings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c589cadbf26cb3db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "French leaders have long hated being dependent on US for protection.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -114,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Distressed Credit - Outline.md",
+                "file": "GDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,16 +177,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b28264b2f0f5dc1e",
+  "active": "82952e0be1b093b5",
   "lastOpenFiles": [
-    "WIL/WILW - 4.14.23.md",
+    "US Trade Policy.md",
+    "GDP.md",
+    "Japan, Germany, and the Challenge of Excess Savings.md",
+    "French leaders have long hated being dependent on US for protection.md",
+    "Outlines/Europe - Outline.md",
+    "Current Account Deficits.md",
+    "Dollar's Imperial Circle.md",
     "Distressed Credit - Outline.md",
+    "WIL/WILW - 4.14.23.md",
     "WIL/WILT - 4.10.23.md",
     "WIL/WILW - Template 1.md",
     "WIL/WILW - 3.23.23.md",
-    "Dollar's Imperial Circle.md",
     "To Read - Outline.md",
-    "Should the US Run a Trade Surplus.md",
     "Molecules/Dollar Hegemony.md",
     "Japan Monetary Policy.md",
     "Japan - Outline.md",
@@ -160,14 +201,9 @@
     "Sources/Plays by Federico Lorca.md",
     "Federal Home Loan Banks.md",
     "Repo - Outline.md",
-    "Current Account Deficits.md",
     "WIL/WILT - Template.md",
     "Forward Guidance - Peter Stella.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
-    "Forward Guidance - Mike Green.md",
-    "Myth of Sisyphus.md",
-    "Sources/Like a Fading Shadow.md",
-    "Myth of  Sisyphus.md",
-    "Existentialism - Outline.md"
+    "Forward Guidance - Mike Green.md"
   ]
 }

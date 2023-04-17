@@ -2,10 +2,12 @@ Type: #source
 Author: Michael Pettis
 References:
 https://carnegieendowment.org/chinafinancialmarkets/78496
+https://carnegieendowment.org/chinafinancialmarkets/77009
 https://qz.com/1266044/why-does-the-us-run-a-trade-deficit-to-maintain-the-dollars-privileged-position
 [[Japan Monetary Policy]]
 [[WILT - 4.10.23]]
 [[Dollar's Imperial Circle]]
+[[Current Account Deficits]]
 [[Triffin Dilemma]]
 [[Volatility Machine]]
 
@@ -89,3 +91,8 @@ CR $1,000
 Having the reserve currency means you run constant capital account surpluses. That is, you are constantly selling your currency to others (since it's the reserve currency). When other countries sell their goods to you (i.e. you imports), they earn your currency (you can also think about it you being  forced to convert your currency into theirs - either way, they'll earn your currency). As it's the reserve currency, other countries will hold that currency as savings. If it wasn't the reserve currency, they would instead spend it on your countries' exports, hence lowering the trade deficit. Rather than spending it on your exports though, they hold it in your securities. Hence, your reserve status leads to structural trade deficits. Either countries want your goods (or services) or your currency. When the US earns foreign currency, it spends it on imports, as they have no need to hold it as savings. 
 
 While it's true that trade deficits lead to capital surpluses, it's wrong to think (as many argue) that trade deficits don't matter. Different goups will win or lose depending on whether you're exporting your currency or your goods. The rich will benefit from the ability to borrow at lower rates. The poor will lose from having a weaker export sector. 
+
+**Savings Rate and Current Account Deficit**
+The US runs a large current account deficit and hence a large capital account surplus. The current accound deficit is equivalent to running a savings deficit (investment > savings). Economists have proposed vairous ways for shrinking the trade deficit. In most small EMs, the trade deficit causes the capital account surplus. For example, Egypt's large current account deficit is caused by expensive energy and food imports. They have to finance that gap by borrowing from foreigners (which creates the capital account surplus). Cutting the current account deficit requires increasing the savings rate and consuming less. This can and will be accomplished by fiscal contractions. Pettis argues that the US is in a very different scenario. The US' current account deficit is caused by foreigners parking excess sacvings in treasuries (generating the capital account surplus). Because foreingers use dollars to buy treasuries rather than exports, the US has a trade deficit and capital account surplus. Pettis argues that attempts to increase the savings rate in the US will fail because the capital account is determined by foreigners and will force a current account deficit. In a world where your capital account is fixed in a surplus, forcing higher savings (through cutting fiscal spending or decreasing taxes on the rich or other regressive policies), there are two scenarios, given the above identity (S = I + Capital Account Surplus):
+1) If the economy is starved for investment (like most EM's), savings and investment will rise by the same amount (remember - the capital account stays flat). This is the desired outcome of policymakers. The idea is that income will shift to those with a higher propensity to save (i.e. the rich, and not the government) who will invest the excess savings. 
+2) If the economy is not starved for investment (like most developed countries, where the cost of capital has been very low), an increase in savings will be offset by a decrease somewhere else. The fiscal contraction will either raise unemployment (which lowers household savings) or increases debt (at the government level to subsidize the unemployed or at the household level by lowering interest rates).

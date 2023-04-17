@@ -3,6 +3,7 @@ References: [[Chip war]]
 [[Quantitative Tightening]]
 [[Monetary Tightening - 2022]]
 [[Ukraine-Outline]]
+[[French leaders have long hated being dependent on US for protection]]
 **Natural Gas**
 GS - note (Natural Gas: A lower TTF cap means a higher risk of market disruption) - 12.20.22
 - a lower price cap increases the risk of market disruption and will lead to more destruction of industrial capacity

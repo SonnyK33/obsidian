@@ -1,5 +1,5 @@
 Type: #WILT 
-References: [[Should the US Run a Trade Surplus]]
+References: [[US Trade Policy]]
 [[Volatility Machine]]
 **Title**
 

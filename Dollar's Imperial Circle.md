@@ -2,7 +2,7 @@ Type: #source
 Source: Fed Bank of NY Staff Report (No 1045, Dec 2022)
 References: [[Japan Monetary Policy]]
 [[Dollar Hegemony]]
-[[Should the US Run a Trade Surplus]]
+[[US Trade Policy]]
 
 Molecule:
 The Soros Imperial Dollar explains why Japan can't grow its capital account surplus any further. It'll lead to a cheaper JPY and protests from the US. Germany can get away with this due to the Eurozone. 
