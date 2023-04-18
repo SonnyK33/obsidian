@@ -68,6 +68,18 @@
             }
           },
           {
+            "id": "7dbd1cfcda0b130d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Transformers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "119758c1d0ebb665",
             "type": "leaf",
             "state": {
@@ -92,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -150,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "GDP.md",
+                "file": "Transformers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -177,10 +189,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "82952e0be1b093b5",
+  "active": "7dbd1cfcda0b130d",
   "lastOpenFiles": [
-    "US Trade Policy.md",
+    "Sources/Commodities Note.md",
+    "Transformers.md",
     "GDP.md",
+    "US Trade Policy.md",
     "Japan, Germany, and the Challenge of Excess Savings.md",
     "French leaders have long hated being dependent on US for protection.md",
     "Outlines/Europe - Outline.md",
@@ -202,8 +216,6 @@
     "Federal Home Loan Banks.md",
     "Repo - Outline.md",
     "WIL/WILT - Template.md",
-    "Forward Guidance - Peter Stella.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
-    "Forward Guidance - Mike Green.md"
+    "Forward Guidance - Peter Stella.md"
   ]
 }

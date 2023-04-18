@@ -8,6 +8,7 @@ https://qz.com/1266044/why-does-the-us-run-a-trade-deficit-to-maintain-the-dolla
 [[WILT - 4.10.23]]
 [[Dollar's Imperial Circle]]
 [[Current Account Deficits]]
+[[GDP]]
 [[Triffin Dilemma]]
 [[Volatility Machine]]
 
