@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Transformers.md",
+                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Transformers.md",
+                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,10 +189,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7dbd1cfcda0b130d",
+  "active": "eed48771927d507d",
   "lastOpenFiles": [
-    "Sources/Commodities Note.md",
+    "Sources/How to take smart notes.md",
+    "Forward Guidance - Tian Yang.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "History of US Monetary Policy.md",
     "Transformers.md",
+    "Sources/Commodities Note.md",
     "GDP.md",
     "US Trade Policy.md",
     "Japan, Germany, and the Challenge of Excess Savings.md",
@@ -212,10 +216,6 @@
     "Chip war.md",
     "New Alliances - Outline.md",
     "VIX.md",
-    "Sources/Plays by Federico Lorca.md",
-    "Federal Home Loan Banks.md",
-    "Repo - Outline.md",
-    "WIL/WILT - Template.md",
-    "Forward Guidance - Peter Stella.md"
+    "Sources/Plays by Federico Lorca.md"
   ]
 }
