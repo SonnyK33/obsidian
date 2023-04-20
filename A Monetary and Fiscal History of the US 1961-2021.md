@@ -31,11 +31,7 @@ Fed chair Martin was the longest serving chair of the Fed and like all previous 
 
 **Chapter 2 - Inflation and the Rise of Monetarism**
 
-Monetarists led by Friedman argues the fed should be affecting policy by targeting money supply
-
-Said fiscal deficits don’t matter if accompanied by bond issuance
-
-This relies on believing that demand for money is inelastic that is not dependent on rates - which many disputes 
+Monetarism emerged as a new economic theory based on the importance of the moeny supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute. 
 
 Vertical LM curve 
 
