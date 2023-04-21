@@ -4,7 +4,7 @@ Author: Alan Binder
 References:
 [[Forward Guidance - Wang and Dominique]]
 [[Forward Guidance - Peter Stella]]
-
+[[ISLM Model]]
 
 Overview:
 
@@ -33,7 +33,9 @@ Fed chair Martin was the longest serving chair of the Fed and like all previous 
 
 Monetarism emerged as a new economic theory based on the importance of the moeny supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute. 
 
-Vertical LM curve 
+Monetarism assumes a vertical LM curve. See [[ISLM Model]] and [[Monetarism]].
+
+
 
 Greenspan ended
 

@@ -4,107 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4eeb0ea94d34f18a",
+        "id": "3891726c1c0194e3",
         "type": "tabs",
         "children": [
           {
-            "id": "4a376ecc7097e3b5",
+            "id": "d95267f483a9370e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Japan Monetary Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "672593f3058adc32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILW - 4.14.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8afa80f64169b8b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILW - 4.14.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b28264b2f0f5dc1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "US Trade Policy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "82952e0be1b093b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GDP.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7dbd1cfcda0b130d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "119758c1d0ebb665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Japan, Germany, and the Challenge of Excess Savings.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c589cadbf26cb3db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "French leaders have long hated being dependent on US for protection.md",
+                "file": "Monetarism.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -162,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "Monetarism.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,33 +104,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7dbd1cfcda0b130d",
+  "active": "d95267f483a9370e",
   "lastOpenFiles": [
+    "Disunited Kingdom.md",
+    "Monetarism.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "ISLM Model.md",
+    "French leaders have long hated being dependent on US for protection.md",
+    "Japan, Germany, and the Challenge of Excess Savings.md",
     "Japan Monetary Policy.md",
+    "WIL/WILW - 4.14.23.md",
+    "IS",
     "Sources/How to take smart notes.md",
     "Forward Guidance - Tian Yang.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
     "History of US Monetary Policy.md",
     "Transformers.md",
     "Sources/Commodities Note.md",
     "GDP.md",
     "US Trade Policy.md",
-    "Japan, Germany, and the Challenge of Excess Savings.md",
-    "French leaders have long hated being dependent on US for protection.md",
     "Outlines/Europe - Outline.md",
     "Current Account Deficits.md",
     "Dollar's Imperial Circle.md",
     "Distressed Credit - Outline.md",
-    "WIL/WILW - 4.14.23.md",
     "WIL/WILT - 4.10.23.md",
     "WIL/WILW - Template 1.md",
     "WIL/WILW - 3.23.23.md",
     "To Read - Outline.md",
     "Molecules/Dollar Hegemony.md",
     "Japan - Outline.md",
-    "Chip war.md",
-    "New Alliances - Outline.md",
-    "VIX.md",
-    "Sources/Plays by Federico Lorca.md"
+    "Chip war.md"
   ]
 }
