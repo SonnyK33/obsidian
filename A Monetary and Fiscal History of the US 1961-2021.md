@@ -6,6 +6,11 @@ References:
 [[Forward Guidance - Peter Stella]]
 [[ISLM Model]]
 
+[[To Read - Outline]]
+See paper from Poole- Friedman student
+
+
+
 Overview:
 
 Binder describes the different approaches to fiscal and monetary policy taken by administrations and the Federal Reserve from the early 1960s through the Biden administration. He focuses on the interplay between budget actions and interest rates and how the economy responded. He also discusses how Keynesian approaches went in and out of favour.
@@ -31,27 +36,12 @@ Fed chair Martin was the longest serving chair of the Fed and like all previous 
 
 **Chapter 2 - Inflation and the Rise of Monetarism**
 
-Monetarism emerged as a new economic theory based on the importance of the moeny supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute. 
+Monetarism emerged as a new economic theory based on the importance of the moeny supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute (i.e. a vertical LM curve. See [[ISLM Model]] and [[Monetarism]]).
 
-Monetarism assumes a vertical LM curve. See [[ISLM Model]] and [[Monetarism]].
-
-
-
-Greenspan ended
-
-Policy of following money aggregates which had been a legal requirement
-
-Friedman thought fiscal deficits only inflationary if financed mainly through printing money 
-
+Due to the influence of monetarism, the Fed targeted and followed money aggregates. Greenspan ended the policy years later which had been a legal requirement. Friedman thought fiscal deficits were only inflationary if they were financed through printing money. His k% rule was monetary growth should equal gdp growth plus inflation. Monetarists argued that the Fed should target M (money supply) rather than r (interest rates). 
   
 
-His k pct rule - monetary growth should equal gdp growth plus inflation. 
 
-Monetarists argued Fed should target M (money supply) rather than r
-
-  
-
-See paper from Poole- Friedman student
 
 If M is fixed, get IS LM system where r and y will shift in response to changes for demand for money (LM shocks) or real spending (IS shocks)
 
