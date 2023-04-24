@@ -3,6 +3,7 @@ Author: Michael Pettis
 References:
 https://carnegieendowment.org/chinafinancialmarkets/78496
 https://carnegieendowment.org/chinafinancialmarkets/77009
+https://carnegieendowment.org/chinafinancialmarkets/70042
 https://qz.com/1266044/why-does-the-us-run-a-trade-deficit-to-maintain-the-dollars-privileged-position
 [[Japan Monetary Policy]]
 [[WILT - 4.10.23]]
@@ -97,3 +98,20 @@ While it's true that trade deficits lead to capital surpluses, it's wrong to thi
 The US runs a large current account deficit and hence a large capital account surplus. The current accound deficit is equivalent to running a savings deficit (investment > savings). Economists have proposed vairous ways for shrinking the trade deficit. In most small EMs, the trade deficit causes the capital account surplus. For example, Egypt's large current account deficit is caused by expensive energy and food imports. They have to finance that gap by borrowing from foreigners (which creates the capital account surplus). Cutting the current account deficit requires increasing the savings rate and consuming less. This can and will be accomplished by fiscal contractions. Pettis argues that the US is in a very different scenario. The US' current account deficit is caused by foreigners parking excess sacvings in treasuries (generating the capital account surplus). Because foreingers use dollars to buy treasuries rather than exports, the US has a trade deficit and capital account surplus. Pettis argues that attempts to increase the savings rate in the US will fail because the capital account is determined by foreigners and will force a current account deficit. In a world where your capital account is fixed in a surplus, forcing higher savings (through cutting fiscal spending or decreasing taxes on the rich or other regressive policies), there are two scenarios, given the above identity (S = I + Capital Account Surplus):
 1) If the economy is starved for investment (like most EM's), savings and investment will rise by the same amount (remember - the capital account stays flat). This is the desired outcome of policymakers. The idea is that income will shift to those with a higher propensity to save (i.e. the rich, and not the government) who will invest the excess savings. 
 2) If the economy is not starved for investment (like most developed countries, where the cost of capital has been very low), an increase in savings will be offset by a decrease somewhere else. The fiscal contraction will either raise unemployment (which lowers household savings) or increases debt (at the government level to subsidize the unemployed or at the household level by lowering interest rates).
+
+Globally, savings must equal investment. If, in the US, investment exceeds savings, the reverse must be true for the rest of the world. Many economists in the US argue that if the savings rate could be increased, say by cutting the fiscal deficit, that would cause the current account deficit to decrease. That assumes however that savings and investment rates are independently formed. That is, households, firms, and the government determine their ideal savings rate, and the investment rate is determined by interest rates and aggregate demand. If domestic agents determine the US savings and investment rates that means they also determine the foreign investment and savings rate (since one determines the other). The bulk of global excess savings come from Germany, Japan, and China. So the question is if those countries have specific policies that led to their excess savings (and a lower distribution of income to households) and hence the US' savings deficit or the opposite. Pettis argues the former which requires only two assumptions:
+1) The US capital account is completely open to foreigners
+2) The US market is deep and liquid enough to accomodate all foreign excess savings
+Both of these are true. 
+
+Today the US' current and capital accounts are the residual shock absorbers for the rest fo the world. Foreigners purchase treasuries to hold their savings, not to finance US trade. In the 19th century, the US also ran a trade deficit, but that that time, most capital inflows were trade finance and were used specifically to finance the current account deficit. 
+
+The impact of cutting the fiscal deficit also depends on whether there is demand for more investment.
+
+This is true in developing countries (see above), but not in the US where one can borrow at very low rate. In a world where the capital account (and hence current account) is determined by foreign savings, there are two outcomes:
+
+Key equation: Trade deficit = investment - savings
+trade deficit = investment - (HH savings + corp savings - fiscal deficit)
+
+1) if there is excess demand for investment, investment will rise by the amount of the fiscal deficit (trade deficit unchanged)
+2) if there is no excess demand, savings will fall by the amount of the fiscal deficiit (trade deficit unchanged)

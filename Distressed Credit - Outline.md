@@ -12,8 +12,9 @@ Many credit documents have change of control puts, sometimes with a rating trigg
 
 **Drop Down Transactions**
 These transactions require capacity for investments in unrestricted subsidiaries. This capacity could come from:
-1) General purpose capacity under the Restricted Payments covenant to make Reistricted Invesments in Unrestricted Subsidiaries
+1) General purpose capacity under the Restricted Payments covenant to make Restricted Invesments in Unrestricted Subsidiaries
 2) Capacity under Permitted Investments basket that allows Investments in Unrestricted SUbs
+3) Can also conduct drop-down transactions within the restricted group. For example in Bausch, investments among the restricted group are unlimited per the credit agreement. So to the extent there is capacity for non-guarantor restricted subs to borrow, that new debt would be structurally senior to existing debt (but still in the restricted group).
 
 
 **AMC**
