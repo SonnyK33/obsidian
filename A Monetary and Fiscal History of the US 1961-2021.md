@@ -39,15 +39,9 @@ Fed chair Martin was the longest serving chair of the Fed and like all previous 
 Monetarism emerged as a new economic theory based on the importance of the moeny supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute (i.e. a vertical LM curve. See [[ISLM Model]] and [[Monetarism]]).
 
 Due to the influence of monetarism, the Fed targeted and followed money aggregates. Greenspan ended the policy years later which had been a legal requirement. Friedman thought fiscal deficits were only inflationary if they were financed through printing money. His k% rule was monetary growth should equal gdp growth plus inflation. Monetarists argued that the Fed should target M (money supply) rather than r (interest rates). 
-  
 
-
-
-If M is fixed, get IS LM system where r and y will shift in response to changes for demand for money (LM shocks) or real spending (IS shocks)
-
-  
-
-If r is fixed, letting M fluctuate, LM shocks become irrelevant and only IS shocks matter though they have a bigger impact than when upward sloping LM cushions impact 
+*Explanation through IS/LM model*
+If M is fixed, you get an IS LM system where r and y will shift in response to changes in demand for money (LM shocks) or real spending (IS shocks). If r is fixed (i.e. a vertical LM curve), letting M fluctuate periodically to achieve the target r, LM shocks become irrelevant and only IS shocks matter. However,  they have a bigger impact than when upward sloping LM curve cushions impact. 
 
 So targeting M cushions iM shocks but brings LM shocks , so depends on which you’re more worried about 
 
