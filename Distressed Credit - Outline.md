@@ -3,6 +3,10 @@ References: #Trades
 Covenant Review - AMC Entertainment: Will the 1L Bonds Allow the Company To Use a Drop-Down Transaction to Refinance 2L Bonds?
 Tickers: #AMC, #AMZN 
 
+**Framework for Analyzing Credit Legal Documents**
+[[Distressed Legal Framework]]
+
+
 **Change of Control**
 Many credit documents have change of control puts, sometimes with a rating trigger, sometimes without. 
 
