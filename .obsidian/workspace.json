@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f210f5761e0c7129",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GDP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -61,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "gdp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "GDP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,13 +129,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2713eb3b7a960c1f",
+  "active": "f210f5761e0c7129",
   "lastOpenFiles": [
+    "Molecules/2023 Trades.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "Delta_Hedging.md",
+    "Everything You Never Wanted to Know about Frontier Debt.md",
+    "9.23.22.md",
     "Molecules/Distressed Legal Framework.md",
     "Distressed Credit - Outline.md",
     "Molecules/Credit as Option Trades.md",
     "Molecules/Dollar Hegemony.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
     "US Trade Policy.md",
     "Current Account Deficits.md",
     "Monetarism.md",
@@ -141,10 +157,6 @@
     "Sources/Commodities Note.md",
     "GDP.md",
     "Outlines/Europe - Outline.md",
-    "Dollar's Imperial Circle.md",
-    "WIL/WILT - 4.10.23.md",
-    "WIL/WILW - Template 1.md",
-    "WIL/WILW - 3.23.23.md",
-    "To Read - Outline.md"
+    "Dollar's Imperial Circle.md"
   ]
 }
