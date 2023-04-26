@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Distressed Legal Framework.md",
+                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
                 "mode": "source",
                 "source": false
               }
@@ -90,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/Distressed Legal Framework.md",
+                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -118,8 +119,8 @@
   },
   "active": "2713eb3b7a960c1f",
   "lastOpenFiles": [
-    "Distressed Credit - Outline.md",
     "Molecules/Distressed Legal Framework.md",
+    "Distressed Credit - Outline.md",
     "Molecules/Credit as Option Trades.md",
     "Molecules/Dollar Hegemony.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",

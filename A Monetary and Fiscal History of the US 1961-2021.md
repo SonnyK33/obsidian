@@ -43,178 +43,26 @@ Due to the influence of monetarism, the Fed targeted and followed money aggregat
 *Explanation through IS/LM model*
 If M is fixed, you get an IS LM system where r and y will shift in response to changes in demand for money (LM shocks) or real spending (IS shocks). If r is fixed (i.e. a vertical LM curve), letting M fluctuate periodically to achieve the target r, LM shocks become irrelevant and only IS shocks matter. However,  they have a bigger impact than when upward sloping LM curve cushions impact. 
 
-So targeting M cushions iM shocks but brings LM shocks , so depends on which you’re more worried about 
+So targeting M avoids IS shocks but brings LM shocks , so depends on which you’re more worried about Poole argued we knew more about M than real incomes so should target M. This was proven wrong with various financial innovations, including those spurred by regulation Q. Many monetarists argued expanding money supply would lead to inflation. For example, QE in 2010, but it didn’t happen. The same argument was made post Covid, and it did happen that time. The difference was that with QE, the federal government wasn't increasing fiscal expenditures drastically. Lower interest rates inflated asset prices but didn't put more money in people's pockets. That's what occurred in 2020. The increase in M1 was marginal in 2008 compared to 2020 when it quadrupled. 
 
-Poole argued we knew more about M than real incomes so should target M..
-
-Was proven wrong w innovations spurred by regulation q
-
-  
-
-Many monetarists argued expanding money supply would lead to inflation 
-
-Eg QE in 2010 - but it didn’t happen 
-
-Same thing post Covid,
-
-Though it did that time 
-
-  
-
-Monetarism grew due to inflation in 1970s and 60s and Keynesiam was blamed
-
-Monetarism fell out of favor as velocity of money became more erratic 
-
-Friedman father of the school was taught by Arthur burns 
-
-  
-
-Keynesian thought in the 50s prior to Phillips paper was crude and allowed for inflation on or
-
-Off regimes
-
-After full employment, more demand (from fiscal or Monterey policy) only increases inflation w not impact on output.. and the opposite before full employment 
+Monetarism grew in popularity due to inflation in 1970s and 60s, and Keynesian policies were blamed. Monetarism fell out of favor as the velocity of money became more erratic.
 
 
 
 
 **Chapter 3 - The Phillips Curve Becomes Vertical**
 
-Philips curve bridges gap by giving menu of choices between unemployment and inflation. 
+ Keynesian thought in the 50s prior to the Phillips paper was crude and allowed only for inflation on or off regimes. After full employment, more demand (from fiscal or monterey policy) only increases inflation with no impact on output. The opposite was true before full employment - fiscal or monetary policy could only boost unemployment and wouldn't affect the price level. The Philips curve bridges the gap by giving menu of choices between unemployment and inflation. This led to a simplistic bifurcation between liberal and conservative economists.  
 
-Left to simplistic bifurcation bw liberal and conservative economists 
-
-  
-
-Friedman argued the curve was not taking into account inflation expectations and in the long term the curve is vertical based on general equilibrium 
-
-If unemployment was below the natural rate ustar,
-
-That would push up inflation expectations and inflation,
-
-Businesses would realize this before workers
-
-And raise prices and so real wages would go down and firms will hire more ppl 
-
-Eventually workers
-
-Will demand higher
-
-Wages bringing up real wages and lower hiring which will bring unemployment back to ustar 
-
-So monetary policy won’t deviate unemployment from natural rate and curve is vertical
-
-
+Friedman argued the curve was not taking into account inflation expectations, and in the long term the curve is vertical based on general equilibrium. If unemployment was below the natural rate u-star, that would push up inflation expectations and inflation. Businesses would realize this before workers and raise prices. Real wages would hence go down, and firms will hire even more people. Eventually workers will demand higher wages bringing up real wages and lower hiring which will bring unemployment back to u-star. So monetary policy won’t deviate unemployment from this natural rate, and the the Phillips curve is vertical. That is, unemployment is fixed at u-star. Inflation was up to policymakers. Eventually rational expectations theory went against some of the vertical curve arguments. 
 
 **Chapter 4 - Nixon, Burns, and the Political Business Cycle**
 
-Eventually rational expectations theory went against some of the vertical curve arguments 
+Burns warned Nixon about a looming recession and argued for loosening of credit and increasing spending. The recession happened, and he lost to Kennedy. When Nixon became President later he appointed him to his cabinet. The country still had tight monetary and fiscal policy enacted by Johnson to combat inflation which worked, but it also created a short recession. Nixon in response called himself a Keynesian. Stimulus generally leads to real growth first, followed by inflation. Nixon goosed the economy with fiscal stimulus, including higher social security spending. It was also revealed post-Watergate that Burns was likely trying to help Nixon get reelected. His plan was to stimulate the economy with fiscal and monetary policy to get re-elected and then he'd deal with inflation. He enacted price controls soon after reelection. 
 
-  
+In 1973, Nixon unilaterally ended Bretton Woods by ending the convertibility to gold. The US had many years of gold outflows which led to this. Ending the fixed exchange rates removed monetary constraints for all who participated especially non-US countries who had to use monetary policy to maintain the fixed exchange rate. This was one of the causes of worldwide inflation that soon occurred. But inflation was a global issue, even for counties whose currency appreciated meaning there were other causes notably supply constraints. Although the US was less constrained by the system, the ending of Bretton Woods freed up Fed as well.  
 
-Burns and Nixon
-
-Burns warned Nixon about a looming recession and said to loosen credit and increase spending 
-
-Recession happened and he lost to Kennedy
-
-When Nixon became President later he appointed him
-
-The country still had tight monetary and fiscal policy enacted by Johnson to combat inflation which worked but also created a short recession 
-
-Nixon in response called himself a Keynesian
-
-Stimulus generally leads to real growth first followed by inflation 
-
-  
-
-Nixon goosed economy w fiscal stimulus- higher social security spending 
-
-Was also revealed post watergate that burns was likely trying to help Nixon get reelection 
-
-His plan was to stimulate economy w fiscal and monetary get re-elected and then deal w inflation 
-
-He enacted price controls soon after reelection
-
-  
-
-In 1973 Nixon unilaterally ended bretton woods by ending convertibility to gold
-
-The US had ma y years of
-
-Gold outflows which led
-
-To this
-
-Ending the fixed exchange rates removed monetary constraints for all who participated esp non-US countries
-
-Who had to use monetary policy to maintain rate
-
-This was one of the causes of worldwide inflation post this year
-
-But it was a global issue even for counties whose currency appreciated meaning there were other issues notably supply constraints 
-
-Although the Us was less constrained by the system, it’s end freed
-
-Up the fed as well
-
-  
-
-Fed doubled fed
-
-Funds to 10 pct
-
-To fight inflation which went up 400 bps
-
-Arab Israeli war led to opec increasing oil prices pushing US to recession 
-
-This was dubbed stagflation and central banks didn’t know how to deal w it
-
-They went back and forth from
-
-Fighting inflation to recession
-
-Pre election stimulus faded
-
-And have way to contravionaty policy  
-
-After going back and forth the policies ended up restrictive 
-
-It was clear ththat cycle in 71-73 was created politically,
-
-  
-
-Price controls were seen as negative and never attempted again 
-
-Political manipulation plus the backlash against price controls killed the political business cycle 
-
-His manipulation is a key legacy of Nixon 
-
-  
-
-  
-
-  
-
-Legacy of burns is fanning inflation and aiding Nixons manipulation 
-
-Although oil shocks were also to blame
-
-Burns encouraged nixons use of price controls 
-
-Loose policies of early 70s contributed to inflation even as he spoke out against inflation
-
-  
-
-He increased stimulus again in the late 70s - 76-78 m1 and m2 increases by high single digits 
-
-He didn’t believe central
-
-Banks could affect the inflation rate and told the senate banking committee as much
-
-He blames inflation on social democratic policies -
-
-New deal, great societies
+The Fed doubled the Fed Funds rate to 10% to fight inflation which had risen 400 bps. The Arab- Israeli war led to OPEC increasing oil prices and pushed the US into a recession. This was dubbed stagflation, and central banks didn’t know how to deal with it. They went back and forth from fighting inflation to trying to dampen the recession. The pre-election stimulus faded and gave way to a contractionary policy. It was clear that the cycle in 1971-73 was created politically. Price controls were seen as negative and were never attempted again. Political manipulation plus the backlash against price controls killed the political business cycle. Burns' manipulation is a key legacy of Nixon. Burns is remembered as someone who fanned inflation and aided Nixon's manipulation, although oil shocks were also to blame. Burns encouraged Nixon's use of price controls. His loose policies of early 1970s contributed to inflation even as he spoke out against inflation. He increased stimulus again in the late 1970s (1976-78); M1 and M2 increased by high single digits. He didn’t believe central banks could affect the inflation rate, and he told the senate banking committee as much. He blamed inflation on social democratic policies - the New Deal, Great Societies, etc. 
 
 **Chapter 5 - Stagflation and Its Aftermath**
 
