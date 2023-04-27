@@ -5,10 +5,13 @@ References:
 [[Forward Guidance - Wang and Dominique]]
 [[Forward Guidance - Peter Stella]]
 [[ISLM Model]]
+[[US Trade Policy]]
 
 [[To Read - Outline]]
 See paper from Poole- Friedman student
-
+Mundell Fleming models on fixed and floating rates
+His work on optimal currency
+Areas argue against the euro even though he’s called father of the euro
 
 
 Overview:
@@ -66,296 +69,50 @@ The Fed doubled the Fed Funds rate to 10% to fight inflation which had risen 400
 
 **Chapter 5 - Stagflation and Its Aftermath**
 
-Stglation was caused by supply shocks - oil prices from opec and food prices
+Stagflation was caused by supply shocks - oil prices from OPEC and food prices. Demand shocks cause prices and output to move in the same direction. Supply shocks cause the opposite; a negative correlation between inflation and growth i.e. stagflation. This was not well understood at the time, and it went against what the Philips curve predicted. Neoclassical economics predicted lower real wages but not higher unemployment due to these shocks. They also expected a lower hit to GDP. This discrepancy was due to wealth effect of a lower stock market (1972 and 1973 were the worst years ever in real terms), and a nominal tax system that was implicitly tightening, as it was taxing nominal gains. There were two other channels related to lower worker productivity:
 
-Demand shocks cause prices and output to move in the same direction
-
-Supply shocks cause the opposite - a negative correlation bw inflation and growth ie stagflation 
-
-They were not well known at the time and went against what the Philips curve predicted 
-
+1) Businesses didn’t realize productivity had gone down, and so they gave bigger real wage increases than warranted. This increased unit labour prices and caused inflation and higher unemployment.
   
+2) Policymakers also didn’t realize this, and they targeted higher levels of growth leading to inflation. 
 
-Neoclassical predicted lower real wages but not higher unemployment due to these shocks 
+Both of these factors raised the actual NAIRU, and caused authorities to aim for a level of labour market tightness that’s inflationary. That is, the economy couldn't handle this level of full employment. Poor productivity, on its own, and due to the errors it led to, in monetary policy led to stagflation.
 
-They also expected a lower hit to gdp
+**Why did labour productivity decrease?**
+ 
+You can see the lower productivity in labor's higher share of income. Friedman believed high relative prices i.e. oil prices shouldn’t cause inflation, as only higher money supply could cause that. 
+Higher oil prices should lower other prices. In reality, higher relative prices cause inflation because other things don’t necessarily get cheaper due to rigidities, and an inflationary demand shock will change relative prices. That is, causality runs both ways when prices and wages are sticky. In response to an oil price shock, monetarists gave clear guidance to cut money supply. Keynesians had no obvious solution, as they said they couldn’t address inflation and the recession at the same time. 
 
-This discrepancy was due to wealth effect of lower stock market (72 and 73 worst years ever in real terms) and a nominal tax system that was implicit tightening - taxed nominal gains
-
-There were two other channels related to lower worker productivity-
-
-Busjnesss didn’t realize productivity had gone down and so gave bigger real wage increases than warranted - this increases unit labour prices and causes inflation and higher unemployment 
-
-  
-
-Policymakers also didn’t realize and targeted higher levels of growth leading to inflation 
-
-Both of these raise the nairu and they’ll then aim for a level of labour market tightness that’s inflationary
-
-Poor productivity on its own and due to the errors it led to in monetary policy led to stagflation 
-
-  
-
-Can see the lower productivity in labors higher share of income 
-
-  
-
-Friedman believed high relative prices ie oil prices shouldn’t cause inflation only higher money supply would
-
-Higher oil prices should lower other prices 
-
-  
-
-In reality higher relative prices cause inflation bc other things don’t necessarily get cheaper due to  rigidities and an inflationary demand shock will change relative prices 
-
-Ie causality runs both ways when prices and wages are sticky
-
-In response to oil price shock, monetarists gave clear guidance to cut money supply 
-
-Keynesians had no obvious solution as said couldn’t address inflation and recession at same
-
-Time 
-
-  
-
-It was possible to deal with hit to demand with combo of fiscal and monetary policies
-
-Firms w large energy needs
-
-We’re forced to use more
-
-Labour 
-
-This meant more labour costs for the same output and hence decreased labour productivity 
-
-The fed misses this and loosened more than they should’ve 
-
-Real wages also went too high by missing this and led to more unemployment 
-
-May be seeing same thing today w return of union power
-
-
+It was possible to deal with the hit to demand with a combination of fiscal and monetary policies. Firms with large energy needs were forced to use more labour. This meant more labour costs for the same output and hence decreased labour productivity. The fed missed this and loosened more than they should’ve. Real wages also went too high by missing this and led to more nemployment. We may be seeing the same thing today with a return of union power.
 
 
 **Chapter 6 - Inflation and the Rational Expectations Revolution**
 
-Lucas led the revolution to rational expectations 
+Lucas led the revolution to rational expectations. President Carter appointed various business people to his cabinet. Carter's replacement for Burns didn’t know how the Fed worked. He was unable to pass fiscal stimulus due to congress' obsession with balanced budgets. He did pass new payroll tax credits which incentivized pay raises. It was a more efficient use of funds because it targeted marginal behavior versus actions that would happen anyways. Obama had something similar in the stimulus bill. Carter’s attempt at tax reform didn’t work. By the time it got through congress, it was just a big tax cut as big as the previous stimulus. Too much fiscal stimulus led to higher inflation. The dollar also weakened against German and Japan, as the world was still getting used to floating rates. President Carter sold gold and borrowed from the IMF for the first time. It also issued bonds in German marks and Swiss Francs for first and last time. Carter passed the law which gave the Fed the dual mandate. It's one of the few central banks to have employment mandate along with inflation. The Iranian revolution and its war with Iraq led to another supply shock. The oil component spiked 50pct. Monetarists still blamed inflation on money supply (because again, oil prices were relative and should cause other prices to fall) and because core inflation also rose a Lot. The latter could have occurred because supply shocks cause pass through into other components. Aggregate demand was up, however it was signaling too much stimulus from the prior period. The overstating of labour productivity may have been the cause. Fed chair Miller also deserves blame, as he didn’t think monetary policy was the primary cause of inflation. 
+Unemployment was only 0.5pp below the natural rate at the time which shouldn’t have caused so much inflation.
 
-Carter appointed various business people to his cabinet
+**Question - how does labour productivity affect natural rate ?**
 
-Carters replace t for burns didn’t know how the Fed worked
-
-He was unable to pass fiscal stimulus due to congress obsession w balanced budgets
-
-  
-
-He did pass new payroll tax credits which incentivized pay raises 
-
-Was a more efficient use of funds bc it targeted marginal behavior vs actions that would
-
-Happen anyways
-
-Obama had something similar in stimulus bill
-
-Carter’s attempt at tax reform didn’t work - by the time got through congress was just a big
-
-Tax cut as big as the previous stimulus so
-
-Was a double stimulus
-
-Was like too much fiscal stimulus and inflation ensued
-
-The dollar also weakened against German and Japan - world still getting used to floating rates
-
-Carter sold gold
-
-And borrowed from
-
-The IMF for the first time
-
-Also issued bonds in German marks and Swiss Francs for first and last time 
-
-Carter passed the law which gave fed dual mandate - one of the few
-
-Central
-
-Banks to have employment mandate along w inflation 
-
-  
-
-Iranian revolution and war w Iraq led to another supply shock - oil component spikes 50pct
-
-Monetarists still blamed inflation on money supply (bc again oil prices were relative and should cause other prices to fall) and bc core inflation also rose a Lot
-
-Latter could
-
-Be bc supply
-
-Shocks cause pass through into other components
-
-Aggregate demand was up however signaling too much stimulus from the prior period
-
-The overstating of labour productivity may have been the cause
-
-Fed chair miller also deserves blame as he didn’t think monetary policy was the primary cause of inflation 
-
-Unemployment was only 0.5pp below the natural rate at the time which shouldn’t have caused so much inflation
-
-Question - how does labour productivity affect natural rate ?
-
-Cpi also overstated inflation by including nominal mortgage rates - so caused positive feedback loop
+CPI  also overstated inflation by including nominal mortgage rates, so it caused a positive feedback loop.
 
 **Chapter 7 - Carter, Volcker, and the Conquest of Inflation**
 
-After his malaise speech Carter appointed volker
+After his malaise speech, Carter appointed Volcker who was a known hawk and the head of the NY Fed. Carter knew he would tighten policy and possibly cost him reelection. Volcker thought he wouldn’t get the nomination when he told Carter he valued Fed independence and fighting inflation. You can contrast this with Nixon and Burns.  
 
-Who was a known hawk and head of NY fed
-
-Carter knew he would
-
-Tighten policy and possibly cost him reelection 
-
-Volker thought he wouldn’t get the nomination when he told Carter he wvalued
-
-Fed independence and fighting inflation
-
-Contrast w Nixon and burns
-
-  
-
-Long end rates went up after Volker appointment 
-
-Ie onflation expctetioms didn’t immediately come down causing long end rates to fall
-
-He announced a
-
-Switch from
-
-Focus on fed funds to money supply
-
-But due to regulations on rates and
-
-Ficmaial innovation was hard to reduce M1 initially
-
-Fed funds also went up
-
-Carter used an authority leftover from Nixons time to impose credit constraints. He believed excess credit was the problem but the fed disagreed. They imposed controls but had carveouts for houses or cars. Money supply growth dropped but so did gdp growth (8pct decline) and hence rates also fell
-
-People cooperated
-
-W Carter and cut up credit cards
+Long end rates went up after Volcker appointment. That is, inflation expectations didn’t immediately come down which would have caused long end rates to fall. He announced a switch from a focus on Fed Funds to money supply. But due to regulations on rates and financial innovation, it was hard to reduce M1 initially. Fed funds also went up. Carter used an authority leftover from Nixon's time to impose credit constraints. He believed excess credit was the problem but the Fed disagreed. They imposed controls but had carveouts for houses or cars. Money supply growth dropped but so did GDP growth (8pct decline) and hence rates also fell. People cooperated with Carter and cut up credit cards.
 
 **Chapter 8 - Reganomics and the Clash between Monetary and Fiscal Policy**
 
-Carters credit controls created a
+Carter's credit controls created a recession as did Volcker's tight money. Those two recessions ended inflation. They abandoned monetarism as it hadn’t worked and inflation was defeated. Volcker was an undersecretary under Nixon when bretton woods was abandoned. He was a supporter of fixed rates and so likely opposed the change.  
 
-Recession as did volkers tight money
+**Reagan**
 
-Those two recessions ended inflation
+His economic policy was shaped by supply side which was influenced by Laffer. The Laffer curve could raise Revenue by cutting taxes. There was never  any evidence that the US was on the right side of the curve. Republicans later denied he said that although the idea was repeated by Bush jr and Trump. Unlike Carter, Reagan blew up the budget. His expansionary fiscal policy was given credit for fixing the economy. But the recession and the breaking of inflation was already achieved via Volcker's tight policy which started a year earlier. During a debate, Regan asked whether you were better off from 4 yrs ago - real GDP per capita was actually up 8pct. But people felt poorer due to the prevoius recession and inflation. Reagan’s tax cuts created deficits which were unprecedented for peacetime. Tax cuts kicked in just as economy was recovering from the late 70s recession. Monetary policy also loosened by then. Tax cuts spurred economic growth from the demand side not supply. The growth rate in real terms for first term was about the same as during Carter's first term. So even after coming out of recession, growth was average. But the rate of growth was accelerating just as he went to reelection.   
 
-They abandoned monetarism as it hadn’t worked and inflation was defeated
+Tight monetary policy should push up real rates and slow demand. Loose fiscal policy should also push up real rates but speed up demand. Putting them together should raise real rates; the effect on demand depends which is more powerful. Supply siders argued that they could spur growth with expansionary fiscal policies and simultaneously control inflation with tight monetary policy. Economist Mundell endorsed this idea, though it went against his previous work. In reality, real rates went up a lot which lowered the share of investment in the economy and pushed up the dollar (i.e., the savings deficit increased, causing the trade balance to increase). This hurt American exporters and led to the Plaza Accord where G5 countries agreed to let the dollar devalue. [[US Trade Policy]] 
 
-  
+Large budget deficits crowd out net exports along with investment. Budget deficits lead to more consumption and higher real rates. The latter deters investment which is necessary to build up an export base. The US trade deficit continued to grow. The legacy of Regan was Republicans no longer cared about deficits. They’ve been much larger post his presidency than before. They also seek to cut taxes regardless of the macro situation. Because republicans cut regardless, and then democrats have to try to reduce the deficit, the Fed has become responsible for stabilization since Regan.   
 
-Volker was an undersecretary under Nixon when bretton woods was abandoned
 
-He was a supporter of fixed rates and so likely opposed the change 
-
-  
-
-Reagan
-
-Econ policy shapes by supply side which was influenced by Laffer
-
-Laffer curve - could raise Revenue by cutting taxes
-
-Never have any evidence that US was on the right side of the curve
-
-Republicans later denied he said that although idea was repeated by bush jr and trump
-
-  
-
-Unlike Carter Reagan blew up the budget 
-
-Expansionary fiscal policy given credit for fixing
-
-The economy
-
-But the recession and the breaking of inflation was already achieved via volkers tight policy which started a year earlier 
-
-  
-
-During a debate Regan asked whether you were better off from 4 yrs ago - real gdp per capita was actually up 8pct
-
-But ppl
-
-Felt poorer due to prev recession and inflation
-
-Reagan’s tax cuts created deficits which were unprecedented for peacetime 
-
-  
-
-Tax cuts kicked in just as economy was recovering late 70s recession
-
-Monetary policy also loosened by then 
-
-  
-
-Tax cuts spurred Econ growth from the demand side not supply
-
-Growth rate in real terms for first term was about the same as during carters first term 
-
-So even after coming out of recession,
-
-Growth was average 
-
-But rate of growth was accelerating just as he went to reelection 
-
-  
-
-Tight monetary policy should push up real rates and slow demand 
-
-Loose fiscal policy should also push up real rates but speed up demand
-
-Putting them together should raise real rates, effect on demand depends which is more powerful
-
-Supply siders argued that they could spur growth w expansionary fiscal policies and simultaneously control inflation w tight monetary policy
-
-Economist Mundell endorsed this idea
-
-Though it went against his previous work 
-
-In reality real rates went up a lot which lowered the share of investment in the economy and pushed up the dollar 
-
-This hurt ameicnan exporters and led to the plaza accord whiter G5 countries agreed to let the dollar devalue 
-
-  
-
-Large budget deficits crowd out net exports along w investment 
-
-US trade deficit continued to grow 
-
-  
-
-Legacy of Regan was republicans don’t care about deficits - they’ve been much larger post him than before
-
-They also seek to cut taxes regardless of the macro situation
-
-Bc republicans cut regardless
-
-And then democrats have to try to reduce
-
-Deficit,
-
-The fed became responsible for stabilization since Regan. 
-
-  
-
-Mundell Fleming models on fixed and floating rates
-
-His work on optimal currency
-
-Areas argue against the euro even though he’s called father of the euro
 
 **Chapter 9 - The Long Expansion of the 1980s**
 
