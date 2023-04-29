@@ -12,6 +12,7 @@ See paper from Poole- Friedman student
 Mundell Fleming models on fixed and floating rates
 His work on optimal currency
 Areas argue against the euro even though he’s called father of the euro
+A paper on time inconsistencies, which won Nobel prize, got too much credit for this. (central bank independence)
 
 
 Overview:
@@ -116,343 +117,46 @@ Large budget deficits crowd out net exports along with investment. Budget defici
 
 **Chapter 9 - The Long Expansion of the 1980s**
 
-Great moderation 
+The "Great Moderation" was the period just after the early 80s recession. GDP volatility came down, and Regan passed tax reform which eliminated many tax shelters. Nominal and real rates declined steadily from 1981. The former was due to inflation expectations coming down, and the latter was due to more complex issues. The rise of China with its high savings rates and new technology requiring less investment. Nominal rates did briefly go up due to fiscal policy. Secretary Baker ordered Volcker not to raise rates but Volcker wasn’t planning to anyways. Regan appointees at the FOMC tried to cut the discount rate (out of the blue), but Volcker threatened to resign and so they retreated. Volcker didn’t want another term which was okay with Baker. They nominated Greenspan who was seen to be as political Burns was. 
 
-The period post the early 80s recession
+**Savings and Loans Crisis**
 
-Gdp volatility came down 
+Bank loans had long maturities, up to 30 years, and had short duration deposits. They hence sufferered losses when rates increased and inverted. Some banks made risky loans to cover losses. 
+Depositors needed to be bailed out.
 
-Regan passed
+The Fed responded to Black Friday by saying they were available to supply liquidity to any banks (through the discount window) that needed it. Greenspan earned the market's trust. The Fed tightened in the late 1980s, and inflation moderated. Unemployment was thought to be below the natural rate, justifying the hike. Memories of the 1980s inflation wer still fresh. The First Gulf War spiked oil prices, and pushed the US into a short recession. The Fed was forced to raise rates due to the inflation spike, and then went back to cutting. The unemployment rate kept rising until 1992.
 
-Tax reform which eliminated many tax shelters
+**Jobless Recovery** 
 
-Nominal and real rates declines steadily since 1981
-
-The former is due to inflation expectations coming down  
-
-The latter due to more complex issues - rise of China w high
-
-Savings rates, new tech requiring less investment 
-
-  
-
-Nominal rates did briefly go up due to fiscal policy 
-
-Baker ordered Volker to not raise rates but he wasn’t planning to anyways
-
-Regan appointees at the FOMC tried to cut the discount rate (out of the blue) but Volker threatened to resign and so they took it back 
-
-  
-
-Volker didn’t want another term which was ok w baker 
-
-They nominated Greenspan who was seen as political as was Nixons advisor 
-
-  
-
-Savings and loans
-
- Banks lent 30yr and had short deposits 
-
-Sufferers losses when rates increased and inverted
-
-Some banks made risky loans to cover losses 
-
-Depositors needed to be bailed out
-
-Fed responded
-
-To Black Friday by saying they were available to supply
-
-Liquidity to any banks (through the discount window) that needed it 
-
-Greenspan earned markets trust 
-
-  
-
-Fed tightened in late 80s and inflation moderated
-
-Unemployment was thought to be below natural rate,
-
-Justifying the hike 
-
-Memories of 80s inflation was still fresh
-
-First gulf war spiked oil and pushed US into a short recession 
-
-Fed was forced to raise rates due to inflation spike 
-
-Then went back to cutting 
-
-  
-
-Unemployment rate kept rising til 92
-
-Jobless recovery
-
-  
-
-Bush blamed his failed reelection in greespan saying he wasn’t sufficiently expansive 
-
-  
-
-Oil spiked caused a mini stagflation and fed knew they couldn’t fight both simultaneously 
-
-They settled for a quick bout of inflation and then a quick recession
-
-  
-
-There wasn’t much in the fiscal front except for the previous tax reform 
-
-The preoccupation was then w cutting deficits
+Bush blamed his failed reelection on Greespan, saying he wasn’t sufficiently expansive. The oil spiked caused a mini stagflation and the Fed knew that they couldn’t fight both simultaneously. 
+They settled for a quick bout of inflation and then a quick recession. There wasn’t much on the fiscal front except for the previous tax reform. The preoccupation was then with cutting deficits.
 
 **Chapter 10 - Deficits Crowd Out Fiscal Policy, 1982 - 1998**
 
-Deficits crowd our private investment but there’s no political incentive to eliminate them 
-
-  
-
-Regan’s
-
-GRA law imposed mandatory budget cuts of deficit targets not met
-
-Was
-
-Riled unconstotutopnal and overturned 
-
-Wouldn’t eliminated automatic stabilizers in a recession
-
-Congress has liimited control over budget 
-
-Only over annual appropriations 
-
-And eligibility for entitlements
-
-Bush’s budget plan cleaned up the savings and loan mess and started the trek to a balanced bugwet 
-
-But he was punished for raising taxes
-
-Bush was punished politically but his counter cyclical paygo policies made sense
-
-  
+Deficits crowd out private investment, but there’s no political incentive to eliminate them. Regan’s 
+GRA law imposed mandatory budget cuts if deficit targets were not met. The law was ruled unconstitutional, and was overturned. It would've eliminated automatic stabilizers in a recession. Congress has limited control over the budget; it only controls annual appropriations and the eligibility for entitlements. Bush’s budget plan cleaned up the savings and loan mess and started the trek to a balanced buget, but he was punished for raising taxes. While he suffered politically, his counter cyclical paygo policies made sense.  
 
 **Chapter 11 - The Long Boom of the 1990s**
 
-Clinton
+**President Clinton**
 
-Democrats pre Regan we’re known as tax and spenders 
+Democrats pre-Regan were known as tax and spenders. This changed with Clinton, though he didn’t run on deficit reduction. He may have seen Perot’s success as evidence that the public cares about it since that was his whole campaign. Robert Rubin from GS cared about it as well. Lloyd Benson was getting messages from Greenspan who was also pushing it. Political advisors and Robert Reich were against too big of a cut. Even Reich was okay with cutting but didn’t want the 140bn of cuts. He wanted 120 - a small difference over 5 years. Clinton went for the bigger cuts, and the 30 yr went from 7.3 to 5.9. The deficit reduction was rear loaded. It made small cuts to social security - it made some Income taxable for upper earners. This was unusual for Democrats and hence made the plan seem credible to the market. Cutting fiscal deficits should lower rates which encourages investment and capital formation. That should improve productivity and real wages. Clinton wanted to sell the deficit reduction plan as a job creator not just the complex argument that it would improve real wages. The public was dealing with a jobless recovery and was  focused on jobs. 
 
-Changed w Clinton though he didn’t run on deficit reduction 
+The idea that fiscal cuts and tax raises could grow the economy even in the short term took hold though it made no sense. Rubin endorsed this negative multiplier theory arguing that it reduces the odds of something bad happening in the future. This "bad" thing could be a currency crisis which causes capital to flee and/or rising default risk which causes rates to spike and a recession. Those were all unlikely. The US wouldn’t default on own debt. The better argument was that if you can convince market debt won’t grow in future, that would lower rates today and create more investment. It still doesn’t meand there's a negative multiplier. Politicos learned the wrong lessons. deficit cuts won’t always lower yields. You have to be starting from high yields, have a period of irresponsible spending, and a change in government with new credible policies. Many became convinced that fiscal contraction was the key to the growing economy forgetting the special conditions that worked for Clinton. 
 
-May have seen Perot’s success as evidence that the public cares about it since that was his whole campaign
+The Clinton boom actually started under Bush.  The 1991 recession was caused by the oil shock from the Iraq war. The public thought the economy was in decline even when it was growing under Bush. His party was mad about taxes. Bush blamed Greenspan for the recession. Secretary Brady tried to convince Greenspan and called FOMC members directly to no avail. Clinton was a beneficiary of the business cycle. 
 
-Robert Rubin from GS cared about it as well
+Clinton got no  support from Republicans for deficit reduction, and only 50/57 democrats in the senate. He knew that Bush lost partially due to the Fed and was hoping it would cut as a reward for cutting the deficit. Greenspan didn’t commit to do so. Rubin knew that the Fed couldn’t do much more as Fed Funds were close to zero in real terms and it was up to bond market. The bond market came through and ensured deficit cuts weren’t contractionary.
 
-Lloyd benson was getting messages from
+Guided by Rubin, Clinton didn’t go to war with the Fed like Bush. The Fed increased rates 25bps, despite the deficit reduction, greatly angering Clinton. His advisors said real fed funds had been at zero for too long anyways, and if he criticized him publicly that would boost rates further and may cause fed to prove independence by raising more. They maintained a policy of not commenting on the Fed. The Fed kept hiking, raising rates from 3 to 6%.  At one point, the market was pricing in 8%. Greenspan was the first to issue forward guidance. The author thought Fed could be overdoing it, but the vice chair had never dissented before. Real rates went from 0 to 3 as inflation was flat. The 30 year went up 140 bps during the period. Unemployment was at 5.4 which was thought to be close to the natural rate. 
 
-Greenspan who was also pushing it 
+The rate was 5.5 when the 1998 recession caused by LTCM and the Russian default occurred. It cut 75 bps during this period, and Greenspan along with Rubin and summers were credited with saving the world. The boom of the late 1990s was driven more by cuts earlier in Clinton’s term than the smaller cuts in '97. The surplus increased without any change in policy. Many new jobs were created, and labour productivity increased a lot. As the economy was growing well in the late 90s, even dovish FOMC members like Yellen wanted to raise rates. Unlike in the past, Greenspan resisted. He predicted the productivity gains from technology and anticipated that the economy could handle more. Even as unemployment went down, there wasn’t any inflation.  
 
-Political advisors and Robert reich were against too big of a cut 
+In 1990, central bank independence was rare. Only the US (kind of), Switzerland, and Germany had independent central banks. By the end of the decade, most developed and many developing countried had independent central banks. The success in fighting inflation, especially in Germany and Switzerland were the main motivators. A paper on time inconsistencies, which won Nobel prize, got too much credit for this. Few in policy circles knew about it.   
 
-Even Robert was okay w cutting but didn’t want the 140 of cuts
+Fiscal policy was no longer used as a lever, and many stuck to the claim that a lower deficit stimulates the economy against Keynesian logic.
 
-Wanted 120 - a small difference over 5 years
 
-Clinton went for the bigger cuts and 30 yr went from 7.3 to 5.9
-
-The deficit reduction was rear loaded 
-
-Also made small cuts to SS - made
-
-Some
-
-Income taxable for upper earners
-
-This was unusual for democrats and hence made the plan seem credible to the market
-
- Cutting fiscal deficits should lower rates which encourages investment and capital formation
-
-That should improve productivity and real wages 
-
-  
-
-Clinton wanted to sell the deficit reduction plan as a
-
-Job creator not just the complex argument that it would improve real wages
-
-Bc the public was dealing w a jobless recovery and was most focused on jobs
-
-  
-
-The idea that fiscal cuts and tax raisss  could grow the eco even in the short term took hold though it made no sense 
-
-  
-
-Rubin endorsed this negative multiplier theory arguing that it reduces the odds of something bad happening in the future
-
-  
-
-Bad as in a currency crisis
-
-Which causes capital to flee and/or rising default risk which causes rates to spike and a recession
-
-Those were all unlikely 
-
-Wouldn’t default on own debt 
-
-  
-
-Bettwrnargument was if can convince market debt won’t grow in future that would lower rates today and create more investment
-
-Still doesn’t show negative multiplier
-
-  
-
-Politicos learned the wrong lessons -
-
-Deficit cuts won’t always lower yields
-
-Have to be starting from high yields
-
-Have a period of irresponsible spending 
-
-And a change in govt w new credible policies
-
-Many became convinced that fiscal contraction was the key to growing economy forgetting the special conditions that worked for Clinton 
-
-  
-
-Clinton boom actually started under Bush
-
-91 recession caused by oil shock from Iraq war 
-
-Public thought Econ was in decline even when it was growing under bush 
-
-His party was mad about taxes
-
-Bush blamed Greenspan for the recession 
-
-Sec Brady tried to convince G and called FOMC members directly to no avail
-
-Clinton was beneficiaries of business cycle
-
-  
-
-Clinton got no republicans support for deficit reduction and only 50/57 democrats in the senate 
-
-  
-
-Knew that bush lost partially due to the fed, was hoping Fed would
-
-Cut as a reward for cutting deficit
-
-Greenspan didn’t commit to do so
-
-Rubin knew the fed couldn’t do much more as fed funds was close to zero in real terms and it was up to bond market 
-
-Bond market came through and ensured deficit cuts weren’t contractionary
-
-Guided by Rubin Clinton didn’t
-
-Go to war w Fed like bush
-
-The fed increases rates 25
-
-Despite the deficit reduction greatly angering Clinton 
-
-His advisors
-
-Said real fed funds
-
-Had been at zero for too long anyways and if he criticized him publicly that would boost rates further and may cause fed to prove independence by raising more
-
-They maintained
-
-A policy
-
-If not commenting on the
-
-Fed
-
-  
-
-The fed kept
-
-Hiking raising to 6 from 3pct.
-
-At one point market was pricing in 8pct ff
-
-Greenspan was the first to issue forward guidance
-
-The author thought Fed could be overdoing it but vice chair has never dissented before 
-
-Real rates went from 0 to 3 as inflation was flat
-
-The 30 year went up 140 bps suing the period
-
-Unemployment was at 5.4’which was thought to be close to natural rate 
-
-  
-
-Rate was
-
-5.5 when 98 recession Caused by LTCM and Russian default
-
-Cut 75 bps during this period
-
-And Greenspan along w Rubin and summers were credited w saving the world
-
-  
-
-The boom of the late 90s was driven more by cuts earlier in Clinton’s term than the smaller cuts in 97
-
-The surplus
-
-Increased without any change in policy
-
-Many new
-
-Jobs created as well
-
-Labour productivity also increased a lot
-
-As the Econ was
-
-Growing well in the late 90s even dovish FOMC members like yellen wanted to raise
-
-Rates. Unlike in the past Greenspan resisted. He predicted the productivity gains from technology and anticipated that the Econ could handle more
-
-Even as unemployment went down there wasn’t any inflation
-
-  
-
-In 1990 central Bank independence
-
-Was
-
-Rare
-
-Only in US kind of, Switzerland and Germany
-
-By end of decade
-
-Most dev and many EM had indep banks
-
-The success in fighting inflation esp in Germany and Switzerland were main motivators
-
-Paper on time inconsistencies which won Nobel prize got too much credit for this
-
-Few in policy
-
-Knew about it 
-
-  
-
-Fiscal policy was no longer used as a lever and many stuck to the claim
-
-That a lower deficit stimulates the economy 
-
-Against Keynesian thought
 
 **Chapter 12 - The 2000s - The Job-loss Recovery and the Bubbles**
 
