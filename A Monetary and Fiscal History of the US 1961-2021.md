@@ -160,325 +160,44 @@ Fiscal policy was no longer used as a lever, and many stuck to the claim that a 
 
 **Chapter 12 - The 2000s - The Job-loss Recovery and the Bubbles**
 
-Bush
+Gore ran as a fiscal conservative, and even said debt should be paid off by 2012, with entitlement spending put in a "lock box". Prior to the election, there were lots of debates for  what to do with surpluses. Fed wasn’t sure how it would conduct policy without a treasury market. Bush ran on tax cuts, even though the economy was strong. When he was elected, he passed big tax cuts which he got through with budget reconciliation which required sunset policies. Greenspan endorsed the policy. He said government surpluses should be decreased as they would eventually require the government to purchase private assets. That was an odd comment as it was unlikely that congress would have such large surpluses for extended periods as It did in the 19th century. Greenspan was a republican and appeared political by endorsing Bush's fiscal policy. Bush passed more tax cuts after that, and again after 911. Defense spending rose 15pct as well. While the economy recovered from the 2001 recession in terms of output, jobs didn’t recover until 2005, due to uncertainty from 911 and Iraq. 
 
-Gore ran as a fiscal conservative and even said debt to be paid off by 2012 and that it entitlement spending in a lock box
+Bush was one of the most profligate presidents ever. He didn't pay for his tax cuts, multiple wars, or Medicare part D. As opposed to the other entitlements ,there wasn’t a source of revenue for Medicare part D. Gore warned that the baby boomers' retiring would put stress on entitlements by 2010. Bush's excessive deficits obviously didn’t anticipate the GFC, but they were irresponsible nevertheless.  
 
-Priory to election lots of debates
+The Fed gets blamed for the housing crisis, as it didn't raise rates in 2002-2003, but that was because of the lack of job growth, partially due to the Iraq war. Fed funds was 1% during that period versus 2% inflation, that is, real rates were negative. They thought it would make sense to raise rates once the risk of war had gone down. Although house prices were rising, few thought there was a bubble until 2004 and, by then, the Fed was raising again.  
 
-For what to do w surpluses
-
-  
-
-Fed wasn’t sure
-
-How would conduct polixty without treasury market
-
-Bush ram on tax cuts though Econ was strong
-
-When elected passed big tax cuts
-
-Got through w budget reconciliation which required sunset policies
-
-Greenspan endorsed policy and said surpluses eventually would
-
-Require
-
-Govt to purchase
-
-Private assets 
-
-Was an odd comment as unlikely congress would
-
-Have such large surpluses for an extended periods as
-
-It did in 19th century
-
-Greenspan was a republican and appeared political by endorsing fiscal policy
-
-  
-
-Bush passed more tax cuts after that and
-
-Again after 911
-
-Defense spending rose 15pct as well
-
-While economy recovered from 2001 recession in terms of output,
-
-Jobs didn’t recover till 2005
-
-Uncertainty from 911 and Iraq
-
-Bush was one of the most profligate presidents ever not paying for his tax cuts, multiple wars,
-
-Or Medicare part D
-
-As opposed to rest of entitlements there wasn’t a source of revenue for part D
-
-Gore warned that the baby boomers retiring would put stress on entitlements by 2010
-
-Excessive deficits obvs didn’t anticipate the GFC but were irresponsible nevertheless 
-
-  
-
-Fed gets blame for the housing crisis for not raising rates in 2002-2003 but that was because of the lack of job growth, partially due to the Iraq war
-
-Fed funds was 1 during that period versus 2 pct inflation ie negative real rates 
-
-They thought it could make sense to raise rates once
-
-The risk
-
-Of war had gone down 
-
-Although house prices were rising,
-
-Few thought there was a bubble till 2004 and
-
-By then the fed was raising again 
-
-  
-
-Housing bubble Began before 2002 and continued after rates were increased
-
-It was also present in countries like the UK w higher rates 
-
-So bubble may have occurred even w higher rates
+The housing bubble began before 2002 and continued after rates were increased. It was also present in countries like the UK with higher rates. So a bubble may have occurred even with higher rates.
 
 
 **Chapter 13 - The Financial Crisis and the Great Recession**
 
-Bet Anne was an untested professor replacing a legend
+Bernanke was an untested professor replacing a legend. It made sense that he projected continuity  and conservatively hiked by 25 bps a few more times. Even if Bernanke wanted new regulations  to better monitor the financial system, it would have been hard, given his lack of market experience and since his predecessor was revered and was against excess regulation.   
 
-Made sense that he projected continuing and conservatively hiked by 25 a few times
-
-  
-
-Even if bernanke wanted reforms to
-
-Better monitor the financial system would be hard given his lack of market experience and since
-
-His predecessor was revered and was against excess
-
-Regulatio
-
-  
-
-After Bear shut down a fund and BNP gates a
-
-Subprime
-
-Find,
-
-FOMC said was still concerned
-
-W inflation which was 2.5
-
-Wasn’t yet concerned w financial system
-
-On 8/10
-
-Changed tune and opened up lending facilities
-
-Fed finally cut in sept 2007
-
-After stability issues became
-
-Clear
-
-Bagehot was about supporting the economy not easing a liq crisis which may require different tools
-
-By Jan 2008, the Fed realized they had to provide liquidity to the market and started aggressively cutting. 
-
-  
-
-When bear failed, the Fed agreed to take 30bn of risky assets on to its own BS that JPM wouldn’t take 
-
-  
-
-They also started offering more liquidity to primary dealers.
+Even after Bear Stearns shut down a fund and BNP gated a subprime fund, the FOMC said it was still concerned with inflation which was 2.5%. It wasn’t yet concerned with the financial system. 
+On 8/10, it changed its tune and opened up lending facilities. The Fed finally cut in Sept 2007, after stability issues became clear. Bagehot's argument (that one should lend at high rates and only against good collateral) was about supporting the economy not easing a liquidity crisis which may require different tools. By Jan 2008, the Fed realized they had to provide liquidity to the market and started aggressively cutting. When Bear failed, the Fed agreed to take 30bn of risky assets on to its own BS that JPM wouldn’t take. They also started offering more liquidity to primary dealers.
 
 **Chapter 14 - All Together Now: The Fed and the Treasury Join Hands**
 
-Bush passed a stimulus bill in feb 08 which was
+Bush passed a stimulus bill in Feb 08 which was 1% of GDP - mainly direct transfers to taxpayers. The Fed had already cut multiple times but it was too late. Lehman followed by AIG, Merrill Lynch, the GSEs, WAMU, Wachovia etc.
 
-1pct of
+**TARP**
 
-Gdp - direct transfers to taxpayers
-
-  
-
-Fed had already cut multiple times but it was too late 
-
-Lehman followed by AIG, baml, GSEs,
-
-WAMU, Wachovia etc
-
-Led to tarp
-
-For tarp,
-
-Bernanke wanted to inject capital directly into banks
-
-Usual playbook post banking crisis and would leverage governments money
-
-  
-
-Paulson was against the idea
-
-As nationalizations would be called
-
-Socialism by republicans and bailouts by democrats
-
-Also believed would crowd out any private capital which they were still seeking
-
-On these grounds he favored buying toxic assets 
-
-  
-
-When tarp was first pitched congress wasn’t as worried
-
-As bernanke or Paulson
-
-They thought this was a Wall Street issue
-
-The bailouts for
-
-Bear and AIG
-
-Were also very unpopular 
-
-  
-
- Ernanke was also against excess
-
-Commitments from
-
-The fed since he wasn’t elected 
-
-  
-
-Bernanke outlined a scary scenario where civil
-
-Order could
-
-Break down 
-
-Congressional leadership agrees 
-
-  
-
-Kashkati made up the tarp numbers from
-
-Thin air
+Bernanke wanted to inject capital directly into banks. This was the usual playbook after a banking crisis and would leverage the government's money. Paulson was against the idea, as nationalizations would be called socialism by Republicans and bailouts by Democrats. He also believed that it would crowd out any private capital which they were still seeking. On these grounds he favored buying toxic assets rather than injecting capital. When TARP was first pitched, congress wasn’t as worried as Bernanke or Paulson. They thought this was a Wall Street issue. The bailouts for Bear Stearns and AIG were also very unpopular. Bernanke was also against excess commitments from the Fed since he wasn’t elected. Bernanke outlined a scary scenario where civil order could break down. Congressional leadership agreed to TARP. Kashkari made up the requested TARP allocation numbers from thin air.
 
 **Chapter 15 - The Aftermath and the Backlash**
 
-After tarp was eventually passed, Paulson changed his mind and thought bernankes plan made more sense. It was too hard to buy toxic assets. He didn’t tell congress this when they voted. The major banks were forced to take the capital injections. 
+After TARP was eventually passed, Paulson changed his mind and thought Bernanke's plan made more sense. It was too hard to buy toxic assets. He didn’t tell congress this when they voted. The major banks were forced to take the capital injections. Wells Fargo tried saying no; Paulson told the CEO that the regulator would tell them they’re undercapitalized. The generous terms of CPP (the capital program), while not helping homeowners angered the public. 
+
+McCain suspended his campaign for an emergency meeting he called over the economy. It backfired on him, as he looked erratic. After Obama was elected in Dec 2008, the Fed had to decide what to do next. It could cut rates further, expand the balance sheet, or give forward guidance (which was a new idea). It ended up doing all 3. Unlike other central banks, it didn’t take rates negative. The dot plot didn’t start until 2012.   
+
+A major money market fund was invested in Lehman CP which was worthless. This caused the "breaking of the buck". What was thought to be riskless, lost money. This is a good analogue to uninsured deposits crisis happening now. People pulled money from CP and MM. Even blue chips were in danger of not making payroll due to their reliance on this market. The Fed program stabilized MM; this program, CPFF, was a turning point. The Fed actually bought corporate paper that the market shunned and reassured the market. It waas also a change in approach. Until then, everthing seemed ad hoc. Saving Lehman but not Bear. The public didn’t understand the guiding principles. This was the first time it was saving an actual market. The next market it saved was ABS for student loans and others. 
+
+It also started QE1 - the purchases of treasuries and MBS. MBS was a departure as they’re technically not riskless. The goal was to lower the spread on MBS which was accomplished. QE2 got much more political push back even though it was less radical than QE1 and it didn’t purchase any private assets. That may have made later rounds less activist. Banking stress tests showed that biggest banks were okay, and this marked end of the banking crisis. 
+
+
+The Fed press conferences actually started with Bernanke.
 
   
-
-Wells Fargo tried saying no. Paulson told the CEO that the regulator would tell them
-
-They’re
-
-Undercapitalized. The generous terms of CPP (the capital program) while not helping homeowners angered the public.
-
-  
-
-McCain suspended his campaign for an emergency meeting he called over the economy. It backfired on him
-
-As he looked erratic.
-
-After Obama was elected in March dec 2008, Fed had to decide what to do next
-
-Could cut rates further
-
-Expand balance sheet
-
-Give forward guidance (which was a new idea)
-
-Ended up doing all 3
-
-  
-
-Unlike other banks didn’t take rates negative 
-
-  
-
-Dot plot didn’t start till 2012
-
-  
-
-A major money market fund was invested in Lehman CP which was worthless
-
-Caused the breaking of the buck 
-
-What was thought to be riskless
-
-lost money 
-
-  
-
-Analogue to uninsured deposits?
-
-  
-
-Ppl pulled money from CP and MM 
-
-Even blue chips were in danger of not making payroll due to reliance on market 
-
-Fed program stabilized MM
-
-  
-
-This program - CPFF - was a turning point.
-
-Fed actually bought corporate paper that market shunned
-
-Saved the market by reassuring 
-
-Was also a change in approach
-
-Until
-
-Then it seemed
-
-Ad hoc -
-
-Save Lehman but not bear - public didn’t understand guiding principles
-
-This was first time
-
-It was saving an actual market 
-
-Next market it saved was ABS for student loans and others 
-
-  
-
-Also started QE1 - purchases of treasuries and MBS
-
-MBS was a departure as they’re technically not riskless
-
-Goal was to lower spread on MBS  which was accomplished
-
-Qe2 got much more political push back though was less radical than qe1 and didn’t purchase any private assets may have made later rounds less
-
-Activist 
-
-  
-
-Banking stress tests showed that biggest banks were okay
-
-Marked end of banking crisis
-
-Fed press conferences started w bernanke
-
-  
-
-Chap 15
-
   
 
 Obama stimulus was completely opposed by republicans who claimed a negative multiplier 
