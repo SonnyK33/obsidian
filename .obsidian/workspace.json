@@ -25,7 +25,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "BGS Refinancing Example.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6ab6a97f36e401a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - Template.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ee865679917ac54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "BGS Refinancing Example.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "BGS Refinancing Example.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,15 +153,26 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "2713eb3b7a960c1f",
+  "active": "0ee865679917ac54",
   "lastOpenFiles": [
-    "GDP.md",
+    "WIL/WILT - 5.1.23.md",
+    "WIL/WILW - 4.14.23.md",
+    "BGS Refinancing Example.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 4.10.23.md",
+    "WIL/WILW - 4.14.23 1.md",
+    "Untitled 11.md",
+    "Molecules/Distressed Legal Framework.md",
+    "Molecules/Edge.md",
+    "Convexity.md",
+    "Field Research - WIP.md",
+    "Understand Narrative.md",
     "Molecules/2023 Trades.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
+    "GDP.md",
     "Delta_Hedging.md",
     "Everything You Never Wanted to Know about Frontier Debt.md",
     "9.23.22.md",
-    "Molecules/Distressed Legal Framework.md",
     "Distressed Credit - Outline.md",
     "Molecules/Credit as Option Trades.md",
     "Molecules/Dollar Hegemony.md",
@@ -146,17 +181,6 @@
     "Monetarism.md",
     "ISLM Model.md",
     "Disunited Kingdom.md",
-    "French leaders have long hated being dependent on US for protection.md",
-    "Japan, Germany, and the Challenge of Excess Savings.md",
-    "Japan Monetary Policy.md",
-    "WIL/WILW - 4.14.23.md",
-    "IS",
-    "Sources/How to take smart notes.md",
-    "Forward Guidance - Tian Yang.md",
-    "History of US Monetary Policy.md",
-    "Transformers.md",
-    "Sources/Commodities Note.md",
-    "Outlines/Europe - Outline.md",
-    "Dollar's Imperial Circle.md"
+    "IS"
   ]
 }

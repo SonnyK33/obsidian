@@ -1,6 +1,6 @@
 Type: #molecule 
 References: [[Distressed Credit - Outline]]
-
+[[BGS Refinancing Example]]
 **Organizational Chart**
 Map out the capital structure, including all issuing and guaranteeing entities.
 Guarantees are important. If the notes aren't guaranteed, they'll be structurally junior to any debt issued by subsidiaries in the future. 
