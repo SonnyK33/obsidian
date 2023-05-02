@@ -15,12 +15,13 @@ Areas argue against the euro even though he’s called father of the euro
 A paper on time inconsistencies, which won Nobel prize, got too much credit for this. (central bank independence)
 
 
+
 Overview:
 
 Binder describes the different approaches to fiscal and monetary policy taken by administrations and the Federal Reserve from the early 1960s through the Biden administration. He focuses on the interplay between budget actions and interest rates and how the economy responded. He also discusses how Keynesian approaches went in and out of favour.
 
-Key Lessons:
-
+Key Lessons/molecules:
+- QE vs covid response - why one created inflation and other didn't
 
 
 
@@ -195,137 +196,22 @@ A major money market fund was invested in Lehman CP which was worthless. This ca
 It also started QE1 - the purchases of treasuries and MBS. MBS was a departure as they’re technically not riskless. The goal was to lower the spread on MBS which was accomplished. QE2 got much more political push back even though it was less radical than QE1 and it didn’t purchase any private assets. That may have made later rounds less activist. Banking stress tests showed that biggest banks were okay, and this marked end of the banking crisis. 
 
 
-The Fed press conferences actually started with Bernanke.
+The Fed press conferences actually started with Bernanke. The Obama stimulus plan was completely opposed by Republicans who claimed it would have a negative multiplier. Santelli’s rant gave rise to the tea party which contributed to Obama's 2010 midterm losses. They also opposed Obama's tax cuts in the stimulus bill, as they included the poor who only paid payroll taxes. Despite tea party rhetoric, polls showed the public favored support for homeowners in trouble-- much more than for banks.  
 
-  
-  
+Unemployment was still high (10pct) and deficits were sharply higher, so some concluded that nothing was accomplished by the stimulus bill. Keynesian models showed that the counterfactual would’ve been much worse. Even if you reject those models, it's hard to say that 800bn created no jobs even if it was spent unwisely. Midterm losses made future expansionsary policy tough. 2011-13 fiscal policy was contractionary, and that was despite still high unemployment. Fiscal austerity was offsetting monetary stimulus.
+ 
+Dodd-Frank restricted the Fed from lending to any specific entity. It had to be broad based and required approval from the Treasury - section 13. Some thought this would restrict the Fed but the Treasury approved everything during Covid. The Fed's actions post Lehman including QE grew the Feds balance sheet but didn’t increase M2, Ie the money supply. That’s because the Fed started paying interest on reserves. This broke the link between the balance sheet and money supply. That is, banks didn't have to increase lending and create new deposits. They lost their treasuries but gained reserves. Banks were happy to hold on to reserves and not lend them out.  
 
-Obama stimulus was completely opposed by republicans who claimed a negative multiplier 
-
-Santelli’s rant gave rise to the tea party which contributed to 2010 midterm losses
-
-Also opposed Obama tax cuts in stimulus bill which includes the poor who only paid payroll taxes
-
-Despite tea party rhetoric polls showed public favored support for homeowners in trouble.. much more than for banks 
-
-  
-
-Unemployment was still high (10pct) and deficits were sharply higher so some concluded nothing was accomplished 
-
-Keynesian models showed counterfactual would’ve been much worse
-
-Even if you reject those models hard to say that 800bn created no jobs even if spent unwisely 
-
-  
-
-Midterm losses made future expansionsary policy in tough
-
-  
-
-2011-13 fiscal policy was contractionary
-
-That was despite still high unemployment 
-
-Fiscal austerity was offsetting monetary stimulus
-
-Hard to run on the counter factual
-
-Being worse
-
-  
-
-Dodd
-
-Frank restricted the fed from
-
-Lending to any specific entity -
-
-Has to be broad based
-
-And requires approval from treasury - section 13
-
-Some thought this would restrict the Fed but treasury approves everything during Covid 
-
-  
-
-The feds actions post Lehman including QE grew the Feds balance sheet but didn’t increase m2
-
-Ie the money supply 
-
-That’s because paying interest on reserves which they started,
-
-Broke the link bw the balance sheet and money supply
-
-Banks were happy to hold on to reserves and not lend them out 
-
-New regulatory requirements also required banks to
-
-Hold more liquidity 
-
-M2 did eventually grow at 7pct while inflation was much lower
+New regulatory requirements also required banks to hold more liquidity. M2 did eventually grow at 7pct while inflation was much lower. Compare this to what happened with covid.
 
 
 **Chapter 16 - The Record Expansion of the 2010s**
 
-In the 2010s,
+In the 2010s, unemployment came down dramatically without rapid GDP growth. This was due to low labour productivity. Fiscal policy contracted in 2012 partially due to the election year. Bernanke announced that the Fed's actions would come to an end as it was no longer needed i.e. tapering. The market reacted strongly in 2013 - the taper tantrum. This was partially why Fed gave lots of notice in 2021. Four tr of securities were acquired through 3 rounds of QE. QE1 had a bigger impact on rates than Qe2 which was more focused in term premia vs emergency lending. Forward guidance and dot plots were Bernanke's attempt to increase transparency.
 
-Unemployment came down dramatically without rapid GDP growth 
+Obama may have wanted Summers to replace Bernanke as did most Fed economists. But he feared Summers could get rejected by the banking committees during confirmation. The Left opposed him. The FOMC finally raised rates when unemployment fell close to 5pct. They had been changing forward guidance esp relating to unemployment targets while saying the policy stance hadn’t changed. But the dovish consensus was fraying; Yellen had 3 dissents at the previous meeting before raising. During her tenure, inflation edged above 2pct and unemployment fell close To 5pct. She raised rates 5 times 25 each - nothing extraordinary. She started to shrink the BS but not by too much.  
 
-This was due to low labour productivity
-
-Fiscal policy contracted in 2012 partially due to election year
-
-  
-
-Bernanke announced that feds actions would come to an end as no longer needed ie tapering 
-
-Marketed reacted strongly in 2013 - taper tantrum 
-
-Partially why Fed gave lots ot notice in 2021
-
-  
-
-4tr of securities acquire through 3 rounds of QE
-
-QE1 had a bigger impact on rates than qe2 which was more focused in term premia vs emergency lending 
-
-Forward guidance and dot plots were bernankes attempt to increase transparency 
-
-  
-
-Obama may have wanted summers to replace bernanke as did most fed economists 
-
-But
-
-Feared could get ejected by banking committee s during confirmation
-
-Left opposed him
-
-  
-
-FOMC finally raised rates when unemployment fell close to 5pct
-
-They had been changing forward guidance esp relating to unemployment targets while saying policy stance hadn’t changed 
-
-But dovish consensus was fraying - yelled had 3 dissents at previous meeting before raising 
-
-  
-
-During her tenure inflation edged above 2pct and unemployment fell close To 5
-
-Raised rates 5 times 25 each - not much 
-
-And started to shrink bs but not much 
-
-  
-
-Powell first fed chair in long time without Econ phd
-
-Attacked by trump 
-
-  
-
-
+Powell was the first Fed chair in a long time without Econ Phd. 
 
 Chapter 17 - Trumpnomics before the Pandemic
 
