@@ -2,6 +2,7 @@ Type: #source #Trades
 Reference: https://www.ft.com/content/333aa07e-93ff-4e97-95c4-548bdccb5661
 [[Geopoltical Alpha]]
 [[Japan Fighter Jet Program]]
+[[America’s Bad Bet on India]]
 [[China - Outline]]
 [[india - Outline]]
 [[India]]

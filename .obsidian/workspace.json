@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "35d038c028f4896d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Geopolitics of Global Finance.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -102,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "Geopolitics of Global Finance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,8 +141,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f210f5761e0c7129",
+  "active": "35d038c028f4896d",
   "lastOpenFiles": [
+    "America’s Bad Bet on India.md",
+    "india - Outline.md",
+    "India.md",
+    "Indian Defense Spending.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
     "BGS Refinancing Example.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 5.1.23.md",
@@ -144,7 +161,6 @@
     "Field Research - WIP.md",
     "Understand Narrative.md",
     "Molecules/2023 Trades.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
     "GDP.md",
     "Delta_Hedging.md",
     "Everything You Never Wanted to Know about Frontier Debt.md",
@@ -153,10 +169,6 @@
     "Molecules/Credit as Option Trades.md",
     "Molecules/Dollar Hegemony.md",
     "US Trade Policy.md",
-    "Current Account Deficits.md",
-    "Monetarism.md",
-    "ISLM Model.md",
-    "Disunited Kingdom.md",
     "IS"
   ]
 }
