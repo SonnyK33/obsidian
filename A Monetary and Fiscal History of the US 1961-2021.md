@@ -215,279 +215,55 @@ Powell was the first Fed chair in a long time without Econ Phd.
 
 Chapter 17 - Trumpnomics before the Pandemic
 
-Trumps tax cut similar to Johnson’s spending increase in 65 - stimulated an economy not in need 
+Trump's tax cut was similar to Johnson’s spending increase in 65. It stimulated an economy not in need, leading to inflation. The Trump tax cut was supposed to improve wages by incentivizing business investment through tax cuts. [[US Trade Policy]] 
 
-Leading to inflation
-
-Trump tax cut was supposed to improve wages by incentivizing business investment through tax cuts 
-
-See Pettis
-
-There was a marginal increase in ivestmwny but nowhere near the targets
-
-  
-
-Trump criticized yellen for keeping rates low saying it was political to help Clinton win
-
-  
-
-He later criticized Powell after the 2nd rate hike 
-
-  
-
-Fed later cut three times - partially due to trade war w China 
-
-Trump asked for zero and negative rates
-
-Was hard for Fed to cut without looking like caving to pressure 
-
-All of the cuts had 2 dissents
-
-  
-
-On eve of pandemic and Econ was strong and very similar to Obama economy
-
-Unemployment was low
-
-Fiscal deficit was higher but most didn’t care
-
-Rather bc of still low rates and foreign demand for treasuries many argued for higher deficits and debt
-
-Rates were higher and so competing against loose fiscal but we’re still low 
-
-  
+There was a marginal increase in investment, but it was nowhere near the targets. Trump criticized Yellen for keeping rates low, saying it was political decison to help Clinton win. He later criticized Powell after the 2nd rate hike. The Fed later cut three times, partially due to the trade war with China. Trump asked for zero and negative rates. It was hard for the Fed to cut without looking like it was caving to pressure. All of the cuts had 2 dissents. On the eve of the pandemic, the economy was strong and very similar to Obama's economy. Unemployment was low;  the fiscal deficit was higher but most didn’t care. Rather, because of still low rates and foreign demand for treasuries, many argued for higher deficits and debt. Rates were marginally higher and so were competing against a loose fiscal policy.  
 
 Chapter 18 - Responding to the Great Pandemic
 
-Fiscal had to do bulk of lifting during Covid bc nothing left for monetary to do
+Fiscal policy had to do the bulk of lifting during Covid because there wasn't anything left for monetary policy. So even though monetary policy hadn’t been inflationary, the lack of bullets meant fiscal policy (which would be inflationary) had to be used. The initial response was massive fiscal policy. The Cares Act was huge - 10 pct of GDP. Due to uniform fiscal transfers,  many people were getting more than from jobs. The stimulus maintained consumer spending and led to an unprecedented savings rate. Republicans were against transfers to state and local governments.  
 
-So even though monetary hadn’t been inflationary, the lack of bullets meant fiscal (which was inflationary) had to be used
+**Monetary response**
 
-  
+The Fed was limited since the policy rate was so low. Lower rates wouldn’t matter anyways when people were  afraid to shop and leave their house. Treasury yields went negative due to excess demand for quality assets. The Fed had to create a new repo facility to maintain liquidity in treasuries. New lending facilities were created and pledged to buy treasuries and MBS and support household credit. They restarted GFC era facilities to support commercial paper and asset backed securities. They created new facilities to support the corporate and municipals bond market. They also decided to support bank lending to Main Street businesses. The Fed had been able to buy munis, but it was restricted to short term, so the new facility was a departure. It was barely used as its existence calmed the market. 
 
-Initial response was massive fiscal
+The Main Street lending facility had very little take up as the minimum loan size was $500k and banks had to retain 5%. The PPP was extended many times. Loans were non-recourse to banks and backed by loans to small businesses which obviously had default risk and so were forgivable. Most were guaranteed by the SBA. 
 
-Cares act was huge 10 pct of GDP
+The Fed made changes its near-term goals. It moved from 2% to a flexible inflation target and said it wouldn’t take preemptive action on inflation but wait to see it. It explicitly focused on employment and would look at broader measures than just the unemployment rate. It was also asymmetric and not worried about too much employment. Biden's stimulus bill needed reconciliation to pass anyways and so he threw in some extras, such as an increased Child Tax Credit. Its total value was 2tr - a quarter more than the Cares Act. Larry Summers warned it would create unprecedented inflation.  
 
-Due to uniform payments many ppl were getting more than from jobs
-
-Stimulus maintained consumer spending and led to unprecedented savings rate
-
-  
-
-Republicans were against transfers to state and local government 
-
-  
-
-Monetary response
-
-Fed was limited since policy rate was so low
-
-Lower rates wouldn’t matter anyways when ppl are afraid to shop and leave their house
-
-Treasury yields went negative due to excess demand for quality 
-
-Had to create a new repo facility to maintain liquidity in treasuries
-
-  
-
-New lending facilities - pledged to buy treasuries and MBS
-
-Support household credit 
-
-Restarted GFC eta facilities to support commercial paper and asset backed securities
-
-Created new facilities to support the corporate bond market, and municipals
-
-Also to support bank lending to Main Street businesses
-
-Fed had been able to buy munis but was restricted to short term, so new facility was a departure 
-
-Barely used as existence calmed market
-
-  
-
-Main Street lending facility had very little take up as min loan size was $500k and banks had to retain 5pct
-
-  
-
-PPP was extended many times
-
-Loans were non recourse to banks and backed by loans to small businesses which obviously had default risk and so were forgivable and most were
-
-But we’re guaranteed by SBA
-
-  
-
-Fed made changes
-
-Moved from 2pct to flexible inflation target and set wouldn’t take preemptive action on inflation but wait to see it 
-
-Explicitly focused on employment and would look at broader measures than just u rate
-
-Was also asymmetric and not worried about too much employment 
-
-  
-
-Bidens atimulus bill needed reconciliation to pass anyways and so he threw in some extras
-
-Child tax credit was increased
-
-Total value was 2tr - quarter more than cares act
-
-Summers warned would create unprecedented inflation
-
-  
-
-Inflation started to rise in 2021 but Powell stuck to transitory and was still engaging in asset purchases 
-
-  
-
-By end of year he retired the term and started tapering purchases
-
-Market didn’t respond like in 2013 as was well telegraphed and inflation worries were real
-
-  
-
-Biden pushed a couple more big spending bills but Manchin wasn’t willing to suppor
+Inflation started to rise in 2021, but Powell stuck to the transitory narrative and was still engaging in asset purchases. By end of the year, he retired the term and started tapering purchases. The market didn’t respond like in 2013 as it was well telegraphed and inflation worries were real. Biden pushed a couple more big spending bills but Manchin wasn’t willing to support them. 
 
 
 **Chapter 19 - Sixty Years of Monetary and Fiscal Policy: What's Changed?**
 
-Monetary vs fiscal
+**Monetary vs Fiscal**
 
-Former mainly affects asset prices while the latter can be tailored to different groups
+Monetary policy mainly affects asset prices while fiscal policy can be tailored to different groups. President Kennedy was the first to use fiscal policy to move aggregate demand and did so without a recession. At the time, Keynesian policy was supposed to be symmetrical, and there were calls to use a surtax to cut inflation. President Johnson resisted and it came too late, leading to inflation and the birth of monetarism as Keynes was blamed for inflation. When the surtax was enacted in 1968, it was the last time fiscal policy was used to cool the economy.
 
-Kennedy was first to use fiscal policy to move aggregate demand, and did so without a recession
+Johnson loosened fiscal policy for the Vietnam War and tried to fire the head of the Fed who was tightening monetary policy. This was the first major conflict between fiscal and monetary policy. The conflict died with Nixon and Burns. It turned into stagflation with Ford and the Fed vascillated between fighting inflation and low growth. 
 
-At the time Keynesian policy was supposed to be symmetrical and there were calls to use a surtax to cut inflation
+Monetary took the lead with Volcker, and as inflation became the dominant worry, Reagan  boosted demand with tax cuts before switching to care about the deficit. He relied on the Fed to manage demand while he focused on the deficit. The Fed may have pulled off a soft landing if not for first gulf war. No one considered fiscal policy for dealing with the 1990-91 recession. 
 
-Johnson resisted and it came too late,
-
-Leading to inflation and birth of monetarism as Keynes was blamed for jnflatjon 
-
-When surtax was enacted in 1968 was last time fiscal was used to cool the economy
-
-Johnson loosened fiwscal policy for Vietnam and tried to fire head of Fed who was tightening monetary
-
-Was first major conflict between fiscal and monetary 
-
-Conflict died w Nixon and burns
-
-Turned into stagflation with ford and the fed vascullatinf between fighting inflation and low growth
-
-Monetary took the lead w Volker and as inflation became dominant worry
-
-Reagan then boosted demand w tax cuts before switching to care about the deficit
-
-Relied on the fed to manage demand while it focused on deficit
-
-Fed may have pulled off a soft landing if not for first gulf war
-
-No one considered fiscal policy for 1990-91 recession
-
-Clinton ran on cutting deficits and was accommodated by Greenspan who raised rates slowly 
-
-Business Investment as share of gdp rose during Clinton administration 
-
-Bond market reacted strongly and rates fell - this offset the contractionary fiscal policy
-
-Unemployment fell and inflation didn’t rise
-
-Greenspan correctly attributed this to higher productivity due to the tech revolution which was underway - predicted this before most
-
-And hence didn’t rates as quickly as some hoped
-
-Greenspan became godlike and focus shifted away from fiscal 
-
+Clinton ran on cutting deficits and was accommodated by Greenspan who raised rates slowly. 
+Business Investment as a share of GDP rose during the Clinton administration. The bond market reacted strongly and rates fell. This offset the contractionary fiscal policy. Unemployment fell and inflation didn’t rise. Greenspan correctly attributed this to higher productivity, due to the tech revolution which was underway. He predicted this before most people, and hence didn’t rates as quickly as some hoped. Greenspan became godlike and the focus shifted away from fiscal policy. 
   
+Budget deficits grew considerably after Reagan to levels unthinkable to Eisenhower or Kennedy. Attitudes towards central bank independence have changed a lot since 1961. Fiscal policy came back with Obama and the stimulus plan. But after that, Republicans stopped any fiscal expansion after midterms. Bernanke begged congress for help and worried that the Fed couldn’t do it alone. 
 
-Rose and fall of Keynesiaam is a recurring theme 
+Because of the zero bound in rates, the Fed thought it had a Japan type problem and needed fiscal help. As that didn’t come, overall policy was contractionary.  
 
-Budget deficits grew considerably after Reagan levels unthinkable to Eisenhower or Kennedy
+Fiscal dominated in the 1960s. Nixon dominated both fiscal and monetary. Volcker didn’t seek fiscal help, and Regan and Clinton brought back fiscal in opposite ways. They focused on the budget and relied on monetary to manage the economy. This ended with the GFC.  
 
-Attitudes towards central bank independence have changed a lot since 1961
+**Keynes** 
 
-Fiscal came back w Obama and stimulus 
+Went in and out of fashion. It lost out to monetarism when Johnson delayed the tax surcharge and got blamed for the supply shock related inflation which was falsely attributed to money supply. Even after the Fed's conversion to monetarism in the 1970s, gyrations in money supply and rates discredited the theory. Keynes suffered from Clinton's policies which focused on the deficit and argued for a negative multiplier. But Clinton's cuts were backloaded, and the real impact came from lowering long term rates. So growth came from increased credibility not fiscal cuts. 
 
-But after that republicans stopped any fiscal expansion after midterms 
+Neoclassical economics argues that markets clear instantly which most central bankers didn’t buy. 
+Most policymakers became Keynesians in crises. Trump followed the same logic as Bush with tax cuts after a period of austerity. Trump's promises were even more optimistic. Bush 1 and Clinton were the only ones who acted in truly anti-Keynes fashion. The rest were either admitted Keynes supporters or did so despite claiming the opposite.
 
-Bernanke begged congress for help and worried c bank couldn’t do it alone 
+Deficits went from a moral outrage to something that crowded out investment. Regan attacked Carter for a 2.5% deficit even though he grew it to 6.5%. This was the start of a pattern where Republicans would attack deficits if Democrats were in power but celebrate them if Republicans were in power and raised them via tax cuts. Bush 1 was the exception.
 
-Bc of zero bound in rates Fed thought it had a japan type problem and needed fiscal help
+Fiscal prudence ended in 2020 with a 15% deficit. Repblicans however objected to more spending when Biden came to power.   
 
-As that didn’t come, overall policy was contractionary 
+**Importance of Fed independence changed over time**
 
-  
-
-Fiscal dominated in 1960s
-
-Nixon dominated both 
-
-Volker didn’t seek fiscal help
-
-Regan and Clinton brought back fiscal in opposite ways 
-
-They Focused on the budget and relied on monetary to manage economy 
-
-This ended w GFC
-
-  
-
-Keynes 
-
-Went in and out of fashion
-
-Lost out to monetarism wh n Johnson delayed tax surcharge and got blamed for supply shock related inflation which was falsely attributed to money supply 
-
-Even after Feds conversion to monetarism in 1970s gyrations in money supply and rates discredited the theory
-
-K suffered from Clinton policies which focused on the deficit and argues for a negative multiplier 
-
-Came to haunt in the future 
-
-But Clinton cuts were backloaded and the real impact came from lowering long term rates
-
-So growth came from increased credibility not fiscal cuts 
-
-Neoclassical argues that markets clear instantly which most central bankers didn’t buy
-
-Most policymakers became Keynes in crises
-
-Trump followed same logic as bush w tax cuts after a period of austerity
-
-Trumps promises even more optimistic
-
-Bush 1 and Clinton were only ones who acted in truly anti Keynes fashion
-
-The rest were either admitted Keynes or did so despite claiming the opposite
-
-Deficits went from a moral outrage to something that crowed a out investment 
-
-Regan attacked Carter for 2.5 deficit even though he grew it to 6.5
-
-Start of pattern where R would attack deficits if D in power but celebrate them if R in power and brought via tax cuts 
-
-Bush 1 was exception
-
-Fiscal prudence ended in 2020 w 15pct deficits
-
-R however objected to more spending when Biden came to power
-
-  
-
-Importance of Fed independence changed over time
-
-Low point under Nixon 
-
-Many prominent economists - Friedman and Tobin for ex were against it
-
-Globally it wasn’t the norm 
-
-Changed after inflation in 1970s when value of indep was clear
-
-NZ was example
-
-  
-
-In 2008 given fees prominent role many looked to reign in C bank
+The low point was under Nixon. Many prominent economists - Friedman and Tobin, for example were against it. Globally it wasn’t the norm. This changed after the inflation of the 1970s when the value of independence became clear. New Zealand was the example for many. In 2008, given the  Fed's prominent role, many looked to reign it in.

@@ -42,21 +42,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "35d038c028f4896d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Geopolitics of Global Finance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -114,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Geopolitics of Global Finance.md",
+                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,13 +129,15 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "35d038c028f4896d",
+  "active": "f210f5761e0c7129",
   "lastOpenFiles": [
+    "US Trade Policy.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "Geopolitics of Global Finance.md",
     "America’s Bad Bet on India.md",
     "india - Outline.md",
     "India.md",
     "Indian Defense Spending.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
     "BGS Refinancing Example.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 5.1.23.md",
@@ -167,8 +157,6 @@
     "9.23.22.md",
     "Distressed Credit - Outline.md",
     "Molecules/Credit as Option Trades.md",
-    "Molecules/Dollar Hegemony.md",
-    "US Trade Policy.md",
     "IS"
   ]
 }
