@@ -10,18 +10,27 @@ References:
 [[To Read - Outline]]
 See paper from Poole- Friedman student
 Mundell Fleming models on fixed and floating rates
-His work on optimal currency
-Areas argue against the euro even though he’s called father of the euro
+His work on optimal currency areas argue against the euro even though he’s called father of the euro
 A paper on time inconsistencies, which won Nobel prize, got too much credit for this. (central bank independence)
-
 
 
 Overview:
 
 Binder describes the different approaches to fiscal and monetary policy taken by administrations and the Federal Reserve from the early 1960s through the Biden administration. He focuses on the interplay between budget actions and interest rates and how the economy responded. He also discusses how Keynesian approaches went in and out of favour.
 
+
 Key Lessons/molecules:
 - QE vs covid response - why one created inflation and other didn't
+- Loose fiscal policy plus tighter (which had been the norm pre-2008 and will probably be again) leads to higher rates and decreases the share of GDP going to investment (fiscal deficits mean a share of spending goes to consumption)
+- There was a time (not that long ago) when fiscal balances affected interest rates (e.g. Clinton's cuts bringing down the long-end)
+- Regulation Q put a cap on rates and drove consumers out of deposits and into other instruments
+- Johnson refused to pass a surtax because he thought it would make his war in Vietnam less popular. The ensuing inflation led to the rise of monetarism
+- I don't understand monetarism that well - believed demand for money was inelastic. Under what conditions is that true?
+- Friedman argued that the Phillips curve is vertical and unemployment is fixed at u-star. If unemployment goes below that level, it will push up inflation and inflation expectations. Firms wil raise prices before workers demand higher wages. The higher costs lower workers' real wages. Eventually they ask for higher wages, resulting to layoffs, bringing unemployment back to u-star. The rational expectations school argued against this outcome. 
+- Supply shocks cause stagflation. Demand shocks cause prices and output to both increase (inflation). Supply shocks (oil embargo in the 1970s, covid shutdowns, etc) cause output and price to move in the opposite direction - stagflation. The phillips curve doesn't predict this. 
+- The oil embargo also led to higher unemployment and not just lower wages. This was partially due to much lower worker productivity than expected. This was caused by businsses giving larger wage increases than warranted (as they didn't realize productivity decreased), and by policymakers targeting a higher level of growth (also not knowing that productivity decreased). These two factors raised NAIRU and led to policymakers targeting a lower level of unemployment than what was warranted. This led to inflation. What happened to worker productivity in the past few years?
+
+
 
 
 
@@ -34,38 +43,36 @@ Loose fiscal policy plus tighter monetary (which is the norm) leads to higher ra
 
 Regulation Q - a leftover policy from the Great Depression - put a cap on deposit rates. Based on the argument that part of the depression was caused by the ruinous competition for deposits. It has since been dismantled, but in the 1960s, it led to disintermediation when the fed rose rates. Depositors left banks for other instruments when market rates went above the cap. This hurt the housing sector as there less money to fund mortgages. This was before the government sponsored entities were created to stimulate the housing market. 
   
-Under Breton Woods, the USD was fixed against major currencies, and this restricted what the Fed could do. It couldn’t depreciate its exchange rate when inflation exceeded Germany's for example. Instead, gold would leave the country. This became a secular issue and eventually led to the end of the gold standard. 
+Under Bretton Woods, the USD was fixed against major currencies, and this restricted what the Fed could do. It couldn’t depreciate its exchange rate when inflation exceeded Germany's for example. Instead, gold would leave the country. This became a secular issue and eventually led to the end of the gold standard. 
 
 Fed chair Martin was the longest serving chair of the Fed and like all previous heads, he had no formal Economics training. At the time most Fed chairs came from Wall Street. The head of the CEA was a Keynesian but also believed in contractionary policies when they were warranted. Johnson passed surtaxes (at the time, the Fed said contractionary policies should come from government not Fed). This eventually lowered growth but inflation continues to rise as unemployment was still below the natural rate.   
 
 
 **Chapter 2 - Inflation and the Rise of Monetarism**
 
-Monetarism emerged as a new economic theory based on the importance of the moeny supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute (i.e. a vertical LM curve. See [[ISLM Model]] and [[Monetarism]]).
+Monetarism emerged as a new economic theory based on the importance of the money supply. Monetarists, led by Friedman, argued the Fed should be affecting policy by targeting money supply. He argued fiscal deficits don’t matter if they're accompanied by bond issuance. This requires you to believe that demand for money is inelastic that is not dependent on rates - which many dispute (i.e. a vertical LM curve. See [[ISLM Model]] and [[Monetarism]]).
 
 Due to the influence of monetarism, the Fed targeted and followed money aggregates. Greenspan ended the policy years later which had been a legal requirement. Friedman thought fiscal deficits were only inflationary if they were financed through printing money. His k% rule was monetary growth should equal gdp growth plus inflation. Monetarists argued that the Fed should target M (money supply) rather than r (interest rates). 
 
 *Explanation through IS/LM model*
 If M is fixed, you get an IS LM system where r and y will shift in response to changes in demand for money (LM shocks) or real spending (IS shocks). If r is fixed (i.e. a vertical LM curve), letting M fluctuate periodically to achieve the target r, LM shocks become irrelevant and only IS shocks matter. However,  they have a bigger impact than when upward sloping LM curve cushions impact. 
 
-So targeting M avoids IS shocks but brings LM shocks , so depends on which you’re more worried about Poole argued we knew more about M than real incomes so should target M. This was proven wrong with various financial innovations, including those spurred by regulation Q. Many monetarists argued expanding money supply would lead to inflation. For example, QE in 2010, but it didn’t happen. The same argument was made post Covid, and it did happen that time. The difference was that with QE, the federal government wasn't increasing fiscal expenditures drastically. Lower interest rates inflated asset prices but didn't put more money in people's pockets. That's what occurred in 2020. The increase in M1 was marginal in 2008 compared to 2020 when it quadrupled. 
+So targeting M avoids IS shocks but brings LM shocks , so depends on which you’re more worried about Poole argued we knew more about M than real incomes so should target M. This was proven wrong with various financial innovations, including those spurred by regulation Q. Many monetarists argued expanding money supply would lead to inflation. For example, QE in 2010, but it didn’t happen. The same argument was made post Covid, and it did happen that time. The difference was that with QE, the federal government wasn't increasing fiscal expenditures drastically (M2 didn't increase by nearly as much as post covid). Lower interest rates inflated asset prices but didn't put more money in people's pockets. That's what occurred in 2020. The increase in M2 was marginal in 2008 compared to 2020 when it quadrupled. 
 
 Monetarism grew in popularity due to inflation in 1970s and 60s, and Keynesian policies were blamed. Monetarism fell out of favor as the velocity of money became more erratic.
 
 
-
-
 **Chapter 3 - The Phillips Curve Becomes Vertical**
 
- Keynesian thought in the 50s prior to the Phillips paper was crude and allowed only for inflation on or off regimes. After full employment, more demand (from fiscal or monterey policy) only increases inflation with no impact on output. The opposite was true before full employment - fiscal or monetary policy could only boost unemployment and wouldn't affect the price level. The Philips curve bridges the gap by giving menu of choices between unemployment and inflation. This led to a simplistic bifurcation between liberal and conservative economists.  
+Keynesian thought in the 50s prior to the Phillips paper was crude and allowed only for inflation on or off regimes. After full employment, more demand (from fiscal or monterey policy) only increases inflation with no impact on output. The opposite was true before full employment - fiscal or monetary policy could only boost unemployment and wouldn't affect the price level. The Philips curve bridges the gap by giving menu of choices between unemployment and inflation. This led to a simplistic bifurcation between liberal and conservative economists.  
 
 Friedman argued the curve was not taking into account inflation expectations, and in the long term the curve is vertical based on general equilibrium. If unemployment was below the natural rate u-star, that would push up inflation expectations and inflation. Businesses would realize this before workers and raise prices. Real wages would hence go down, and firms will hire even more people. Eventually workers will demand higher wages bringing up real wages and lower hiring which will bring unemployment back to u-star. So monetary policy won’t deviate unemployment from this natural rate, and the the Phillips curve is vertical. That is, unemployment is fixed at u-star. Inflation was up to policymakers. Eventually rational expectations theory went against some of the vertical curve arguments. 
 
 **Chapter 4 - Nixon, Burns, and the Political Business Cycle**
 
-Burns warned Nixon about a looming recession and argued for loosening of credit and increasing spending. The recession happened, and he lost to Kennedy. When Nixon became President later he appointed him to his cabinet. The country still had tight monetary and fiscal policy enacted by Johnson to combat inflation which worked, but it also created a short recession. Nixon in response called himself a Keynesian. Stimulus generally leads to real growth first, followed by inflation. Nixon goosed the economy with fiscal stimulus, including higher social security spending. It was also revealed post-Watergate that Burns was likely trying to help Nixon get reelected. His plan was to stimulate the economy with fiscal and monetary policy to get re-elected and then he'd deal with inflation. He enacted price controls soon after reelection. 
+Burns warned Nixon about a looming recession and argued for loosening of credit and increasing spending. The recession happened, and he lost to Kennedy. When Nixon became President later he appointed him to his cabinet. The country still had tight monetary and fiscal policy enacted by Johnson to combat inflation which worked, but it also created a short recession. Nixon in response called himself a Keynesian. Stimulus generally leads to real growth first, followed by inflation. Nixon goosed the economy with fiscal stimulus, including higher social security spending. It was also revealed post-Watergate that Burns was likely trying to help Nixon get reelected. His plan was to stimulate the economy with fiscal and monetary policy to get re-elected and then he'd deal with inflation. He enacted price controls soon after re-election. 
 
-In 1973, Nixon unilaterally ended Bretton Woods by ending the convertibility to gold. The US had many years of gold outflows which led to this. Ending the fixed exchange rates removed monetary constraints for all who participated especially non-US countries who had to use monetary policy to maintain the fixed exchange rate. This was one of the causes of worldwide inflation that soon occurred. But inflation was a global issue, even for counties whose currency appreciated meaning there were other causes notably supply constraints. Although the US was less constrained by the system, the ending of Bretton Woods freed up Fed as well.  
+In 1973, Nixon unilaterally ended Bretton Woods by ending the convertibility to gold. The US had many years of gold outflows which led to this. Ending the fixed exchange rates removed monetary constraints for all who participated especially non-US countries who had to use monetary policy to maintain the fixed exchange rate. This was one of the causes of worldwide inflation that soon occurred. But inflation was a global issue, even for counties whose currency appreciated meaning there were other causes notably supply constraints. Although the US was less constrained by the system, the ending of Bretton Woods freed up the Fed as well.  
 
 The Fed doubled the Fed Funds rate to 10% to fight inflation which had risen 400 bps. The Arab- Israeli war led to OPEC increasing oil prices and pushed the US into a recession. This was dubbed stagflation, and central banks didn’t know how to deal with it. They went back and forth from fighting inflation to trying to dampen the recession. The pre-election stimulus faded and gave way to a contractionary policy. It was clear that the cycle in 1971-73 was created politically. Price controls were seen as negative and were never attempted again. Political manipulation plus the backlash against price controls killed the political business cycle. Burns' manipulation is a key legacy of Nixon. Burns is remembered as someone who fanned inflation and aided Nixon's manipulation, although oil shocks were also to blame. Burns encouraged Nixon's use of price controls. His loose policies of early 1970s contributed to inflation even as he spoke out against inflation. He increased stimulus again in the late 1970s (1976-78); M1 and M2 increased by high single digits. He didn’t believe central banks could affect the inflation rate, and he told the senate banking committee as much. He blamed inflation on social democratic policies - the New Deal, Great Societies, etc. 
 
