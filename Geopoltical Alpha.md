@@ -5,6 +5,7 @@ References: [[Geopolitics of Global Finance]]
 [[Japan Fighter Jet Program]]
 [[Indian Defense Spending]]
 [[WILT - 3.6.23]]
+[[Zakaria - India’s Economy Is Surging Thanks to These Three]]
 
 Outline:
 [[To Read - Outline]]

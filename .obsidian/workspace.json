@@ -44,24 +44,24 @@
             }
           },
           {
-            "id": "99e1d168ca70ad5b",
+            "id": "9fc2afbf9b4bf048",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vanna - WIP.md",
+                "file": "Volkswagen and EV strategy.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "126f74f68a2f3e2a",
+            "id": "6e28ad017fa3eb6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "Dangerous Liaisons - WIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A Monetary and Fiscal History of the US 1961-2021.md",
+                "file": "Dangerous Liaisons - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,34 +161,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "126f74f68a2f3e2a",
+  "active": "6e28ad017fa3eb6e",
   "lastOpenFiles": [
-    "Converts for Distressed Equities.md",
+    "Volkswagen and EV strategy.md",
+    "Dangerous Liaisons - WIP.md",
+    "Vol Surface.md",
+    "Aristotle.md",
+    "Philosophy - Outline.md",
+    "Pre-socratic.md",
+    "Geopoltical Alpha.md",
+    "Plato.md",
+    "Socratic and Sophists.md",
+    "Daoism.md",
+    "Confucianism.md",
+    "Buddhism.md",
     "Vanna - WIP.md",
+    "Zakaria - India’s Economy Is Surging Thanks to These Three.md",
+    "Clash of Empires Update Identifying Winners and losers.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "Forward Guidance - Mike Pettis.md",
+    "US Trade Policy.md",
+    "GDP.md",
+    "Converts for Distressed Equities.md",
     "Pinning - Trades.md",
     "Untitled 12.md",
-    "Vol Surface.md",
     "Sources/Second Leg Down.md",
     "Skew.md",
     "Delta_Hedging.md",
     "Credit Skew.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
-    "US Trade Policy.md",
-    "Geopolitics of Global Finance.md",
-    "America’s Bad Bet on India.md",
-    "india - Outline.md",
-    "India.md",
-    "Indian Defense Spending.md",
-    "BGS Refinancing Example.md",
-    "WIL/WILT - Template.md",
-    "WIL/WILT - 5.1.23.md",
-    "WIL/WILW - 4.14.23.md",
-    "WIL/WILT - 4.10.23.md",
-    "WIL/WILW - 4.14.23 1.md",
-    "Untitled 11.md",
-    "Molecules/Distressed Legal Framework.md",
-    "Molecules/Edge.md",
-    "Convexity.md",
     "IS"
   ]
 }

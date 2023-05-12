@@ -1,6 +1,7 @@
 Type: #Atom 
 References: [[Philosophy - Outline]]
 [[Myth of  Sisyphus]]
+[[Confucianism]]
 Sophists believe in relativism, and that truth is different for everyone.  The man is more important than the argument. They would win argumentw with ad hominem. 
 
 Pre-Socratic graph 
