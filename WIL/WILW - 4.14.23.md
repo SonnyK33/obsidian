@@ -1,6 +1,6 @@
 Type: #WILT 
 References: [[US Trade Policy]]
-[[Volatility Machine]]
+[[Volatility Machine - WIP]]
 **Title**
 
 

@@ -1,7 +1,7 @@
 Type: #source 
 References:
 Gavekal Piece - 4/13/23
-[[Volatility Machine]]
+[[Volatility Machine - WIP]]
 [[A Monetary and Fiscal History of the US 1961-2021]]
 
 China has become a major lender to the developing world. While its debt stock is often lower than multilaterals', its debt service often exceeds the others as its rate is higher. It's not charging the concessional (1-2%) rates charged by multilaterals but 5-6% which are close to the US Treasury bilateral bailout loans or the eurozone loans extended to peripheral Europe in 2010-12.

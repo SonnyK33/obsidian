@@ -1,7 +1,7 @@
 Type: #source 
 Author:  Federico Lorca
 Tags: #democracy #fascism
-
+[[Dangerous Liaisons]]
 
 This book included a trilogy of plays - Blood Wedding, Yerma, and The House of Nernarda Alba. Lorca was a famous poet from the South of Spain who was killed by Franco's forces at the onset of the Spanish Civil War. Some of the themes explored - honour (especially relating to women), blood feuds, and family traditions. Many saw these as allegories for the traditional forces in Spain (including the Church and other fascists).
 

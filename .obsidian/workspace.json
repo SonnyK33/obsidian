@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dangerous Liaisons - WIP.md",
+                "file": "Volatility Machine - WIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dangerous Liaisons - WIP.md",
+                "file": "Volatility Machine - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,10 +161,14 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e28ad017fa3eb6e",
+  "active": "eed48771927d507d",
   "lastOpenFiles": [
+    "Forward Guidance - Mike Pettis.md",
+    "Volatility Machine - WIP.md",
+    "Everything You Never Wanted to Know about Frontier Debt.md",
+    "Dangerous Liaisons.md",
+    "Sources/Plays by Federico Lorca.md",
     "Volkswagen and EV strategy.md",
-    "Dangerous Liaisons - WIP.md",
     "Vol Surface.md",
     "Aristotle.md",
     "Philosophy - Outline.md",
@@ -179,16 +183,12 @@
     "Zakaria - India’s Economy Is Surging Thanks to These Three.md",
     "Clash of Empires Update Identifying Winners and losers.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
-    "Forward Guidance - Mike Pettis.md",
     "US Trade Policy.md",
     "GDP.md",
     "Converts for Distressed Equities.md",
     "Pinning - Trades.md",
     "Untitled 12.md",
     "Sources/Second Leg Down.md",
-    "Skew.md",
-    "Delta_Hedging.md",
-    "Credit Skew.md",
     "IS"
   ]
 }
