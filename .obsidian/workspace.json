@@ -66,21 +66,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "68e5e7165e29f9b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 5.22.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 5.22.23.md",
+                "file": "Volatility Machine - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,10 +161,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "68e5e7165e29f9b7",
+  "active": "6e28ad017fa3eb6e",
   "lastOpenFiles": [
-    "WIL/WILT - Template.md",
     "WIL/WILT - 5.22.23.md",
+    "WIL/WILT - Template.md",
     "WIL/WILT - 5.1.23.md",
     "Untitled 13.md",
     "Volatility Machine - WIP.md",
