@@ -37,38 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vol Surface.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9fc2afbf9b4bf048",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volkswagen and EV strategy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "6e28ad017fa3eb6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Volatility Machine - WIP.md",
+                "file": "WIL/WILT - 5.23.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volatility Machine - WIP.md",
+                "file": "WIL/WILT - 5.23.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,20 +137,24 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "6e28ad017fa3eb6e",
+  "active": "f210f5761e0c7129",
   "lastOpenFiles": [
-    "WIL/WILT - 5.22.23.md",
+    "Vol Surface.md",
+    "Reserve Currency.md",
+    "US Trade Policy.md",
+    "Triffin Dilemma.md",
+    "WIL/WILT - 5.23.23.md",
     "WIL/WILT - Template.md",
+    "WIL/WILT - 5.22.23.md",
+    "Volatility Machine - WIP.md",
     "WIL/WILT - 5.1.23.md",
     "Untitled 13.md",
-    "Volatility Machine - WIP.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "Forward Guidance - Mike Pettis.md",
     "Everything You Never Wanted to Know about Frontier Debt.md",
     "Dangerous Liaisons.md",
     "Sources/Plays by Federico Lorca.md",
     "Volkswagen and EV strategy.md",
-    "Vol Surface.md",
     "Aristotle.md",
     "Philosophy - Outline.md",
     "Pre-socratic.md",
@@ -185,10 +165,6 @@
     "Confucianism.md",
     "Buddhism.md",
     "Vanna - WIP.md",
-    "Zakaria - India’s Economy Is Surging Thanks to These Three.md",
-    "Clash of Empires Update Identifying Winners and losers.md",
-    "US Trade Policy.md",
-    "GDP.md",
     "IS"
   ]
 }
