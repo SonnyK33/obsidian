@@ -1,6 +1,7 @@
 Type: #source 
 Author: Michael Pettis
 References: [[Forward Guidance - Mike Pettis]] [[US Trade Policy]] [[A Monetary and Fiscal History of the US 1961-2021]] [[Rise of Carry]] [[Geopoltical Alpha]]
+[[Merton Model for Management Incentives]]
 
 Have any countries recently issued dollar-linked local currency debt?
 Question - how are some countries able to develop strong local debt markets and others aren’t? Eg india doesn’t rely on FX debt and hasn’t for some time
@@ -22,7 +23,7 @@ Pettis asserts that the only thing that matters for emerging markets (who are mo
 
 Under the liquidity model presented, local policies follow capital flows not the other way around. Capital flows allow the government to move away from SOEs and crony capitalism by allowing opportunities to elites. It allows the monetary base to expand while pushing up the currency. They allow the country to invest in long term projects like infrastructure and to incentivize pro-growth policies. So the causation moves in the other direction.
 
-Another takeaway is that rather than obsessing over local politics, focus on globa liquidity and flows into and out of the country. "Pro-market" policies tend to increase flows into a country. That makes them more vulnerable when the liquidity cycle turns. Higher capital flows necessitate a larger current account deficit and transform how an economy is structured. 
+Another takeaway is that rather than obsessing over local politics, focus on global liquidity and flows into and out of the country. "Pro-market" policies tend to increase flows into a country. That makes them more vulnerable when the liquidity cycle turns. Higher capital flows necessitate a larger current account deficit and transform how an economy is structured. 
 
 The focus on liquidity leads to a historical overview of all of the money-like instruments that have been created. Things like indemnity bonds issued after a war were a source of liquidity. What new forms of money are being created now? Banks can now borrow par against discount bonds and refinance if interest rates decrease.
 

@@ -2,6 +2,7 @@ Type: #Atom
 References: [[US Rates]] [[Central Banking 101 - WIP]] [[Quantitative Easing]] [[Quantitative Tightening]]
 [[Labour Actions]]
 [[Dollar Hegemony]]
+[[Macrovoices - David Rosenberg]]
 [[WILT - 2.24.23]]
 Labour supply
 higher rates -> higher unemployment -> more push for labor protection (from right and left)

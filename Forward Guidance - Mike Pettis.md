@@ -1,6 +1,6 @@
 Type: #source 
 References: [[US Trade Policy]]
-[[Volatility Machine - WIP]]
+[[Volatility Machine]]
 
 China doesn’t have an export model but an investment model. That means it must rely on either foreign or domestic savings. China learned from the Latam experience not to rely on foreign savings, and so it needs high domestic savings. 
 
@@ -17,7 +17,7 @@ Both ends of the imbalance - China and U.S. - end up accumulating debt. The latt
 
 There isn't a distinction between private and public debt in China because if you default your bank may have to be bailed out. The imbalance helps the same people - Wall Street and owners of movable capital in China ie owners of manufacturing companies. 
 
-At time of bretton woods, officials realized there was no need for free capital flows. Most are speculative and not based on productivity. They also force the economy to adjust to the flows. [[Volatility Machine - WIP]]. The anglophone economies - US, Canada, Uk, Australia have an ideology that you need free capital flows - this gives too much power to the banks. Other countries have gotten competitive by repressing household consumption and investing savings abroad because they can’t use them at home. 
+At time of bretton woods, officials realized there was no need for free capital flows. Most are speculative and not based on productivity. They also force the economy to adjust to the flows. [[Volatility Machine]]. The anglophone economies - US, Canada, Uk, Australia have an ideology that you need free capital flows - this gives too much power to the banks. Other countries have gotten competitive by repressing household consumption and investing savings abroad because they can’t use them at home. 
 
 This forces those 4 economies to have large trade deficits - those 4 have 80pct of the world's trade deficits. China started investing savings in developing countries - BRI. But it got burned in Venezuela in 2015. Since then it’s wanted to reduce lending.
 

@@ -1,5 +1,6 @@
 Type: #molecule 
 References: [[Edge]]
+[[Merton Model for Management Incentives]]
 
 If you view long credit trades as short puts struck against at the amount of debt through the tranche, you can make various analogies between credit and option risk metrics.
 
