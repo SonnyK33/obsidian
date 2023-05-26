@@ -1,6 +1,6 @@
 Type: #molecule 
 References: [[2023 Trades]]
-
+[[2023 Universe]]
 [[Field Research - WIP]]
 
 [[Analysis of Competing Hypotheses]]
@@ -39,7 +39,13 @@ Right now, rate cuts along with a soft landing is consensus. That seems contradi
 
 
 
-1) Process
+
+2) Process
+
+
+
+
+
 
 Part of an investment team that trades long/short credit - across credit quality, sectors, and regions. My focus is on more fundamentally driven themes, and so I spend more time on cross-over and HY situations. Have a background in EM, so also lead EM trades - Latam, some CEEMEA (Ukraine, Turkey, Belarus, GCC). Incorporate a lot of macro into my investment style, including beta/macro/index trades when relevant. 
 

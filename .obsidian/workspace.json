@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Volatility Machine.md",
+                "file": "2023 Universe.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forward Guidance - Howell - WIP.md",
+                "file": "How Does Excessive Debt Hurt an Economy.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forward Guidance - Howell - WIP.md",
+                "file": "How Does Excessive Debt Hurt an Economy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,13 +139,20 @@
   },
   "active": "2dc7e6538be31536",
   "lastOpenFiles": [
+    "2023 Universe.md",
+    "Molecules/Edge.md",
+    "How Does Excessive Debt Hurt an Economy.md",
+    "Volatility Machine.md",
+    "BGS Refinancing Example.md",
+    "Forward Guidance - Howell - WIP.md",
+    "Japan - Outline.md",
+    "Molecules/2023 Trades.md",
+    "Untitled 14.md",
     "Forward Guidance - Wang and Dominique.md",
     "Inflation.md",
     "Macrovoices - David Rosenberg.md",
-    "Volatility Machine.md",
     "Merton Model for Management Incentives.md",
     "Molecules/Credit as Option Trades.md",
-    "Molecules/Edge.md",
     "Squeezemetrics - Order Book.md",
     "WIL/WILT - 5.23.23.md",
     "Vol Surface.md",
@@ -158,13 +165,6 @@
     "Untitled 13.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "Forward Guidance - Mike Pettis.md",
-    "Everything You Never Wanted to Know about Frontier Debt.md",
-    "Dangerous Liaisons.md",
-    "Sources/Plays by Federico Lorca.md",
-    "Volkswagen and EV strategy.md",
-    "Aristotle.md",
-    "Philosophy - Outline.md",
-    "Pre-socratic.md",
     "IS"
   ]
 }
