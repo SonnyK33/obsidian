@@ -1,5 +1,5 @@
 Type: #WILT 
-
+References: [https://on.ft.com/45Mezx7](https://protect-us.mimecast.com/s/vNbTCmZg9Qi5K86WIGXgRv)
 WILT
 FBLB banks are quasi-government entities set up to support commercial bank mortgage lending activities. Executives are compensated on the basis of assets (e.g. head of SF HLB made $2.4m last year). The program manages $1.5 trillion, but only 350m went towards affordable housing. They functionally provide liquidity to big banks, even though those aren't the major originators of mortgages. 
 
@@ -9,6 +9,9 @@ DISH uses Open RAN (as does RAKUTEN in Japan) which is untested and may have con
 
 **Savings Rate**
 Colombia has a high current account deficit. However, it's completely financed by FDI, and is a consequence of a high investment rate (and a stable government) relative to low domestic savings. The debits which decrease the current account come from profits earned by foreign companies operating in Colombia. Most of these profits are reinvested as FDI, neutralizing the flow. 
+
+
+China now accounts for 25% of leading edge cancer drugs, from 10% in 2017. The number of drugs originated from China has gone from 300 to 1,200 in that period. Astra Zeneca has defied the current cold war with China to look for M&A opportunities there and to work with local scientists. 
 
 Narrative
 
