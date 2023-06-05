@@ -8,7 +8,7 @@ In a high inflation regime core and energy inflation are correlated. Energy pric
 
 She argues an 8pct fed funds makes sense per the Taylor rule. She isn't saying this will be the rate, but that it needs to be much higher barring a demand shock or an energy price shock. 
 
-Fiscal deficits have grown (like during the 1980s  uner Reagan when the Fed was also tightening; this will cause higher real rates as it did back then). So far, higher rates aren’t affecting real estate in the US due to fixed rate mortgages. Consumers also have strong balance sheets after past 10 years of excess liquidity pumped into the system. Credit growth has also continued. It was actually accelerated with higher lending rates. The credit boom in 2022 may have a lagging impact on 2023. Goods inflation has come down as people switched to services.  
+Fiscal deficits have grown (like during the 1980s  under Reagan when the Fed was also tightening; this will cause higher real rates as it did back then). So far, higher rates aren’t affecting real estate in the US due to fixed rate mortgages. Consumers also have strong balance sheets after past 10 years of excess liquidity pumped into the system. Credit growth has also continued. It was actually accelerated with higher lending rates. The credit boom in 2022 may have a lagging impact on 2023. Goods inflation has come down as people switched to services.  
 
 Shelter inflation is driven by wages not house prices, and so rent inflation may not come down as quickly as some think. The moderation in wage inflation recently is due to the cutting temporary workers (e.g. contract nurses). This trend won’t continue, and median wages are still high.
 
@@ -27,3 +27,8 @@ FX risk (Japan is the most important example). This means yields need to go up.
 
 Dominique expects the Fed to raise dots by another pp this year and that inflation won’t come down because of pent up demand. She thinks the curve could invert much more. Her reference is the oil shock when it inverted 200 bps. She thinks of 2s10s as a proxy for perception vs reality on inflation, and hence expects it to invert much more. This year the
 Inflation number will be a shock.
+
+**Debt Ceiling - 5/30/23**
+The fed has various ways of prioritizing payments to avoid a default. If the limit is breached, the Fed would probably allow holders to swap defaulted notes for current ones. The Treasury also issues a lot of non-marketable debt for inter-governmental use. It will stop rolling those notes to prioritize. 
+
+Pre-GFC, the Fed kept money in commercial banks. Hence when they borrowed, it wasn't as much of a liquidity train as it today. 
