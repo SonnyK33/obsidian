@@ -44,19 +44,27 @@
             }
           },
           {
-            "id": "2713eb3b7a960c1f",
+            "id": "0a2475fb768ca0e7",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "0a0ff11c4f1c2f51",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BGS Refinancing Example.md",
+                "file": "WIL/WILT - 6.5.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Forward Guidance - Miran, Wang.md",
+                "file": "WIL/WILT - 6.5.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,16 +157,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4bd2d6943a71d1d1",
+  "active": "0a0ff11c4f1c2f51",
   "lastOpenFiles": [
-    "Volatility Machine.md",
+    "WIL/WILT - 6.5.23.md",
+    "FHLB.md",
     "Forward Guidance - Miran, Wang.md",
+    "BGS Refinancing Example.md",
+    "2023 Universe.md",
+    "WIL/WILT - Template.md",
     "Forward Guidance - Wang and Dominique.md",
+    "Volatility Machine.md",
     "Macrohive Podcast - Robert Koenigsberger.md",
     "How Does Excessive Debt Hurt an Economy-WIP.md",
-    "2023 Universe.md",
     "Molecules/Edge.md",
-    "BGS Refinancing Example.md",
     "Forward Guidance - Howell - WIP.md",
     "Japan - Outline.md",
     "Molecules/2023 Trades.md",
@@ -173,10 +184,7 @@
     "Reserve Currency.md",
     "US Trade Policy.md",
     "Triffin Dilemma.md",
-    "WIL/WILT - Template.md",
     "WIL/WILT - 5.22.23.md",
-    "WIL/WILT - 5.1.23.md",
-    "Untitled 13.md",
     "IS"
   ]
 }
