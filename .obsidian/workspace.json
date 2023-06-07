@@ -57,14 +57,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 6.5.23.md",
+                "file": "WIL/WILT - 6.7.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a0f59d18eeae33fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Turkey's Increasing Balance Sheet Risks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 6.5.23.md",
+                "file": "Turkey's Increasing Balance Sheet Risks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,14 +169,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0a0ff11c4f1c2f51",
+  "active": "a0f59d18eeae33fc",
   "lastOpenFiles": [
+    "WIL/WILT - 6.7.23.md",
+    "Turkey's Increasing Balance Sheet Risks.md",
+    "WIL/WILT - Template.md",
     "WIL/WILT - 6.5.23.md",
     "FHLB.md",
     "Forward Guidance - Miran, Wang.md",
     "BGS Refinancing Example.md",
     "2023 Universe.md",
-    "WIL/WILT - Template.md",
     "Forward Guidance - Wang and Dominique.md",
     "Volatility Machine.md",
     "Macrohive Podcast - Robert Koenigsberger.md",
@@ -183,8 +197,6 @@
     "Vol Surface.md",
     "Reserve Currency.md",
     "US Trade Policy.md",
-    "Triffin Dilemma.md",
-    "WIL/WILT - 5.22.23.md",
     "IS"
   ]
 }
