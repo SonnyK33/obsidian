@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023 Universe.md",
+                "file": "WIL/WILT - 6.8.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f4ac4d6021a9ba5f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chartbook - 218 - Mexico.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "chart",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 299.5
+    "width": 341.5
   },
   "right": {
     "id": "1e08b239b526fc40",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023 Universe.md",
+                "file": "Chartbook - 218 - Mexico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,10 +126,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "d95267f483a9370e",
+  "active": "f4ac4d6021a9ba5f",
   "lastOpenFiles": [
-    "A Very Short History of Global Reserve Currencies.md",
+    "Macrohive Podcast - Robert Koenigsberger.md",
+    "Chartbook - 218 - Mexico.md",
+    "Untitled 15.md",
+    "WIL/WILT - 6.8.23.md",
+    "Democratic Premium.md",
+    "WIL/WILT - Template.md",
     "2023 Universe.md",
+    "A Very Short History of Global Reserve Currencies.md",
     "Forward Guidance Nick Timiraos.md",
     "Forward Guidance - Kupperman.md",
     "Forward Guidance - Wang and Dominique.md",
@@ -134,12 +154,6 @@
     "Odd Lots - Karthik Sankaran.md",
     "WIL/WILW - 6.9.23.md",
     "Forward Guidance - Howell.md",
-    "To Read - Outline.md",
-    "WIL/WILW - 4.14.23.md",
-    "WIL/WILW - 3.23.23.md",
-    "WIL/WILT - 4.10.23.md",
-    "WIL/WILT - 5.1.23.md",
-    "WIL/WILT - 5.22.23.md",
     "IS"
   ]
 }
