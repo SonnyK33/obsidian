@@ -18,65 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "2dc7e6538be31536",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forward Guidance - Wang and Dominique.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4bd2d6943a71d1d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Forward Guidance - Miran, Wang.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a2475fb768ca0e7",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "0a0ff11c4f1c2f51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 6.7.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a0f59d18eeae33fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Turkey's Increasing Balance Sheet Risks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Turkey's Increasing Balance Sheet Risks.md",
+                "file": "2023 Universe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,34 +112,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a0f59d18eeae33fc",
+  "active": "d95267f483a9370e",
   "lastOpenFiles": [
-    "WIL/WILT - 6.7.23.md",
-    "Turkey's Increasing Balance Sheet Risks.md",
-    "WIL/WILT - Template.md",
-    "WIL/WILT - 6.5.23.md",
-    "FHLB.md",
-    "Forward Guidance - Miran, Wang.md",
-    "BGS Refinancing Example.md",
+    "A Very Short History of Global Reserve Currencies.md",
     "2023 Universe.md",
+    "Forward Guidance Nick Timiraos.md",
+    "Forward Guidance - Kupperman.md",
     "Forward Guidance - Wang and Dominique.md",
-    "Volatility Machine.md",
-    "Macrohive Podcast - Robert Koenigsberger.md",
-    "How Does Excessive Debt Hurt an Economy-WIP.md",
-    "Molecules/Edge.md",
-    "Forward Guidance - Howell - WIP.md",
-    "Japan - Outline.md",
-    "Molecules/2023 Trades.md",
-    "Untitled 14.md",
-    "Inflation.md",
-    "Macrovoices - David Rosenberg.md",
-    "Merton Model for Management Incentives.md",
-    "Molecules/Credit as Option Trades.md",
-    "Squeezemetrics - Order Book.md",
-    "WIL/WILT - 5.23.23.md",
-    "Vol Surface.md",
-    "Reserve Currency.md",
+    "Forward Guidance - Miran, Wang.md",
+    "Reserve Currency - WIP.md",
     "US Trade Policy.md",
+    "GDP.md",
+    "Triffin Dilemma.md",
+    "Current Account Deficits.md",
+    "RAD Mistake.md",
+    "Forward Guidance - David Hay.md",
+    "No Exit.md",
+    "Myth of Sisyphus.md",
+    "WIL/WILT - 6.7.23.md",
+    "Option Journal.md",
+    "Odd Lots - Karthik Sankaran.md",
+    "WIL/WILW - 6.9.23.md",
+    "Forward Guidance - Howell.md",
+    "To Read - Outline.md",
+    "WIL/WILW - 4.14.23.md",
+    "WIL/WILW - 3.23.23.md",
+    "WIL/WILT - 4.10.23.md",
+    "WIL/WILT - 5.1.23.md",
+    "WIL/WILT - 5.22.23.md",
     "IS"
   ]
 }

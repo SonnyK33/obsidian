@@ -1,6 +1,7 @@
 Type: #source 
 References: https://www.cfr.org/blog/turkeys-increasing-balance-sheet-risks
 [[Volatility Machine]]
+[[Turkey - Outline]]
 
 Turkey has too much FX obligations, though most of them are owed domestically. The central bank has $90bn in foreign currency deposits from Turkey's banks and another $40bn through swaps with domestic banks. So a total of $130bn has been borrowed domestically. There's another $120bn in TRY deposits with a guaranteed exchange rate. In comparison, they have $70bn in Eurobonds.
 

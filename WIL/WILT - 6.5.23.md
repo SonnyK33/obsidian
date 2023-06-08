@@ -1,7 +1,7 @@
 Type: #WILT 
 References: [https://on.ft.com/45Mezx7](https://protect-us.mimecast.com/s/vNbTCmZg9Qi5K86WIGXgRv)
 WILT
-FBLB banks are quasi-government entities set up to support commercial bank mortgage lending activities. Executives are compensated on the basis of assets (e.g. head of SF HLB made $2.4m last year). The program manages $1.5 trillion, but only 350m went towards affordable housing. They functionally provide liquidity to big banks, even though those aren't the major originators of mortgages. 
+FHLB banks are quasi-government entities set up to support commercial bank mortgage lending activities. Executives are compensated on the basis of assets (e.g. head of SF HLB made $2.4m last year). The program manages $1.5 trillion, but only 350m went towards affordable housing. They functionally provide liquidity to big banks, even though those aren't the major originators of mortgages. 
 
 There was a story on Friday that AMZN was in talks with wireless operators to offer services to its prime customers. Negotiating an MVNO with the big 3 (VZ, T, TMUS) would be tough, as they wouldn't want a new player to undercut their retail business. They're also not under any obligation to open up their network (operators in Europe have had to open up their fixed line / FTTH grids since the 1990s). US ARPUs are much higher than in Europe ($45 vs 11 in Germany), which may be incentivizing tech to get involved. DISH is the only major spectrum owner who would be incentivized to sell services to AMZN, but their network will only cover 70% of the country by 6/23. TMUS by contrast covers the whole country with 5G.
 
