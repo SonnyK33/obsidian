@@ -4,7 +4,7 @@ References:
 [https://on.ft.com/3VxK8oC](https://protect-us.mimecast.com/s/hxTcCjRN9qUnNB8XuWzTzK)
 https://on.ft.com/3gqHeDq
 Europe - [https://on.ft.com/3PpMnZu](https://on.ft.com/3PpMnZu)
-
+https://twitter.com/kevinsxu/status/1618023350156267521?s=43&t=VF54DzYOj1b6tTHp2o1i7w
 [[Japan - Outline]]
 [[China - Outline]]
 [[Europe - Outline]]
@@ -27,7 +27,7 @@ The main implication is inflation for consumers and businesses. If China can’t
 
 There's an example right now - the lastest work stoppages at Foxconn plant threaten iphone 14 pro deliveries by Xmas.
 
-Currently only Taiwan and South Korea can produce the most advanced chips.
+Currently only Taiwan and South Korea can produce the most advanced chips. The US is incentivizing global chip producers to build plants in the U.S. (e.g. TSM's new plant in AZ). However per their last earnings call, the construction cost of buildings and facilities are 4-5x higher in the US for a fab versus in Taiwan. 
 
   
 Part of the US' strategy in containing China's chip capabilities is strengthening client states, particularly South Korea and Europe. Europe’s  comparative advantage in chip making is manufacturing some of the key equipment needed to manufacture semiconductors, especially the cutting edge ones. It also has strengths in chemicals and materials. It’s lacking in advanced chip design and in finding skilled staff. It’s relying on immigration to fill the gap.  Will likely need more state support for large scale capex.  See: [[Europe - Outline]] 

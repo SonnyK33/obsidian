@@ -1,0 +1,6 @@
+Type: #source 
+Author: Adam Tooze
+
+Service inflation has increased in the US, while the terms of trade shock hit Europe harder as it imports energy. US covid aid was more generous but contracted sharply; in Europe it’s stayed expansionary with the Ukraine war. S GDP has also grown while Europe has been stagnant since 2019; US grew due to surge in private consumption, esp in goods. US LFP has remained low, with young and older workers not returning. Wages haven’t kept up with prices so far; so more wage inflation coming, especially in Europe. In the US, most good inflation is coming from wage inflation.
+
+Beveridge curves show relationship between vacancy rates and unemployment. You’d expect higher unemployment to be associated with lower vacancy rates. f whole curve moves outward over time, the economy is becoming less efficient, as the same level of vacancy is associated with higher and higher unemployment, i.e. there's a mismatch in skills. Put another way, 4% unemployment in 2001-08 matched with 3% vacancy rate; today it’s 7%. Netherlands is a good bellwether for EU given surging wage inflation.

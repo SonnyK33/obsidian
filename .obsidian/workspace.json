@@ -30,9 +30,57 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8968eb30a0063c7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0DTE Options.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ec5a93191a4a9b5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chip war.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ad6b98d0efca99c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chartbook - 216 - Bretton Woods.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0ededd31d4e2d02b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chartbook - 217 - Inflation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -61,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "chart",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +126,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chartbook - 218 - Mexico.md",
+                "file": "Chip war.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,34 +173,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f4ac4d6021a9ba5f",
+  "active": "eed48771927d507d",
   "lastOpenFiles": [
-    "Macrohive Podcast - Robert Koenigsberger.md",
+    "Outlines/Europe - Outline.md",
+    "Repo - Outline.md",
+    "The Coming Liquidity Squeeze.md",
+    "0DTE Options.md",
+    "VIX.md",
+    "Vol Surface.md",
     "Chartbook - 218 - Mexico.md",
+    "Sources/Commodities Note.md",
+    "Lex Podcast - Steve Keen.md",
+    "Chartbook - 217 - Inflation.md",
+    "Chartbook - 216 - Bretton Woods.md",
+    "Forward Guidance - Peter Stella.md",
+    "Forward Guidance - Roger Hirst.md",
+    "Untitled 16.md",
+    "india - Outline.md",
+    "India.md",
+    "Foreign Affairs - India is Broken Review.md",
+    "To Read - Outline.md",
+    "Trade Wars are Class Wars.md",
+    "Macrohive Podcast - Robert Koenigsberger.md",
     "Untitled 15.md",
     "WIL/WILT - 6.8.23.md",
     "Democratic Premium.md",
     "WIL/WILT - Template.md",
     "2023 Universe.md",
     "A Very Short History of Global Reserve Currencies.md",
-    "Forward Guidance Nick Timiraos.md",
-    "Forward Guidance - Kupperman.md",
-    "Forward Guidance - Wang and Dominique.md",
-    "Forward Guidance - Miran, Wang.md",
-    "Reserve Currency - WIP.md",
-    "US Trade Policy.md",
-    "GDP.md",
-    "Triffin Dilemma.md",
-    "Current Account Deficits.md",
-    "RAD Mistake.md",
-    "Forward Guidance - David Hay.md",
-    "No Exit.md",
-    "Myth of Sisyphus.md",
-    "WIL/WILT - 6.7.23.md",
-    "Option Journal.md",
-    "Odd Lots - Karthik Sankaran.md",
-    "WIL/WILW - 6.9.23.md",
-    "Forward Guidance - Howell.md",
     "IS"
   ]
 }

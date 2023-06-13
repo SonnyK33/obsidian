@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Second Leg Down]] [[Futures]]
+References: [[Second Leg Down]] [[Futures]] [[0DTE Options]]
 Acid Capitalist podcase with Ben Eifert
 mutiny podcast 22 with Kris
 

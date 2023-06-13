@@ -2,6 +2,7 @@ Type: #Atom
 References: [[Second Leg Down]] [[Fat Tails]]
 [[Vega]] [[Gamma]] [[Rho]]
 [[Forward Guidance - Roger Hirst]]
+[[0DTE Options]]
 **Term Structure**
 Vol term structure describes varying implied volatilities for different option maturities, assuming same strike and underlying. Vol term structure tends to be upward sloping. 
 

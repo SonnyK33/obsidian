@@ -22,7 +22,7 @@ Similar framework for predicting capital allocation for other credits:
 
 Natural gas becoming a global commodity
 	- EU reliance on US, Qatar for LNG
-How is LNG manufacturered and what are global needs?
+How is LNG manufactured and what are global needs?
 [[To do - Outline]]
 Incorporate Au and Ag signals into algo
 
@@ -65,6 +65,7 @@ Incorporate Au and Ag signals into algo
 		-   total pumping capacity is 31 mm b/d (not accepted 34m)
 
 -   inventories falling to 2007 levels when oil spiked to $145
+- Shale oil production in the US has masked declines everywhere else. Shale oil and NGLs made up the equivalent of 2 Saudi Arabia’s production over the past decade. Because of shale, people have dismissed old fears around peak oil. Those will re-emerge as shale production declines. In 2014, 45% of all drilling was in tier 1 areas; in 2018, that went to 65%
 
 **Natural Gas**
 
