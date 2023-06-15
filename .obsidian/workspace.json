@@ -78,9 +78,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5bb159cd647fdd67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "US Trade Policy.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -146,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chip war.md",
+                "file": "US Trade Policy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,8 +185,13 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "eed48771927d507d",
+  "active": "5bb159cd647fdd67",
   "lastOpenFiles": [
+    "Trade Wars are Class Wars.md",
+    "US Trade Policy.md",
+    "US Rates.md",
+    "Forward Guidance - Mosler.md",
+    "WIL/WILT - 6.8.23.md",
     "Outlines/Europe - Outline.md",
     "Repo - Outline.md",
     "The Coming Liquidity Squeeze.md",
@@ -193,14 +210,9 @@
     "India.md",
     "Foreign Affairs - India is Broken Review.md",
     "To Read - Outline.md",
-    "Trade Wars are Class Wars.md",
     "Macrohive Podcast - Robert Koenigsberger.md",
     "Untitled 15.md",
-    "WIL/WILT - 6.8.23.md",
     "Democratic Premium.md",
-    "WIL/WILT - Template.md",
-    "2023 Universe.md",
-    "A Very Short History of Global Reserve Currencies.md",
     "IS"
   ]
 }
