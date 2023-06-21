@@ -16,7 +16,7 @@ https://qz.com/1266044/why-does-the-us-run-a-trade-deficit-to-maintain-the-dolla
 [[GDP]]
 [[Reserve Currency - WIP]]
 https://twitter.com/michaelxpettis/status/1643141127099518976?s=51&t=gtHHGkBLoP1HaJhkktn9-w
-
+a
 If trade was running per fundamentals, the US would be running a trade surplus. In normal times, capital flows from rich countries with an abundance of technology and developed financial markets to less developed countries who need capital. The US should have a high savings rate, partially exacerbated to high levels of income inequality (the rich can save more). A high savings rate would  mean a lower consumption share and hence less imports. Savings (income that isn't consumed) that aren't invested must be exported as capital account deficits. That is, they're converted into foreign currencies and sent abroad. Because you would expect the US to have a higher savings rate than developing countries, there should be less demand to hold USD versus foreign currencies. USD instead would be spent on US exports, thus leading to a trade surplus. Capital flows means the US should run a capital account deficit and consequently a trade surplus. 
 
 Shifts in income distribution affect the savings rate and the investment rate. Investment, along with the capital account, affects ex-post savings (the actual savings rate vs the ex-ante savings - what households plan to save). Any savings that aren't invested must be exported. Exported capital will pay for imports. So the excess savings translates to a current account surplus and a current account deficit. 
