@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a4c1fa28d50869b",
+        "id": "e7c846813a12cf10",
         "type": "tabs",
         "children": [
           {
-            "id": "75348df5c319e633",
+            "id": "51b05801a208e05b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "cb6d664277df4392",
+            "id": "bf3106d30db08613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Rise of Carry.md",
+                "file": "Macri's Macro.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
     "type": "split",
     "children": [
       {
-        "id": "2cdaf50dd67da41d",
+        "id": "e33cd2d3e4f488b7",
         "type": "tabs",
         "children": [
           {
@@ -50,14 +50,20 @@
                 "sortOrder": "alphabetical"
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2cdaf50dd67da41d",
+        "type": "tabs",
+        "children": [
           {
             "id": "62b5ec31792c739d",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "carry",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Rise of Carry.md",
+                "file": "Macri's Macro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,10 +127,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "cb6d664277df4392",
+  "active": "bf3106d30db08613",
   "lastOpenFiles": [
-    "Buddhism.md",
+    "Macri's Macro.md",
     "The Rise of Carry.md",
+    "Buddhism.md",
     "Daoism.md",
     "Aristotle.md",
     "America’s Bad Bet on India.md",
@@ -148,7 +155,6 @@
     "Forward Guidance - Peter Stella.md",
     "Forward Guidance - Roger Hirst.md",
     "Untitled 16.md",
-    "india - Outline.md",
     "IS"
   ]
 }
