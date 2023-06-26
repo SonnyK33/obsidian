@@ -1,6 +1,7 @@
 Type: #source 
 Author: Adam Tooze
 References: [[China - Outline]]
+[[Latam - Outline]]
 
 Tooze argues that Mexico, while supposedly part of the US' sphere of influence, is increasingly moving closer to China. In the past, Mexico saw China as a competitor. As the US has ramped up the war on drugs, and come close to threatening war over fentanyl, Mexico is increasingly looking to China. China has also made efforts to get closer with Mexico rather than to compete with it. 
 
