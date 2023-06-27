@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Rise of Carry.md",
+                "file": "Macri's Macro.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "sturzenegger",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Rise of Carry.md",
+                "file": "Macri's Macro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,8 @@
   },
   "active": "4d988be204eead14",
   "lastOpenFiles": [
-    "Molecules/Development Models.md",
     "The Rise of Carry.md",
+    "Molecules/Development Models.md",
     "WIL/WILT - 1.11.23.md",
     "Peru.md",
     "Pakistan.md",
