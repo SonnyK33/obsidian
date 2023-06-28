@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macri's Macro.md",
+                "file": "Savings vs Investment.md",
                 "mode": "source",
                 "source": false
               }
@@ -44,7 +44,7 @@
       {
         "id": "e33cd2d3e4f488b7",
         "type": "tabs",
-        "dimension": 85.71428571428571,
+        "dimension": 51.92307692307693,
         "children": [
           {
             "id": "eed48771927d507d",
@@ -61,7 +61,7 @@
       {
         "id": "2cdaf50dd67da41d",
         "type": "tabs",
-        "dimension": 14.285714285714285,
+        "dimension": 48.07692307692308,
         "children": [
           {
             "id": "62b5ec31792c739d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "sturzenegger",
+                "query": "savings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macri's Macro.md",
+                "file": "Savings vs Investment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +135,9 @@
   },
   "active": "4d988be204eead14",
   "lastOpenFiles": [
+    "US Trade Policy.md",
+    "Savings vs Investment.md",
+    "Macri's Macro.md",
     "The Rise of Carry.md",
     "Molecules/Development Models.md",
     "WIL/WILT - 1.11.23.md",
@@ -143,7 +146,6 @@
     "Rise of Carry.md",
     "Volatility Machine.md",
     "Trade Wars are Class Wars.md",
-    "Macri's Macro.md",
     "Buddhism.md",
     "Daoism.md",
     "Aristotle.md",
@@ -154,13 +156,11 @@
     "Chip war.md",
     "Chartbook - 216 - Bretton Woods.md",
     "Chartbook - 217 - Inflation.md",
-    "US Trade Policy.md",
     "US Rates.md",
     "Forward Guidance - Mosler.md",
     "Outlines/Europe - Outline.md",
     "Repo - Outline.md",
     "The Coming Liquidity Squeeze.md",
-    "VIX.md",
     "IS"
   ]
 }
