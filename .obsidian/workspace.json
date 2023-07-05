@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Macri's Macro.md",
+                "file": "WIL/WILT - 7.5.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44f4e91cd97564ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Habits - Implementation Intentions.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -69,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "macri",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Macri's Macro.md",
+                "file": "Habits - Implementation Intentions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,13 +145,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4d988be204eead14",
+  "active": "44f4e91cd97564ae",
   "lastOpenFiles": [
+    "WIL/WILT - 7.5.23.md",
+    "WIL/WILW - 6.9.23.md",
+    "Molecules/Development Models.md",
+    "Habits - Implementation Intentions.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILW - 4.14.23.md",
+    "A Very Short History of Global Reserve Currencies.md",
+    "Macri's Macro.md",
     "Savings vs Investment.md",
     "US Trade Policy.md",
-    "Macri's Macro.md",
     "The Rise of Carry.md",
-    "Molecules/Development Models.md",
     "WIL/WILT - 1.11.23.md",
     "Peru.md",
     "Pakistan.md",
@@ -155,12 +173,6 @@
     "0DTE Options.md",
     "Chip war.md",
     "Chartbook - 216 - Bretton Woods.md",
-    "Chartbook - 217 - Inflation.md",
-    "US Rates.md",
-    "Forward Guidance - Mosler.md",
-    "Outlines/Europe - Outline.md",
-    "Repo - Outline.md",
-    "The Coming Liquidity Squeeze.md",
     "IS"
   ]
 }

@@ -19,4 +19,14 @@ What are the investment opportunities?
 Are they satisfying unmet needs? If no, consumption is likely low relative to income. 
 How are they being financed? FDI and local currency debt are analogous to equity and FX debt is classic debt. 
 
+**Drivers of Growth Model**
+1) Allocation of national income by household, business, and government 
+
+
+
+**Constraints**
+A country's development or growth model is a function of its history and its constraints. China has capital controls as they don't want to see a capital exodus, nor do they want to lose control of key assets to foreign entities. A relatively closed capital account makes it impossible for foreign countries to store their savings in RMB. 
+
+
+
 
