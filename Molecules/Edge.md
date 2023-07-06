@@ -10,7 +10,12 @@ References: [[2023 Trades]]
 [[Convexity ]]
 
 [[Merton Model for Management Incentives]]
-What are the drivers of a credit? What factors can be absracted across different sectors and even asset classes (corporates, sovereigns, equities, etc)
+
+What are the drivers of a credit? What factors can be abstracted across different sectors and even asset classes (corporates, sovereigns, equities, etc)
+
+
+
+**Fundamental Factors**
 1) What is pricing power?
 2) Operating leverage 
 	a) what are fixed vs variable expenses?
@@ -41,21 +46,15 @@ Right now, rate cuts along with a soft landing is consensus. That seems contradi
 
 
 2) Process
-
-
-
-
-
-
 Part of an investment team that trades long/short credit - across credit quality, sectors, and regions. My focus is on more fundamentally driven themes, and so I spend more time on cross-over and HY situations. Have a background in EM, so also lead EM trades - Latam, some CEEMEA (Ukraine, Turkey, Belarus, GCC). Incorporate a lot of macro into my investment style, including beta/macro/index trades when relevant. 
 
 Try to distill trades into a series of bets. What are you betting on? What is the best way to put that risk on? See [[2023 Trades]] for current bets. 
 
-Start w things trading at extremes. Distill the trade decision into a few questions - be as specific and fundamental as possible. Do this for  all trades and then look for the most popular questions. 
-If you’re being sufficiently abstract and fundamental, there should be lots of common questions. Come up w alternate hypotheses.  Come up with a distribution of outcomes and compare with asset prices.  
+Start with things trading at extremes. Distill the trade decision into a few questions - be as specific and fundamental as possible. Do this for  all trades and then look for the most popular questions. 
+If you’re being sufficiently abstract and fundamental, there should be lots of common questions. Come up with alternate hypotheses.  Come up with a distribution of outcomes and compare with asset prices.  
 
 
-Once a posisble trade has been identified, questions to Ask:
+Once a possible trade has been identified, questions to ask:
 - Where is the asymmetric risk and are you being compensated for it?
 - if you take the risk and you're right, how much do you make? how much do you lose?
 	- what does that imply about the odds being priced in?
@@ -66,10 +65,10 @@ Once a posisble trade has been identified, questions to Ask:
 
 
 - fundamentals - focus on the variance around estimates rather than their mean
-	- hard to just do a better job at predicting a company's EBITDA esp given how much coverage liquid credits have
+	- hard to just do a better job at predicting a company's EBITDA especially given how much coverage liquid credits have
 	- instead I try to determine how risky those estimates are
 		- what is the range for sales, costs, etc
-		- what is the range for EBITDA, a FCF and where should things trade in the extremes of that range
+		- what is the range for EBITDA, FCF and where should things trade in the extremes of that range
 		- based on that, is there asymmetry?
 	- it doesn't matter what next year's EBITDA is, that's unknowable - what matters is the degree to which it can be estimated and the range of possible outcomes
 		- that's how you price risk and look for trading opportunities 
@@ -81,11 +80,11 @@ Once a posisble trade has been identified, questions to Ask:
 
 Examples  
 
-Most obvious are political leaders making monetary or fiscal policy (leaders) for sovereigns. 
+Most obvious are political leaders making monetary or fiscal policy for sovereigns. 
 Workers demanding higher wages (choice forcing central bank leaders to tighten).
 Investors purchasing risk assets (forcing leaders to tighten) .
 Public moving deposits into treasuries (forcing banks to raise deposit rates, forcing banks to lower spending, may force central banks to eventually slow down QT).
-Important not to see forecasting as making predictions about random factors but rather real people   
+Important not to see forecasting as making predictions about random factors but rather real people.   
 
 What’s governing those decisions? What are their choices? What info do you need to predict which choice they’ll make? What are their constraints? What matters to them? Info is only 
 

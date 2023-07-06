@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/2023 Trades.md",
+                "file": "Molecules/Edge.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/2023 Trades.md",
+                "file": "Molecules/Edge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,16 +122,20 @@
   },
   "active": "8263f689f448fd5a",
   "lastOpenFiles": [
-    "Molecules/Edge.md",
     "Molecules/2023 Trades.md",
-    "Habits - Implementation Intentions.md",
+    "Molecules/Edge.md",
+    "Convexity.md",
+    "Understand Narrative.md",
+    "Analysis of Competing Hypotheses.md",
+    "WIL/WILT - 7.6.23.md",
+    "WIL/WILT - Template.md",
+    "Molecules/Habits - Implementation Intentions.md",
     "WIL/WILT - 7.5.23.md",
     "The Rise of Carry - WIP.md",
     "Delta_Hedging.md",
     "Option Journal.md",
     "WIL/WILW - 6.9.23.md",
     "Molecules/Development Models.md",
-    "WIL/WILT - Template.md",
     "WIL/WILW - 4.14.23.md",
     "A Very Short History of Global Reserve Currencies.md",
     "Macri's Macro.md",
@@ -144,10 +148,6 @@
     "Volatility Machine.md",
     "Trade Wars are Class Wars.md",
     "Buddhism.md",
-    "Daoism.md",
-    "Aristotle.md",
-    "America’s Bad Bet on India.md",
-    "WIL/WILT - 6.8.23.md",
     "IS"
   ]
 }

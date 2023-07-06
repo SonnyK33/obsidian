@@ -25,9 +25,10 @@ John Mauldin letter - 2/4/23, GMO letter from same date
 - Fed will have to increase rates more - until something breaks
 - Every time they have a "hawkish pause", the market gets used to higher rates and the wage spiral continues - the circuit needs to be broken 
 - what direction is liquidity going in (follow QT, RRP, TGA)
-	- RRP absorbed TGA issuance post the debt-ceiling
+	- RRP absorbed TGA issuance post the debt-ceiling (because of the hawkish pause - fed funds didn't change but treasury yields rose)
 	- upside risk now is that money flows from RRP to bank deposits and then into risk assets
-		- however lower RRP means less cushion for QT	- 
+		- however lower RRP means less cushion for QT
+		- also means that any kind of shock will result in a large flow from treasuries to RRP since the the latter won't change immediately (tied to fed funds)
 	- funds going from bank reserves into treasuries means there's a risk that banks have to cut lending at some point
 		- can already see this if you follow the various money market rates
 		- will see less credit growth eventually from regional banks
@@ -46,6 +47,59 @@ John Mauldin letter - 2/4/23, GMO letter from same date
 	- that is, short risk is positive carry 
 	- inverted yield curve means being long-vol is positive carry
 
+Themes - (from one note)
+1) Housing 
+- lack of supply driving builders to invest in more inventory     
+- Affordability at all-time lows 
+    
+
+2) Off-shore drillers 
+- Day-rates coming back to pre-crisis levels     
+- Many issuers now out of bankruptcy and with better balance sheets     
+- Supply of ships is down after extended down-time  
+    
+
+3) US Midstream 
+- Could there be stranded midstream infrastructure     
+- Credits with LNG exposure could benefit from major secular changes 
+    
+
+4) E&Ps 
+- Major dispersion by asset bases 
+    
+
+5) TMT 
+
+- Immense capex on fiber and spectrum     
+- Who will be the winners, and will they achieve scale in time?     
+- EUR TMT – Telecom Italia     
+- German – Tele Colombus? 
+    
+
+6) EM Sovs 
+- Many sovereigns shouldn’t have large dollar debt loads, but low rates for so long has encouraged this carry trade     
+- Has allowed for large fiscal deficits      
+- Little focus on increasing domestic savings rates     
+- Capital inflows have bailed out governments and made them look "pro-market" 
+    
+
+7) China  
+- Stimulus to housing sector has gone down, and with this, the major tailwinds for Cu, Zn, and iron ore
+-  Investment in EM's will either surge (due to dollar holdings) or their savings glut will continue     
+
+8) Consumer leisure 
+- Cruises are economical vs flights right now, but for how long?     
+
+9) Covenants 
+- Years of lax covenants will allow various priming actions – including drop-downs     
+- That may postpone defaults and lower recovery values     
+- Long the lower tiers of debt vs short the more senior tranches, given the ability to issue      
+- There will be dispersion here based on actual assets (I.e. just even with RP capacity, they still have to find lenders) 
+    
+
+10) UK shorts? 
+- UK Housing Associations and utilities
+
 Idiosyncratic trades - 
 - TMT
 	- DISH
@@ -56,19 +110,27 @@ Idiosyncratic trades -
 - AMC
 - RAD
 - CYH
+- Regional banks
 - EM Sovs
 	- Turkey
 	- Egypt
 	- Pakistan
 	- Zambia
 	- Kenya/Nigeria
-	-
+- EM special situations
+- China property 
+
 Process - 
 - Themes
 - sectors
 - key questions covering most credits
 - hypotheses and evidence 
 - trade construction 
+
+Work flow - 
+1) HY/distressed
+2) cross-over or d/g risk
+3) 4) EM sov
 
 
 
