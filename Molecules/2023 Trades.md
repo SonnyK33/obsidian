@@ -2,10 +2,11 @@ Type: #molecule
 References: [[Edge]]
 John Mauldin letter - 2/4/23, GMO letter from same date
 
-- Where are the asymmetric risks for 2023?
-	- conflict over Taiwan (getting to be mainstream)
-		- Chinese equities already cheap
-		- who gets sanctioned by US besides China/Russia
+- Where are the risks for 2023?
+	- downside to Chinese stimulus - being realized
+		- changing growth model makes stimulus to housing sector difficult
+		- increased de-coupling
+			- conflict over Taiwan (getting to be mainstream)		
 	- hard landing vs short landing 
 		- being long skew looks like good risk/return 
 		- long unsecured/2nd lien debt vs short 1st lien/secured - not 1:1, want to be "vega-neutral"
@@ -16,21 +17,26 @@ John Mauldin letter - 2/4/23, GMO letter from same date
 		- getting close to mainstream
 		- not priced in 1yr gold skew (which has flattened since 2021)
 
-
-
 **Macro Outlook**
 
-- what is rates market pricing in (5y cuts this year)
+- what is rates market pricing in (No more hikes, though market is clearly running hot)
+- High fiscal deficits (including interest on new treasuries and IoR) has increased liquidity in the system
+- cash cushions + 30 year mortgages have cushioned the impact from higher rates
+- Fed will have to increase rates more - until something breaks
+- Every time they have a "hawkish pause", the market gets used to higher rates and the wage spiral continues - the circuit needs to be broken 
 - what direction is liquidity going in (follow QT, RRP, TGA)
-	- debt ceiling delay is providing more liquidity
-	- RRP balance will sterilize impact of QT
+	- RRP absorbed TGA issuance post the debt-ceiling
+	- upside risk now is that money flows from RRP to bank deposits and then into risk assets
+		- however lower RRP means less cushion for QT	- 
 	- funds going from bank reserves into treasuries means there's a risk that banks have to cut lending at some point
 		- can already see this if you follow the various money market rates
+		- will see less credit growth eventually from regional banks
 		- a piece from the Fed blog saying more banks using the SRP
-		- some banks have been forced to use it rather than loans from the FHLB's as the latter requires positive tangible capital, and many small banks have taken losses on their treasury portfolio
-		- where are these banks lending?
+		- some banks have been forced to use it rather than loans from the FHLB's as the latter requires positive tangible capital, and many small banks have taken losses on their treasury portfolio		
+- Global outlook - 
+- China - 
 - YCC change in Japan
-	- Higher local yields make hedged USD yields less attractive, hence lowering demand for USD credit. Higher policy rates in Japan (which drive hedgers' cost of borrowing) would strengthen the JPY in the forward market, lowering hedging costs. That hasn't happened yet, so the net effect of keeping policy rates steady but raising 10y yields (which will increase corporate yields) is make hedged foreign yields less attractive. 
+	- Higher local yields make hedged USD yields less attractive, hence lowering demand for USD credit. Higher policy rates in Japan (which drive hedgers' cost of borrowing) would strengthen the JPY in the forward market, lowering hedging costs. That hasn't happened yet, so the net effect of keeping policy rates steady but raising 10y yields (which will increase corporate yields) is making hedged foreign yields less attractive. 
 - BTPs on heavy issuance from the EZ esp Italy
 	- TITIM is a good short, but if you distill it into the key question, shorting BTPs is the most asymmetric and liquid
 - what regions/sectors/occupations are seeing the most wage inflation
@@ -39,6 +45,32 @@ John Mauldin letter - 2/4/23, GMO letter from same date
 	- a lot of IG bonds are now negative carry, net of financing costs
 	- that is, short risk is positive carry 
 	- inverted yield curve means being long-vol is positive carry
+
+Idiosyncratic trades - 
+- TMT
+	- DISH
+	- ATUS
+	- LUMEN/LVLT
+	- CHTR
+	- VZ
+- AMC
+- RAD
+- CYH
+- EM Sovs
+	- Turkey
+	- Egypt
+	- Pakistan
+	- Zambia
+	- Kenya/Nigeria
+	-
+Process - 
+- Themes
+- sectors
+- key questions covering most credits
+- hypotheses and evidence 
+- trade construction 
+
+
 
 I see three scenarios:
 1) Base case - sentiment stays positive with higher real wages, steady employment, and better inflation prints. The China reopening and stronger demand from international markets is seen as a tailwind.

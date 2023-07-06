@@ -78,119 +78,44 @@ This has been the most extreme example. In the past, foreign debt and current ac
 
 Chapter 4 - Profitability as an Investment Strategy
 
-  
-
 To get decent returns, you have to use leverage. Risk controls force violent unwinds when limits are hit. This continues until a larger player like a central bank steps in.
 
 Chapter 5 - Agents of Carry
 
+Money managers run levered books, and it's tough to manage a short carry book. If the event isn’t hit on time, you’re forced to lower your exposures, as you have to justify a string of losses even if they’re small. This incentivizes you to run a long carry book. It's different if you're managing your own money and you have more staying power. You don’t give back your bonus when the carry trade explodes, so it makes sense to be long carry. Hedge funds have grown in the last 20 yrs, and due to leverage, and trading frequency, they have an outsized impact. As they’re incentivized to be long carry, this adds to the trade.  
 
+SWF are also well suited to be long carry as they have more staying power. They  don’t reward managers with same kind of incentives or use as much leverage though.  Banks haven’t been contributors to the carry trade since the Volcker rule.   
 
-
-Money managers run levered books, and it's tough to manage a short carry book. If the event isn’t hit on time, you’re forced to lower your exposures, as you have to justify a string of losses even if they’re small. This incentivizes you to run long carry book. It's different if you're managing your own money and you have more staying power. You don’t give back your bonus when the carry trade explodes, so it makes sense to be long carry. Hedge funds have grown in the last 20 yrs, and due to leverage, and trading frequency, they have an outsized impact. As they’re incentivized to be long carry, this adds to the trade.  
-
-SWF are also well suited to be long carry as they have more staying power. They  don’t reward managers with same kind of incentives or use as much leverage though.  
-
-Banks haven’t been contributors to the carry trade since the Volcker rule.   
-
-PELBOs are the definition of carry trades. Investors could earn the same returns with a levered public portfolio but then would have to report the volatility. PE has discretion with reporting and can smooth out returns. Corporates are increasingly engaging in carry trades especially in EM. In the US, buybacks have been a carry trade. Corporates engage in carry trades by lending to subs in foreign countries. Profit sharing and stock buybacks also carry trades.
+PE LBOs are the definition of carry trades. Investors could earn the same returns with a levered public portfolio but then would have to report the volatility. PE has discretion with reporting and can smooth out returns. Corporates are increasingly engaging in carry trades especially in EM. In the US, buybacks have been a carry trade. Corporates engage in carry trades by lending to subs in foreign countries. Profit sharing and stock buybacks are also carry trades.
 
 HFT traders are making markets and hence run carry trades. The entire financial system is now built around carry.
 
 Chapter 6 - Fundamental Nature of the Carry Regime
+ 
+
+EMs are analogous to marginal levered speculators in developed markets. They rely on capital flows and will demand liquidity in a crisis. They've been enabled by central banks and the IMF. Carry can be a lubricant and helpful to those seeking capital. The problem is when it dominates and becomes exploitive between seekers and providers of carry.  
+
+When a central bank has the authority to print base money, it’s at risk of capture by carry traders which leads to a bubble. Carry exploits the decision making of the central bank and dominates all forces.    
+
+A levered short speculator who wants to maintain the same leverage ratio will have to trade with the market. He'll buy when it rises and sell when falls. The cost to this strategy is proportional to the square of variance. This is known as volatility drag. This is what he pays for the option of huge returns. Trading with the market (or the trend) is hence long volatility. The other side - trading against the market - is analogous to delta hedging a short option position. You make money in that situation as long as realized volatility is below implied volatility.  
+
+If levered and trading with the market, you could get stopped out if the market moves against you. The amount of leverage your broker allows will also correlate with the availability of carry trades. These speculators are paying for liquidity with their trades. 
+The providers of liquidity i.e. the market makers are engaging in a carry trade. As leverage goes up, market makers can charge more for liquidity. More liquidity hence incentivizes more leverage. Theoretically returns for assets should be brownian and independent from one day to another. Leverage breaks this mean reversion because it can’t rise infinitely and when it breaks liquidity dries up and the trade becomes momentum driven.  
+
+Carry trades don’t have lower returns but more skew and crash risk. Volatility and by extension the S&P are themselves carry trades since the underlying is traded by levered speculators. The higher the expected return, the more leverage will be used and the higher the crash risk. In the extreme, the liquidity providers will become demanders. An incremental dollar is most valuable when it’s most needed i.e. when volatility is highest. Vol can hence be thought of as the value of money or liquidity. The lender of last resort is the most important seller of volatility. The Fed is the most important seller of volatility and provider of liquidity. 
+
+QE3 coincided with a stock boom,  but commodities and wages didn’t increase nor did gold. QE3 was selling vol which is what the S&P has become. The size of the balance sheet is hence a proxy for moral hazard. Fed swap lines during a crisis are equivalent to intervening in FX markets. Swap lines help foreign central banks which on-lend to borrowers who have been in the carry trade, which effectively make the swap line itself a carry trade. During times of distress the feds balance sheet grows as does the swap lines. Just replaces one carry trade with another and makes the Fed the biggest carry trader.
+
+
 Chapter 7 - Monetary Ramifications
 Chapter 8 - Financial Bubbles
 Chapter 9 - Carry in Structure of Volatility
 Chapter 10 -Does Carry have to Exist
 Chapter 11 - Power
-Chapter 12 - Globalization of Carry  
+Chapter 12 - Globalization of Carry 
 
-EMs are analogous to marginal levered speculators in developed markets. They rely on capital flows and will demand liquidity in a crisis. They've been enabled by central banks and the IMF. 
-Carry can be a lubricant and helpful to those seeking capital. The problem is when it dominates and becomes exploitive between seekers and providers of carry.  
 
-When a central bank has the authority to print base money, it’s at risk of capture by carry traders which leads to a bubble. Carry exploits the decision making of the central bank and dominates all forces.  
 
-  
-
-  
-
-A levered short speculator who wants to maintain the same leverage ratio will have to trade with the market - buy when it rises and sell when falls
-
-The cost to this strategy are proportional to the square of variance
-
-Known as volatility drag
-
-This is what he’s paying for the option of huge returns
-
-  
-
-If he’s not fully levered he may be able to trade in the market ie against moves
-
-  
-
-If levered and trading w the market, will be stopped out if doesn’t trade on own 
-
-The amount of leverage your broker allows will also correlate w availability of carry trades
-
-These speculators are paying for liquidity w their trades
-
-The providers of liquidity ie market makers ar engaging in carry trade 
-
-As leverage goes up, market makers can charge more for liquidity
-
-More liquidity incentivized more leverage 
-
-  
-
-Theoretically returns for assets should be brownian - and independent from one day to another
-
-Leverage breaks this mean reversion bc it can’t rise infinitely and when it breaks liquidity dries up and the trade becomes momentum driven
-
-  
-
-Carry trades don’t have lower returns but more skew and crash risk
-
-Vol and by extension the SandP are themselves carry trades since the underlying is traded by levered speculators
-
-The higher the expected return, the more leverage will be used and the higher the crash risk
-
-In the extreme the liquidity providers will become demanders
-
-An incremental dollar is most valuable when it’s lost needed ie when volatility is highest
-
-Vol can be thought of as the value of money or liquidity 
-
-Lender of last resort is the most important seller of volatility 
-
-Ie the Fed is the most important seller of volatility and provider of liquidity 
-
-  
-
-Qe3 coincided w stock boom 
-
-But commodities and wages didn’t increase nor did gold 
-
-Qe3 was selling vol which is what the SP has become
-
-Size of balance sheet is hence a proxy for moral hazard 
-
-  
-
-Fed swap lines during a crisis equivalent to intervening in fx market
-
-Swap lines help foreign central banks which on lend to borrowers who have been in carry trade
-
-Which effectively make the swap line itself a carry trade 
-
-During times of distress the feds balance sheet grows as do the swap lines
-
-Just replaces one carry trade w another and makes the Fed the biggest carry trader
-
-  
-
-Chapter 7
-
-Monetary policy
 
 Carry is inevitable but current carry regime is a function of central bank policy
 
