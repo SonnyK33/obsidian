@@ -26,6 +26,8 @@ From a distance, many of these credits looks like disparate situations - a satel
 **Process**
 Macro -> themes -> sectors -> liquid capital structures -> credits at inflection points -> convexity
 
+Get questions from specific credits and then abstract back to thematic level. 
+
 We invest thematically by thinking about the big questions driving a group of credits. That allows us to scale and cover a larger universe. For example, we started looking at Celanese a BBB- credit that could become a crossover. It's easy to get lost in the details - as it's involved in a bunch of different chemical chains. But as I took a step back, I realized this is a deleveraging story (would require a massive sell-off for it to be FCF negative). From there we started looking at more generic chemical chains, that led to polyethylene which is the basic building block of plastics. There's an argument that a lot of supply is coming online as demand is collapsing in North America and Europe. There are much larger credits in which we can play this theme (LYB, Ineos, Braskem, etc). There's even a distressed name in Mexico (BAKIDE) which is in the 60s; it's probably going in the 30s, but it will be an interesting asset as it's part of NAFTA and will benefit from friendshoring. 
 
 That's how we come up with themes. It's a process - what are the key questions? Is there a more generalizable question that applies to more credits? 
@@ -43,6 +45,7 @@ Predominantly "value" trades (in either direction). Trades with no catalyst but 
 
 
 **Wrong price vs wrong forecasts**
+Always looking for the most liquid way to put a view on - often through index or ETFs. Look at RV between CCCs and HYG for instance to make sure that a CCC is actually "wide". 
 The best fundamental trades should be based on non-consensus views and forecasts. Some trades may be based on the "wrong" price, even if you think consensus forecasts are correct. However, in most cases, those trades are probably better expressed through index. That is, if one highly levered BB credit looks too tight given its expected financials, likely all BB's trade too tight, and there's a better trade at the macro level.
 Focus on forming non-consensus views.
 
@@ -75,7 +78,12 @@ Drawdown was 1.2%.
 And 2020 here I was ~23m, which was a 51% return on capital (the whole firm was 200m AUM back then).
 
 
-
+**Other Details**
+ - These strategies use roughly $800-$1bn in capital (4-5bn GMV). 
+ - Total firm is ~25bn GMV
+ - I need 1-2 analysts to run liquid HY in US, and some EUR
+ - 300-500m capital to start, including use of index/ETF products
+ - why leaving - excited to start something new, credit is a new silo, so it's interesting to be a part of something from the ground-up. I have a lot of ideas on the investment side and why there's a lot to do, but also on process and building a team. I also like your firm's quant/technology background because credit is the last frontier for quant investing. There's a lot that can be done algorithmically to track liquidity, dealer quotes, some fundamental factors (buy the cheapest bonds in a group, sell the most expensive), etc. 
 
 
 
