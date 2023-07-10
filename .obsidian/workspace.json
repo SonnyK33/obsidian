@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f210f021c341b7af",
+        "id": "219df4b9804eaa19",
         "type": "tabs",
         "children": [
           {
-            "id": "8263f689f448fd5a",
+            "id": "1e4ec00a2ce10afc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Edge.md",
+                "file": "WIL/WILT - 7.10.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/Edge.md",
+                "file": "WIL/WILT - 7.10.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,17 +120,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8263f689f448fd5a",
+  "active": "1e4ec00a2ce10afc",
   "lastOpenFiles": [
-    "Molecules/2023 Trades.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 7.10.23.md",
     "Molecules/Edge.md",
+    "Molecules/2023 Trades.md",
     "2023 Universe.md",
     "Understand Narrative.md",
     "WIL/WILT - 1.11.23.md",
     "Convexity.md",
     "Analysis of Competing Hypotheses.md",
     "WIL/WILT - 7.6.23.md",
-    "WIL/WILT - Template.md",
     "Molecules/Habits - Implementation Intentions.md",
     "WIL/WILT - 7.5.23.md",
     "The Rise of Carry - WIP.md",
@@ -147,7 +148,6 @@
     "Pakistan.md",
     "Rise of Carry.md",
     "Volatility Machine.md",
-    "Trade Wars are Class Wars.md",
     "IS"
   ]
 }
