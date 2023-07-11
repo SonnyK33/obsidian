@@ -1,10 +1,11 @@
 Type: #source 
 Author: Tim Lee, Jamie Lee, and Kevin Coldiron
-References: [[Trade Wars are Class Wars]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]]
+References: [[Trade Wars are Class Wars]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]] [[Second Leg Down]]
 [[Development Models]]
 
 Follow-ups:
 - why does using USD as funding currency count as a capital flow (and hurt the current account)?
+- Has there been a carry regime in China that's driven unprofitable investments? Counter-intuitive as it's driven high savings and low consumption
 
 Takeaways:
 - Policies that increase income inequality like regressive tax cuts which increase business savings will increase the carry trade in emerging markets. Excess savings in rich countries (including the US whose businesses have surpluses) fuel bad investments abroad. Excess savings in Germany and Japan fueled bad investments in the US (like subprime mortgages), and many of these flows continue on to emerging markets. 
@@ -14,6 +15,12 @@ Takeaways:
 - The last stage of a currency carry bubble is when people are just throwing money in to sell volatility rather than capture any rate differential (see Australia example below). This is apparent since the differential narrows right before the end. 
 - EMs are analogous to marginal levered speculators in developed markets. They rely on capital flows and will demand liquidity in a crisis. They've been enabled by central banks and the IMF. Carry can be a lubricant and helpful to those seeking capital. The problem is when it dominates and becomes exploitive between seekers and providers of carry.
 	- EM's typically run CA deficit and have to pay carry to get investment from developed countries. The problem is when the capital flow itself drives the EM economy. The key differentiator is the existence of profitable investments at the country's cost of capital (i.e. the cost of equity).
+-  carry regime results in the worst of both - returns associated with deflation and risk tolerance associated with Inflation. Deflation because of the debt that weighs down growth. There is an inflection point though through which risk assets perform well
+- carry restructures economies ([[Volatility Machine]] makes the same argument). e.g. economy may become more geared to consumer lending
+- in the interim, before the bubble pops, GDP growth can increase. In this case, more GDP growth results in negative growth in the future
+- backwardated forward curves (e.g. oil) can bring in carry traders hoping to roll up the curve. By buying oil forward, you are giving credit to high cost producers; it's analogous to buying their bonds. In that way, playing for the roll yield enables other carry traders (high cost producers with high capex and financing costs). Without the carry traders, producers would anticipate lower prices in the future and sell now, which would bring down spot prices. There is some nuance here though, as the convenience yield is real and will keep the curve inverted. 
+- When one carry trade ends, investors may find another one to hide in before the whole thing comes crashing down (e.g. oil in 2008)
+- Trading with the market (i.e. with the trend) is long volatility and has a cost proportional to volatility ([[Second Leg Down]] makes the same point)
 
 
 
@@ -108,172 +115,45 @@ QE3 coincided with a stock boom,  but commodities and wages didn’t increase n
 
 
 Chapter 7 - Monetary Ramifications
+
+Carry is inevitable, but the current carry regime is a function of central bank policy. Central banks are arbiters of reserve balances which affects banks ability to borrow. QE increases the money supply by increasing reserves  (this is only true to the extent that it increases lending). "Divisia" money is a measure which weights money by its moneyness. By that measure money growth in the US had been slow. Assets that can’t easily be converted to cash are less money like and have higher yields. As the carry regime progresses and volatility decreases yields also decrease. This makes those instruments appear more money like and increases the money supply eg NFTs. In this way central banks can increase money supply more than you think. The power has limits though as when there’s a crash, those assets lose their money-ness. 
+
+In the long term, the carry regime is deflationary as it exists at time of high debt levels, by definition. The high level of debt will deter people from borrowing more and will slow credit  and economic growth, hence deflationary. 
+
+It results in a suboptimal allocation of credit. The carry regime suppresses yields and implicitly assumes costs will be socialized through bailouts from central banks or IMF. This means that debt is mispriced, leading to excess consumption over savings. The mispricing of credit and the persistence of low rates keeps unprofitable firms alive. Over time this leads to more debt, less savings, and lower real returns on investment. The latter keeps economic growth and rates low. When deflation sets in, the demand to hold money increases. People and firms would be expected to hold more cash vs risk assets. Equity and bond holdings are still high though because people are searching for return and don’t perceive those as risky as they expect central banks to intervene in a crisis (since central bank actions have made more assets money-like). This gives the worst of both - returns associated with deflation and risk tolerance associated with Inflation.
+
+Because the regime makes more instruments seem money like, the deflationary shock can be stalled. But there’s always a weak link like mortgages in 2007. Carry regime extends moneyness to non financial assets and turns all corporations into banks. The carry regime can keep GDP high for long periods of time. As the economy changes to accommodate the lower rates, the persistence of carry regime makes economy grow even faster. The economy may start to favor consumer lending for instance which will benefit more from lower rates and lead to even more lending in the carry regime. All of this increases the risk of a deflationary shock. More GDP in this case leads to lower GDP in the future and is contrary to what economists tend to think.
+
+When the shock comes, liquidity dries up and volatility spikes. As volatility can be seen as the price of money, the price of holding cash increases and everything else loses its moneyness. This causes a sharp repricing as existing money supply is insufficient, which is the definition of a deflationary environment. In the end, central banks are weakened by carry regime.
+
+  
+
 Chapter 8 - Financial Bubbles
+
+Business cycle smoothness is eliminated with carry bubbles and crashes. When one carry bubble pops, action often moves to a new carry trade maybe one that still has some money-mess so the carry crash is delayed. In 2007 carry trade moved to oil; this also occurred in 2013-14.  
+
+**Oil carry trade**
+
+When the curve is in backwardation, carry traders buy oil forward and hope to earn roll yield as prices roll up. Without the carry traders, if oil is expected to fall, forward prices will sell off which will cause producers to sell immediately at higher prices. This will then cause spot prices to fall. 
+Carry traders prevent this and bail out high cost producers dependent on credit and is no different than buying their bonds. The oil carry trade is not backed by central banks but foreign  governments and so it's more vulnerable. 
+
+The carry bubble often hides itself and makes standard measures less relevant. The equity market will look fairly priced in terms of multiples but the underlying earnings have benefited from the bubble as well (same with leverage ratios).  When bubble pops, and a new one emerges it’ll be in a different form. Post GFC, the banks were made much more secure. This pushed the carry trade into corporations and non-bank finance companies. Stock buybacks to boost eps are another example.
+
+This is apparent by the high corporate profits in a world of low growth and inflation (i.e. profits have been boosted by the carry trade). You should only want leverage in an inflationary environment not one with the risk of deflation. But those who took leverage were rewarded. 
+
+Carry trades can be similar to Ponzi schemes as both require inflows to exceed outflows and crash when this ends. Carry trades though create excess consumption and investment whereas ponzi schemes only lead to excess consumption. 
+
+  
+
 Chapter 9 - Carry in Structure of Volatility
 Chapter 10 -Does Carry have to Exist
 Chapter 11 - Power
 Chapter 12 - Globalization of Carry 
 
+Trading with the market is replicating a long ATM call option and the cost will be proportional to the volatility. Trading against would be selling optionality and has positive expected value. It tends to be profitable to sell gamma or volatility at shorter time horizons and buying back at longer time horizons. This means trading against market in short term but with the market in the long term. There's a bigger premium on index volatility and correlation premium for longer time horizons, i.e. it trades richer. Since 1987 S&P has had the richest premium because of the demand for liquidity. This implies that it’s the most important carry trade and a barometer of global volatility. This has made the US equity market the global source of liquidity and the last resort. This may be related to equity markets being inversely related to sovereign bonds (Is that true now?) The carry regime restructures the economy towards consumption and speculation away from investment.
 
 
 
-Carry is inevitable but current carry regime is a function of central bank policy
-
-Carry eventually destroys itself 
-
-  
-
-C bank arbiter of reserve balances which in the extreme affect banks ability to borrow
-
-QE increases the money supply by increasing reserves - don’t think that’s true bc there’s no net change 
-
-  
-
-Divisia money - weighted average based on moneyness 
-
-By that measure money growth in the us had been slow
-
-Assets that can’t easily be converted to cash are less money like and have higher yields
-
-As carry regime progresses and vol decreases yields also decrease 
-
-This makes those instruments appear more money like and increases the money supply eg NFTs
-
-In this way central banks can increase money supply more than you think
-
-The power has limits though as when there’s a crash, those assets revert to non-financial again 
-
-  
-
-In long term carry regime is deflationary as exists at time of high debt levels by definition 
-
-High level of debt will deter ppl to borrow more
-
-Will slow credit growth and Econ growth 
-
-And thus deflationary
-
-  
-
-Suboptimal allocation of credit 
-
-Carry regime suppresses yields and implicitly assumes costs will be socialized through bailouts from central banks or imf 
-
-Means that debt is mispriced leading to excess consumption over savings
-
-Mispricing of credit and Persistence of low rates keeps unprofitable firms alive. Over time this leads to more debt, less savings, and lower real returns on investment. The latter keeps Econ growth and rates low. When deflation sets in, the demand to hold money increases. People and firms would be expected to hold more cash vs risk assets. Equity and bond holdings are still high though because people are searching for return and don’t perceive those as risky as they expect central banks to intervene in a crisis. As per previous note central bank actions have made more assets money-like. Worst of both - returns associated with deflation and risk tolerance associated with Inflation.
-
-  
-
-Because regime makes more instruments seem money like, the deflationary shock can be stalled.
-
-But there’s always a weak link like mortgages in 2007. Carry regime extends moneyness to non financial assets. Turns all corporations into banks.
-
-  
-
-  
-
-The carry regime can keep GDP high for long periods of time. As the economy changes to accommodate the lower rates, persistence of carry regime makes economy grow even faster. The economy may start to favor consumer lending for instance which will benefit more from lower rates and lead to even more lending in the carry regime. All of this increases the risk of a deflationary shock. More GDP in this case leads to lower GDP in the future - contrary to what economists tend to think.
-
-When the shock comes
-
- Liquidity dries up and volatility spikes
-
-As volatility can be seen as the price of money 
-
-The price of holding cash increases and everything else loses its moneyness 
-
-Causes a sharp repricing as existing money supply is insufficient - definition of deflationary environment 
-
-In the end, central banks are weakened by carry regime 
-
-  
-
-Chapter 8
-
-Business cycle smoothness is eliminating w carry bubbles and crashes
-
-When one carry bubble pops action often moves to a new carry trade maybe one that still has some money-mess so the carry crash is delayed
-
-  
-
-In 2007 carry trade moved to oil also in 13-14
-
-  
-
-Oil carry trade
-
-When the curve is in backwardation, carry traders buy oil forward and hope to earn roll yield as prices roll up 
-
-Without the carry traders, if oil is expected to fall, forward prices will sell off which will cause producers to sell immediately at higher prices
-
-Ie will propagate through curve
-
-Carry traders prevent this and bail out high cost producers dependent on credit 
-
-No different than buying their bonds 
-
-Oil carry trade not backed by central banks but foreign  governments and so more vulnerable
-
-Carry bubble often hides itself and makes standard measures less relevant 
-
-The equity market will look fairly priced in terms of multiples but the underlying earnings have benefited from the bubble as well 
-
-Same with leverage ratios 
-
-  
-
-When bubble pops and new one emerges it’ll be in a different form
-
-Post GFC, the banks were made much more secure 
-
-This pushes carry trade into corporations and non bank finance companies
-
-Stock buybacks to boost eps are an example
-
-This is apparent by the high corporate profits in a world of low growth and inflation
-
-You should only want leverage in an inflationary environment not one w risk of deflation 
-
-But those who took leverage were rewarded
-
-Carry trades can be similar to Ponzi schemes as both require inflows to exceed outflows and crash when this ends
-
-Carry trades though create excess consumption and investment whereas ponzi leads to excess consumption 
-
-  
-
-Chap 9
-
-Trading with the market is replicating a long atm call option and the cost will be proportional to the volatility 
-
-Trading against would be selling optionality and has positive expected value
-
-Tends to be profitable to sell gamma or volatility at shorter time horizons and buying back at longer time horizons 
-
-Means trading against market in short term b with market in long term
-
-Bigger premium on index volatility and correlation premium
-
-Ie trades richer 
-
-Since 87 SamdP has had richest premium 
-
-It’s expensive because of demand for liquidity 
-
-This implies that it’s the most important carry 
-
-trade and barometer of global volatility 
-
-Made the us equity market the global source of liquidity and the last resort
-
-Related to equity markets being inversely related to sovereign bonds
-
-Is that true now?
-
-  
-
-Carry regime restructure economy towards consumption and speculation away from investment
 
 Chapter 10
 

@@ -2,7 +2,7 @@ Author:  Hari Krishnan
 Type: #source #book
 Topics: #volatility #trading #systematic
 References: [[Monetary Tightening - 2022]]
-[[VIX]] [[Skew]] [[Delta_Hedging]] [[Variance Risk Premium]] [[Vol Surface]] [[Futures Curves]]
+[[VIX]] [[Skew]] [[Delta_Hedging]] [[Variance Risk Premium]] [[Vol Surface]] [[Futures Curves]] [[The Rise of Carry - WIP]]
 
 Summary:
 Second Leg Down gives a playbook of hedging options to implement when there has already been a large draw-down, the VIX is high, and implied vol on options is high, and skew is typically elevated. Most of the trades take advantage of high skew post sell-off. One of the author's key premises is that trading vol after a big move makes sense since it’s the easiest of the moments to forecast. This is because it itself exhibits less variance than mean, skew, or kurtosis. Vol is heavily mean reverting and a stationary process (I think?). High levels on the VIX are correlated with subsequent negative returns and shorting the Vix when above 30 tends to work. Most of the described trades are variations on buying dip in risky assets, selling vol, and selling skew. They must be sized appropriately and only work if you didn’t lose too much in the first draw down. It also discusses trade-offs between gamma and vega. Pre-crash, you want vega, as it becomes too expensive after an event. This translates to wanting long-term options pre-crash and short-term post. 
