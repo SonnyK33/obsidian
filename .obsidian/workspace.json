@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Rise of Carry - WIP.md",
+                "file": "WIL/WILT - 7.11.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Rise of Carry - WIP.md",
+                "file": "WIL/WILT - 7.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,11 +122,12 @@
   },
   "active": "1e4ec00a2ce10afc",
   "lastOpenFiles": [
-    "Sources/Second Leg Down.md",
-    "The Rise of Carry - WIP.md",
-    "Rise of Carry.md",
-    "WIL/WILT - 7.10.23.md",
     "WIL/WILT - Template.md",
+    "WIL/WILT - 7.11.23.md",
+    "WIL/WILT - 7.10.23.md",
+    "The Rise of Carry - WIP.md",
+    "Sources/Second Leg Down.md",
+    "Rise of Carry.md",
     "Molecules/Edge.md",
     "Molecules/2023 Trades.md",
     "2023 Universe.md",
@@ -147,7 +148,6 @@
     "Savings vs Investment.md",
     "US Trade Policy.md",
     "Peru.md",
-    "Pakistan.md",
     "IS"
   ]
 }
