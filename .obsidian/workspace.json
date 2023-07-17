@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 7.12.23.md",
+                "file": "WIL/WILT - 7.17.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 7.12.23.md",
+                "file": "WIL/WILT - 7.17.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   "active": "1e4ec00a2ce10afc",
   "lastOpenFiles": [
     "WIL/WILT - Template.md",
+    "WIL/WILT - 7.17.23.md",
     "WIL/WILT - 7.12.23.md",
     "WIL/WILT - 7.11.23.md",
     "WIL/WILT - 7.10.23.md",
@@ -147,7 +148,6 @@
     "A Very Short History of Global Reserve Currencies.md",
     "Macri's Macro.md",
     "Savings vs Investment.md",
-    "US Trade Policy.md",
     "IS"
   ]
 }
