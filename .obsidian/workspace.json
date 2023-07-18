@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The Rise of Carry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1c874a193408e36c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odd Lots Podcast - Koo.md",
+                "file": "WIL/WILW - 7.18.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odd Lots Podcast - Koo.md",
+                "file": "WIL/WILW - 7.18.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,8 +120,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c874a193408e36c",
+  "active": "8f4f6ca48f3d4e95",
   "lastOpenFiles": [
+    "WIL/WILW - Template 1.md",
+    "WIL/WILW - 7.18.23.md",
     "The Rise of Carry.md",
     "Odd Lots Podcast - Koo.md",
     "Volatility Machine.md",
@@ -159,8 +148,6 @@
     "Option Journal.md",
     "WIL/WILW - 6.9.23.md",
     "Molecules/Development Models.md",
-    "WIL/WILW - 4.14.23.md",
-    "A Very Short History of Global Reserve Currencies.md",
     "IS"
   ]
 }
