@@ -1,5 +1,5 @@
 Type: #molecule 
-References: [[Volatility Machine]] [[The Rise of Carry - WIP]] [[Trade Wars are Class Wars]]
+References: [[Volatility Machine]] [[The Rise of Carry]] [[Trade Wars are Class Wars]]
 
 Countries' development models can be broken into two categories. First, countries who have investment needs and opportunities. Second, countries with excess savings relative to investment opportunities. 
 

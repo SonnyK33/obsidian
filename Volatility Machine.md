@@ -3,7 +3,7 @@ Author: Michael Pettis
 References: [[Forward Guidance - Mike Pettis]] [[US Trade Policy]] [[A Monetary and Fiscal History of the US 1961-2021]] [[Rise of Carry]] [[Geopoltical Alpha]]
 [[Merton Model for Management Incentives]]
 [[Forward Guidance - Miran, Wang]]
-[[Development Models]]
+[[Development Models]] [[The Rise of Carry]]
 Have any countries recently issued dollar-linked local currency debt?
 Question - how are some countries able to develop strong local debt markets and others aren’t? Eg india doesn’t rely on FX debt and hasn’t for some time
 

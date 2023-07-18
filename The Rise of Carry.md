@@ -3,9 +3,31 @@ Author: Tim Lee, Jamie Lee, and Kevin Coldiron
 References: [[Trade Wars are Class Wars]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]] [[Second Leg Down]]
 [[Development Models]]
 
+
+The Rise of Carry argues that "carry", that is, payment for providing liquidity in exchange for taking the risk of asymmetric loss, has transformed the global economy. It first discusses what carry trades are - trades in which you win if nothing happens. Many economies, particularly in emerging markets, are effectively carry trades. Low rates in money-centers have perpetuated carry trades in emerging markets; speculators can borrow cheaply in developed markets and invest in high return projects in emerging markets. The cost of capital in these markets is higher, but the ability to borrow internationally makes many unprofitable investment infeasible. The risk in these investments is that the exchange rate moves (exactly what the interest rate differential implies), but years of low yields have allowed the countries to build FX reserve buffers, effectively allowing them to prop up their currency. It gives a good example of how the low volatility regime allowed a carry bubble to build up in Turkey.
+
+1) A US hedge fund borrows in the US and buys a Turkish corporate bond
+2) The Turkish borrower invests the proceeds in a high return local project
+3) The flow of USD causes the TRY to appreciate, which the Turkish central bank may sterilize by issuing local currency debt and buying the USD
+4) This creates more demand for treasuries, making it easier for the US to continue to run deficits 
+5) This makes it easier for funds to borrow in US and invest abroad, etc
+6) If the central bank doesn't sterilize, a stronger currency will increase imports which will send the dollars to an exporter (like China), who will invest it in treasuries with the same result
+
+
+Going through this cycle increases credit. The US finances its deficit and a Turkish entity increased its Lira debt (either a corporate or the central bank if it sterilized). The end result would be the same if the US had borrowed directly from a U.S. bank (i.e. the bank that financed the initial flow into turkey) and Turkish central bank had bought the Turkish corporate’s debt. 
+
+That situation, which is not a carry trade, wouldn’t happen because neither the US nor Turkey would do that. But because of the carry trade, i.e. the speculator that borrowed from a U.S. bank to invest locally in Turkey the equivalent situation is able to occur. The speculator's bet that the FX won’t depreciate more than the interest difference allows credit and money supply to grow in both places. 
+
+All carry regimes must eventually come to an end. When that happens, deflation is inevitable, as years of low volatility have allowed everyone to accumulate debt. When the bubble pops, there's a premium for cash. In that way, volatility is the price of cash (or money-like instruments). Carry regimes are about power disparities, as liquidity flows from the powerful to the needy. That's what the "market" always wants bailouts and a return to low volatility. 
+
+There are some interesting insights when combining this book with [[Volatility Machine]]. The latter argues that emerging markets should initially run current account deficits to attract adequate capital to fund investments. The East Asian tigers post-WW2 are an example of this. However, this 
+books points out that a very large current account deficit is a sign of an imbalance. Eventually, a local investment will go bad which will cause those flows to reverse, which will bring down the rest of the investments. One way to unite both ideas is to focus on the nature of investments being funded. In the run up to the Asian Financial Crisis, many worthwhile investments were made, even if they became speculative in the end. This is evident by how quickly the region bounced back. By contrast, in the run-up to the GFC, the CA deficits (and investments) were centered in rich developed countries with few profitable investments. The flows were powering pure speculation and excess debt, which is why the developed world took much more time to recover. A key differentiator is whether investments are pulling in capital (as in East Asia in the 1990s) or excess savings are being pushed into economies (as in the US and many EMs today).
+
+Always be cognizant if your trade is a masked carry trade. Does it require volatility to remain low? If so, what could cause the flows to reverse? Does the existence of the carry trade itself make it's end more likely? For example, selling house insurance doesn't make a fire more likely. But if you're directly selling volatility, that will lead to capital appreciation which will lure in more flow and encourage leverage. This will continue, and the target will restructure such that it requires more liquidity (e.g. EM's restructuring their economies with more capital flows per [[Volatility Machine]])). This causes the quality of the investments to get worse, and debt to increase. This increases the likelihood that the regime comes to an end. 
+
 Follow-ups:
-- why does using USD as funding currency count as a capital flow (and hurt the current account)?
-- Has there been a carry regime in China that's driven unprofitable investments? Counter-intuitive as it's driven high savings and low consumption
+- why does using USD as funding currency count as a capital flow (and hurt the current account)? When someone borrows in USD, that increases the money supply as deposits are created from the lending. Similarly, when the US government issues a treasury, that increases the broader money supply, and is a capital inflow. 
+- Has there been a carry regime in China that's driven unprofitable investments? Counter-intuitive as it's driven high savings and low consumption. Excess savings have made borrowing costs low in China. Those savings are invested abroad (FX assets) or in domestic investment projects, many of which are not profitable, due to low domestic demand (which is tied to the high savings in the first place). They've also led to unprofitable investments abroad (e.g. bad loans to EM).
 
 Takeaways:
 - Policies that increase income inequality like regressive tax cuts which increase business savings will increase the carry trade in emerging markets. Excess savings in rich countries (including the US whose businesses have surpluses) fuel bad investments abroad. Excess savings in Germany and Japan fueled bad investments in the US (like subprime mortgages), and many of these flows continue on to emerging markets. 
@@ -14,7 +36,7 @@ Takeaways:
 - Changes in global banks’ net claims on a country are a good proxy for carry flows, at least directionally. Can find this in BIS data.
 - The last stage of a currency carry bubble is when people are just throwing money in to sell volatility rather than capture any rate differential (see Australia example below). This is apparent since the differential narrows right before the end. 
 - EMs are analogous to marginal levered speculators in developed markets. They rely on capital flows and will demand liquidity in a crisis. They've been enabled by central banks and the IMF. Carry can be a lubricant and helpful to those seeking capital. The problem is when it dominates and becomes exploitive between seekers and providers of carry.
-	- EM's typically run CA deficit and have to pay carry to get investment from developed countries. The problem is when the capital flow itself drives the EM economy. The key differentiator is the existence of profitable investments at the country's cost of capital (i.e. the cost of equity).
+	- EM's typically run CA deficits and have to pay carry to get investment from developed countries. The problem is when the capital flow itself drives the EM economy. The key differentiator is the existence of profitable investments at the country's cost of capital (i.e. the cost of equity).
 -  carry regime results in the worst of both - returns associated with deflation and risk tolerance associated with Inflation. Deflation because of the debt that weighs down growth. There is an inflection point though through which risk assets perform well
 - carry restructures economies ([[Volatility Machine]] makes the same argument). e.g. economy may become more geared to consumer lending
 - in the interim, before the bubble pops, GDP growth can increase. In this case, more GDP growth results in negative growth in the future
@@ -24,7 +46,6 @@ Takeaways:
 
 
 
-The Rise of Carry argues that "carry", that is, payment for providing liquidity in exchange for taking the risk of asymmetric loss, has transformed the global economy. It first discusses what carry trades are - trades in which you win if nothing happens. Many economies, particularly in emerging markets, are effectively carry trades. 
 
 Chapter 1 - Nature of Carry
 
@@ -66,10 +87,6 @@ The Japanese carry trade grew more post-2003. The BOJ was worried about its trad
 These fluctuations are directional indicators of the global carry trade. The Euro became major carry currency post 2013. This can be seen with net foreign asset positions of peripheral banks. Swiss franc carry trade blew up in 2015. The Swiss franc was another major carry currency but was mainly used by households from Eastern Europe to fund cheap mortgages. Australia was the biggest beneficiary of the carry trade in 2007. The GFC crash was short lived for carry trades as exchange rates quickly reverted. Post-Asian Financial crisis, the countries quickly restructured their economies and went from big deficit to big current account surpluses. That didn’t happen post GFC. 
 
 Per [[Trade Wars are Class Wars]], one of the reasons for this is that the CA deficits in the run-up to the Asian Financial Crisis were developing countries with large investment needs. Many of those investments were likely coming to fruition by the late 90s and may have powered the export boom in the following decades. By contrast, post the GFC, the CA deficit was in rich countries (primarily the US, but also UK, Canada, and Australia), where the excess savings from abroad were being wasted on bad investments (e.g. US subprime mortgages).   
-
-
-
-  
 
 Chapter 3 - Carry, Leverage, and Credit
 Selling insurance is the classic carry trade. But selling house insurance, for example, should be uncorrelated with a fire. You should be able to sell insurance on multiple houses to diversify your risk. In financial markets selling insurance itself may create the conditions for a trigger. Volatility selling initially leads to capital appreciation which lures more flows and encourages leverage. This creates an imbalance (i.e. the target asset restructures in a way that relies on more of these flows) that requires more and more flows. Eventually it reverses. Carry traders are providing liquidity like a market maker. Carry always leads to more leverage and should lead to more debt. This may not be captured by macro stats, e.g. if someone sells a lot of insurance he has a contingent liability which he can’t honor. This may not be calculated in a bank's credit stats. 
@@ -141,56 +158,18 @@ The carry bubble often hides itself and makes standard measures less relevant. T
 
 This is apparent by the high corporate profits in a world of low growth and inflation (i.e. profits have been boosted by the carry trade). You should only want leverage in an inflationary environment not one with the risk of deflation. But those who took leverage were rewarded. 
 
-Carry trades can be similar to Ponzi schemes as both require inflows to exceed outflows and crash when this ends. Carry trades though create excess consumption and investment whereas ponzi schemes only lead to excess consumption. 
-
-  
+Carry trades can be similar to Ponzi schemes as both require inflows to exceed outflows and crash when this ends. Carry trades though create excess consumption and investment whereas ponzi schemes only lead to excess consumption.   
 
 Chapter 9 - Carry in Structure of Volatility
-Chapter 10 -Does Carry have to Exist
-Chapter 11 - Power
-Chapter 12 - Globalization of Carry 
-
 Trading with the market is replicating a long ATM call option and the cost will be proportional to the volatility. Trading against would be selling optionality and has positive expected value. It tends to be profitable to sell gamma or volatility at shorter time horizons and buying back at longer time horizons. This means trading against market in short term but with the market in the long term. There's a bigger premium on index volatility and correlation premium for longer time horizons, i.e. it trades richer. Since 1987 S&P has had the richest premium because of the demand for liquidity. This implies that it’s the most important carry trade and a barometer of global volatility. This has made the US equity market the global source of liquidity and the last resort. This may be related to equity markets being inversely related to sovereign bonds (Is that true now?) The carry regime restructures the economy towards consumption and speculation away from investment.
 
+Chapter 10 -Does Carry have to Exist
 
+In a hypothetical anti-carry world, it would be profitable to buy optionality. Over time this would be inflationary just as carry crash is deflationary. 
 
-
-Chapter 10
-
+Chapter 11 - Power
+Chapter 12 - Globalization of Carry 
   
+Carry is a reflection of power disparities, as it  flows from those who have power to those who need liquidity. The worst credits pay the most for liquidity. Liquidity protects you from ruin, which is often brought by carry regimes in the first place (it’s a racket).
 
-In a hypothetical anti carry world, it would be profitable to buy optionality 
-
-Over time this would be inflationary just as carry crash is deflationary 
-
-Chapter 11
-
-  
-
-Carry is a reflection of power disparities 
-
-The worst credits pay the most for liquidity
-
- Carry flows from those who have power to those who need liquidity
-
-Excess liquidity is at the heart of it 
-
-Liquidity protects from ruin - ruin which is often brought by carry regimes in the first place
-
-It’s a racket
-
-Those w power will survive the crash
-
-Cumulative privilege powers carry regimes
-
-What the market “wants”
-
-More carry, more entrenched power and less volatility 
-
-Shouldn’t care what the market wants 
-
-IMF and central bank swap lines perpetuating carry trade globallly alllows foreign central
-
-Banks to bail out local borrowers
-
-Swap lines and imf not just important for dollar amount but for signal esp from central banks since they can print unlimited amounts
+Those with power will survive the crash. This cumulative privilege powers carry regimes. When people talk about what the market “wants”, what they mean is more carry, more entrenched power and less volatility; policymakers shouldn’t care what the market wants. The IMF and central bank swap lines perpetuate carry trade globally. They allow foreign central banks to bail out local borrowers. Swap lines and the IMF are not just important for the liquidity, but for the signaling effect. Backing from central banks is valuable as they can print unlimited amounts.

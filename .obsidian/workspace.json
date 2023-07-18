@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "219df4b9804eaa19",
+        "id": "5bcdec7baeaf00ba",
         "type": "tabs",
         "children": [
           {
-            "id": "1e4ec00a2ce10afc",
+            "id": "8f4f6ca48f3d4e95",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 7.17.23.md",
+                "file": "The Rise of Carry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1c874a193408e36c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odd Lots Podcast - Koo.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 7.17.23.md",
+                "file": "Odd Lots Podcast - Koo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,14 +133,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1e4ec00a2ce10afc",
+  "active": "1c874a193408e36c",
   "lastOpenFiles": [
-    "WIL/WILT - Template.md",
+    "The Rise of Carry.md",
+    "Odd Lots Podcast - Koo.md",
+    "Volatility Machine.md",
     "WIL/WILT - 7.17.23.md",
+    "WIL/WILT - Template.md",
     "WIL/WILT - 7.12.23.md",
     "WIL/WILT - 7.11.23.md",
     "WIL/WILT - 7.10.23.md",
-    "The Rise of Carry - WIP.md",
     "Sources/Second Leg Down.md",
     "Rise of Carry.md",
     "Molecules/Edge.md",
@@ -146,8 +161,6 @@
     "Molecules/Development Models.md",
     "WIL/WILW - 4.14.23.md",
     "A Very Short History of Global Reserve Currencies.md",
-    "Macri's Macro.md",
-    "Savings vs Investment.md",
     "IS"
   ]
 }
