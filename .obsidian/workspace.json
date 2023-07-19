@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bcdec7baeaf00ba",
+        "id": "3496ae86261caba9",
         "type": "tabs",
         "children": [
           {
-            "id": "8f4f6ca48f3d4e95",
+            "id": "6dfb4be14d614259",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILW - 7.18.23.md",
+                "file": "WIL/WILW - 7.19.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 7.18.23.md",
+                "file": "WIL/WILW - 7.19.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,10 +120,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "8f4f6ca48f3d4e95",
+  "active": "6dfb4be14d614259",
   "lastOpenFiles": [
-    "WIL/WILW - Template 1.md",
+    "WIL/WILW - 7.19.23.md",
     "WIL/WILW - 7.18.23.md",
+    "WIL/WILW - Template 1.md",
     "The Rise of Carry.md",
     "Odd Lots Podcast - Koo.md",
     "Volatility Machine.md",
@@ -147,7 +148,6 @@
     "Delta_Hedging.md",
     "Option Journal.md",
     "WIL/WILW - 6.9.23.md",
-    "Molecules/Development Models.md",
     "IS"
   ]
 }
