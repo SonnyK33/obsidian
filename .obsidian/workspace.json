@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILW - 7.20.23.md",
+                "file": "WIL/WILT - 8.1.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILW - 7.20.23.md",
+                "file": "WIL/WILT - 8.1.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,6 +123,7 @@
   "active": "6dfb4be14d614259",
   "lastOpenFiles": [
     "WIL/WILW - Template 1.md",
+    "WIL/WILT - 8.1.23.md",
     "WIL/WILW - 7.20.23.md",
     "WIL/WILW - 7.19.23.md",
     "WIL/WILW - 7.18.23.md",
@@ -147,7 +148,6 @@
     "Molecules/Habits - Implementation Intentions.md",
     "WIL/WILT - 7.5.23.md",
     "Delta_Hedging.md",
-    "Option Journal.md",
     "IS"
   ]
 }
