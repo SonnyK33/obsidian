@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 
 There are 4 types of money -
 

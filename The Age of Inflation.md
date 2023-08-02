@@ -1,6 +1,6 @@
 Type: #source 
 Author: Ken Rogoff - appeared in Foreign Affairs Nov/Dec 2022
-[[Quantitative Easing]] [[Money Creation]] [[Central Banking 101 - WIP]]
+[[Quantitative Easing]] [[Money Creation]] [[Central Banking 101]]
 [[Quantitative Tightening]]
 
 The Fed was far too late in raising rates and drastically underestimated inflation risks for 2022. The causes were political -

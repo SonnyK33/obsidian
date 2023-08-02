@@ -1,10 +1,10 @@
 Type: #Atom 
 Reference: https://fedguy.com/quantitative-tightening-step-by-step/
-[[Central Banking 101 - WIP]]  [[Money Creation]] [[Quantitative Easing]]
+[[Central Banking 101]]  [[Money Creation]] [[Quantitative Easing]]
 [[Top Traders Podcast GM 23]] [[Monetary Tightening - 2022]]
 https://fedguy.com/trapped-liquidity/?utm_source=rss&utm_medium=rss&utm_campaign=trapped-liquidity
 [[Reverse Repo Facility]]
-
+[[A Monetary and Fiscal History of the US 1961-2021]]
 
 
 Quantitative easing replaced treasuries with reserves on bank balance sheets and with bank deposits on non-bank balance sheets. Quantiative Tightening (QT) is the reverse of QE and aims to normalize the level of reserves in the system and reduce the size of the Fed's balance sheet. 

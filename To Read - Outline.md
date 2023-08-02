@@ -16,7 +16,7 @@
 		- ['Mentally you are still in Mandalay'] by [Orwell]
 		- [Take up the white man's burden] by [Kipling]
 
-[[Central Banking 101 - WIP]]
+[[Central Banking 101]]
 
 - How do central bank operations differ between the Fed, ECB, BOE, BOJ, BOC, and most EM banks? What are the implications?
 -  Look at MMT -  gets monetary system right but may give too much credit to government officials who need some constraints a on spending.

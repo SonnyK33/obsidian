@@ -1,5 +1,5 @@
 Type: #Molecule 
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 [[Currency and Hegemony]]
 [[Gold - Outline]]
 https://twitter.com/concodanomics/status/1604507822523179014?s=51&t=g5dfMu0qEQBX01qbJSHT2A

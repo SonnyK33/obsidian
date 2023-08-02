@@ -1,5 +1,5 @@
 Type: #molecule 
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 [[Inflation]] [[Zervos and Ferguson]]
 [[Fed Policy]] [[Monetary Tightening - 2022]]
 The UK is facing the greatest amounts of labour actions since the late 1980s. 1979 was known as the winter of discontentment. If they give into demands it will entrench inflation, but the labour market is tight and workers have a lot of bargaining power. Nurses are striking for the first time and there are 47k vacancies, giving them more bargaining power. The Tories are also losing popularity and are at risk of losing the majority to the Labour party. 

@@ -2,6 +2,7 @@ Type: #source
 Author: Tim Lee, Jamie Lee, and Kevin Coldiron
 References: [[Trade Wars are Class Wars]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]] [[Second Leg Down]]
 [[Development Models]]
+[[Tight Monetary plus Loose Fiscal]]
 
 
 The Rise of Carry argues that "carry", that is, payment for providing liquidity in exchange for taking the risk of asymmetric loss, has transformed the global economy. It first discusses what carry trades are - trades in which you win if nothing happens. Many economies, particularly in emerging markets, are effectively carry trades. Low rates in money-centers have perpetuated carry trades in emerging markets; speculators can borrow cheaply in developed markets and invest in high return projects in emerging markets. The cost of capital in these markets is higher, but the ability to borrow internationally makes many unprofitable investment infeasible. The risk in these investments is that the exchange rate moves (exactly what the interest rate differential implies), but years of low yields have allowed the countries to build FX reserve buffers, effectively allowing them to prop up their currency. It gives a good example of how the low volatility regime allowed a carry bubble to build up in Turkey.

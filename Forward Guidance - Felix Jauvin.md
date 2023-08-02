@@ -1,6 +1,6 @@
 Type: #source 
 Guest: Felix Jauvin
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 [[Central Bank Operations]]
 [[Monetary Tightening - 2022]]
 [[Quantitative Easing]]

@@ -1,5 +1,5 @@
 Type #Outline 
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 [[Central Bank Operations]]
 [[Reverse Repo Facility]]
 [[Federal Home Loan Banks]]

@@ -2,7 +2,7 @@
 [[Chip war]]
 Reminds me of the Washington naval treaties in the 1930s that sought to freeze japans naval capacity
 
-[[Central Banking 101 - WIP]]
+[[Central Banking 101]]
 2) what will current actions do to financial markets (inflation, asset prices etc)
 
 3) what are the limitations and how do they differ by type of country (ie reserve currency, borrows in own currency, currency union, EM who borrows in different currency, etc)

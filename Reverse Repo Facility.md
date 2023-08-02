@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 https://www.newyorkfed.org/markets/rrp_faq
 [[Quantitative Tightening]]
 [[Central Bank Operations]]

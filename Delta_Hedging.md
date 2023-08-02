@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Second Leg Down]] [[Variance Risk Premium]]] [[Central Banking 101 - WIP]]
+References: [[Second Leg Down]] [[Variance Risk Premium]]] [[Central Banking 101]]
 [[Skew]]
 [[Pinning - Trades]]
 **Realized vol vs Implied vol**

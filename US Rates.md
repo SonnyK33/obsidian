@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Central Banking 101 - WIP]] [[Money Creation]]
+References: [[Central Banking 101]] [[Money Creation]]
 [[Inflation]]
 
 Long-term rates should be equal to compounding short-term rates set by the Fed + a term premium. This premium compensates holders for locking in rates. 

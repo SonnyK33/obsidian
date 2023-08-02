@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[BOE Money creation]] [[Second Leg Down]] [[Central Banking 101 - WIP]]
+References: [[BOE Money creation]] [[Second Leg Down]] [[Central Banking 101]]
 [[Quantitative Tightening]] [[Quantitative Easing]]
 
 **How is money created**

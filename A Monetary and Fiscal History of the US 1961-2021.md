@@ -6,6 +6,15 @@ References:
 [[Forward Guidance - Peter Stella]]
 [[ISLM Model]]
 [[US Trade Policy]]
+[[Quantitative Tightening]]
+Molecules:
+[[QT's impact on Liquidity]]
+[[Tight Monetary plus Loose Fiscal]]
+[[Labour Productivity]] 
+ 
+
+
+
 
 [[To Read - Outline]]
 See paper from Poole- Friedman student
@@ -21,38 +30,38 @@ Binder describes the different approaches to fiscal and monetary policy taken by
 
 Key Lessons/molecules:
 - QE vs covid response - why one created inflation and other didn't
-- Loose fiscal policy plus tighter (which had been the norm pre-2008 and will probably be again) leads to higher rates and decreases the share of GDP going to investment (fiscal deficits mean a share of spending goes to consumption)
+- Loose fiscal policy plus tighter monetary (which had been the norm pre-2008 and will probably be again) leads to higher rates and decreases the share of GDP going to investment (fiscal deficits mean a share of spending goes to consumption)
 - There was a time (not that long ago) when fiscal balances affected interest rates (e.g. Clinton's cuts bringing down the long-end)
 - Regulation Q put a cap on rates and drove consumers out of deposits and into other instruments
 - Johnson refused to pass a surtax because he thought it would make his war in Vietnam less popular. The ensuing inflation led to the rise of monetarism
 - I don't understand monetarism that well - believed demand for money was inelastic. Under what conditions is that true?
-- Friedman argued that the Phillips curve is vertical and unemployment is fixed at u-star. If unemployment goes below that level, it will push up inflation and inflation expectations. Firms wil raise prices before workers demand higher wages. The higher costs lower workers' real wages. Eventually they ask for higher wages, resulting to layoffs, bringing unemployment back to u-star. The rational expectations school argued against this outcome. 
+- Friedman argued that the Phillips curve is vertical and unemployment is fixed at u-star. If unemployment goes below that level, it will push up inflation and inflation expectations. Firms will raise prices before workers demand higher wages. The higher costs lower workers' real wages. Eventually they ask for higher wages, resulting to layoffs, bringing unemployment back to u-star. The rational expectations school argued against this outcome. 
 - Supply shocks cause stagflation. Demand shocks cause prices and output to both increase (inflation). Supply shocks (oil embargo in the 1970s, covid shutdowns, etc) cause output and price to move in the opposite direction - stagflation. The phillips curve doesn't predict this. 
-- The oil embargo also led to higher unemployment and not just lower wages. This was partially due to much lower worker productivity than expected. This was caused by businsses giving larger wage increases than warranted (as they didn't realize productivity decreased), and by policymakers targeting a higher level of growth (also not knowing that productivity decreased). These two factors raised NAIRU and led to policymakers targeting a lower level of unemployment than what was warranted. This led to inflation. What happened to worker productivity in the past few years?
+- The oil embargo also led to higher unemployment and not just lower wages. This was partially due to much lower worker productivity than expected. This was caused by businesses giving larger wage increases than warranted (as they didn't realize productivity decreased), and by policymakers targeting a higher level of growth (also not knowing that productivity decreased). These two factors raised NAIRU and led to policymakers targeting a lower level of unemployment than what was warranted. This led to inflation. What happened to worker productivity in the past few years?
 - higher energy prices also meant firms used more labour which decreased productivity (assuming that's not the case anymore ?)
 - lower labour productivity also shows up with a higher share of income going to labour. How does that connect with Pettis' argument? Higher deficits mean more consumption and more income to labour; does that imply lower productivity?
 - how does labour productivity affect natural rate of unemployment?
 - Tight monetary policy should push up real rates and slow demand. Loose fiscal policy should also push up real rates but speed up demand. Putting them together should raise real rates; the effect on demand depends which is more powerful.
-- Under Regan, real rates went up a lot which lowered the share of investment in the economy and pushed up the dollar
+- **Under Regan, real rates went up a lot which lowered the share of investment in the economy and pushed up the dollar
 	- higher interest rates disincentivized investment, leading to lower net exports 
 	- that plus the stronger dollar increased the trade deficit and and led to the Plaza Accord where G5 countries agreed to let the dollar devalue. [[US Trade Policy]] 
 	- a higher trade deficit implies a larger savings deficit
-	- that means that savings fell by more than investment, likely due to the impact of fewer exports, resulting in lower wages	-
+	- that means that savings fell by more than investment, likely due to the impact of fewer exports, resulting in lower wages	-**
 - Budget deficits imply a higher share of the economy going to consumption (less savings)
 - Clinton focused on cutting the deficit after winning, which lowered long-term yields. Many learned the wrong lessons from this. Rates went down because they were starting from a high level, there was a long period of high spending, and the change in government came with new credible policies. These conditions aren't always present.
-- Greenspan had good judgement. Even with Clinton's cuts, he continued to boost rates, as real rates were too low. Through the hiking cycle, real rates went from 3 to 6%. Greenspan was the first to issue forward guidance and eventually indicated that he was done hiking when unemployment reached 5.4%, thought to be u-star. The hikes were helpful, as he was able to cut rates by 75 bps when the 1998 recession casued by LTCM and the Russian default occurred. Greenspan, along with Summers and Rubin were given a lot of credit. Clinton's earlier cuts led to higher investments, and labour productivity. This included the coming IT revolution. As the economy continued to grow, many wanted the fed to hike (including Yellen). Greenspan resisited, correctly predicting the productivity gains from technology and believed the economy could handle more. He was right; unemployment went down further without raising inflation.
+- Greenspan had good judgement. Even with Clinton's cuts, he continued to boost rates, as real rates were too low. Through the hiking cycle, real rates went from 3 to 6%. Greenspan was the first to issue forward guidance and eventually indicated that he was done hiking when unemployment reached 5.4%, thought to be u-star. The hikes were helpful, as he was able to cut rates by 75 bps when the 1998 recession caused by LTCM and the Russian default occurred. Greenspan, along with Summers and Rubin were given a lot of credit. Clinton's earlier cuts led to higher investments, and labour productivity. This included the coming IT revolution. As the economy continued to grow, many wanted the fed to hike (including Yellen). Greenspan resisted, correctly predicting the productivity gains from technology and believed the economy could handle more. He was right; unemployment went down further without raising inflation.
 - Central bank independence is a modern phenomenon, and only really started 20 years ago. In 1990, just the US, Switzerland, and Germany had independence central banks. Their success in fighting inflation encouraged others.
 - Bush was the most profligate President ever - Iraq war, tax cuts, and Medicare Part D, all unfunded (the first entitlement to be unfunded). The Fed didn't raise rates, as unemployment was slow to recover, given the Iraq war. 
 - The Fed was slow to realize the extent of the banking crisis and was still focused on inflation even after a few funds failed
-- QE didn't dramatically increase M2 because banks were now collecting interest on their reserves
+- **QE didn't dramatically increase M2 because banks were now collecting interest on their reserves**
 	- QE replaced banks' treasuries with reserves (i.e. purchased their treasuries)
 	- as reserves were previously earning nothing, they would have used that liquidity to lend more and earn interest income; that would have increased M2 (by creating deposits)
-	- but since the Fed was now paying interest on reserves, banks were happy to hold reeserves and didn't feel the need to lend (given the recession)
-	- The Fed paying on reserves broke the link between the Fed's balance sheet and the moeny supply
+	- but since the Fed was now paying interest on reserves, banks were happy to hold reserves and didn't feel the need to lend (given the recession)
+	- The Fed paying on reserves broke the link between the Fed's balance sheet and the money supply
 	- new regulations also forced banks to hold more liquidity
 - In 2010, unemployment fell while GDP growth was slow; this indicated lower labour productivity
 - Trump's tax cut was supposed to raise wages by encouraging investment. But rates were so low, indicating that there were few obstacles to investing. The larger budget deficit (along with a trade deficit) implied an even larger savings deficit [[GDP]] [[US Trade Policy]]. It implied lower savings for a certain segment of the population - likely lower income workers who didn't gain from the tax cut. 
-- Because of 15 years of low rates, when the pandemic struck, the Fed was out of bullets. The only lever to be used was fiscal policy which led to inflation. Unlike Greenspan's lesson from the 1990s, central bank leaders hadn't been proactive in gettting the policy rate to a normalized level. Even though the low rates were not inflationary, they required the excess use of fiscal policy which was inflationary. 
+- Because of 15 years of low rates, when the pandemic struck, the Fed was out of bullets. The only lever to be used was fiscal policy which led to inflation. Unlike Greenspan's lesson from the 1990s, central bank leaders hadn't been proactive in getting the policy rate to a normalized level. Even though the low rates were not inflationary, they required the excess use of fiscal policy which was inflationary. 
 - Trump's tax cut was similar to Johnsons - occurred when the economy was already strong and hence created inflation.
 - Monetary policy inflates assets, while fiscal can be tailored to different groups
 	- fiscal may be more likely to be inflationary as is directed to those who have a higher propensity to spend it 

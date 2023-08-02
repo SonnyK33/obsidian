@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[US Rates]] [[Central Banking 101 - WIP]] [[Quantitative Easing]] [[Quantitative Tightening]]
+References: [[US Rates]] [[Central Banking 101]] [[Quantitative Easing]] [[Quantitative Tightening]]
 [[Labour Actions]]
 [[Dollar Hegemony]]
 [[Macrovoices - David Rosenberg]]

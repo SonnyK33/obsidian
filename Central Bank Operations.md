@@ -1,5 +1,5 @@
 Type: #Atom 
-References: [[Central Banking 101 - WIP]]
+References: [[Central Banking 101]]
 [[Europe - Outline]] [[Quantitative Tightening]]
 Issues in EU - [https://www.ft.com/content/7f651e23-d545-404f-a137-4f92b6486870](https://www.ft.com/content/7f651e23-d545-404f-a137-4f92b6486870)  
 https://www.ft.com/content/0eea1ae8-acfe-401a-bff3-88e8c6382a32

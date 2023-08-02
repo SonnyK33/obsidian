@@ -1,6 +1,6 @@
 Type #Atom 
 References: [[Quantitative Tightening]]
-[[Central Banking 101 - WIP]] [[Money Creation]] 
+[[Central Banking 101]] [[Money Creation]] 
 
 
 Money is created whenever banks make new loans. Broad money (deposits + currency) can also be created by central banks purchasing treasuries directly from non-banks. The entity will sell treasuries and receive bank deposits. The entity' bank will be credited with new reserves (since the entity doesn't have an account at the Fed) and will also have a new liability (the entity's deposit). The non-bank may then have more cash than it wishes and choose to invest or spend it (the point of QE)
