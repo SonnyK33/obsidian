@@ -1,4 +1,6 @@
 Type: #source 
+References:
+[https://fedguy.com/the-qt-timebomb/](https://fedguy.com/the-qt-timebomb/)
 
 [[To Read - Outline]]
 Capital Wars
@@ -19,6 +21,9 @@ Historically strong flows into the US and EU were caused by a lack of good colla
 $60tr global debt due every year. Given higher rates and all the debt due for refi, debt to GDP will rise. This will require more liquidity. GDP will be growing at a slower pace, so liquidity to GDP is rising which means higher multiples. The fed will do YCC because they can’t pay higher rates.
 
 So don’t buy treasuries, but buy stocks and commodities and crypto. He thinks a soft landing is the most likely. The business cycle still has to turn so could be short term noise. Likes China because of the liquidity. 
+
+**Adding next 2 podcasts with Howell and Andy Constan**
+
 
 
 

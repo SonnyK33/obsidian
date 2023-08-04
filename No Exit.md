@@ -2,6 +2,7 @@ Type: #source
 Author: Jean-Paul Sartre
 References: [[Philosophy - Outline]]
 [[Myth of Sisyphus]]
+[[Flies]]
 
 No Exit is a play taking place in hell. A group of strangers are ushered into a room which they discover is hell and begin discussing what brought them there. At some point they realize that the door to the room is open and they can leave at any time. Despite this, they choose to stay and continue fighting with one another. The famous line - "Hell is other people" - summarizes the story. We allow ourselves to be judged and criticized by others even when we can leave whenever we want. We have free will but we don't exercise it. Sarte's makes the case for existentialism by showing the power of free will and how we choose to play by others' rules. 
 

@@ -13,13 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.2.23.md",
+                "file": "WIL/WILT - 8.3.23.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "63dfc1d2dce8b787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Flies.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4da8030f2d4996e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Savings vs Investment-WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa9ef3a04432a41b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 8.3.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +68,7 @@
       {
         "id": "e33cd2d3e4f488b7",
         "type": "tabs",
-        "dimension": 55.07142857142857,
+        "dimension": 65.95976073953236,
         "children": [
           {
             "id": "eed48771927d507d",
@@ -48,7 +85,7 @@
       {
         "id": "2cdaf50dd67da41d",
         "type": "tabs",
-        "dimension": 44.92857142857143,
+        "dimension": 34.04023926046765,
         "children": [
           {
             "id": "62b5ec31792c739d",
@@ -56,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "GDP",
+                "query": "savings",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.2.23.md",
+                "file": "Savings vs Investment-WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,34 +157,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7de13bfb6323cae",
+  "active": "4da8030f2d4996e3",
   "lastOpenFiles": [
-    "WIL/WILT - 8.2.23.md",
+    "Dollar's Imperial Circle.md",
     "Tight Monetary plus Loose Fiscal.md",
+    "Current Account Deficits.md",
+    "A Very Short History of Global Reserve Currencies.md",
+    "Nigeria - Outline.md",
+    "The Rise of Carry.md",
+    "WIL/WILT - 3.6.23.md",
+    "Macri's Macro.md",
+    "Macri's Macro Sturzenegger.md",
+    "WIL/WILW - 3.23.23.md",
+    "Flies.md",
+    "National Guilt.md",
+    "No Exit.md",
+    "WIL/WILT - 8.3.23.md",
+    "WIL/WILT - 8.2.23.md",
+    "Dangerous Liaisons.md",
+    "Forward Guidance - Howell, Constan.md",
+    "Untitled 17.md",
+    "Volatility Machine.md",
+    "10.13.22.md",
+    "[WILT - 8.3.23.md",
     "GDP.md",
     "Labour Productivity.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "Trade Wars are Class Wars.md",
-    "The Rise of Carry.md",
     "QT's impact on Liquidity.md",
-    "Liquidity.md",
-    "Molecules/Liquidity Measure.md",
-    "Quantitative Tightening.md",
-    "History of US Monetary Policy.md",
-    "Sources/Plays by Federico Lorca.md",
-    "Sources/How to take smart notes.md",
-    "Sources/Commodities Note.md",
-    "Sources/Central Banking 101.md",
-    "Central Bank Operations.md",
-    "Sources/A man's fate - WIP.md",
-    "Molecules/Development Models.md",
-    "WIL/WILT - 8.1.23.md",
-    "WIL/WILW - Template 1.md",
-    "WIL/WILW - 7.20.23.md",
-    "WIL/WILW - 7.19.23.md",
-    "WIL/WILW - 7.18.23.md",
-    "Odd Lots Podcast - Koo.md",
-    "Volatility Machine.md",
     "IS"
   ]
 }

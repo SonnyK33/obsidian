@@ -3,8 +3,8 @@ References: [[A Monetary and Fiscal History of the US 1961-2021]]
 [[The Rise of Carry]]
 [[Trade Wars are Class Wars]]
 [[GDP]]
+[[Dollar's Imperial Circle]]
 
-**Read Soros' imperial circle argument**
 
 In the 1980s, there was a period of loose fiscal policy and tight monetary policy (as is the case currently). This led to higher real rates, a stronger dollar, and lower rates of investment. The stronger dollar led to a larger current account deficit, which also implied a savings deficit (S < I). In fact, savings and investment both fell, while consumption rose. This eventually led to the Plaza Accords where US allies agreed to let their currencies appreciate against the dollar. 
 
