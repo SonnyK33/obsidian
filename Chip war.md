@@ -13,7 +13,11 @@ https://twitter.com/kevinsxu/status/1618023350156267521?s=43&t=VF54DzYOj1b6tTHp2
 
 
 [[To Write - Outline]]
-Reminds me of the Washington naval treaties in the 1930s that sought to freeze japans naval capacity
+Reminds me of the Washington naval treaties in the 1930s that sought to freeze japans naval capacity. The sanctions on China require the cooperation of allies (Japan, South Korea, Taiwan, Netherlands, etc.) as well as the private sector. It's hard to lose the Chinese market. Was that an issue enforcing the blockade against Japan as well? I think it was; allied trading with Japan until the end. [[Geopoltical Alpha]]
+
+Did the blockade strengthen Japan by forcing it to develop technologies in-house? That's happening with China.   
+
+
 
 #Trades 
 AAPL and TSLA most at risk from new china paradigm

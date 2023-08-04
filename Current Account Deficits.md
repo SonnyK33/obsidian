@@ -6,6 +6,7 @@ https://twitter.com/murtazahsyed/status/1625466345142755331?s=51&t=6CNFuVnQkKe_c
 [[WILW - 1.20.23]]
 [[Seven Lives of Pakistan]]
 [[WILT - 4.10.23]]
+[[Trade balances and Capital Flows]]
 
 
 I liked this framework for how to deal with current account deficits and what questions to focus on.

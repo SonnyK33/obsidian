@@ -1,7 +1,7 @@
 Type: #source 
 Author: Tim Lee, Jamie Lee, and Kevin Coldiron
 References: [[Trade Wars are Class Wars]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]] [[Second Leg Down]]
-[[Development Models]]
+[[Development Models - WIP]]
 [[Tight Monetary plus Loose Fiscal]]
 [[Nigeria - Outline]]
 

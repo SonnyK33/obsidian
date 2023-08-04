@@ -25,19 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Flies.md",
+                "file": "Chip war.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "4da8030f2d4996e3",
+            "id": "474a1b39aa86dbde",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Savings vs Investment-WIP.md",
+                "file": "The Respectful Prostitute.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
       {
         "id": "e33cd2d3e4f488b7",
         "type": "tabs",
-        "dimension": 65.95976073953236,
+        "dimension": 70.52746057640022,
         "children": [
           {
             "id": "eed48771927d507d",
@@ -85,7 +85,7 @@
       {
         "id": "2cdaf50dd67da41d",
         "type": "tabs",
-        "dimension": 34.04023926046765,
+        "dimension": 29.47253942359978,
         "children": [
           {
             "id": "62b5ec31792c739d",
@@ -93,7 +93,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "savings",
+                "query": "exist",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Savings vs Investment-WIP.md",
+                "file": "The Respectful Prostitute.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,34 +157,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4da8030f2d4996e3",
+  "active": "62b5ec31792c739d",
   "lastOpenFiles": [
-    "Dollar's Imperial Circle.md",
-    "Tight Monetary plus Loose Fiscal.md",
-    "Current Account Deficits.md",
-    "A Very Short History of Global Reserve Currencies.md",
-    "Nigeria - Outline.md",
+    "Chip war.md",
+    "The Respectful Prostitute.md",
     "The Rise of Carry.md",
-    "WIL/WILT - 3.6.23.md",
-    "Macri's Macro.md",
-    "Macri's Macro Sturzenegger.md",
-    "WIL/WILW - 3.23.23.md",
-    "Flies.md",
-    "National Guilt.md",
-    "No Exit.md",
-    "WIL/WILT - 8.3.23.md",
-    "WIL/WILT - 8.2.23.md",
-    "Dangerous Liaisons.md",
-    "Forward Guidance - Howell, Constan.md",
-    "Untitled 17.md",
-    "Volatility Machine.md",
-    "10.13.22.md",
-    "[WILT - 8.3.23.md",
-    "GDP.md",
-    "Labour Productivity.md",
+    "Dirty Hands.md",
+    "Africa - Centre of New Conflicts.md",
+    "Sources/A man's fate - WIP.md",
+    "Nigeria - Outline.md",
+    "Untitled 1.md",
+    "Trade balances and Capital Flows.md",
+    "Molecules/Development Models - WIP.md",
+    "Savings vs Investment.md",
+    "Current Account Deficits.md",
+    "US Trade Policy.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
-    "Trade Wars are Class Wars.md",
-    "QT's impact on Liquidity.md",
+    "Flies.md",
+    "Exist.md",
+    "Sources/War of the Worlds.md",
+    "Molecules/Vulnerability of Hegemony.md",
+    "Molecules/Tight Monetary plus Loose Fiscal.md",
+    "Molecules/RAD Mistake.md",
+    "Molecules/QT's impact on Liquidity.md",
+    "Molecules/National Guilt.md",
+    "Molecules/Liquidity Measure.md",
+    "Futures Curves.md",
+    "Molecules/Labour Productivity.md",
+    "Molecules/Merton Model for Management Incentives.md",
     "IS"
   ]
 }

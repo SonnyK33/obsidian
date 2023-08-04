@@ -1,9 +1,10 @@
 Type: #Atom 
 References: [[US Trade Policy]]
-[[Development Models]]
+[[Development Models - WIP]]
 https://foreignpolicy.com/2010/08/19/is-china-turning-japanese/
 https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/the-national-saving-and-investment-identity/
 [[Trade Wars are Class Wars]]
+[[Trade balances and Capital Flows]]
 
 The quantity of financial capital supplied must equal the quantity demanded. 
 
@@ -30,14 +31,9 @@ I - S - (T - G) = M - X
 
 If there's a surge in investment opportunities (e.g. tech in late 90s or shale in 2010s), if savings are held constant (i.e. consumption patterns don't change, and fiscal deficit stays the same), the difference will come from abroad. You would expect interest rates and the dollar to rise, drawing in foreign capital. Rather than purchasing US exports, foreigners would prefer buying USD to finance US investments. Hence it would lead to a larger trade deficit.   
 
-If savings decrease but investment stays constant, that means consumption will decrease. If the fiscal balance stays the same, it implies that the trade deficit would decrease. This makes sense as lower consumption means lower imports. Pettis' argument is that if savings are forced down, while investment from abroad stays constant (due to a flight to the safety of UST), that forces investment to decrease. A trade deficit forces either savings to decrease or investment to increase. Whether there are ample investment opportunities will determine which one prevails. Government borrowing could also absorb the capital inflows (this is known as sterilizing and would be done to prevent an appreciation of the local currency-  I think). 
-
-  
+If savings decrease but investment stays constant, that means consumption will increase. If the fiscal balance stays the same, it implies that the trade deficit would increase. This makes sense as higher consumption means higher imports. Pettis' argument is that if savings are forced down, while investment from abroad stays constant (due to a flight to the safety of UST), that forces investment to decrease. A trade deficit forces either savings to decrease or investment to increase. Whether there are ample investment opportunities will determine which one prevails. Government borrowing could also absorb the capital inflows.  
 
 If the budget deficit rises while investment and private savings stays constant, that will force the trade deficit higher as well. The higher government spending will require foreigners to purchase more treasuries and fewer exports.
-
-
-
 
 Savings-investment balance is closely related to a country's balance of payments. Savings versus consumption is a policy choice and will determine a country's development or growth model. 
 
