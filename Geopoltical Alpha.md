@@ -6,7 +6,7 @@ References: [[Geopolitics of Global Finance]]
 [[Indian Defense Spending]]
 [[WILT - 3.6.23]]
 [[Zakaria - India’s Economy Is Surging Thanks to These Three]]
-
+[[india - Outline]]
 Outline:
 [[To Read - Outline]]
 Read: the economic consequence of peace by Keynes,

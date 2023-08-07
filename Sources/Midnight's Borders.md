@@ -2,6 +2,7 @@ Author: Suchitra Vijayan
 Type: #source #book
 Topics: #India #borders
 References: [[Seven Lives of Pakistan]]
+[[india - Outline]]
 
 Molecule - 
 Border's are arbitrary and shouldn't be taken for granted. They often mask social discontent and centuries-old conflicts. Lately we've seen the adverse effects from removing borders - the EU for example. Globalization also intends to remove the constraints from borders. Creating and removing borders are difficult to engineer properly - when is the former worse than the latter. Or rather, under which conditions are new borders likely to create conflict versus removing borders?

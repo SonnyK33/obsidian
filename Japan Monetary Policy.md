@@ -3,8 +3,10 @@ References: [[Japan - Outline]]
 References: Forward Guidance podcast - Weston
 Hedging explanation - NSN OB7GXX6TTDS3 .
 https://www.ft.com/content/b2f5a9d0-1602-4a3d-8640-1bb8d55d9166; https://twitter.com/michaelxpettis/status/1645730139265970176
+https://www.ft.com/content/21f7e487-34f2-46da-8c13-eb4c93d80fc9
 [[Dollar's Imperial Circle]]
 [[US Trade Policy]]
+[[Forward Guidance - Howell, Constan]]
 
 [[To Write - Outline]]
 - molecule on broader lesson re: on global vol supresson
@@ -20,6 +22,9 @@ On 12/19, the BOJ announced what is likely the end of the ultra-loose monetary p
 The BOJ didn’t change decade strategy because of a few CPI prints. They had to change YCC because bond market wasn’t functioning well with the kink in the curve. They chose to change YCC in December because flows from HF and real money shorting JGBs went down. They couldn't give in when everyone was fighting their policy. Despite this change, anything close to QT is impossible in Japan due to how man JGBs they won.
 
 The 10y and JPY surged, local and other Asian equities fell. Global rates are also expected to fall as Japan was the last holdout in raising rates. 
+
+August 2023 Update
+The band was further widened from 0.5% to 1%, and seen as the end of YCC. Noise around JPY investors moving from global bonds to local has increased due to lower FX-hedged pick-up. However, as explained in (https://www.ft.com/content/21f7e487-34f2-46da-8c13-eb4c93d80fc9). That may be too simplistic. With JPY yields set to rise and the ECB thought to be at peak rates, Japanese investors may stay in EGBs. The yield pick-up has been unattractive for months now, but there hasn't been a retreat from EGBs. Everyone pays attention to Bunds, but most Japanese investments are in French bonds, and they haven't underperformed; hence there hasn't been a retreat year. The 5 yr EURJPY basis did move higher, but still in middle of range since 12/22. How does fit with Howell's argument on global liquidity? ([[Forward Guidance - Howell, Constan]]
 
 **JPY**
 The change to YCC on 12/19 led to JPY strengthening. However, the weak JPY is also being driven by a growing trade deficit (and fiscal deficit) and gap in short-term rates. The Japanese policy rate is still negative. Importers are selling JPY 2 tr ($15bn) every month and trade deficit likely to widen from 3% to 4.5% next year. A weaker JPY actually increases the trade deficit as their imports are inelastic (primarily crude and gas). Largest export is autos which should be elastic, but maybe not now given surge in auto purchases last year, and likely deflation next year (i.e. costs falling for all cars)
@@ -46,7 +51,7 @@ First time BOJ will be headed by an academic since WW2.
 The new BOJ head said it will be appropriate to maintain negative rates and YCC for the foreseeable future (https://www.ft.com/content/b2f5a9d0-1602-4a3d-8640-1bb8d55d9166; https://twitter.com/michaelxpettis/status/1645730139265970176).
 What are the implications of this policy for the Japanese people and global liquidity. 
 
-A weaker currency depresses imports and improves the trade balance. This shifts income from households to manufacturers. Lower interest rates also shift income from savers/depositors (housesholds) to borrowers. This will lead to less consumer demand and less investment, and (I think) more consumption. An overall exceess of savings leads to a capital account deficit (purchasing foreign financial assets) and a current account surplus. Net effect is for larger trade deficits in the US, as it's forced to import the excess savings from Japan. 
+A weaker currency depresses imports and improves the trade balance. This shifts income from households to manufacturers. Lower interest rates also shift income from savers/depositors (households) to borrowers. This will lead to less consumer demand and less investment, and (I think) more consumption. An overall exceess of savings leads to a capital account deficit (purchasing foreign financial assets) and a current account surplus. Net effect is for larger trade deficits in the US, as it's forced to import the excess savings from Japan. 
 
 
 

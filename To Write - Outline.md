@@ -53,3 +53,7 @@ Gold thesis -
 - importance to central banks
 - only thing with global appeal as money (UST have been politicized)
 - neutral status
+
+[[Indian Savings Rate]]
+- is the real effective exchange rate a good reference for how much nominal depreciation a country should engage in?
+- who are the Indian elites exactly? The Mody article implies they are not exporters, but instead benefit from a stronger Indian consumer

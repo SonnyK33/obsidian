@@ -100,6 +100,9 @@ Capital wars
 Read Daunton’s new book
 Read Perry Mehrling book on Kindleberger
 
+[[Indian Savings Rate]]
+- Dani Rodrik’s paper on premature deindustrialization. (also in geopolitical alpha)
+
 
 **Fiction**
 [[Home in the World (Amartya Sen)]]

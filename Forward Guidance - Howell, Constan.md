@@ -1,7 +1,7 @@
 Type: #source 
 References:
 [https://fedguy.com/the-qt-timebomb/](https://fedguy.com/the-qt-timebomb/)
-
+[[Japan Monetary Policy]]
 [[To Read - Outline]]
 Capital Wars
 

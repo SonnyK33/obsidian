@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.3.23.md",
+                "file": "WIL/WILT - 8.7.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -42,21 +42,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa9ef3a04432a41b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 8.3.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -85,7 +72,7 @@
       {
         "id": "2cdaf50dd67da41d",
         "type": "tabs",
-        "dimension": 29.47253942359978,
+        "dimension": 29.472539423599777,
         "children": [
           {
             "id": "62b5ec31792c739d",
@@ -93,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "exist",
+                "query": "india",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Respectful Prostitute.md",
+                "file": "WIL/WILT - 8.7.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,34 +144,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "62b5ec31792c739d",
+  "active": "e7de13bfb6323cae",
   "lastOpenFiles": [
-    "Chip war.md",
+    "WIL/WILT - 8.3.23.md",
     "The Respectful Prostitute.md",
+    "Molecules/Indian Savings Rate.md",
+    "WIL/WILT - 8.7.23.md",
+    "To Read - Outline.md",
+    "india - Outline.md",
+    "Geopoltical Alpha.md",
+    "To Write - Outline.md",
+    "WIL/WILW - 7.20.23.md",
+    "Zoltan - War and Currency Statecraft.md",
+    "Zakaria - India’s Economy Is Surging Thanks to These Three.md",
+    "Molecules/Solar Panels.md",
+    "India.md",
+    "Sources/Midnight's Borders.md",
+    "Foreign Affairs - India is Broken Review.md",
+    "America’s Bad Bet on India.md",
+    "Historicaly - Sylla (CFA Franc).md",
+    "History of US Monetary Policy.md",
+    "Gold - Outline.md",
+    "Japan Monetary Policy.md",
+    "Liquidity.md",
+    "Forward Guidance - Howell, Constan.md",
+    "The BoJ’s tightrope act.md",
+    "Chip war.md",
     "The Rise of Carry.md",
     "Dirty Hands.md",
-    "Africa - Centre of New Conflicts.md",
-    "Sources/A man's fate - WIP.md",
-    "Nigeria - Outline.md",
-    "Untitled 1.md",
-    "Trade balances and Capital Flows.md",
-    "Molecules/Development Models - WIP.md",
-    "Savings vs Investment.md",
-    "Current Account Deficits.md",
-    "US Trade Policy.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
-    "Flies.md",
-    "Exist.md",
-    "Sources/War of the Worlds.md",
-    "Molecules/Vulnerability of Hegemony.md",
-    "Molecules/Tight Monetary plus Loose Fiscal.md",
-    "Molecules/RAD Mistake.md",
-    "Molecules/QT's impact on Liquidity.md",
-    "Molecules/National Guilt.md",
-    "Molecules/Liquidity Measure.md",
-    "Futures Curves.md",
-    "Molecules/Labour Productivity.md",
-    "Molecules/Merton Model for Management Incentives.md",
     "IS"
   ]
 }
