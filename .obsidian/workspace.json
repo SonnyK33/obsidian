@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.7.23.md",
+                "file": "Molecules/Framework.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "india",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.7.23.md",
+                "file": "Molecules/Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,10 +146,12 @@
   },
   "active": "e7de13bfb6323cae",
   "lastOpenFiles": [
+    "WIL/WILT - 8.8.23.md",
+    "Molecules/Framework.md",
+    "WIL/WILT - 8.7.23.md",
     "WIL/WILT - 8.3.23.md",
     "The Respectful Prostitute.md",
     "Molecules/Indian Savings Rate.md",
-    "WIL/WILT - 8.7.23.md",
     "To Read - Outline.md",
     "india - Outline.md",
     "Geopoltical Alpha.md",
@@ -170,8 +172,6 @@
     "Forward Guidance - Howell, Constan.md",
     "The BoJ’s tightrope act.md",
     "Chip war.md",
-    "The Rise of Carry.md",
-    "Dirty Hands.md",
     "IS"
   ]
 }

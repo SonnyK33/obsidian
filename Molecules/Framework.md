@@ -1,6 +1,7 @@
 Type: #molecule 
 References: [[Edge]]
 [[Merton Model for Management Incentives]]
+[[WILT - 8.8.23]]
 
 **Evaluating Credits**
 Management controls corporate actions, and is driven by incentives and are limited by constraints. They're almost focused on increasing equity value. Using the Merton framework, equity is a call on assets. The value of this call can be increased by:
