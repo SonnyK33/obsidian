@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.9.23.md",
+                "file": "Forward Guidance - Howell, Constan - WIP.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "437bc973ff4c9f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Trade Wars are Class Wars.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3aea2bbc6294047",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forward Guidance - Dollar historian.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +79,7 @@
       {
         "id": "e33cd2d3e4f488b7",
         "type": "tabs",
-        "dimension": 70.52746057640022,
+        "dimension": 89.12452419793367,
         "children": [
           {
             "id": "eed48771927d507d",
@@ -72,7 +96,7 @@
       {
         "id": "2cdaf50dd67da41d",
         "type": "tabs",
-        "dimension": 29.472539423599777,
+        "dimension": 10.87547580206634,
         "children": [
           {
             "id": "62b5ec31792c739d",
@@ -117,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.9.23.md",
+                "file": "Forward Guidance - Howell, Constan - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,32 +170,32 @@
   },
   "active": "e7de13bfb6323cae",
   "lastOpenFiles": [
-    "Molecules/Framework.md",
-    "WIL/WILT - 8.9.23.md",
-    "WIL/WILT - 8.8.23.md",
-    "WIL/WILT - 8.7.23.md",
-    "WIL/WILT - 8.3.23.md",
-    "The Respectful Prostitute.md",
+    "Molecules/Tight Monetary plus Loose Fiscal.md",
+    "Forward Guidance - Howell, Constan - WIP.md",
+    "Dark Ages.md",
+    "Outlines/Philosophy - Outline.md",
+    "Skepticism.md",
+    "Stoics.md",
+    "Forward Guidance - Dollar historian.md",
+    "Trade Wars are Class Wars.md",
+    "Singapore Development.md",
     "Molecules/Indian Savings Rate.md",
-    "To Read - Outline.md",
-    "india - Outline.md",
-    "Geopoltical Alpha.md",
-    "To Write - Outline.md",
-    "WIL/WILW - 7.20.23.md",
-    "Zoltan - War and Currency Statecraft.md",
-    "Zakaria - India’s Economy Is Surging Thanks to These Three.md",
-    "Molecules/Solar Panels.md",
-    "India.md",
-    "Sources/Midnight's Borders.md",
-    "Foreign Affairs - India is Broken Review.md",
-    "America’s Bad Bet on India.md",
-    "Historicaly - Sylla (CFA Franc).md",
-    "History of US Monetary Policy.md",
-    "Gold - Outline.md",
-    "Japan Monetary Policy.md",
-    "Liquidity.md",
-    "Forward Guidance - Howell, Constan.md",
-    "The BoJ’s tightrope act.md",
+    "Stoic Ethics.md",
+    "The Return of Industrial Policy.md",
+    "Chomsky on Development.md",
+    "Epicureanism.md",
+    "Plato.md",
+    "Untitled 7.md",
+    "Untitled 2.md",
+    "Outlines/UK - Outline.md",
+    "Untitled 1.md",
+    "Outlines/Ukraine-Outline.md",
+    "Outlines/Turkey - Outline.md",
+    "Outlines/Russia - outline.md",
+    "To-read.md",
+    "Outlines/Renewables - Outline.md",
+    "Outlines/Repo - Outline.md",
+    "Outlines/Japan - Outline.md",
     "IS"
   ]
 }

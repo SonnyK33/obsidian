@@ -5,6 +5,7 @@ references: [[india - Outline]]
 https://www.ft.com/content/c3a28628-5b92-4db7-a8c2-0f41bea05969#comments-anchor
 https://twitter.com/michaelxpettis/status/1688193159220568064
 https://www.project-syndicate.org/commentary/india-economic-boom-is-overhyped-by-ashoka-mody-2023-07
+[[Singapore Development]]
 [[To Write - Outline]]
 [[To Read - Outline]]
 Mody in this FT article, makes the same argument as in [[Geopoltical Alpha]] that India is constrained by a lack of investment, which is due to a low savings rate. Mody's focus is on how an over-valued Rupee constrains the export sector. This has prevented an export manufacturing boom, like that experienced in East Asia in the 1990s, and Vietnam and Bangladesh more recently. Mody references the increasing cost of production in India, and the real effective exchange rate as a reference point for where the nominal exchange rate should go. The overly strong exchange rate has led to fewer low skilled jobs, which traditionally come from the manufacturing sector. Mody highlights 3 reasons behind India's anemic export sector - uneducated workforce, low female workforce participation, and overvalued exchange rate. He argues in his project-syndicate piece, that no country since the industrial revolution has been able to jump to developed status without massive investments in human capital and gender equality. Chinese female workforce participation fell from 80% in 1990 to 62% today; India's went from 32% to 25% in the same period. 

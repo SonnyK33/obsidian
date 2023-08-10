@@ -6,7 +6,7 @@ https://www.ft.com/content/b2f5a9d0-1602-4a3d-8640-1bb8d55d9166; https://twitter
 https://www.ft.com/content/21f7e487-34f2-46da-8c13-eb4c93d80fc9
 [[Dollar's Imperial Circle]]
 [[US Trade Policy]]
-[[Forward Guidance - Howell, Constan]]
+[[Forward Guidance - Howell, Constan - WIP]]
 
 [[To Write - Outline]]
 - molecule on broader lesson re: on global vol supresson
@@ -24,7 +24,7 @@ The BOJ didn’t change decade strategy because of a few CPI prints. They had to
 The 10y and JPY surged, local and other Asian equities fell. Global rates are also expected to fall as Japan was the last holdout in raising rates. 
 
 August 2023 Update
-The band was further widened from 0.5% to 1%, and seen as the end of YCC. Noise around JPY investors moving from global bonds to local has increased due to lower FX-hedged pick-up. However, as explained in (https://www.ft.com/content/21f7e487-34f2-46da-8c13-eb4c93d80fc9). That may be too simplistic. With JPY yields set to rise and the ECB thought to be at peak rates, Japanese investors may stay in EGBs. The yield pick-up has been unattractive for months now, but there hasn't been a retreat from EGBs. Everyone pays attention to Bunds, but most Japanese investments are in French bonds, and they haven't underperformed; hence there hasn't been a retreat year. The 5 yr EURJPY basis did move higher, but still in middle of range since 12/22. How does fit with Howell's argument on global liquidity? ([[Forward Guidance - Howell, Constan]]
+The band was further widened from 0.5% to 1%, and seen as the end of YCC. Noise around JPY investors moving from global bonds to local has increased due to lower FX-hedged pick-up. However, as explained in (https://www.ft.com/content/21f7e487-34f2-46da-8c13-eb4c93d80fc9). That may be too simplistic. With JPY yields set to rise and the ECB thought to be at peak rates, Japanese investors may stay in EGBs. The yield pick-up has been unattractive for months now, but there hasn't been a retreat from EGBs. Everyone pays attention to Bunds, but most Japanese investments are in French bonds, and they haven't underperformed; hence there hasn't been a retreat year. The 5 yr EURJPY basis did move higher, but still in middle of range since 12/22. How does fit with Howell's argument on global liquidity? ([[Forward Guidance - Howell, Constan - WIP]]
 
 **JPY**
 The change to YCC on 12/19 led to JPY strengthening. However, the weak JPY is also being driven by a growing trade deficit (and fiscal deficit) and gap in short-term rates. The Japanese policy rate is still negative. Importers are selling JPY 2 tr ($15bn) every month and trade deficit likely to widen from 3% to 4.5% next year. A weaker JPY actually increases the trade deficit as their imports are inelastic (primarily crude and gas). Largest export is autos which should be elastic, but maybe not now given surge in auto purchases last year, and likely deflation next year (i.e. costs falling for all cars)

@@ -10,3 +10,14 @@ Asian
 [[Daoism]]
 [[Confucianism]]
 [[Buddhism]]
+
+Socratic
+
+There were four main schools in Hellenistic thought:
+
+Cynics
+[[Stoics]]
+[[Stoic Ethics]]
+[[Epicureanism]]
+[[Skepticism]]
+[[Dark Ages]]

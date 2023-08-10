@@ -1,0 +1,8 @@
+Type #Atom 
+References: [[Philosophy - Outline]]
+[[Pre-socratic]] [[Buddhism]]
+[[Convexity]]
+
+Epicureanism advocated freedom from pain, but not necessarily indulgence, which was equated with hedonism. He studied Democratus (atoms) and Plato. He grew up in poverty, which allowed him to appreciate what really matters to him (not unlike Siddhartha).  He believed all things are determined and are just a function of atoms colliding in predictable ways. There is some free will, which he linked with atoms "serving" and hence not being perfectly predictable. He was also an empiricist, and trusted his senses rather than theory. 
+
+This philosophy reminded me of convexity and diminishing returns. The goal is to focus on what matters the most. All desires that do not lead to pain when not satisfied are a waste, and shouldn't occupy your time. You should thrive to address pain points and nothing more. The goal of life is to experience small pieces of the best life ever rather than a lot of dull experiences. Don’t focus on popularity or vain pursuits. Focus on basic needs and don’t go past point of diminishing returns. Spend your time on your friends and family rather than politics or your public life. While similar to hedonists, there are important differences. It's not about indulgences; it's much more utilitarian. It values altruism if that provides long-term benefits. Though there was some debate whether he thought altruism was wrong because of short term costs. Above all, he valued friendship with a select few.
