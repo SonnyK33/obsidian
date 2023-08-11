@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.10.23.md",
+                "file": "WIL/WILT - 8.11.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,37 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Forward Guidance - Dollar historian.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "63dfc1d2dce8b787",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Chip war.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "474a1b39aa86dbde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Respectful Prostitute.md",
+                "file": "2023 Universe.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -141,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.10.23.md",
+                "file": "2023 Universe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -168,9 +145,18 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "e7de13bfb6323cae",
+  "active": "f3aea2bbc6294047",
   "lastOpenFiles": [
+    "Molecules/Framework.md",
+    "2023 Universe.md",
+    "Forward Guidance - Dollar historian.md",
+    "Chip war.md",
+    "The Respectful Prostitute.md",
+    "WIL/WILT - 8.11.23.md",
+    "WIL/WILT - 8.8.23.md",
+    "Savings vs Investment.md",
     "WIL/WILT - Template.md",
+    "Molecules/Edge.md",
     "WIL/WILT - 8.10.23.md",
     "Forward Guidance - Howell, Constan - WIP.md",
     "Molecules/Tight Monetary plus Loose Fiscal.md",
@@ -178,7 +164,6 @@
     "Outlines/Philosophy - Outline.md",
     "Skepticism.md",
     "Stoics.md",
-    "Forward Guidance - Dollar historian.md",
     "Trade Wars are Class Wars.md",
     "Singapore Development.md",
     "Molecules/Indian Savings Rate.md",
@@ -188,14 +173,6 @@
     "Epicureanism.md",
     "Plato.md",
     "Untitled 7.md",
-    "Untitled 2.md",
-    "Outlines/UK - Outline.md",
-    "Untitled 1.md",
-    "Outlines/Ukraine-Outline.md",
-    "Outlines/Turkey - Outline.md",
-    "Outlines/Russia - outline.md",
-    "To-read.md",
-    "Outlines/Renewables - Outline.md",
     "IS"
   ]
 }

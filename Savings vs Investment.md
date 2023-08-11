@@ -5,6 +5,7 @@ https://foreignpolicy.com/2010/08/19/is-china-turning-japanese/
 https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/the-national-saving-and-investment-identity/
 [[Trade Wars are Class Wars]]
 [[Trade balances and Capital Flows]]
+[[WILT - 8.11.23]]
 
 The quantity of financial capital supplied must equal the quantity demanded. 
 
