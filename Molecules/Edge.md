@@ -2,7 +2,7 @@ Type: #molecule
 References: [[2023 Trades]]
 [[2023 Universe]]
 [[Field Research - WIP]]
-
+[[Framework]]
 [[Analysis of Competing Hypotheses]]
 
 [[Convexity ]]

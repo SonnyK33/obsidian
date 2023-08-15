@@ -3,7 +3,7 @@ References: [[Edge]]
 [[Merton Model for Management Incentives]]
 [[WILT - 8.8.23]]
 [[2023 Universe]]
-
+[[WILT - 8.15.23]]
 
 
 universe ->BBB-/BB/HY/EM sovs-> macro catalyst framework if applicable->management incentive framework if applicable -> themes -> drivers (asset return framework)-> asymmetry in trading prices -> trade construction

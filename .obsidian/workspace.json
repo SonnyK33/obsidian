@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.14.23.md",
+                "file": "WIL/WILT - 8.15.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.14.23.md",
+                "file": "WIL/WILT - 8.15.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,19 +147,20 @@
   },
   "active": "f3aea2bbc6294047",
   "lastOpenFiles": [
-    "Molecules/Indian Savings Rate.md",
-    "WIL/WILT - 8.14.23.md",
-    "india - Outline.md",
-    "WIL/WILT - Template.md",
-    "2023 Universe.md",
     "Molecules/Framework.md",
+    "Molecules/Edge.md",
+    "2023 Universe.md",
+    "WIL/WILT - 8.15.23.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 8.14.23.md",
+    "Molecules/Indian Savings Rate.md",
+    "india - Outline.md",
     "Forward Guidance - Dollar historian.md",
     "Chip war.md",
     "The Respectful Prostitute.md",
     "WIL/WILT - 8.11.23.md",
     "WIL/WILT - 8.8.23.md",
     "Savings vs Investment.md",
-    "Molecules/Edge.md",
     "WIL/WILT - 8.10.23.md",
     "Forward Guidance - Howell, Constan - WIP.md",
     "Molecules/Tight Monetary plus Loose Fiscal.md",
@@ -172,7 +173,6 @@
     "Stoic Ethics.md",
     "The Return of Industrial Policy.md",
     "Chomsky on Development.md",
-    "Epicureanism.md",
     "IS"
   ]
 }
