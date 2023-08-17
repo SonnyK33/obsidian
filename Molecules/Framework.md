@@ -24,6 +24,8 @@ The last one category is equivalent to decreasing the volatility of asset return
 Is there a grid? On one axis - ITM vs OTM equity calls. On the other, short or long time to expiry?
 
 
+Use the Asset Return and Capital Allocation frameworks to find the binding constraints or lynch-pins. Once the Asset Return framework is complete, think about asymmetry and upside/downside scenarios. If you're long the credit, you're willing to receive the credit spread in exchange for taking on the risk that the volatility increases and/or the asset value falls. 
+
 Examples
 1) Cemex
 This is a HY credit that's about to be upgraded. The equity is easily ITM and there are no liquidity issues. IG credits would fall into this box. Management wants to increase equity value, as always. The biggest bang for their buck will come from increasing the volatility of returns through growth. That's a major difference between IG and HY credits. 
