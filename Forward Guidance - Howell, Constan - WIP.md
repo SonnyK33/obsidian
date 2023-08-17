@@ -58,91 +58,19 @@ Falling inflation and inflation persistence (11m vs 50m in the 1980s) has led to
 
 Term premia will become less negative with more issuance, even if rates go down. This means you should be weary of long-term bonds. The Drunkenmiller indicator - cyclical stock performance vs defensive stocks. 
 
-A lot of funds have gone to EM, and China needs to goose its economy. EM has done well in face of dollar strength indicating the economy is not weak.
+A lot of funds have gone to EM, and China needs to goose its economy. EM has done well in face of dollar strength indicating the economy is not weak. BOJ wasn’t as accommodating last year as some argue, if you look at the liquidity creating part of actions and incorporate sterilization. Rates will stay at current levels. They can’t go down, as authorities need to deter more debt issuance, but they can’t go up either because the higher debt service will become unsustainable given rising defense spending.   
 
-  
+Liquidity is tight, but it is rising which is what matters. Housing and semis are performing well which tend to leading indicators. (The semis indicator seems wrong to me given the speculative nature of Nvidia as of late. Housing is also being driven by supply dynamics.) Central banks will have to supply liquidity or there will be financial crises.  
 
-BOJ wasn’t as accommodating last year as some argue if you look at liquidity creating part of actions and incorporate sterilization
+Constan says standard measures of liquidity use levels and not returns as they should. Levels are correlated but not cointegrated. That means they move in the direction, but the relationship isn't linear.  Markets have done well since last year due to high nominal GDP growth and fiscal spending. Post the debt ceiling being lifted, they issued bills rather than duration which is neutral to liquidity. Given the inverted curve, this is more expensive and may have been done because they didn’t want to compete with banks who were also selling duration. It makes sense to issue bills to drain the RRP as the latter has become a more expensive form of funding. Borrowing in the shorter end is also more stimulating as the rate is higher (this is an example of YCC?).
 
-  
+The Treasury is also looking at buybacks which could be funded with bills. The key thing to remember is that Yellen is in control and has shown a willingness to manipulate the term structure regardless of the Feds' QT policy. This is Yellen's way of creating liquidity; she can’t create reserves like the fed. These policies will likely accelerate going into the election.  
 
-Rates stay at current levels
+The lack of collateral has driven inversion not an impending recession. Fiscal spending is stimulating, and the inverted yield curve is good for the corporate sector because they have cash invested at front end and are borrowing at back end. The negative term premia could revert at some point especially with more issuance, and foreign buyers won’t step in like they used to.  
 
-Can’t go down as need to deter more debt
+Howell expects inflation to be volatile in the coming decades with steady but rising liquidity. This makes inflation important to watch. Andy likes short stocks plus short bonds as if rates fall, stocks had to have fallen as well. The key thing to watch is when will treasury issue bonds vs bills and term premia. The current depressed long term yields are good for stocks especially because many are net cash or have locked in yields. Andy likes "short twos and spoos" because for stocks to stay high yields would have to have risen as well.  
 
-Can’t go up bc risks fiscal sustainability given rising defense spending and others 
-
-  
-
-Liquidity tight but is rising which is what matters
-
-Housing and semis going well which are leading
-
-Central banks will supply liquidity or there will be financial crises
-
-  
-
-Constan - standard measures of liquidity use levels and not returns as they should. They’re correlated but not cointegrated.
-
-  
-
-Howell - central banks used to play a much smaller role in the economy. Can’t just pay attention to bank reserves because it matters how funds go from central banks to money markets and reserves.
-
-Constan - markets done well since last year due to high nominal gdp growth and fiscal spending 
-
-  
-
-Post debt ceiling, they issued bills rather than duration which is neutral to liquidity
-
-Given inverted curve, this is more expensive and may have been done bc didn’t want to compete with banks who were also selling duration 
-
-  
-
-It makes sense to issue bills to drain the RRP as the latter has become a more expensive form of funding 
-
-  
-
-Shorter term is also more stimulating as the rate is higher - YCC?
-
-Also looking at buybacks which could be funded with bills
-
-Key thing is Janet is in control and has shown a willingness to manipulate the term structure regardless of the Feds qt
-
-Yellens way of creating liquidity - can’t create reserves like the fed
-
-Likely to accelerate going into the election 
-
-  
-
-Lack of collateral has driven inversion not an impending recession
-
-Fiscal spending is stimulating 
-
-Inverted yield curve good for corporate sector bc they have cash invested at front end and are borrowing at back end 
-
-  
-
-Negative term premia could revert at some point esp with more issuance and foreign buyers won’t step in like they used to 
-
-  
-
-Howell - expect inflation to be volatile in coming decades with steady but rising liquidity
-
-Makes inflation important to watch 
-
-  
-
-Andy likes long stocks plus bonds as if rates fall stocks had to have fallen as well
-
-Key thing to watch is when will treasury issue bonds vs bills and term premia
-
-Current depressed long term yields are good for stocks esp bc many are net cash or have locked in yields
-
-Andy - short twos and spoos bc for stocks to stay high yields would have to have risen as well 
-
-  
-
-BRICS gold holdings could be challenge to usd
+Howell thinks BRICS gold holdings could be challenge to USD. 
 
 **Trades**
 Equities - likes commodities and EM (China) and cyclicals though that’s more dangerous

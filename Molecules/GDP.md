@@ -1,4 +1,4 @@
-Type: #source 
+Type: #molecule 
 References: https://www.albany.edu/~bd445/Economics_301_Intermediate_Macroeconomics_Slides_Spring_2014/Saving_Equals_Investment.pdf
 https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci4-13.pdf
 https://www.bostonfed.org/-/media/Documents/neer/neer400a.pdf
@@ -12,6 +12,8 @@ Investment = physical investments not financial
 
 Fundamental identity:
 With no government - 
+National Product is the value of all goods and services produced inside the national.
+National Income is the income created by producing the national product. 
 
 national income = national product
 NI = Savings  + Consumption; S = NI - C

@@ -4,47 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "6cce4256451eba93",
+        "id": "b5a130d8fe8f13c8",
         "type": "tabs",
         "children": [
           {
-            "id": "e7de13bfb6323cae",
+            "id": "f42b381f4ed94c4e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.11.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "437bc973ff4c9f85",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Trade Wars are Class Wars.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f3aea2bbc6294047",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 8.15.23.md",
+                "file": "The Dean of Shandong - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +31,7 @@
       {
         "id": "e33cd2d3e4f488b7",
         "type": "tabs",
-        "dimension": 89.12452419793367,
+        "dimension": 64.78571428571429,
         "children": [
           {
             "id": "eed48771927d507d",
@@ -73,7 +48,7 @@
       {
         "id": "2cdaf50dd67da41d",
         "type": "tabs",
-        "dimension": 10.87547580206634,
+        "dimension": 35.214285714285715,
         "children": [
           {
             "id": "62b5ec31792c739d",
@@ -81,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.15.23.md",
+                "file": "The Dean of Shandong - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,34 +120,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f3aea2bbc6294047",
+  "active": "f42b381f4ed94c4e",
   "lastOpenFiles": [
+    "Confucianism.md",
+    "Seymour Hersh - Harold Pinter.md",
+    "Molecules/GDP.md",
+    "Molecules/Indian Savings Rate.md",
+    "Molecules/Labour Productivity.md",
+    "Molecules/Liquidity Measure.md",
+    "Molecules/National Guilt.md",
+    "Molecules/Ordinary people amid political changes.md",
+    "Molecules/Tight Monetary plus Loose Fiscal.md",
+    "The Dean of Shandong - WIP.md",
+    "Outlines/Philosophy - Outline.md",
+    "Flies.md",
+    "Forward Guidance - Howell, Constan - WIP.md",
+    "WIL/WILT - 8.11.23.md",
+    "Trade Wars are Class Wars.md",
+    "WIL/WILT - 8.15.23.md",
     "Molecules/Framework.md",
     "Molecules/Edge.md",
     "2023 Universe.md",
-    "WIL/WILT - 8.15.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 8.14.23.md",
-    "Molecules/Indian Savings Rate.md",
     "india - Outline.md",
     "Forward Guidance - Dollar historian.md",
     "Chip war.md",
     "The Respectful Prostitute.md",
-    "WIL/WILT - 8.11.23.md",
     "WIL/WILT - 8.8.23.md",
-    "Savings vs Investment.md",
-    "WIL/WILT - 8.10.23.md",
-    "Forward Guidance - Howell, Constan - WIP.md",
-    "Molecules/Tight Monetary plus Loose Fiscal.md",
-    "Dark Ages.md",
-    "Outlines/Philosophy - Outline.md",
-    "Skepticism.md",
-    "Stoics.md",
-    "Trade Wars are Class Wars.md",
-    "Singapore Development.md",
-    "Stoic Ethics.md",
-    "The Return of Industrial Policy.md",
-    "Chomsky on Development.md",
     "IS"
   ]
 }
