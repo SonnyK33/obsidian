@@ -11,7 +11,7 @@ Asian
 [[Confucianism]]
 [[Buddhism]]
 
-Socratic
+Hellenestic
 
 There were four main schools in Hellenistic thought:
 
@@ -21,3 +21,4 @@ Cynics
 [[Epicureanism]]
 [[Skepticism]]
 [[Dark Ages]]
+[[Plotinus]]

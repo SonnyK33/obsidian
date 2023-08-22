@@ -6,6 +6,7 @@ References: [[Geopolitics of Global Finance]]
 [[Indian Defense Spending]]
 [[WILT - 3.6.23]]
 [[Zakaria - India’s Economy Is Surging Thanks to These Three]]
+[[Net Assessment - China]]
 [[india - Outline]]
 Outline:
 [[To Read - Outline]]
@@ -23,7 +24,7 @@ Dani Rodrik’s paper on premature deindustrialization.
 Putnam’s diplomacy
 
 **My Edge:**
-The skills mismatch should be a great opportunity. Most know how to analyze financials but can’t read a balance of payments statement. Most don’t know how global monetary systems and trade work. This is a key opportunity for me especially coupled with deep secular research and credit knowledge. Trading + fundamentals + macro/politics/history/EM should be your edge. Need to articulate it better. **Think about convexity in geopolitical and macro terms.**
+The skills mismatch should be a great opportunity. Most know how to analyze financials but can’t read a balance of payments statement. Most don’t know how global monetary systems and trade work. This is a key opportunity for me especially coupled with deep sectoral research and credit knowledge. Trading + fundamentals + macro/politics/history/EM should be your edge. Need to articulate it better. **Think about convexity in geopolitical and macro terms.**
 
 
 **Molecules:**
@@ -47,7 +48,7 @@ Net assessments -
   
 2) Cyclical - medium term. Make net assessments for all relevant DM and EMs. Make a calendar of geopolitical events.
 
-3) Thematic - long term e.g. collapse of USD as reserve currency. Think about what’s being taken for granted today eg a U.S. China conflict, End of USD hegemony etc. Conduct net assessments for any that you’re not 100pct sure of. The assessments will determine what are the relevant items to monitor. You need to identity the binding constraints (fulcrums) and monitor them closely Should be updating prior probabilities as more info comes in.
+3) Thematic - long term e.g. collapse of USD as reserve currency. Think about what’s being taken for granted today eg a U.S. China conflict, End of USD hegemony etc. Conduct net assessments for any that you’re not 100pct sure of. The assessments will determine what are the relevant items to monitor. You need to identity the binding constraints (fulcrums) and monitor them closely. Should be updating prior probabilities as more info comes in.
 
 
 **Connections:**
@@ -56,7 +57,7 @@ On China property, remember that high apartment prices were one of the sources o
 **Takeaway**
 This book's central premise is that geopolitical assessments should be made based on constraints rather than the preferences of leaders. We often get excited by narratives, and may give a "market-friendly" leader too much credit, forgetting that real constraints will prevent any of his reforms from going through. Similarly, we may get bogged down in stereotypes and forget that even a "radical" leader is guided by constraints. The author divides these constraints into political, economic, geopolitical, and to a lesser extent, legal and time. Once you determine the binding constraints on a leader, you know what to monitor. As those items change over time, you can refresh your assessments. Determining constraints requires a deep understanding of history, context, and macroeconomics. Once you've determined the constraints, you need to form hypotheses for how those items could change over time. You  then look for dispositive information which will help you distinguish between the hypotheses and hence make predictions. As that information changes, your predictions change. 
 
-For example, in Nigeria, a binding constraint is the country's refining capacity. I need to form hypothese over whether the Dangote refinery will get completed this year. I can then focus my research by looking for information that will specifically help me eliminate competing hypotheses - 1) will get completed in 2023 2) won't be completed till 2024 etc. As that info changes, my overall assessment for fiscal reforms (specifically eliminating the fuel subsidy) can change. 
+For example, in Nigeria, a binding constraint is the country's refining capacity. I need to form hypotheses over whether the Dangote refinery will get completed this year. I can then focus my research by looking for information that will specifically help me eliminate competing hypotheses - 1) will get completed in 2023 2) won't be completed till 2024 etc. As that info changes, my overall assessment for fiscal reforms (specifically eliminating the fuel subsidy) can change. 
 
 
 
@@ -91,10 +92,10 @@ Pillar 1 - I thought it was against Putin's interest to invade. What I didn't an
 Pillar 2 - Information I should've sought:
 - What were the consequences of Ukraine being a de facto NATO member?
 - Would Russia survive isolation?
-- What were the economic consequenes of cutting off trade with Russia? Specifically losing the ability to import
+- What were the economic consequences of cutting off trade with Russia? Specifically losing the ability to import
 	- What did Russia import?
 
-Pillar 3 - I think I got this part right. I didnt' focus on Putin or his desire to return to the Soviet Union's glory days.
+Pillar 3 - I think I got this part right. I didn't focus on Putin or his desire to return to the Soviet Union's glory days.
 
 **Constraint Model**
 The author differentiates between constraints and preferences. The constraint model is equivalent to one based on preferences if constraints don’t exist. This is obvious; if constraints don't exist, leaders will do what they want to do. It still is necessary to learn what the preferences are of leaders. 
@@ -102,7 +103,7 @@ The author differentiates between constraints and preferences. The constraint mo
 **Political Constraints**
 Beware of experts who aren’t actually experts who funnel the views of a small group of people. 
 
-He gives the example of Johnson’s actions during negotiations over Brexit. He was acting as if he was okay with a no deal brexit, and many connected sources echoed this. His preferences (as indicated by him) werr to act hawkish. But there were material constraints. Most importantly, a no deal brexit wasn’t popular with anyone. The key insight was that his revealed preference to act aggressively was “nondiagnostic”.  It made sense regardless of whether he actually wanted a no deal exit or not. He had to act tough to get the support from UK independence parties who were taking votes away from Tories.  
+He gives the example of Johnson’s actions during negotiations over Brexit. He was acting as if he was okay with a no deal brexit, and many connected sources echoed this. His preferences (as indicated by him) were to act hawkish. But there were material constraints. Most importantly, a no deal brexit wasn’t popular with anyone. The key insight was that his revealed preference to act aggressively was “nondiagnostic”.  It made sense regardless of whether he actually wanted a no deal exit or not. He had to act tough to get the support from UK independence parties who were taking votes away from Tories.  
 
 This seems obvious to me. The value is to separate a prediction into components.
 1) he wants to act aggressively (preference) 
@@ -111,9 +112,9 @@ This seems obvious to me. The value is to separate a prediction into components.
 
 There are obviously constraints, but his aggressive attitude led people to believe that they didn’t matter or he didn’t care. What you had to recognize is there were multiple reasons for him to act like this (That is, his behavior was non-diagnostic). Leaders always have satisfy domestic constituencies as well (Putnam's two level theory) and hawkish rhetoric is almost always non-diagnostic.   
 
-If constraints are being overlooked, it's worth examining the leaders preferences and the context further. Funneling is what led to wrong forecasts around the Argentine election. Everyone talked to same small group of people in BA who told people what they wanted to hear. I’ve often noted this bias in EM. Rich expats tell rich Americans what they want to hear - that a poor country wants pro-market reforms. The author claims a HF called him a socialist for doubting Macri’s chances.   
+If constraints are being overlooked, it's worth examining the leaders' preferences and the context further. Funneling is what led to wrong forecasts around the Argentine election. Everyone talked to same small group of people in BA who told people what they wanted to hear. I’ve often noted this bias in EM. Rich expats tell rich Americans what they want to hear - that a poor country wants pro-market reforms. The author claims a HF called him a socialist for doubting Macri’s chances.   
 
-Trusting insiders led people to doubt trump would pass tax reform. Side note - this was the first time since Kennedy/Johnson that an administration passed tax reform during an expansion (as detailed by Binder's Monetary History book). That led to inflation which was exacerbated by higher military spending (over Vietnam) which we're  seeing again. People are easily impressed by access - “So and so is close to the kremlin”. In Argentine case, people ignored how policies were unpopular and looked past the lack of recent polls. There was too much value  put polls run by campaigns.   
+Trusting insiders led people to doubt trump would pass tax reform. Side note - this was the first time since Kennedy/Johnson that an administration passed tax reform during an expansion (as detailed by Binder's Monetary History book). That led to inflation which was exacerbated by higher military spending (over Vietnam) which we're  seeing again. People are easily impressed by access - “So and so is close to the kremlin”. In Argentine case, people ignored how policies were unpopular and looked past the lack of recent polls. There was too much value put on polls run by campaigns.   
 
 In the Trump tax case, people believed Republicans would still care about deficits with Trump in charge. Although it seems obvious to me that Republicans were hypocrites in this area, the S&P did pop 7% post reform, so it wasn’t priced in. Even tea party republicans said it didn’t have to be revenue neutral. 
 
@@ -164,7 +165,7 @@ This predicts that either the US will recognize the multipolar world and continu
 **Geopolitical Constraints**
 Geopolitics mainly about geographical constraints.  Two main theoretical sources - Mahan (interest in American sea power ) and influence of sea power.
 
-Trump's abandonment of NATO and EU almost led the US to cede Eurasia to Europe/China/Russia. US grand strategy was always focused on preventing this. This led to Trump begrudgingly accepting article 5. Trump recognized the world was turning more multipolar as did Obama, which is why he was competing with Europe. Biden seems to have ignored this and doubling down on hegemony. The author predicted that Russia wouldn’t have gone further than Crimea due to its dependence on Germany for selling its gas and the great military commitment required to hold Ukraine. He also thought MVT wouldn’t support Russia. 
+Trump's abandonment of NATO and EU almost led the US to cede Eurasia to Europe/China/Russia. US grand strategy was always focused on preventing this. This led to Trump begrudgingly accepting article 5. Trump recognized the world was turning more multipolar as did Obama, which is why he was competing with Europe. Biden seems to have ignored this and doubling down on hegemony. The author predicted that Russia  wouldn’t have gone further than Crimea due to its dependence on Germany for selling its gas and the great military commitment required to hold Ukraine. He also thought MVT wouldn’t support Russia. 
 
 This was before 8 years of US military aid to Ukraine and pulling Ukraine close to NATO. He underestimated the power of nationalism. He also overestimated Russia's reliance on Europe for selling gas. Selling gas earns dollars but If its reserves are stolen and it’s locked out of the US led system do you need to keep up your exports for dollars? You can sell gas to India or China. 
 
@@ -178,7 +179,7 @@ The analyst should tactically focus on the narrative in the short-term, and focu
 
 The market overestimated the danger of ISIS and impact of Covid. Constraints would tell you ISIS would be defeated and social distancing would come to an end. But you had to respect the market's fear at the time. Tactically it made sense to be short. Covid forecasts underestimated the number of infections and so overstated the mortality rate (same thing happened for h1n1 and Ebola). The CDC exaggerated the mortality for young people in order to scare them. CDC models ignored the impact of people changing behavior especially older people. 
 
-The amount of fiscal and monetary stimulus in 2020 was the real story. Different than in 2007 or 2017. This is what the author calls the beunos Aires consensus.The median voter overreacted to Covid which forced the government's hand in the first stage. But constraints around public savings and employment would push in the other direction. The falling mortality and severity would also push parents to want their kids back in school.
+The amount of fiscal and monetary stimulus in 2020 was the real story. Different than in 2007 or 2017. This is what the author calls the Beunos Aires consensus. The median voter overreacted to Covid which forced the government's hand in the first stage. But constraints around public savings and employment would push in the other direction. The falling mortality and severity would also push parents to want their kids back in school.
 
 **Net Assessments**
 *Operationalize*
@@ -217,7 +218,7 @@ For discrete events, build decision trees and assign conditional probabilities. 
 Biases (eg bearish) and probabilities are then updated with new info (for non-discrete, info should be for binding constraints).
 
 *Game Theory*
-Game theory can be an interesting framework but the math can give a false sense of confidence. You jave to determine which side is more capable of altering the others utility function. Diplomacy is a 2 level game, the first of which is domestic politics. While material power determines each side’s pain tolerance, domestic politics drive the tolerance curves. China has a lower threshold than the US when it comes to trade, but its domestic politics give it more space and let it tolerate pain for longer. Assessing what’s possible domestically is important. Understanding each side’s material constraints is more important than game theory formalization.
+Game theory can be an interesting framework but the math can give a false sense of confidence. You have to determine which side is more capable of altering the others utility function. Diplomacy is a 2 level game, the first of which is domestic politics. While material power determines each side’s pain tolerance, domestic politics drive the tolerance curves. China has a lower threshold than the US when it comes to trade, but its domestic politics give it more space and let it tolerate pain for longer. Assessing what’s possible domestically is important. Understanding each side’s material constraints is more important than game theory formalization.
 
 While Greece vs Germany was painted as a game of chicken, Germany was able to play much harder ball than Greece. That determined the winner.
 

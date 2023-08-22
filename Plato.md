@@ -1,5 +1,6 @@
 Type: #Atom 
 References: [[Philosophy - Outline]]
+[[Plotinus]]
 
 Plato was upset after Socrates’ trial which happened after the Pelopennesian war. He left and studied abroad. In his works he combines historical figures and imagines conversations between them. In the symposium, the characters tried to understand what love was through questioning each other. Socrates argues that it starts with the desire to reproduce and live forever. This is lust and is the first level. It goes to beauty and then personality and then for specific concepts. When you love concepts you’re more secure because they’ll never leave you, but they also don’t love you back. This is called this platonic love.
 

@@ -1,6 +1,6 @@
 Type: #Atom 
 References: [[Philosophy - Outline]]
-
+[[Plotinus]]
 Buddhism tries to answer whether it is possible to end human suffering. 
 
 The Buddha - Siddharta - was born into immense wealth. His mother died when he was young, and so never experienced that pain. He never saw old age or suffering. One day on a walk he finally saw poverty and old age. 
