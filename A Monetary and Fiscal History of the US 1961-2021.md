@@ -125,7 +125,7 @@ Both of these factors raised the actual NAIRU, and caused authorities to aim for
 You can see the lower productivity in labor's higher share of income. Friedman believed high relative prices i.e. oil prices shouldn’t cause inflation, as only higher money supply could cause that. 
 Higher oil prices should lower other prices. In reality, higher relative prices cause inflation because other things don’t necessarily get cheaper due to rigidities, and an inflationary demand shock will change relative prices. That is, causality runs both ways when prices and wages are sticky. In response to an oil price shock, monetarists gave clear guidance to cut money supply. Keynesians had no obvious solution, as they said they couldn’t address inflation and the recession at the same time. 
 
-It was possible to deal with the hit to demand with a combination of fiscal and monetary policies. Firms with large energy needs were forced to use more labour. This meant more labour costs for the same output and hence decreased labour productivity. The fed missed this and loosened more than they should’ve. Real wages also went too high by missing this and led to more nemployment. We may be seeing the same thing today with a return of union power.
+It was possible to deal with the hit to demand with a combination of fiscal and monetary policies. Firms with large energy needs were forced to use more labour. This meant more labour costs for the same output and hence decreased labour productivity. The fed missed this and loosened more than they should’ve. Real wages also went too high by missing this and led to more unemployment. We may be seeing the same thing today with a return of union power.
 
 
 **Chapter 6 - Inflation and the Rational Expectations Revolution**

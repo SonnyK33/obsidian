@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "1b97df3d5b3d7520",
+            "id": "508a9319a23dda14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 8.23.23.md",
+                "file": "WIL/WILT 8.24.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 8.23.23.md",
+                "file": "WIL/WILT 8.24.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,16 +133,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1b97df3d5b3d7520",
+  "active": "508a9319a23dda14",
   "lastOpenFiles": [
-    "WIL/WILT - 8.22.23.md",
     "WIL/WILT - 8.23.23.md",
+    "WIL/WILT 8.24.23.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "US Trade Policy.md",
+    "Trade balances and Capital Flows.md",
+    "Savings vs Investment.md",
+    "WIL/WILT - 8.22.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILW - Template 1.md",
     "Net Assessment - China.md",
     "The Dean of Shandong - WIP.md",
     "Confucianism.md",
-    "Savings vs Investment.md",
     "The Dean of Shandong.md",
     "Geopoltical Alpha.md",
     "Plotinus.md",
@@ -157,10 +161,6 @@
     "Molecules/Credit Skew.md",
     "Molecules/Framework.md",
     "2023 Universe.md",
-    "Seymour Hersh - Harold Pinter.md",
-    "Molecules/GDP.md",
-    "Molecules/Indian Savings Rate.md",
-    "Molecules/Labour Productivity.md",
     "IS"
   ]
 }
