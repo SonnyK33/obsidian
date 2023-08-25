@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT 8.24.23.md",
+                "file": "The Dean of Shandong.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "shand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT 8.24.23.md",
+                "file": "The Dean of Shandong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,19 +135,24 @@
   },
   "active": "508a9319a23dda14",
   "lastOpenFiles": [
-    "WIL/WILT - 8.23.23.md",
+    "Outlines/To Read - Outline.md",
+    "The Dean of Shandong.md",
+    "Confucianism.md",
+    "Savings vs Investment.md",
+    "Natural Gas - Outline.md",
+    "Dirty Hands.md",
+    "Democratic Premium.md",
+    "Delta_Hedging.md",
+    "Flies.md",
     "WIL/WILT 8.24.23.md",
+    "WIL/WILT - 8.23.23.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "US Trade Policy.md",
     "Trade balances and Capital Flows.md",
-    "Savings vs Investment.md",
     "WIL/WILT - 8.22.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILW - Template 1.md",
     "Net Assessment - China.md",
-    "The Dean of Shandong - WIP.md",
-    "Confucianism.md",
-    "The Dean of Shandong.md",
     "Geopoltical Alpha.md",
     "Plotinus.md",
     "Buddhism.md",
@@ -156,11 +161,6 @@
     "Dark Ages.md",
     "Drug Prices - Humira.md",
     "South Korea and Japan Agreement.md",
-    "Molecules/Credit Scoring.md",
-    "Cruelty of Individualism.md",
-    "Molecules/Credit Skew.md",
-    "Molecules/Framework.md",
-    "2023 Universe.md",
     "IS"
   ]
 }

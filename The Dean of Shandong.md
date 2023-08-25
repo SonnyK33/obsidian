@@ -3,6 +3,8 @@ Author: Daniel Bell
 References: [[China - Outline]]
 [[Confucianism]]
 [[Flies]]
+[[History of Hawaii]]
+[[To Read - Outline]]
 
 To read:
 - What are examples using Confucian dialects to solve problems?
@@ -14,10 +16,16 @@ He taught course on Confucian theory w author at schwartzman college 
 - Bakunin the anarchist
 - Great Unity in Han dynasty's book of rituals
 - John Stuart Mill is most influential here but he was more afraid of public opinion than state censorship 
+- 1587 Ming dynasty book
+- re-read book on Deng
+- learn more about the meritocratic system under Confucius 
+- Lipton on public opinion
 
 
 
-Bell uses his former position as the Dean of the political theory department at the University of Shandong to explain Chinese political thinking to Western audiences. As the US tries to isolate China and slow its growth, this book attempts to explain the Chinese political system to Westerners. While it is sympathetic to the Chinese system of political meritocracy, It doesn't hesitate to criticize China and President Xi for growing censorship and the abandonment of term limits. Bell is a scholar of Confucianism and he puts contemporary Chinese political theory in the context of its ancient traditions. 
+Bell uses his former position as the Dean of the political theory department at the University of Shandong to explain Chinese political thinking to Western audiences. As the US tries to isolate China and slow its growth, this book attempts to explain the Chinese political system to Westerners. While it is sympathetic to the Chinese system of political meritocracy, It doesn't hesitate to criticize China and President Xi for growing censorship and the abandonment of term limits. Bell is a scholar of Confucianism and he puts contemporary Chinese political theory in the context of its ancient traditions. The most important takeaways for me were the rise of Confucianism in contemporary Chinese political thought and how Xi's embrace of Communism is fully in line with the timeline envisioned by Marx. Karl Marx believed that Communism would appear in developed countries first, not in peasant societies like China in the 1950s. If you follow that logic, China first had to become capitalist to destroy feudalism and build the required means of production. This is what Deng Xiaoping did. Now Xi is trying to clean up corruption which was a natural outgrowth of the opening in the 1980s and 1990s. But this is the trickiest part of Marxism. The dictatorship of the proletariat (i.e. the current CCP) is supposed to just dissolve. This is at odds with the strong administrative state being built. It also seems at odd with the ancient Chinese traditions and Confucian practices. The crossroads of Confucian and Communist thought is the most interesting part of this book. The push back against the relentless propaganda so common in the West today regarding China is also very refreshing. We never learn about the corruption that Xi stamped out and how popular that's been. Of course there are risks with Xi removing term limits. But those are highlighted constantly. The Confucian method of teaching, tailored to each student was also very interesting. The discussion on censorship and how Mill was more worried about public opinion and self-censoring reminded me about Orwell's foreword to 1984 and reminded me to reap Lipton.   
+
+It's necessary to read this on conjunction with all of the economic critiques going on, especially from Pettis. How does this intersection between Marxism and ancient traditions mix with the need to grow domestic demand? What does Marx say about domestic demand and savings vs investment, if anything? What does Confuscious thought say about economic growth?
 
 
 **Resurgence of Confucianism in China**
@@ -80,120 +88,23 @@ The CCP is increasingly leaning on Confucian history to teach virtue and ethics 
 
 **Chapter 8**- **Censorship** 
 
-John Stuart Mill is most influential writer on censorship, but he was more afraid of public opinion than state censorship. This is true in the West today, but censorship is more important in China. The author's classes are rarely censored except for Marxism, as his interpretation may differ. Rules around censorship are not enforced to the letter, and there is much more censorship with Chinese language publications. Academic research is increasingly censored esp if in Chinese 
+John Stuart Mill is most influential writer on censorship, but he was more afraid of public opinion than state censorship. This is true in the West today, but state censorship is more important in China. The author's classes are rarely censored except for Marxism, as his interpretation may differ. Rules around censorship are not enforced to the letter, and there is much more censorship with Chinese language publications. 
+The new generation of censors are younger, and have a more international outlook. However, they’re also more ideological than in the 1980s when people were looking towards the West.  
 
-As young ppl grow into leadership and become censors they may be less likely as they value internationalism but they’re also more ideological than in the 1980s when ppl were looking towards the west
+The author used to be courted by western media who were interested in a foreigner political theorist working in China. That completely ended in the past few years as the West’s hostility to China grew. There is zero room for any contrary viewpoints. Everyone agrees that the government is evil to its own people and is bent on foreign domination. This is partially due to more repression in China, but it's mainly because there's been a realization that the Chinese aren’t weak and they don’t want to be like the West. In the past they looked at Western liberalization for inspiration. Now there’s more pride in ancient traditions including Confucianism. The US also fears being surpassed by China, and that its model of state intervention will be replicated in the developing world. 
 
-  
+Chinese style repression is worse, but at least it's open and will admit why it's censoring. The Western media won’t admit that it's censoring; it's tough to do so  when you claim to be committed to free speech.  
 
-The author used to be courted by western media who were interested in a foreigner political theorist working in China.
+The dichotomy that the US draws between democracies and autocracies is not useful. China isn’t run by a family or the military; it's run by a meritocratic political system. The West refuses to see anything other than electoral democracy as legitimate and doesn't acknowledge the risk of economic concentration and its effect on democracy. I’d say this gives the US too much credit. It has no problem with many autocracies. China is based on political meritocracy which has some advantages. It can focus on the long-term, chooses the most virtuous leaders, it doesn’t empower demagogues who lie, and it isn't beholden to economic interest. It gives everyone the chance to lead, but it acknowledges that some lack the moral code to do so. This is the ideal obviously, and there is still corruption, and the new lack of term limits will be empower incumbents. In West, even this ideal is criticized, and I'd say that isn't because of principles. 
 
-That completely ended in the past few years as
+**Chapter 9** - Academic meritocracy 
 
-The west’s hostility to China grew. There is zero room for any contrary viewpoints. Everyone agrees that the govnermwnt is evil to its own people and is bent on foreign domination 
+Appointments tend to be fair, but the process can be too rigid for doctoral students. There's a strange culture of "cuteness" which started in Japan in the 1970s and has spread to rest of East Asia. It's pervasive even among professionals, and it sometimes shields real emotions and is used in place of real political thought or consciousness. 
 
-  
+**Chapter 11 - Symbolic leadership** 
 
-Partially due to more repression in China but mainly because realization that Chinese aren’t weak and don’t want to be like the west
+Despite ending the imperial system, some Confucian scholars argue in favor of a symbolic leader. The only one who would be respected is a direct descendant of Confucius. In the Ming Dynasty, the emperor withdrew from rituals. This shattered the myth of the emperor as divine, and belief was based on those rituals. Side note - that's a good reason why missionaries discouraged ancient rituals in Hawaii [[History of Hawaii]].
 
-In the past they looked at western liberalization 
+It can be powerful when the leader only occasionally speaks up and tries to intervene. He appears more objective. There's some lessons here from The Crown. Constitutional monarchies tend to perform well. They separate rituals and national myths from political leadership. They're less likely to have populists. People are less likely to fall in love with political leadership as they don’t represent the nation in an emotional sense. 
 
-Now there’s more pride in ancient traditions including Confucianism 
-
-Also fear that China will surpass the US
-
-Point is there’s lots of self censorship in the western media
-
-  
-
-Dichotomy between democracies and autocratic not useful
-
-China isn’t run by a family or the military
-
-Run by a meritocratic political system
-
-Has been blocked from western media because of own stupidity but also anti CCP stance of media 
-
-Chinese style repression is worse but iat least is open and will admit why censoring 
-
-Western media won’t admit it - tough to admit when you claim to be committed to free speech 
-
-  
-
-West refuses to see anything other than electoral democracy as legit and denies risk of economic concentration and its effect on democracy 
-
-I’d say this gives too much credit, west has no problem with many autocracies 
-
-  
-
-China is based on politics meritocracy which had some advantages - can focus on long term, chooses the most virtuous leaders, doesn’t empower demagogues who lie, not beholden to economic interest etc
-
-Gives everyone the chance to lead but acknowledges that some lack the moral code to do so 
-
-  
-
-This is the ideal obvs and there is still corruption and the new lack of term limits will be empower incumbents 
-
-In west even this ideal is criticized - id say not because of principles 
-
-  
-
-Chapter 9
-
-Academic meritocracy 
-
-Appointments tend to be fair 
-
-Process can be too rigid for doctoral students
-
-Culture of cuteness
-
-Started in Japan jn the 1970s and spread to rest of east Asia
-
-Pervasive even among professionals 
-
-May sometimes shield real emotions and used in place of real political thought or consciousness 
-
-  
-
-Chapter 11
-
-Symbolic leadership 
-
-Despite ending the imperial system some Confucian scholars argue in favor of a symbolic leader
-
-Only one who would be respected is direct descendant of confuscious
-
-1587 Ming dynasty book
-
-Emperor withdrew from rituals
-
-This shattered the myth of the emperor as divine
-
-Belief was based on those rituals
-
-Good reason why missionaries discouraged ancient rituals in Hawaii 
-
-  
-
-Also powerful when leader only occasionally speaks up and tries to intervene
-
-Appears more objective 
-
-Lessons from the crown 
-
-  
-
-Constitutional monarchies perform well 
-
-Separates rituals and national myths from political leadership
-
-Less likely to have populists
-
-Less likely to fall in love w political leadership as they don’t represent nation in emotional sense
-
-Reminds me of zeus’ advice in Agamemnon book
-
-McArthur kept emperor of Japan in place and was easier to implement land reform as conservatives were assured
-
-Trump and Xi by contrast build cult of personality
+This  reminded me of Zeus’ advice in [[Flies]]. He warned Orestes that it's important that the King went through the same experiences as the people. In that case, the King reinforced those experiences with a strange ritual every year recognizing the killing of King Agamemnon. McArthur kept the Emperor of Japan in place, as that made it easier to implement land reform as conservatives were assured. Trump and Xi by contrast built a cult of personality.

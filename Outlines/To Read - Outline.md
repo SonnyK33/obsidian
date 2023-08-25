@@ -104,6 +104,22 @@ Read Perry Mehrling book on Kindleberger
 - Dani Rodrik’s paper on premature deindustrialization. (also in geopolitical alpha)
 
 
+[[The Dean of Shandong]]
+- What are examples using Confucian dialects to solve problems?
+- Rousseau's confessions
+- Why did the chin dynasty fail?
+- “rituals” as described by chintza, a Confucian scholar
+- Check professor x - intellectual historian descended from Confucian
+He taught course on Confucian theory w author at schwartzman college 
+- Bakunin the anarchist
+- Great Unity in Han dynasty's book of rituals
+- John Stuart Mill is most influential here but he was more afraid of public opinion than state censorship 
+- 1587 Ming dynasty book
+- re-read book on Deng
+- learn more about the meritocratic system under Confucius 
+- Lipton on public opinion
+
+
 **Fiction**
 [[Home in the World (Amartya Sen)]]
 

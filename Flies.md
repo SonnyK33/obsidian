@@ -5,6 +5,7 @@ References: [[Philosophy - Outline]]
 [[Myth of Sisyphus]]
 Molecules: 
 [[National Guilt]]
+[[The Dean of Shandong]]
 
 Takeaways:
 1) To lead the people, you must share their guilt for past crimes
