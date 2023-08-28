@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "8bdc58a4bf9154c7",
+        "id": "19c4b8601868262d",
         "type": "tabs",
         "children": [
           {
-            "id": "5c44c6e35afd9836",
+            "id": "87789f92cbbe5e75",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plotinus.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "508a9319a23dda14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Dean of Shandong.md",
+                "file": "WIL/WILT 8.24.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "shand",
+                "query": "savings vs investment",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Dean of Shandong.md",
+                "file": "WIL/WILT 8.24.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,12 +120,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "508a9319a23dda14",
+  "active": "87789f92cbbe5e75",
   "lastOpenFiles": [
-    "Outlines/To Read - Outline.md",
-    "The Dean of Shandong.md",
-    "Confucianism.md",
     "Savings vs Investment.md",
+    "Molecules/Indian Savings Rate.md",
+    "Molecules/Labour Productivity.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "Plotinus.md",
+    "The Dean of Shandong.md",
+    "Outlines/To Read - Outline.md",
+    "Confucianism.md",
     "Natural Gas - Outline.md",
     "Dirty Hands.md",
     "Democratic Premium.md",
@@ -146,7 +137,6 @@
     "Flies.md",
     "WIL/WILT 8.24.23.md",
     "WIL/WILT - 8.23.23.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
     "US Trade Policy.md",
     "Trade balances and Capital Flows.md",
     "WIL/WILT - 8.22.23.md",
@@ -154,13 +144,10 @@
     "WIL/WILW - Template 1.md",
     "Net Assessment - China.md",
     "Geopoltical Alpha.md",
-    "Plotinus.md",
     "Buddhism.md",
     "Plato.md",
     "Outlines/Philosophy - Outline.md",
     "Dark Ages.md",
-    "Drug Prices - Humira.md",
-    "South Korea and Japan Agreement.md",
     "IS"
   ]
 }
