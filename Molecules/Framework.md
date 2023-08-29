@@ -4,6 +4,7 @@ References: [[Edge]]
 [[WILT - 8.8.23]]
 [[2023 Universe]]
 [[WILT - 8.15.23]]
+[[WILT - 8.29.23]]
 [[Credit Scoring]]
 
 universe ->BBB-/BB/HY/EM sovs-> macro catalyst framework if applicable->management incentive framework if applicable -> themes -> drivers (asset return framework)-> asymmetry in trading prices -> trade construction
@@ -18,6 +19,8 @@ Management controls corporate actions, and is driven by incentives and are limit
 The last one category is equivalent to decreasing the volatility of asset returns, as that results in more dependable FCF, which will increase the potential for deleveraging. 
 
 1) Increasing asset value. This normally requires decreasing the volatility of FCF, and so will only be done when gamma is high and vega is low. That is, when the equity is close to ATM (very low equity value), and the expiry on the equity call is rapidly approaching (say due to an imminent maturity). If there aren't any liquidity worries, vega will be high, and management will be reluctant to decrease volatility. 
+
+	Increasing asset value requires (1) increasing invested capital by changing inflows net of outflows or (2)  better capital allocation. The first means means growing EBIT (inflows of capital) vs dividends and interest expense (outflows). If dividends have already been cut, management's choices are cutting interest expense with bond buybacks (if they're generating cash), cutting fixed operating costs (layoffs, etc), or growing gross profit via higher prices or higher quantities. Better capital allocation means accretive capex or M&A. M&A is a function of the availability of targets and cheap currency (either high equity multiples or low cost of funding). Capex is similar in that to be deployed efficiently there needs to be a good opportunity set. Unless management is entering into a new market, capital allocation likely won't add value if the first avenue is closed. That is, if ROIC is already below interest and dividends, it's unlikely new investments in the same vertical will be different. 
 
 	Can management increase asset value simultaneously with increasing the volatility of returns? Accretive M&A may be an example. 
 

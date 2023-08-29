@@ -1,5 +1,5 @@
 Type: #molecule 
-
+[[Framework]]
 One way of ranking credits across ratings, sectors, and geographies, would be look (downside - upside) divided by the spread. Good shorts would have a highly positive numerator and a small denominator. Good longs would be the opposite. This roughly translates into the Merton model, as the spread is the premium for the put, and the downside - upside is a risk neutral approximation of "upside", from the perspective of a protection buyer (short the credit). If you're short, you want to maximize the potential downside (less the upside which reflects the possibility of being wrong), for every bp of spread that you're paying as carry. 
 
 Related to the upside/downside calculation above, we should score credits by the amount of fixed cost leverage embedded in the capital structure. 

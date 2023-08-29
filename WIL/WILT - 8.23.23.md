@@ -1,6 +1,6 @@
 Type: #WILT 
 [[WILT - 8.22.23]]
-
+[[WILT - 8.29.23]]
 WILT
 Yesterday I wrote that I didn't understand Pettis' argument that if foreign entities' demand for treasuries isn't impacting the US borrowing cost. I think his argument is that foreign capital inflows  leads to more debt and more supply, and so can't lead to higher yields. If flows stop, does that require US treasury issuance to decrease? I think the chain of logic is that fewer inflows means a weaker dollar which transfers wealth and income to consumers. It should lead a stronger export sector, less unemployment (though that's already low), and lower fiscal deficits, hence less debt. Even if unemployment doesn't go down further, salaries should rise, which should generate more tax revenue, hence lower fiscal deficits. 
 
