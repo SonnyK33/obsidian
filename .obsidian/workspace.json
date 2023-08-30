@@ -8,23 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "459b1dcb3b59d5cb",
+            "id": "4c2243534cc7737d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Volatility Machine.md",
+                "file": "Net Assessment - China.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4c2243534cc7737d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
             }
           }
         ]
@@ -64,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vega",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Volatility Machine.md",
+                "file": "Net Assessment - China.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,8 +120,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "459b1dcb3b59d5cb",
+  "active": "4c2243534cc7737d",
   "lastOpenFiles": [
+    "WIL/WILT - 8.29.23.md",
+    "WIL/WILT - 8.30.23.md",
+    "LNG - Outline.md",
+    "Volatility Machine.md",
     "Molecules/Framework.md",
     "Molecules/Credit as Option Trades.md",
     "Molecules/2023 Trades.md",
@@ -137,7 +133,6 @@
     "Molecules/Merton Model for Management Incentives.md",
     "2023 Universe.md",
     "Molecules/Credit Scoring.md",
-    "WIL/WILT - 8.29.23.md",
     "WIL/WILT - 8.23.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILT 8.24.23.md",
@@ -153,9 +148,6 @@
     "Dirty Hands.md",
     "Democratic Premium.md",
     "Delta_Hedging.md",
-    "Flies.md",
-    "US Trade Policy.md",
-    "Trade balances and Capital Flows.md",
     "IS"
   ]
 }

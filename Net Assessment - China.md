@@ -14,6 +14,7 @@ When analyzing a leader’s power, you must consider various factors.
 How does [[Median Voter Theory]] apply?
 
 Economic Constraints
+[[WILT - 8.29.23]]
 - debt capacity
 - few domestic investment opportunities left
 - how to stimulate domestic demand
