@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Net Assessment - China.md",
+                "file": "WIL/WILT - 8.31.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Net Assessment - China.md",
+                "file": "WIL/WILT - 8.31.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,9 @@
   },
   "active": "4c2243534cc7737d",
   "lastOpenFiles": [
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 8.31.23.md",
+    "Net Assessment - China.md",
     "WIL/WILT - 8.29.23.md",
     "WIL/WILT - 8.30.23.md",
     "LNG - Outline.md",
@@ -134,7 +137,6 @@
     "2023 Universe.md",
     "Molecules/Credit Scoring.md",
     "WIL/WILT - 8.23.23.md",
-    "WIL/WILT - Template.md",
     "WIL/WILT 8.24.23.md",
     "Savings vs Investment.md",
     "Molecules/Indian Savings Rate.md",
@@ -146,8 +148,6 @@
     "Confucianism.md",
     "Natural Gas - Outline.md",
     "Dirty Hands.md",
-    "Democratic Premium.md",
-    "Delta_Hedging.md",
     "IS"
   ]
 }
