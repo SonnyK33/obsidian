@@ -6,6 +6,7 @@ https://twitter.com/michaelxpettis/status/1693835083206066451
 [[Volatility Machine]]
 [[Savings vs Investment]]
 [[WILT - 8.23.23]]
+[[WILT - 9.6.23]]
 
 WILT
 **Argentina Dollarization**

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 9.5.23.md",
+                "file": "WIL/WILT - 9.6.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "dollarize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 9.5.23.md",
+                "file": "WIL/WILT - 9.6.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +122,8 @@
   },
   "active": "4c2243534cc7737d",
   "lastOpenFiles": [
+    "WIL/WILT - 8.22.23.md",
+    "WIL/WILT - 9.6.23.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 9.5.23.md",
     "WIL/WILW - Template 1.md",
@@ -146,8 +148,6 @@
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "Plotinus.md",
     "The Dean of Shandong.md",
-    "Outlines/To Read - Outline.md",
-    "Confucianism.md",
     "IS"
   ]
 }
