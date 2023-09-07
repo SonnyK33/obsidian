@@ -6,6 +6,8 @@ References: [[Edge]]
 [[WILT - 8.15.23]]
 [[WILT - 8.29.23]]
 [[Credit Scoring]]
+[[EM Sovereign Frameworks]]
+
 
 universe ->BBB-/BB/HY/EM sovs-> macro catalyst framework if applicable->management incentive framework if applicable -> themes -> drivers (asset return framework)-> asymmetry in trading prices -> trade construction
 

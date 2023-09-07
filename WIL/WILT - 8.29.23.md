@@ -6,6 +6,7 @@ https://carnegieendowment.org/chinafinancialmarkets/87007
 [[WILT 8.24.23]]
 [[Framework]]
 [[Net Assessment - China]]
+[[EM Sovereign Frameworks]]
 Magellan Midstream's deal with Oneok is predicated on the expected boom in natural gas versus a slowdown or stagnation in crude and refined products. After the surge in infrastructure this past decade, there isn't much more to do. Oil demand is expected to peak with motorists switching to EV's over time. 
 
 China

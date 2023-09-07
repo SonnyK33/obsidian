@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0a68d4686d107a",
+        "id": "672528a53a298f03",
         "type": "tabs",
         "children": [
           {
-            "id": "4c2243534cc7737d",
+            "id": "26251e03c2aba528",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 9.6.23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -56,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dollarize",
+                "query": "net assess",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +73,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 337.5
   },
   "right": {
     "id": "1e08b239b526fc40",
@@ -93,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 9.6.23.md",
+                "file": "Molecules/EM Sovereign Frameworks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,34 +116,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "4c2243534cc7737d",
+  "active": "26251e03c2aba528",
   "lastOpenFiles": [
-    "WIL/WILT - 8.22.23.md",
-    "WIL/WILT - 9.6.23.md",
+    "Bernanke on Savings Glut.md",
+    "Molecules/Net Assessment - China.md",
+    "Ruling Chiefs of Hawaii - WIP.md",
+    "South Korea Industrial Policy.md",
+    "WIL/WILT - 8.29.23.md",
+    "Odd Lots - UAW.md",
+    "Molecules/Tight Monetary plus Loose Fiscal.md",
+    "Molecules/EM Sovereign Frameworks.md",
+    "WIL/WILT - 9.1.23.md",
+    "Thinking in Systems.md",
     "WIL/WILT - Template.md",
+    "Molecules/Edge.md",
+    "Molecules/Framework.md",
+    "Outlines/To Read - Outline.md",
+    "US Trade Policy.md",
+    "WIL/WILT - 4.10.23.md",
+    "WIL/WILT - 8.14.23.md",
+    "WIL/WILT - 9.6.23.md",
+    "WIL/WILT - 8.22.23.md",
     "WIL/WILT - 9.5.23.md",
     "WIL/WILW - Template 1.md",
     "WIL/WILT - 8.31.23.md",
-    "Net Assessment - China.md",
-    "WIL/WILT - 8.29.23.md",
     "WIL/WILT - 8.30.23.md",
     "LNG - Outline.md",
     "Volatility Machine.md",
-    "Molecules/Framework.md",
     "Molecules/Credit as Option Trades.md",
-    "Molecules/2023 Trades.md",
-    "Molecules/Edge.md",
-    "Molecules/Merton Model for Management Incentives.md",
-    "2023 Universe.md",
-    "Molecules/Credit Scoring.md",
-    "WIL/WILT - 8.23.23.md",
-    "WIL/WILT 8.24.23.md",
-    "Savings vs Investment.md",
-    "Molecules/Indian Savings Rate.md",
-    "Molecules/Labour Productivity.md",
-    "A Monetary and Fiscal History of the US 1961-2021.md",
-    "Plotinus.md",
-    "The Dean of Shandong.md",
     "IS"
   ]
 }
