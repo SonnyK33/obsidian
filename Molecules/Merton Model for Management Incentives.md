@@ -2,6 +2,7 @@ Type: #molecule
 References: [[Volatility Machine]]
 [[Credit as Option Trades]]
 [[Edge]]
+[[Framework]]
 This is an explanation of how the Merton model can be used to understand management's incentives and, in turn, for trade construction. 
 
 Management is incentivized with equity and thus thinks like a shareholder. It will want to invest in the business when gains accrue to shareholders, and not creditors. That's when the equity delta exceeds the credit delta. When Assets = Debt, equity is worthless. At this point, both options are ATM with a delta of 0.5. Increases in asset value will accrue 50/50 to equity holders and creditors. As the asset value increases, the equity call goes further ITM and the delta tends towards 1. Management should increasingly want to invest in the business. 

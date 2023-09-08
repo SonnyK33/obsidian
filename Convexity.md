@@ -1,5 +1,5 @@
 Reference:  [[Edge]]
-
+[[Framework]]
 After you've evaluated the competing hypotheses and found an asymmetric trade, the next step is to measure the convexity. A position is convex if it becomes a better trade as it moves in your direction. That is, if the underlying drivers move the way you expect them to, it becomes more sensitive to these drivers. As the drivers move away, it becomes less sensitive. This results in accelerating PnL if you're right. In general, you pay for convexity. Sometimes you can get paid to be exposed to convex upside. That's the best setup.
 
 **Examples**

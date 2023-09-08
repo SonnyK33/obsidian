@@ -1,6 +1,6 @@
 Type: #molecule 
 References: [[2023 Trades]]
-[[2023 Universe]]
+[[Macro vs Idiosyncratic]]
 [[Field Research - WIP]]
 [[Framework]]
 [[Analysis of Competing Hypotheses]]

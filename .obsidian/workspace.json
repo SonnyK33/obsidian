@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
+                "file": "Macro vs Idiosyncratic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c296fc0efd5b2530",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT -9.8.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
+                "file": "WIL/WILT -9.8.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,11 +133,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26251e03c2aba528",
+  "active": "c296fc0efd5b2530",
   "lastOpenFiles": [
+    "Molecules/Framework.md",
+    "WIL/WILT -9.8.23.md",
+    "Molecules/Evaluating Credits.md",
+    "Convexity.md",
+    "Molecules/Credit Buckets.md",
+    "Macro vs Idiosyncratic.md",
+    "Molecules/Edge.md",
+    "Molecules/Credit Scoring.md",
+    "Molecules/Merton Model for Management Incentives.md",
+    "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
     "History of Hawaii.md",
     "US involvement in China pre-WW2.md",
-    "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
     "Untitled.md",
     "Outlines/Renewables - Outline.md",
     "Bernanke on Savings Glut.md",
@@ -137,17 +159,8 @@
     "WIL/WILT - 9.1.23.md",
     "Thinking in Systems.md",
     "WIL/WILT - Template.md",
-    "Molecules/Edge.md",
-    "Molecules/Framework.md",
     "Outlines/To Read - Outline.md",
     "US Trade Policy.md",
-    "WIL/WILT - 4.10.23.md",
-    "WIL/WILT - 8.14.23.md",
-    "WIL/WILT - 9.6.23.md",
-    "WIL/WILT - 8.22.23.md",
-    "WIL/WILT - 9.5.23.md",
-    "WIL/WILW - Template 1.md",
-    "WIL/WILT - 8.31.23.md",
     "IS"
   ]
 }
