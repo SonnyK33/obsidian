@@ -1,6 +1,6 @@
 Type: #Atom 
 References: [[US support for Dictators]] [[Stillwell and the American Experience in China (1911-1945)]]
-
+[[History of Hawaii]]
 After China failed to gain its territories back back after WW1, its leader (who only took power in 1911 after the Manchus abidated) resigned and the country fell to warlords. Sun Yat Sun attempted to get Western support for a new government but failed. Some in the Kuomintang looked to the Soviet Union where the Russian revolution recently took place. The soviets had given back many of the concessions which were taken by the Tsars, and some were looking for a second country to stage a communist revolution. 
 
 CKS rose through the ranks of the Kuomintang and was a disciple of [[Sun Yat Sen]]. After he defeated the communist wing of the Kuomintang in the Shanghai incident, the West saw him as part of the resistance to communism and as pillar in Asia after Japan's defeat. Many in the US also thought they owed something to China after the concessions made to Japan after WW1, including granting them Germany's concessions. This betrayal is also one of the reasons why the senate rejected joining the League of Nations after the Treaty of Versailles. He derived much of his power in the US from the backing of the missionaries (with whom he scored points by marring into the Soong family). 

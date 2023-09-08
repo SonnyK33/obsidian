@@ -11,8 +11,12 @@
             "id": "26251e03c2aba528",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "net assess",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/EM Sovereign Frameworks.md",
+                "file": "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +122,13 @@
   },
   "active": "26251e03c2aba528",
   "lastOpenFiles": [
+    "History of Hawaii.md",
+    "US involvement in China pre-WW2.md",
+    "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
+    "Untitled.md",
+    "Outlines/Renewables - Outline.md",
     "Bernanke on Savings Glut.md",
     "Molecules/Net Assessment - China.md",
-    "Ruling Chiefs of Hawaii - WIP.md",
     "South Korea Industrial Policy.md",
     "WIL/WILT - 8.29.23.md",
     "Odd Lots - UAW.md",
@@ -140,10 +148,6 @@
     "WIL/WILT - 9.5.23.md",
     "WIL/WILW - Template 1.md",
     "WIL/WILT - 8.31.23.md",
-    "WIL/WILT - 8.30.23.md",
-    "LNG - Outline.md",
-    "Volatility Machine.md",
-    "Molecules/Credit as Option Trades.md",
     "IS"
   ]
 }
