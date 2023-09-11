@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT -9.8.23.md",
+                "file": "WIL/WILT - 9.11.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT -9.8.23.md",
+                "file": "WIL/WILT - 9.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,8 +135,10 @@
   },
   "active": "c296fc0efd5b2530",
   "lastOpenFiles": [
-    "Molecules/Framework.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 9.11.23.md",
     "WIL/WILT -9.8.23.md",
+    "Molecules/Framework.md",
     "Molecules/Evaluating Credits.md",
     "Convexity.md",
     "Molecules/Credit Buckets.md",
@@ -158,9 +160,7 @@
     "Molecules/EM Sovereign Frameworks.md",
     "WIL/WILT - 9.1.23.md",
     "Thinking in Systems.md",
-    "WIL/WILT - Template.md",
     "Outlines/To Read - Outline.md",
-    "US Trade Policy.md",
     "IS"
   ]
 }
