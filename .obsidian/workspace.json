@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "672528a53a298f03",
+        "id": "e09448e96d3eb7df",
         "type": "tabs",
         "children": [
           {
-            "id": "26251e03c2aba528",
+            "id": "1d6428fde7e675da",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Macro vs Idiosyncratic.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c296fc0efd5b2530",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 9.11.23.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -69,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "godley",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -106,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 9.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,34 +115,34 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c296fc0efd5b2530",
+  "active": "1d6428fde7e675da",
   "lastOpenFiles": [
-    "WIL/WILT - Template.md",
+    "Macro vs Idiosyncratic.md",
+    "The Jungle.md",
+    "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
+    "Kelton - How Should We Think About Fiscal Sustainability.md",
+    "WIL/WILT - 8.23.23.md",
+    "WIL/WILT - 8.29.23.md",
+    "WIL/WILT - 8.30.23.md",
+    "WIL/WILT - 8.31.23.md",
+    "WIL/WILT 8.24.23.md",
+    "Savings vs Investment.md",
+    "History of Hawaii.md",
     "WIL/WILT - 9.11.23.md",
+    "WIL/WILT - Template.md",
     "WIL/WILT -9.8.23.md",
     "Molecules/Framework.md",
     "Molecules/Evaluating Credits.md",
     "Convexity.md",
     "Molecules/Credit Buckets.md",
-    "Macro vs Idiosyncratic.md",
     "Molecules/Edge.md",
     "Molecules/Credit Scoring.md",
     "Molecules/Merton Model for Management Incentives.md",
-    "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
-    "History of Hawaii.md",
     "US involvement in China pre-WW2.md",
     "Untitled.md",
     "Outlines/Renewables - Outline.md",
     "Bernanke on Savings Glut.md",
     "Molecules/Net Assessment - China.md",
-    "South Korea Industrial Policy.md",
-    "WIL/WILT - 8.29.23.md",
-    "Odd Lots - UAW.md",
-    "Molecules/Tight Monetary plus Loose Fiscal.md",
-    "Molecules/EM Sovereign Frameworks.md",
-    "WIL/WILT - 9.1.23.md",
-    "Thinking in Systems.md",
-    "Outlines/To Read - Outline.md",
     "IS"
   ]
 }
