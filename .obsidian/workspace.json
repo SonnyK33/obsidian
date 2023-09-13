@@ -11,8 +11,12 @@
             "id": "1d6428fde7e675da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 9.13.23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -52,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "godley",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WIL/WILT - 9.13.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,6 +101,16 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21fb55724a147dc1",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -117,6 +132,7 @@
   },
   "active": "1d6428fde7e675da",
   "lastOpenFiles": [
+    "WIL/WILT - 9.13.23.md",
     "Macro vs Idiosyncratic.md",
     "The Jungle.md",
     "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
@@ -142,7 +158,6 @@
     "Untitled.md",
     "Outlines/Renewables - Outline.md",
     "Bernanke on Savings Glut.md",
-    "Molecules/Net Assessment - China.md",
     "IS"
   ]
 }
