@@ -9,6 +9,7 @@ https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/the-national-
 [[WILT - 8.22.23]]
 [[WILT 8.24.23]]
 [[Kelton - How Should We Think About Fiscal Sustainability]]
+[[WILT - 9.14.23]]
 
 The quantity of financial capital supplied must equal the quantity demanded. 
 
