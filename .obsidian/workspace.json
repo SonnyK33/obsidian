@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e09448e96d3eb7df",
+        "id": "abbdf2aea2f7cc51",
         "type": "tabs",
         "children": [
           {
-            "id": "1d6428fde7e675da",
+            "id": "e1703d95b83cdad5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 9.14.23.md",
+                "file": "Thinking in Systems - WIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 9.14.23.md",
+                "file": "Thinking in Systems - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,15 +130,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1d6428fde7e675da",
+  "active": "e1703d95b83cdad5",
   "lastOpenFiles": [
-    "Savings vs Investment.md",
+    "The Rise of Carry.md",
+    "Thinking in Systems - WIP.md",
+    "The Jungle.md",
+    "Odd Lots - Weber.md",
+    "Inflation.md",
+    "Invest like the Best - Goodwin.md",
+    "Hidden Forces Podcast Fiscal Dominance.md",
     "WIL/WILT - 9.14.23.md",
+    "Savings vs Investment.md",
     "WIL/WILT - Template.md",
     "WIL/WILT - 9.13.23.md",
     "WIL/WILT - 9.13.23 1.md",
     "Macro vs Idiosyncratic.md",
-    "The Jungle.md",
     "Ruling Chiefs of Hawaii, The Last King, The Great Mahele.md",
     "Kelton - How Should We Think About Fiscal Sustainability.md",
     "WIL/WILT - 8.23.23.md",
@@ -152,12 +158,6 @@
     "Molecules/Framework.md",
     "Molecules/Evaluating Credits.md",
     "Convexity.md",
-    "Molecules/Credit Buckets.md",
-    "Molecules/Edge.md",
-    "Molecules/Credit Scoring.md",
-    "Molecules/Merton Model for Management Incentives.md",
-    "US involvement in China pre-WW2.md",
-    "Untitled.md",
     "IS"
   ]
 }

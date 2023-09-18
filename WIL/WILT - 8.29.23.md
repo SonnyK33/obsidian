@@ -1,6 +1,6 @@
 Type: #WILT 
 References:
-[[Thinking in Systems]]
+[[Thinking in Systems - WIP]]
 https://www.ft.com/content/72a9070c-7855-47b1-81d9-05c6dfab430c?shareType=nongift
 https://carnegieendowment.org/chinafinancialmarkets/87007
 [[WILT 8.24.23]]
@@ -18,7 +18,7 @@ National income comes from investment, consumption, and trade surpluses (and gov
 The RMB continues to depreciate given the rate differential. The PBOC is in a tough spot. They've been stimulating demand by cutting rates but that further devalues the currency. A devalued currency hurts consumption even further. If the currency depreciates too much, there could be capital flight as in 2015. 
 
 ROIC
-This is a key metric for value investors and one that I rarely pay attention to. It should give a sense of competitive advantage and management's ability  to allocate capital efficiently. Have been reading [[Thinking in Systems]] and I thought about how "invested capital" is clearly a stock and is the accumulation of previous inflows (EBIT) and outflows (debt service and dividends). How should it play into my [[Merton Model for Management Incentives]] framework? If ROIC > outflows , over time, invested capital should rise. That should equate to higher asset valuation (EV) as well though the relationship will depend on how the capital is allocated. If it's kept in cash, that will be a 1:1 increase in assets. From a credit perspective, the key question may be the degree to which management can increase invested capital given outflows. That is, what's the hurdle rate in terms of margins and revenue growth, and what does that imply for management incentives? If management can't grow invested capital due to heavy outflows, what should they do?
+This is a key metric for value investors and one that I rarely pay attention to. It should give a sense of competitive advantage and management's ability  to allocate capital efficiently. Have been reading [[Thinking in Systems - WIP]] and I thought about how "invested capital" is clearly a stock and is the accumulation of previous inflows (EBIT) and outflows (debt service and dividends). How should it play into my [[Merton Model for Management Incentives]] framework? If ROIC > outflows , over time, invested capital should rise. That should equate to higher asset valuation (EV) as well though the relationship will depend on how the capital is allocated. If it's kept in cash, that will be a 1:1 increase in assets. From a credit perspective, the key question may be the degree to which management can increase invested capital given outflows. That is, what's the hurdle rate in terms of margins and revenue growth, and what does that imply for management incentives? If management can't grow invested capital due to heavy outflows, what should they do?
 
 
 Narrative

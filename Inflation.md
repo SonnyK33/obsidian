@@ -4,6 +4,7 @@ References: [[US Rates]] [[Central Banking 101]] [[Quantitative Easing]] [[Quant
 [[Dollar Hegemony]]
 [[Macrovoices - David Rosenberg]]
 [[WILT - 2.24.23]]
+[[Odd Lots - Weber]]
 Labour supply
 higher rates -> higher unemployment -> more push for labor protection (from right and left)
 end of globalization also means more labour protections which means higher costs
