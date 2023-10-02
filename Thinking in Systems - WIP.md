@@ -2,6 +2,7 @@ References: [[WILT - 9.1.23]]
 [[Geopoltical Alpha]]
 [[The Rise of Carry]]
 [[China - Outline]]
+[[Systems Examples]]
 **Questions/To-dos:**
 What are the main systems we encounter?
 Which systems are hard to tell apart and are often confused for one another? Is there an opportunity there? 
@@ -24,14 +25,7 @@ Think about what different management teams and governments are optimizing for. 
 There may be multiple systems operating, but in different timescales. 
 
 
-*Potential Systems*  
-The global economy as multiple systems 
-A sector within an economy 
-Credit sits on larger stock than equity so moves slower
 
-**Inventory example**
-
-New orders are based on potential sales. Delays and uncertainty create a bullwhip effect. You need to understand different retailers’ inventory systems. How long is the delay? How are they making decisions on new orders? What are delays from factory? How long do they wait to change policies?
 
 
 
