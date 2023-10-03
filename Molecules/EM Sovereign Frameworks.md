@@ -1,7 +1,7 @@
 Type: #molecule 
 References: [[Framework]]
 [[Merton Model for Management Incentives]]
-[[Thinking in Systems - WIP]]
+[[Thinking in Systems]]
 [[WILT - 8.29.23]]
 
 1) Merton Model

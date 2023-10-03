@@ -5,7 +5,7 @@ Read a good piece by Damodaran summarizing the current media/streamer/cable conf
 1) This is somewhat a replay of what happened to the music business with the advent of streamers there. The impact of disruption there has been the death of music stores (theatres?), consolidation (WBD, PARA), and lower overall revenues (DIS). What's different is that the incumbents themselves are disrupting their traditional businesses. While that's better than going bankrupt (like legacy music studios did - Motown for example), there will be a tough transition period. Also during this interim period, complementary companies (like cable) can't be cut out because they're also disrupting themselves by expanding into broadband.
 2) When looking at an ecosystem like this, it may be possible to glean what the market is thinking by looking at different players and their valuation. NFLX valuation is implying that the market thinks they can reduce content spend without losing too many subscribers. DIS' value is implying uncertainty during this transition period.
 
-I need a good framework for thinking of these different players and their changing dynamics. [[Thinking in Systems - WIP]] could provide some tools. 
+I need a good framework for thinking of these different players and their changing dynamics. [[Thinking in Systems]] could provide some tools. 
 
 **Merton model spreads and stocks/flows**
 Credit spreads are the premium you receive for selling a put on the firm's assets. You're getting paid for taking the (non-linear) risk that the asset value won't fall below the debt value. If using a stock and flow model where the relevant stocks are debt and assets, and the relevant flows are EBIT (net inflows) and interest expense (outflows), what does that spread represent?

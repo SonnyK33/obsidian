@@ -3,6 +3,7 @@ References: [[WILT - 9.1.23]]
 [[The Rise of Carry]]
 [[China - Outline]]
 [[Systems Examples]]
+
 **Questions/To-dos:**
 What are the main systems we encounter?
 Which systems are hard to tell apart and are often confused for one another? Is there an opportunity there? 
@@ -23,9 +24,6 @@ When others' actions seem irrational, understand what their constraints are. Wha
 Think about what different management teams and governments are optimizing for. What are their goals?
 
 There may be multiple systems operating, but in different timescales. 
-
-
-
 
 
 

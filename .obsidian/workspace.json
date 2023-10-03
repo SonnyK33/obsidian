@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Systems Examples.md",
+                "file": "Thinking in Systems.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "023f4b084bb7c63b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d17044fafaca8769",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Power and the Glory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/Systems Examples.md",
+                "file": "The Power and the Glory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,6 +143,10 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "afb61862661e343c",
-  "lastOpenFiles": []
+  "active": "d17044fafaca8769",
+  "lastOpenFiles": [
+    "The Power and the Glory.md",
+    "Thinking in Systems.md",
+    "Molecules/Systems Examples.md"
+  ]
 }
