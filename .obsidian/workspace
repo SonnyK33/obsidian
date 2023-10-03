@@ -1,15 +1,37 @@
 {
   "main": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "id": "8697a0076bb875e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "26172a80e013acc3",
+=======
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
     "id": "861567f1d29a2bc5",
     "type": "split",
     "children": [
       {
         "id": "067e23bfa8e25e9c",
+<<<<<<< HEAD
+=======
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
+<<<<<<< HEAD
             "file": "10.13.22.md",
+=======
+<<<<<<< HEAD
+            "file": "Stillwell (Tuchman).md",
+=======
+            "file": "10.13.22.md",
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
             "mode": "source",
             "source": false
           }
@@ -19,6 +41,20 @@
     "direction": "vertical"
   },
   "left": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "id": "c2bf0d0b2fb1eef9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cdaf50dd67da41d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eed48771927d507d",
+=======
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
     "id": "1ae01380d9103df4",
     "type": "split",
     "children": [
@@ -28,6 +64,10 @@
         "children": [
           {
             "id": "3086353c753536bc",
+<<<<<<< HEAD
+=======
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -35,7 +75,15 @@
             }
           },
           {
+<<<<<<< HEAD
             "id": "3209297bea28b8af",
+=======
+<<<<<<< HEAD
+            "id": "62b5ec31792c739d",
+=======
+            "id": "3209297bea28b8af",
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,6 +104,20 @@
     "width": 300
   },
   "right": {
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    "id": "1e08b239b526fc40",
+    "type": "split",
+    "children": [
+      {
+        "id": "025668bbd7b469c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e2391da7a6e244d",
+=======
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
     "id": "8c09151e86960740",
     "type": "split",
     "children": [
@@ -65,11 +127,23 @@
         "children": [
           {
             "id": "a6ca893926cd2cfd",
+<<<<<<< HEAD
+=======
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "10.13.22.md",
+=======
+<<<<<<< HEAD
+                "file": "Stillwell (Tuchman).md",
+=======
+                "file": "10.13.22.md",
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,11 +161,32 @@
     "width": 300,
     "collapsed": true
   },
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+  "active": "26172a80e013acc3",
+  "lastOpenFiles": [
+    "Factor Investing Credit.md",
+    "Midnight's Borders.md",
+    "Stillwell (Tuchman).md",
+    "Options.md",
+    "Time Series.md",
+    "Communist.md",
+    "To Live.md",
+    "Rickshaw Boy.md",
+    "War of the Worlds.md",
+    "India.md"
+=======
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
   "active": "067e23bfa8e25e9c",
   "lastOpenFiles": [
     "10.12.22.md",
     "9.23.22.md",
     "Pakistan.md",
     "9.22.22.md"
+<<<<<<< HEAD
+=======
+>>>>>>> 18999c3 (added work files)
+>>>>>>> 0168b2ea0653847850eca9b71bc1e1945f661094
   ]
 }

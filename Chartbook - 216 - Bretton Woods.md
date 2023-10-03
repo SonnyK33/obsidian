@@ -1,0 +1,14 @@
+Type: #source 
+Author: Adam Tooze
+References: [[Trade Wars are Class Wars]]
+[[To Read - Outline]]
+Read Daunton’s new book
+Read Perry Mehrling book on Kindleberger
+
+
+
+Bretton Woods, along with its restrictions on capital mobility, provided a good environment for growth, investment, and employment. The idea behind BW was to avoid the trade-offs of the 19th century gold standard – between exchange rate stability and domestic economic/social welfare. This was accomplished through fixed exchange rates and restrictions on capital flows. The end of BW is now seen as the beginning of capital mobility, financialization, instability, and inequality
+
+BW didn’t come out of cooperation but from the dynamics of WW2. Everything was up for grabs and market forces didn’t matter. Calling for a new BW means calling for a another major conflict (and settlement). US and UK cooperation came to an end due to bilateral debt settlements. They first attempted BW In 1947 when they tried to make the pound, which was the strongest in Europe, convertible. It didn’t work and controls were re-imposed. Between 1947 (sterling crisis) and 1958, currency convertibility was just in Europe – the European Payments Union. BW finally came in 1958 w/ convertibility of major currencies in the Western Bloc. BW was underpinned by complicated central bank swap lines  - equal to 250bn in 2017 terms – equal to amounts used during GFC. By 1964 dollar obligations were more than the US’ gold holdings which undermined the gold peg. In 1967 the pound devalued and the gold pool as disbanded (what’s gold pool?). Though the peg was still the official policy, the US dissuaded other central banks from converting USD to gold. When Nixon abandoned the peg in 1971, he just made this official. BW became unworkable because of different economic priorities. The US had too much stimulus, and Germany and Japan were export driven and mercantilist. Wall Street became more powerful and disliked the capital controls.
+
+The offshore Eurodollar market was welcomed by both sides of Atlantic (did this get away from BW?). The Mitterand government in France tried to nationalize the whole local financial system, which it abandoned in 1983 due to inflation and the aggressive rate policy of Fed/BOE/Bundesbank. Capital restrictions between 1944-1970s did allow Europe and Asia to rebuild themselves. The author’s point is that BW was not a policy that was put in place and then abandoned. It was more of a goal that had constant setbacks and critics. The same will be true with the new Washington consensus and industrial policy. Remember the context for policies – BW was forged post WW2– and the inflation reduction act came from a compromise with Manchin and other corporate interests.

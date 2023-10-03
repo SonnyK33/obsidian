@@ -1,0 +1,4 @@
+Type: #Molecule 
+References: [[Stillwell and the American Experience in China (1911-1945)]] [[US involvement in China pre-WW2]]
+
+US foreign policy is often determined by private interests as opposed to the national interest. This often leads the US to support non-representative leaders in foreign countries. The American (and broader Western) public is generally miseld by the media to believe that these leaders are either democratic or at least representative of the public (and allied with the US). This often leads to incorrect and unsustainable policies (e.g. US support for CKS in pre-Communist China)

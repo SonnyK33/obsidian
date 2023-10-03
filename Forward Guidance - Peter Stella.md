@@ -1,0 +1,13 @@
+Type: #source 
+[[A Monetary and Fiscal History of the US 1961-2021]]
+[[Fiscal Theory of the Price Level]]
+
+Quantity theory of money (Friedman's monetarism) is special case where the only way the govt can finance itself is through base money issuance. When Friedman was writing, domestic bond markets were undeveloped so was a reasonable assumption. Today the US bond market is 100pct of GDP so a small increase in spending which translates to issuance can lead to price increases.  
+
+Fiscal theory says it’s the sum of money and bonds that matters, i.e. fiscal drives inflation not monetary policy. This explains why QE didn’t lead to inflation, the 2020 stimulus did. They just replaced treasuries with base money i.e. reserves. This changed the composition of liabilities not the amount.   
+
+If you have a large nominal stack of debt, it takes little inflation to reduce the amount of liabilities. The value of a state's debt is the present value of future surpluses generated to pay off the debt. There is a lot more demand for securities than there is for base money. Pre-2008, there was 800bn it hard currency and 20bn of reserves. Because there’s more demand for bonds than base money, especially in developed countries, having a domestic bond market allowed you to spend more without causing inflation. Having a lot of debt also allows you to inflate it away more easily.   
+
+Many EMs, including Chile, Peru, Argentina, and Israel didn’t have domestic bond markets in the 1980s and would’ve have had high inflation immediately if Covid had hit. The market value of US debt has actually gone down since March 2020 due to higher rates. The US has already inflated away all issuance. The government issues bonds at rates based on future expectations. That is, if they think inflation will come down if doesn’t make sense to issue bonds at high coupons because will be hard to generate enough income to pay them off.
+
+45% of Fed's MBS were issued in 2021. Homeowners refinanced and the Fed bought back mortgages at lower rates. They’re taking a loss on those as rates rise and the duration rises due to negative convexity. The policy favors the rich as they’re more likely to own and were able to refi. Renters now face much steeper rents. Unlike 2009, there wasn’t a need to buy MBS since home prices were rising. When the debt ceiling blocked Obama from spending, the Fed auctioned off assets to finance spending. There are lots of forms of fiscal dominance. The fed's ability to take large losses is based on its ability to do so at a low rate of inflation. The limit is lower for other countries and probably based on credibility
