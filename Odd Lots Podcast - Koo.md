@@ -1,5 +1,5 @@
 Type: #source 
-References: [[Trade Wars are Class Wars]]
+References: [[Trade Wars are Class Wars - WIP]]
 
 Follow-ups: 
 - When did the US turn to fiscal stimulus during GFC?

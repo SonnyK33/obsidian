@@ -1,6 +1,6 @@
 Type: #source 
 References:  [https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/trade-balances-and-flows-of-financial-capital/](https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/trade-balances-and-flows-of-financial-capital/)
-[[Trade Wars are Class Wars]]
+[[Trade Wars are Class Wars - WIP]]
 [[Current Account Deficits]]
 [[US Trade Policy]]
 [[Savings vs Investment]]

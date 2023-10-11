@@ -1,6 +1,6 @@
 Type: #source 
 Author: Adam Tooze
-References: [[Trade Wars are Class Wars]]
+References: [[Trade Wars are Class Wars - WIP]]
 [[To Read - Outline]]
 Read Daunton’s new book
 Read Perry Mehrling book on Kindleberger

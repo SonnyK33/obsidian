@@ -1,5 +1,5 @@
 Type: #source 
-References: [[Trade Wars are Class Wars]]
+References: [[Trade Wars are Class Wars - WIP]]
 
 Debt ceiling crisis could have accelerated if it wasn't handled. Cutting spending due to the debt ceiling would also lead to lower revenue which would lead to lower spending etc. Tax revenues are paid from government spending, so it's circular.
 

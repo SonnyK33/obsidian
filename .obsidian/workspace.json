@@ -25,26 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILW - 9.29.23.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26addebea4a5c79d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WIL/WILT - 10.10.23.md",
+                "file": "Trade Wars are Class Wars - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -90,11 +78,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "97f09a1033a8491f",
@@ -110,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 10.10.23.md",
+                "file": "Trade Wars are Class Wars - WIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,14 +136,25 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "26addebea4a5c79d",
+  "active": "023f4b084bb7c63b",
   "lastOpenFiles": [
+    "Molecules/GDP.md",
+    "Savings vs Investment.md",
+    "Trade Wars are Class Wars - WIP.md",
+    "Volatility Machine.md",
+    "Long, Slow Death of Global Devlopment.md",
+    "Bernanke on Savings Glut.md",
     "WIL/WILW - 9.29.23.md",
+    "Dirty Hands.md",
+    "Flies.md",
+    "No Exit.md",
+    "Outlines/Philosophy - Outline.md",
+    "Hellenestic.md",
+    "WIL/WILT - 10.10.23.md",
     "WIL/WILW - Template 1.md",
     "Molecules/Systems Examples.md",
     "Thinking in Systems.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
-    "WIL/WILT - 10.10.23.md",
     "WIL/WILT - Template.md",
     "The Power and the Glory.md"
   ]

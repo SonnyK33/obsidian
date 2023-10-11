@@ -1,5 +1,5 @@
 Type: #molecule 
-References: [[Volatility Machine]] [[The Rise of Carry]] [[Trade Wars are Class Wars]]
+References: [[Volatility Machine]] [[The Rise of Carry]] [[Trade Wars are Class Wars - WIP]]
 [[Trade balances and Capital Flows]]
 [[Merton Model for Management Incentives]]
 [[Framework]]

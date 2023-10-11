@@ -6,6 +6,7 @@ References: [[Philosophy - Outline]]
 Molecules: 
 [[National Guilt]]
 [[The Dean of Shandong]]
+[[Dirty Hands]]
 
 Takeaways:
 1) To lead the people, you must share their guilt for past crimes
