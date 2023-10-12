@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Trade Wars are Class Wars - WIP.md",
+                "file": "WIL/WILT - 10.12.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,12 +78,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 318.5
   },
   "right": {
     "id": "97f09a1033a8491f",
@@ -99,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Trade Wars are Class Wars - WIP.md",
+                "file": "WIL/WILT - 10.12.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +137,10 @@
   },
   "active": "023f4b084bb7c63b",
   "lastOpenFiles": [
+    "Trade Wars are Class Wars - WIP.md",
+    "WIL/WILT - 10.12.23.md",
     "Molecules/GDP.md",
     "Savings vs Investment.md",
-    "Trade Wars are Class Wars - WIP.md",
     "Volatility Machine.md",
     "Long, Slow Death of Global Devlopment.md",
     "Bernanke on Savings Glut.md",
