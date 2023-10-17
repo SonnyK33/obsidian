@@ -19,8 +19,11 @@ Setser, on Odd Lots podcast, says most Chinese debt is held at cities and with L
 **Takeaways**
 1) The connection between trade and imperialism is connected with income inequality. If they want sell goods at high prices without paying their workers fair wages, they'll need to sell the excess good to someone. Forcing the colonies to pay for their goods by accumulating debt solved this problem. The debts also created another way to exert control. What foreign policies today fit this same pattern?
 2) Savings vs Wage development models as linked systems.
-3) I think the point is that if savings are increased at the expense of consumption, investment must increase to offset this. Or else the savings will just be sent abroad to finance someone else’s investment.It’s possible to have a high savings rate but still insufficient investment. High savings brought on by restraining consumption will keep demand depressed. This will discourage investment as many won’t be profitable with such a low level of consumption. It also leads to unprofitable and unviable wasteful investments.
-
+3) I think the point is that if savings are increased at the expense of consumption, investment must increase to offset this. Or else the savings will just be sent abroad to finance someone else’s investment. It’s possible to have a high savings rate but still insufficient investment. High savings brought on by restraining consumption will keep demand depressed. This will discourage investment as many won’t be profitable with such a low level of consumption. It also leads to unprofitable and unviable wasteful investments.
+4) Today, most surplus countries are lenders rather than shareholders (what drove this?) 
+5) An unequal distribution of political power in both deficit and surplus countries causes the current imbalances. The size of the inflows is also to blame. When deficit countries receive sums they can’t handle they’re bound to be directed at poor investments.  
+6) The balance of payments must be looked at globally and not just through bilateral flows. In the above example, Germany’s trade deficit was not primarily with France but global. Bilateral capital flows also don’t have to match bilateral trade flows. For instance, since 2015, capital flow from china to the US has shrunk while the trade deficit hasn’t. That’s because much of the gap is financed by European savers - this is an important point from a systems point of view. Each country is a system interacting with other systems. Complications arise at the interface between two of them, and impacts are hard to forecast. 
+	1) A good example is the Mexico/US trade relationship. Trump wanted Mexico to import more from the US. But Mexico is also a deficit country and diverts some global savings away from the US (helping the US deficit). If it imported less from non-US countries, it may increase savings, and the other countries may, in turn, import less from the US. The only way Mexico could potentially help the US deficit would be for it to increase its overall trade deficit, and even that may not work as the other countries may save more. Mexico would also need to finance its bigger deficit with debt, increasing its own instability. It shows how complex these systems are.
 
 
 
@@ -130,75 +133,40 @@ The changes likely came from the excess savings countries (China and Germany), d
 
 
 
+**Balance of Payments**
+
+The current account records import and export of goods and services and net financing cost of servicing deficits or surpluses (interest and dividends). The financial account includes payments for imports and exports as well as capital investments.  
+
+If you spend (on imports and interest on foreign ownership of local assets - e.g. interest on treasuries) more than you earn (from exports and ownership of foreign assets) you have a current account deficit. The current account reflects the aggregate of spending versus earnings for all residents and businesses. All earnings are someone else’s income, and so at the global level, they must balance. But as a country, If you have a net deficit that means that income from outside the country (from exports and investments abroad) is less than income going out (for imports and and interest on foreign ownership of local assets). It’s the opposite for a country with a surplus. This discrepancy is met with an increase in foreign ownership of local assets - financial or physical known as foreign direct investment  (in the deficit case). That is, countries who spend more than they earn make up the difference by selling assets. The money coming in to buy local assets will exceed the money going out to buy foreign assets. The Financial Account is akin to the "Cash Flow from Financing" portion of an issuer's CF statement.  The financial account can be broken into a private sector account and a government one. The latter is represented as the change in reserves.
+
+The Current Account and Financial Account must balance. A deficit implies that foreign countries were willing to take an IOU for future production. This is equivalent to foreigners purchasing domestic financial assets (treasuries but also stocks and bonds of private companies). A surplus requires the excess income to be invested somewhere.  
+
+Balances can be good or bad. Traditionally they went from rich countries to developing ones who had high investment needs. For instance, the US got funding from the UK in the 19th century, and South Korea was a deficit country from independence until the Asian financial crisis. Despite the Asian Financial Crisis, Korea was one of the few to go from poor to rich. Norway similarly was a deficit country when it needed to finance its offshore energy fields and is now a large surplus country. 
+
+Surpluses can also be bad. Germany has been one of the worst investors abroad and would’ve done much better if it invested at home. If savings weren’t so high, there would be more domestic demand and more local investment to fund those demands. Instead, low demand forced them to make poor investments abroad. Domestic investments though would have increased wages though and reduced profit margins for businesses. It would also have led to currency appreciation, helping workers, and hurting exporters. That's why businesses chose to invest abroad; inequality of income and political power explains why countries choose to grow in different ways.   
+
+The best deficits are funded by equity as in SK and Norway. This means FDI or local currency debt. Today, most surplus countries are lenders rather than shareholders (what drove this?) Deficit countries also tend to be mature economies with few investment opportunities (eg US subprime debt and Greek sovereigns). Inflows have led to debt bubbles in these countries. This can be attributed to the lack of capital controls in deficit countries but also inequality in surplus countries.  High savings are concentrated in the wealthy who prefer to make financial investments. The poor would rather consume and import goods. The decision of whether to purchase US treasuries vs US goods is driven by income distribution in the surplus countries. It's also driven by the deficit countries. Financiers in the US benefit from asset appreciation and aren't hurt by job losses in the manufacturing sector. An unequal distribution of political power in both deficit and surplus countries causes the current imbalances. The size of the inflows is also to blame. When deficit countries receive sums they can’t handle they’re bound to be directed at poor investments.  
+
+**Push vs Pull**
+
+Money can be sucked into deficit countries or pushed out of surplus countries. If a country is pulling in capital, you’d expect the rate it pays in debt to rise as the deficit increases. Investors would require a higher rate to compensate for devaluation, inflation, and default risk. This is obvious in a case like Turkey. An investment and consumption binge was funded from capital abroad. Rates rose through 2018, and as they feared a devaluation, investors only lent in USD vs lira (analogous to gold backed debts in Argentina in 19th century). Eventually they gave up on that, and consumption and investment fell leading to a current account surplus.  
+
+On the other hand, Spain had a balanced current account in the mid 90s and a 5pct real rate. After it joined the euro, the current account deficit grew to 10pct. At the same time, rates fell to near zero. Their currency couldn’t appreciate because of the euro but wages grew pushing up the real effective rate. Capital flows pushed their purchasing power in excess of their incomes. This gap was funneled into a debt and investment binge. When the capital flows stopped, Spainards' spending was forced to go below their income leading to a current account surplus and a severe recession.
+
+After German unification and the defeat of France, it imposed an indemnity on France to keep it down while Germany rebuilt. As discussed in [[Volatility Machine]], this indemnity was financed by France issuing new bonds and increased the global money supply. The capital inflow was actually bad for Germany due to its huge size (1/5 of annual output). It increased purchasing power which drove up imports while exports stagnated due to a strong currency. Much of the inflows were wasted on military spending as well as increased benefits for veterans. This caused wages to grow and became uncompetitive. Inflows were also wasted on financial speculation at home and abroad. The economy then went into recession when the inflows stopped. Much like an emerging market benefiting from capital inflows, its economy changes to accommodate the flow and then struggles when it stops.
+
+The balance of payments must be looked at globally and not just through bilateral flows. In the above example, Germany’s trade deficit was not primarily with France but global. Bilateral capital flows also don’t have to match bilateral trade flows. For instance, since 2015, capital flow from china to the US has shrunk while the trade deficit hasn’t. That’s because much of the gap is financed by European savers.
+
+Trump obsessed over the US’ trade deficit with Mexico. However, Mexico is also a deficit country. Because if its proximity to the US, it attracts investment from Japan and Europe. Because it attracts global savings, it actually helps the US trade deficit. If it shifted its imports to the US from other countries, that would take income away from other countries which would purchase fewer US exports. If Mexicans were forced to buy fewer goods from non-US countries they may just save more which would worsen the US trade deficit. Also if Mexico was penalized by say being kicked out of NAFTA, it would become a less desirable investment target than the US. This would push more inflows to the US worsening the trade deficit. 
+
+The only way it could help the US trade deficit directly would be if it increased its own overall deficit. Some of the extra spending may end up in the US. This may not work as some recipient countries may just save the extra income. This would also likely require more debt and lead to a boom and bust. (Isn’t this what happened with the peso crisis when capital flowed in post NAFTA causing its current account deficit to grow? [[Volatility Machine]]) This would hurt the US in the end.
 
 
 
 
 
+**Start Here**
 
-
-
-
-
-**Balance of Payments - Continue from here**
-
-The current account trades import and export of goods and services and net financing cost of servicing deficits or surpluses (interest and dividends). Financial account includes payments for imports and exports as well as capital investments.
-
-  
-
-If you spend (on imports and interest on foreign ownership of local assets) more than you earn (from exports and ownership of foreign assets) you have a current account deficit. The current account reflects the aggregate of spending versus earnings for all residents and businesses. All earnings are someone else’s income, and so at the global level, they must balance. But as a country, If you have a net deficit that means that income from outside the country (from exports and investments abroad) is less than income going out (for imports and and interest on foreign ownership of local assets). It’s the opposite for a country with a surplus. This discrepancy is met with an increase in foreign ownership of local assets - financial or physical known as foreign direct investment  (in the deficit case). That is, countries who spend more than they earn make up the difference by selling assets. The money coming in to buy local assets will exceed the money going out to buy foreign assets.
-
-  
-
-  
-
- The two must equal - a deficit implies that foreign countries were willing to take an IOU for future production. This is equivalent to foreigners purchasing domestic financial assets (treasuries but also stocks and bonds of private companies). A surplus requires the excess income to b invested somewhere.
-
-  
-
-The financial account can be broken into a private sector account and a government one. The latter is represented as the change in reserves.
-
-  
-
-Balances can be good or bad. Traditionally they went from rich countries to developing ones who had high investment needs. The US getting funding from UK in the 19th century. South Korea was a deficit country from independence till the Asian financial crisis (reconcile w carry trade book). Despite the crisis Korea was one of the few to go from poor to rich. Norway similarly was a deficit country to finance its offshore energy fields and is now a large surplus country. 
-
-Germany has been one of the worst investors abroad and would’ve done much better if it invested at home. If savings weren’t so high, there would be more domestic demand and more local investment to fund those demands. Instead, low demand forced them to make poor investments abroad. 
-
-  
-
-The best deficits are funded by equity as in SK and Norway. This means FDI or local currency debt. Today, most surplus countries are lenders rather than shareholders (what drove this?) Deficit countries also tend to be mature economies with few investment opportunities (eg US subprime debt and Greek sovereigns). Inflows have led to debt bubbles in these countries.
-
-  
-
-This can be attributed to the lack of capital controls in deficit countries but also inequality in surplus countries.  High savings are concentrated in the wealthy who prefer to make financial investments. The poor would rather consume and import goods. The decision of whether to purchase US treasuries vs US goods is driven by income distribution in the surplus countries.
-
-The size of the inflows is also to blame. When deficit countries receive sums they can’t handle they’re bound to be directed at poor investments.  
-
-  
-
-Push vs pull
-
-Money can be sucked into deficit countries or pushed out of surplus countries. If a country is pulling in capital, you’d expect the rate it pays in debt to rise as the deficit increases. Investors would require a higher rate to compensate for devaluation, inflation, and default risk. This is obvious in a case like turkey. An investment and consumption binge was funded from capital abroad. Rates rose through 2018, and as they feared a devaluation, investors only lent in USD vs lira (analogous to gold backed debts in Argentina in 19th century). Eventually they gave up on that, and consumption and investment fell leading to a current account surplus.
-
-  
-
-On the other hand, Spain had a balanced current account in the mid 90s and a 5pct real rate. After it joined the euro, the current account deficit grew to 10pct. At the same time, rates fell to near zero. Their currency couldn’t depreciate because of the euro but wages grew pushing up the real effective rate. Capital flows pushed their purchasing power in excess of their incomes. This gap was funneled into a debt and investment binge. When the capital flows stopped, Spainards spending was forced to go below their income leading to a current account surplus and severe recession.
-
-After German unification and the defeat of France, it imposed an indemnity on France to keep it down while Germany rebuilt. As discussed in volatility machine, this indemnity was financed by France issuing new bonds and increased the global money supply. The capital inflow was actually bad for Germany due to its huge size (1/5 of annual output). It increased purchasing power which drove up imports while exports stagnated due to a strong currency. Much of the inflows were wasted on military spending as well as increased benefits for veterans. This caused Wages to grow and became uncompetitive. Inflows were also wasted on financial speculation at home and abroad. The economy then went into recession when the inflows stopped. Much like an emerging market benefiting from capital inflows, its economy changes to accommodate the flow and then struggles when it stops.
-
-  
-
-The balance of payments must be looked at globally and not just through bilateral flows. In the above example, Germany’s trade deficit was not primarily with France but global. Bilateral capital flows also don’t have to match bilateral trade flows. For instance, since 2015, capital flow from china to the US have shrunk while the trade deficit hasn’t. That’s because much of the gap is financed by European savers.
-
-  
-
-Trump obsessed over the US’ trade deficit with Mexico. However, Mexico is also a deficit country. Because if its proximity to the US it attracts investment from Japan and Europe. Because it attracts global savings, it actually helps the US trade deficit. If it shifted its imports to the US from other countries, that would take income away from other countries which would purchase fewer US exports. If Mexicans were forced to buy fewer goods from non-US countries they may just save more which would worsen the US trade deficit. Also if Mexico was penalized by say being kicked out of NAFTA, it would become a less desirable investment target than the US. This would push more inflows to the US worsening the trade deficit.
-
-  
-
-The only way it could help the US trade deficit directly would be if it increased its own overall deficit. Some of the extra spending may end up in the US. This may not work as some recipient countries may just save the extra income.
-
-this would also likely require more debt and lead to a boom and bust. (Isn’t this what happened with the peso crisis when capital flowed in post NAFTA causing its current account deficit to grow?) This would hurt the US in the end.
 
 China - explaining the surpluses
 
