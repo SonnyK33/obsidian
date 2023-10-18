@@ -120,6 +120,11 @@ He taught course on Confucian theory w author at schwartzman college 
 - Lipton on public opinion
 
 
+[[Trade Wars are Class Wars - WIP]]
+Read - gerchenkron economic backwardness
+
+
+
 **Fiction**
 [[Home in the World (Amartya Sen)]]
 

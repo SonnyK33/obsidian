@@ -7,7 +7,11 @@ https://twitter.com/michaelxpettis/status/1639675118174756866?s=51&t=OkPM0paoQzg
 [[Long, Slow Death of Global Devlopment]]
 [[Volatility Machine]]
 [[Thinking in Systems]]
+[[Deficit Myth]]
+[[Bernanke on Savings Glut]]
 Odd Lots podcast with Setser
+
+[[To Read - Outline]]
 
 
 One fundamental result from this book was that a country's internal balance (savings vs investment) must equal its external balance (trade balance). The former is a function of domestic politics and history. Any changes to a country's trade balance must be examined  for their affect on the internal balance as well. 
@@ -24,6 +28,11 @@ Setser, on Odd Lots podcast, says most Chinese debt is held at cities and with L
 5) An unequal distribution of political power in both deficit and surplus countries causes the current imbalances. The size of the inflows is also to blame. When deficit countries receive sums they can’t handle they’re bound to be directed at poor investments.  
 6) The balance of payments must be looked at globally and not just through bilateral flows. In the above example, Germany’s trade deficit was not primarily with France but global. Bilateral capital flows also don’t have to match bilateral trade flows. For instance, since 2015, capital flow from china to the US has shrunk while the trade deficit hasn’t. That’s because much of the gap is financed by European savers - this is an important point from a systems point of view. Each country is a system interacting with other systems. Complications arise at the interface between two of them, and impacts are hard to forecast. 
 	1) A good example is the Mexico/US trade relationship. Trump wanted Mexico to import more from the US. But Mexico is also a deficit country and diverts some global savings away from the US (helping the US deficit). If it imported less from non-US countries, it may increase savings, and the other countries may, in turn, import less from the US. The only way Mexico could potentially help the US deficit would be for it to increase its overall trade deficit, and even that may not work as the other countries may save more. Mexico would also need to finance its bigger deficit with debt, increasing its own instability. It shows how complex these systems are.
+7) A stronger exchange rate normally raises household income relative to national income and raises consumption relative to domestic production or lower savings relative to investment (which is the same thing). When consumption exceeds domestic investment, that implies higher imports and a lower current account. These mechanisms keep the current and capital accounts in balance.
+	1) can this be proven in a 2 country model?
+
+**Open Questions**
+1) Mechanically how do exports lead to an outflow of savings? What’s the GDP accounting for that?
 
 
 
@@ -168,83 +177,48 @@ The only way it could help the US trade deficit directly would be if it increase
 **Start Here**
 
 
-China - explaining the surpluses
+**China - explaining the surpluses**
+[[China - Outline]]  
 
-  
+*Timeline of China's Growth Model*
+China has grown tremendously since Deng Xiaoping took over from Mao in 1978. China followed the same pattern as the UK and US centuries before. People were forced to leave the countryside for opportunities in the cities. They were underpaid relative to the value of goods which were sold abroad. This, along with pushes to shop domestically, created large trade surpluses. Those pushes included a state controlled banking service which directed investment to favored national champions. Foreign investment was lured in by the promise of a large, and relatively closed, domestic market.   
 
-China has grown tremendously since Deng Xiaoping took over from Mao in 1978. China followed the same pattern as the UK and US centuries before. People were forced to leave the countryside for opportunities in the cities. They were underpaid relative to the value of goods which were sold abroad. This, along with pushes to shop domestically, created large trade surpluses. Those pushes included a state controlled banking service which directed investment to favored national champions. 
-
-Foreign investment was lured in by the promise of a large, and relatively closed, domestic market. 
-
-  
-
-The trade surplus implied a larger capital
-
-Outflow in the form of purchases of Foreign assets - more than $700bn/yr by the mid-2000s. This collapsed with the GFC as their largest export market crashed. There were two ways to avoid high unemployment, boost investment or consumption. They were wary of boosting consumption, as that would have required higher debt loads (at least without a major restructuring of the economy) and the GFC showed the risk of too much debt. So they indulged on infrastructure and domestic investment instead. Per the savings imbalance model -
+The trade surplus implied a larger capital outflow in the form of purchases of foreign assets - more than $700bn/yr by the mid-2000s. This collapsed with the GFC as their largest export market crashed. There were two ways to avoid high unemployment, boost investment or consumption. They were wary of boosting consumption, as that would have required higher debt loads (at least without a major restructuring of the economy) and the GFC showed the risk of too much debt. So they indulged on infrastructure and domestic investment instead. Per the savings imbalance model -
 
 Trade deficit = capital surplus = investment - private savings - (t-g)
+Trade deficit + fiscal surplus = investment - private savings
 
-  
+So if there is a fiscal deficit which exceeds the trade deficit, savings exceed investment. That is there's private surplus. Kelton makes the same argument in [[Deficit Myth]].
 
 Higher investment, without a higher trade surplus (in fact with a lower surplus) requires higher savings. Repressing consumption and shifting purchasing power from consumers to large companies and local governments creates vested interests which will fight change.
+Investment is only useful though if it satisfies unmet consumption needs. Hence, investment at the expense of consumption is self defeating and will create excess capacity and poor workers.
 
-  
+**Stage 1**
+Deng took over after Mao devastated the economy. He first liberalized by allowing farmers to keep surpluses after meeting minimum quotas. He moved from central to local planning. He also delegated credit to local institutions which led to credit expansion and fueled economic growth. He moved away from large infrastructure and military projects and prioritized domestic consumption. and He kept political control by making changes gradually. He kept many elites in power and kept quotas in some industries but not others. He liberalized farming and light manufacturing before heavy industry for instance. This led to imbalances between rural and urban areas. This caused food inflation in the 1980s, which hurt the social compact and led to the Tianamen protests. The protests empowered the anti- reformists who were against liberalization, but when growth faltered, Deng was able to proceed at an even faster pace.
 
-Investment is only useful if it satisfies unmet consumption needs. Hence, investment at the expense of consumption is self defeating. Will create excess capacity and poor workers.
+Stage 2  
+Post 1988, China moved to accelerate its growth. Deng had to boost investment but savings were too low. The private sector was also unable to direct investments properly. These were common in developing countries due to the lack of property rights , weak banking sector, unstable political process etc. The solution is for the government to take a higher share of income via taxes and direct it to infrastructure and manufacturing plants. Something similar was done by Stalin and attempted by Mao during Great Leap Forward. It’s easier to repress domestic consumption in non-democratic societies. Something similar was done in Japan and then in Korea post WW2. In China the decline in consumption exceeded the increase in investment resulting in large current account surpluses.
 
-Stage 1
+One of the mechanisms used to transfer income from consumers is the exchange rate which is kept artificially high. Ordinarily, as demand for Chinese exports grew, its capital account should go into a deficit (Chinese purchasing foreign assets) and its currency should appreciate. The higher rate should make exports expensive and bring down the trade surplus. A stronger currency is a transfer of wealth from exporters to consumers who are importers. However, China closed the capital account by blocking transfers of wealth abroad and this account was also in surplus (foreigners buying Chinese assets). The balancing term was the accumulation of reserves by the central bank through sterilization (I think).  
 
-Deng took over after Mao devastated the economy. He first liberalized parts of the economy including allowing farmers to keep surpluses after meeting minimum quotas. He moved from central to local planning. He also delegated credit to local institutions which led to credit expansion and fueled economic growth. He moved away from large infrastructure and military projects and prioritized domestic consumption. and He kept political control by making changes gradually. He kept many elites in power and kept quotas in some industries but not others. He liberalized farming and light manufacturing before heavy industry for instance. This led to imbalances between ritual and urban areas.
+A stronger exchange rate would normally raise household income relative to national income and raise consumption relative to domestic production or lower savings relative to investment (which is the same thing). These mechanisms keep the current and capital accounts in balance (how?). Even if the exchange rate was kept artificially low, export demand should’ve raised Chinese wages and caused inflation, raising the real exchange rate. This also didn’t happen. They prevented inflation by suppressing consumer spending. Various government actions incentivized consumers to save rather than spend. They allowed  developers to confiscate private land and environmental standards were ignored. This is the opposite dynamic of when capital inflows inflate consumers' assets and disincentivize savings, as in the US. [[Bernanke on Savings Glut]] 
 
-  
+Financial repression - low deposit rates - were in place in the 2000s until rates were liberalized. This was a transfer from households to real estate developers and manufacturers. The low lending rates also led to unprofitable investments. The lack of worker protections (including restrictions on migrants moving to cities) and unions allows for low wages relative to productivity. Labour only captures 40pct of the value they produce vs 70 in most areas. The tax system focus on consumption over income taxes, which is regressive and further punishes those with the highest propensity to consume. These actions have empowered an elite (manufacturers and local government leaders) who are now resistant to change.
 
-This led to food inflation in the 1980s, which hurt the social compact and led to the tianamen protests. The protests empowered the anti reformists who were against liberalization. But when growth faltered, Deng was able to proceed at an even faster pace.
+The level of investment continued to grow and accelerated in the late 90s. It was growing faster than increases in productivity would imply (though that also grew by a lot) and the excess was absorbed through trade surpluses. That is, there wasn’t an increase in domestic demand. This continues until 2008 when exports collapsed. The government then pivoted to domestic investment in order to maintain employment. 
 
-Stage 2
+In China, GDP growth is treated as an input, and local governments are directed to provide sufficient credit to meet targets. This worked well in the beginning because there was a deficit of investment and almost everything made financial sense. But this continued even after productive investments ran out. This has led to an increase in debt, as marginal returns from investments have decreased. Local governments have no limits on budgets and don’t have to take write downs.  
 
-  
-
-Read - gerchenkron economic backwardness
-
-In historical perspective 
-
-  
-
-Post 1988, China moved to accelerate its growth. Deng had to boost investment but savings were too low. The private sector was also unable to direct investments properly. These were common in developing countries due to the lack of property rights , weak banking sector, unstable political process etc.
-
-The solution is for the government to take a higher share of income via taxes and direct it to infrastructure and manufacturing plants. 
-
-Something similar was done by Stalin and attempted by Mao during Great Leap Forward. It’s easier to repress domestic consumption in non-democratic societies. Something similar was done in Japan and then Korea post ww2
-
-  
-
-In China the decline in consumption exceeded increase in investment resulting in large ca surplus.
-
-One of the mechanisms used to transfer income from consumers is the exchange rate which is kept artificially high. Ordinarily, as demand for Chinese exports grew, its capital account should go into a deficit (Chinese purchasing foreign assets) and its currency should appreciate. The higher rate should make exports expensive and bring down the trade surplus. A stronger currency is a transfer of wealth from exporters to consumers who are importers. However, China closed the capital account by blocking transfers of wealth abroad and this account was also in a deficit (foreigners buying Chinese assets). The balancing term was the accumulation of reserves by the central bank through sterilization (I think). 
-
-  
-
-A stronger rate would normally raise HH income relative to national income and raise consumption relative to domestic production or lower savings relative to investment (which is the same thing). These mechanisms keep the current and capital accounts in balance (how?).
-
-  
-
-Even if the exchange rate was kept artificially low, export demand should’ve raised Chinese wages and caused inflation, raising the real exchange rate. This also didn’t happen.
-
-  
-
-They prevented inflation by suppressing consumer spending. One way was not respecting property rights and allowing developers to confiscate land. Environmental standards were also ignored.
-
-Mechanically how do exports lead to an outflow of savings? What’s the GDP accounting for that?
-
-Financial repression - low deposit rates - were in place in the 2000s until rates were liberalized. This was a transfer from households to real estate developers and manufacturers. The low lending rates also led to unprofitable investments. The lack of worker protections (including restrictions on migrants moving to cities) and unions allows for low wages relative to productivity. Labour only captures 40pct of the value they produce vs 70 in most areas. The tax system favors consumption over income taxes which is regressive and further punishes those with the highest propensity to consume. These actions have empowered an elite (manufacturers and local government leaders) who are now resistant to change.
-
-The level of investment continued to grow and accelerated in the late 90s. It was growing faster than increases in productivity would imply (though that also grew by a lot) and the excess was absorbed through trade surpluses. That is, there wasn’t an increase in domestic demand. This continues until 2008 when exports collapsed. The government then pivoted to domestic investment in order to maintain employment. GDP growth is treated as an input, and local governments are directed to provide sufficient credit to meet targets. This worked well in the beginning because there was a deficit of investment and almost everything made financial sense. But this continued even after productive investments ran out. This has led to an increase in debt, as marginal returns from investments have decreased. Local governments have no limits on budgets and don’t have to take write downs. 
-
-  
-
-China’s optimal level of investment is likely below that of developed countries due to its institutions. The opaque rules, bankruptcy laws, and risk of expropriation limit investments levels versus the West. Most poor countries are poor because of a lack of investment. This in turn is due to institutions. Few poor countries are poor because they lack investment - the exceptions are post war states or those experiencing rapid population growth. Deng’s reforms did change institutions but were not sufficient to justify the level of investment.
+**Institutions**
+China’s optimal level of investment is likely below that of developed countries due to its institutions. The opaque rules, bankruptcy laws, and risk of expropriation limit investments levels versus the West. Most poor countries are poor due to a lack of developed institutions. Few poor countries are poor because they lack investment - the exceptions are post war states or those experiencing rapid population growth. Deng’s reforms did change institutions but were not sufficient to justify the level of investment.
 
 China has now started to cut investment. However, unless that’s accompanied by an increase in spending (decrease in savings), it will result in larger trade surpluses once again. Even though its trade surplus peaked in 2008, the surplus in manufactured goods is at a high. It’s also started import substitution which has increased the trade surplus further. The BRI is another avenue to find markets for Chinese exports. Chinese banks lend to these markets which import Chinese goods, labour, and hire for infrastructure. 
+
+
+
+
+
+
 
   
 
