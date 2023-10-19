@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Systems Examples.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "023f4b084bb7c63b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Trade Wars are Class Wars - WIP.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "pettis",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -136,10 +122,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "023f4b084bb7c63b",
+  "active": "afb61862661e343c",
   "lastOpenFiles": [
-    "Molecules/Net Assessment - China.md",
+    "Molecules/Systems Examples.md",
+    "WIL/WILT - 10.19.23.md",
     "Trade Wars are Class Wars - WIP.md",
+    "Molecules/Net Assessment - China.md",
     "Outlines/To Read - Outline.md",
     "Deficit Myth.md",
     "China - Outline.md",
@@ -159,7 +147,6 @@
     "Hellenestic.md",
     "WIL/WILT - 10.10.23.md",
     "WIL/WILW - Template 1.md",
-    "Molecules/Systems Examples.md",
     "Thinking in Systems.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "The Power and the Glory.md"
