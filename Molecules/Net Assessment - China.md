@@ -1,6 +1,7 @@
 Type: #molecule 
-References: [[Geopoltical Alpha]]
-
+References: [[Geopoltical Alpha]] [[Trade Wars are Class Wars - WIP]]
+"Only Five Paths China's Economy Can Follow"
+https://carnegieendowment.org/chinafinancialmarkets/87007
 Political Constraints - 
 
 When analyzing a leader’s power, you must consider various factors.

@@ -9,6 +9,8 @@ https://twitter.com/michaelxpettis/status/1639675118174756866?s=51&t=OkPM0paoQzg
 [[Thinking in Systems]]
 [[Deficit Myth]]
 [[Bernanke on Savings Glut]]
+[[China - Outline]]
+[[Germany - Outline]]
 Odd Lots podcast with Setser
 
 [[To Read - Outline]]
@@ -30,6 +32,22 @@ Setser, on Odd Lots podcast, says most Chinese debt is held at cities and with L
 	1) A good example is the Mexico/US trade relationship. Trump wanted Mexico to import more from the US. But Mexico is also a deficit country and diverts some global savings away from the US (helping the US deficit). If it imported less from non-US countries, it may increase savings, and the other countries may, in turn, import less from the US. The only way Mexico could potentially help the US deficit would be for it to increase its overall trade deficit, and even that may not work as the other countries may save more. Mexico would also need to finance its bigger deficit with debt, increasing its own instability. It shows how complex these systems are.
 7) A stronger exchange rate normally raises household income relative to national income and raises consumption relative to domestic production or lower savings relative to investment (which is the same thing). When consumption exceeds domestic investment, that implies higher imports and a lower current account. These mechanisms keep the current and capital accounts in balance.
 	1) can this be proven in a 2 country model?
+8) capital inflows that increase asset values (rather than productive capacity) increase current account deficits. They fund consumption in excess of income and hence of the state's capacity. This implies more imports. 
+9) When put like this , the culprit seems to be the lenders since that’s there the funding comes from. A lot of links with [[Rise of Carry]] book as well as corporate finance. Excess liquidity creates the same balances with HY credits. It encourages poor investments in the same way.
+	1) Soaring equity and debt valuations do not encourage saving and conservatism. It encourages consumption and investment, especially bad investments. A high equity value allows stock issuances, just like a soaring currency value attracts further foreign investment.
+10) In the US, private sector, government, and household balances tend to offset one another. Many argue that the fiscal deficit is driving the current account deficit. But when it’s been in surplus, it was met by dissavings in the other two sectors [[Deficit Myth]]. The current account should be treated as the independent variable driving the internal balances. The main difference between the US and Germany is the persistent bid for US assets. This is due to the reserve nature of dollars that’s emerged since the collapse of the gold standard during the Great Depression.
+11) Towards the end of WW2, the Allies met in Bretton Woods to develop a new system. Keynes suggested an international settlement system with a reserve asset (bancor). Surplus and deficit countries would be punished for imbalances. Surplus countries would have to appreciate their currencies. The US vetoed the plan and insisted on the dollar as the reserve asset. Countries would have to maintain fixed exchange rates to the dollar. 
+12) The demand for riskless US assets was not sufficiently met with treasuries. The next best was MBS from the GSEs and the private label mortgage securities. Foreign purchases of reserves also meant there was an excess of production over demand. This was absorbed by the US. This resulted in asset bubbles and killed the domestic manufacturing sector. If the US had borrowed enough to meet the demand for treasuries and spent the proceeds on domestic stimulus, it could have prevented an asset bubble. That is, a larger fiscal deficit would have resulted in a smaller private deficit 
+13) Because the US doesn’t offset the inflows by issuing new debt, the private sector bears the brunt. I believe he means that without sterilization, the stronger dollar kills industry requiring more private sector debt, asset sales, or equity issuances. The gold standard kept things in check (see previous description). This was abandoned during the war, and there hasn’t been the will to return to the discipline it imposed.
+14) The US, along with the UK, Canada, and Australia resemble the colonies in the 19th century. The colonies were forced to buy European exports and accumulate debt to pay for them. The US has decided to favor the interests of financiers and the rich who benefit from a stronger dollar and from creating financial assets for foreigners. This political and income inequality has enabled elites in surplus countries to cut worker wages and social safety nets there as well. Ordinarily, paying workers low wages would result in insufficient demand for your goods. That’s not an issue when you can sell to the US and park profits in US assets. 
+15) China should enhance its safety net and end the hukou system. Strengthening labour unions would also shift wealth to workers. SOEs should pay dividends, raise taxes on the rich. Raise environmental regulations and continue to prop up the Yuan.
+
+16) Europe should increase its budget deficits which would require a federalization of the treasury. Raise taxes on the rich including inheritance taxes. Lower inequality especially in Germany. 
+
+17) The US should take the burden off the private sector by issuing debt to accommodate foreign savers. Spend on infrastructure and expand the social safety net. It could also support domestic production disadvantaged by the strong dollar. Part of the drive for US assets is the difficulty foreign countries have in borrowing dollars. It should institutionalize the central bank swap lines created during prior crises.
+
+18) Above three Will result in less debt, more consumption, and hence higher income.
+
 
 **Open Questions**
 1) Mechanically how do exports lead to an outflow of savings? What’s the GDP accounting for that?
@@ -174,9 +192,6 @@ The only way it could help the US trade deficit directly would be if it increase
 
 
 
-**Start Here**
-
-
 **China - explaining the surpluses**
 [[China - Outline]]  
 
@@ -212,222 +227,117 @@ In China, GDP growth is treated as an input, and local governments are directed 
 **Institutions**
 China’s optimal level of investment is likely below that of developed countries due to its institutions. The opaque rules, bankruptcy laws, and risk of expropriation limit investments levels versus the West. Most poor countries are poor due to a lack of developed institutions. Few poor countries are poor because they lack investment - the exceptions are post war states or those experiencing rapid population growth. Deng’s reforms did change institutions but were not sufficient to justify the level of investment.
 
-China has now started to cut investment. However, unless that’s accompanied by an increase in spending (decrease in savings), it will result in larger trade surpluses once again. Even though its trade surplus peaked in 2008, the surplus in manufactured goods is at a high. It’s also started import substitution which has increased the trade surplus further. The BRI is another avenue to find markets for Chinese exports. Chinese banks lend to these markets which import Chinese goods, labour, and hire for infrastructure. 
+China has now started to cut investment. However, unless that’s accompanied by an increase in spending (decrease in savings), it will result in larger trade surpluses once again. Even though its trade surplus peaked in 2008, the surplus in manufactured goods is at a high. It’s also started import substitution which has increased the trade surplus further. The BRI is another avenue to find markets for Chinese exports. Chinese banks lend to these markets which import Chinese goods, labour, and hire for infrastructure.   
 
+The trade surplus doesn’t seem to match official balance of payment figures. The discrepancy is likely capital flight masked as traveling abroad. This has been accommodated with a weaker currency and the selling of reserves.  
 
-
-
-
-
-
-  
-
-The trade surplus doesn’t seem to match official balance of payment figures. The discrepancy is likely capital flight masked as traveling abroad. This has been accommodated with a weaker currency and selling of reserves
-
-  
-
-If investment falls before consumption rises, overall demand will be depressed. Then, either domestic production can be decreased (resulting in unemployment) or excess goods can be dumped on market, increasing the trade surplus. This may be accomplished by devaluation the yuan. Losing US export makers then means they’d have to increase investment, requiring more domestic debt. They’ll also engage in import substitution, devalue the yuan, and allow household debt to increase.
+If investment falls before consumption rises, overall demand will be depressed. Then, either domestic production can be decreased (resulting in unemployment) or excess goods can be dumped on the  market, increasing the trade surplus. This may be accomplished by devaluing the yuan. Losing US exports  means they’d have to increase investment, requiring more domestic debt. They’ll also engage in import substitution, devalue the yuan, and allow household debt to increase.
 
 China will have to choose between higher unemployment, more debt, or shifting wealth to ordinary people from the elites - primarily municipal governments. Some cities may be lying about investment rates and GDP growth could be lower and debt loads higher. Any restructuring of the economy won’t have the immediate growth impulse that Deng’s reforms had because of the amount of debt.
 
-As detailed in volatility machine, sovereign debt changes the distribution of returns. Actors change their behavior - business invest less, rich pull out their money, etc. Economic growth will be slowed by the amount of deleveraging. The process of going from investment led to consumption led is always harder than believed. The imbalances will be reversed - either by a progressive reallocation of income or by a shrinking economy (where overall income slows by more than consumption). 
-
-  
+As detailed in [[Volatility Machine]], sovereign debt changes the distribution of returns. Actors change their behavior; businesses invest less, the rich pull out their money, etc. Economic growth will be slowed by the amount of deleveraging. The process of going from investment led to consumption led is always harder than believed. The imbalances will be reversed - either by a progressive reallocation of income or by a shrinking economy (where overall income slows by more than consumption).   
 
 The current process can continue as long as banks can finance bad investments. However, at some point, they’ll hit a constraint. During the deleveraging process, a lot of bad debts will have to be written off which will lower GDP. That is, GDP may have been overstated because of bad debt that will have to be written off. If debt isn’t written off, it will restrain economic growth for even longer (again per volatility machine).
+See [[Net Assessment - China]] for detail on China's paths.
 
-Germany
 
-German reunification shifted national income from middle class households to the wealthy and businesses. Cuts in social spending and no inheritance taxes changed the distribution of income and benefited the wealthy. Tax cuts shifted more wealth to net savers and hurt domestic demand. Excess production had to be exported. Before 2008 this mainly went to the European periphery who accumulated huge debts and suffered high unemployment when the bubble burst. Since 2008, this has continued due to strict fiscal management and policy choices to avoid public debt (schuldenbremse - debt break)
 
-  
+**Germany**
+[[Germany - Outline]]
 
-The end of communism in Europe started with the Polish solidarity movement but the key failure was in Hungary. There the communist party stopped watching its border with Austria due to a lack of resources which gave East Germans a path to west Germany. This accelerated and culminated with the fall of communism in Germany. Russias inability to intervene was partially explained by its worsening terms of trade. As a grain importer and oil exporter it benefited during the boom of the 1960s and 1970s and was able to accumulate dollar debts. That changed in 1980 with crashing oil prices. High military expenditure would’ve required austerity at home (as with Stalin) but Gorbachev wasn’t willing to carry that out.
+German reunification shifted national income from middle class households to the wealthy and businesses. Cuts in social spending and the lack of an inheritance taxes changed the distribution of income and benefited the wealthy. Tax cuts shifted more wealth to net savers and hurt domestic demand. Excess production had to be exported. Before 2008 this mainly went to the European periphery who accumulated huge debts and suffered high unemployment when the bubble burst. Since 2008, this has continued due to strict fiscal management and policy choices to avoid public debt (schuldenbremse - debt break)  
 
-After the Berlin Wall fell, reunification talks began. A centre right party won in east Germany which accelerated talks. A new agency was setup to manage the SOEs in east Germany, and the exchange rate between the two was set at 1:1 to avoid an exodus from East Germany. Labor unions in the west feared industry shifting to the East to save costs so they pushed for pay hikes there as well. Labour productivity in the East thus plunged and unemployment spiked. The exodus happened anyways. Living standards and now mostly converged though many undereducated men remained in the East while a disproportionate group of educated women relocated to the west.
+The end of communism in Europe started with the Polish solidarity movement but the key failure was in Hungary. There, the communist party stopped watching its border with Austria due to a lack of resources which gave East Germans a path to west Germany. This accelerated and culminated with the fall of communism in Germany. Russias inability to intervene was partially explained by its worsening terms of trade. As a grain importer and oil exporter it benefited during the boom of the 1960s and 1970s and was able to accumulate dollar debts. That changed in 1980 with crashing oil prices. High military expenditure would’ve required austerity at home (as with Stalin) but Gorbachev wasn’t willing to carry that out.
 
-  
+After the Berlin Wall fell, reunification talks began. A centre-right party won in East Germany which accelerated talks. A new agency was setup to manage the SOEs in east Germany, and the exchange rate between the two was set at 1:1 to avoid an exodus from East Germany. Labor unions in the west feared industry shifting to the East to save costs so they pushed for pay hikes there as well. Labour productivity in the East thus plunged and unemployment spiked. The exodus happened anyways. Living standards have now mostly converged though many undereducated men remained in the East while a disproportionate group of educated women relocated to the west.
 
-Post reunification, there was a spike in inflation and the government responded with high interest rates and cut fiscal spending in line with the Maastricht treaty. This cut growth and investment and occurred at the same time as eastern and Central Europe were opening to investment. Salaries in Slovakia for instance were 1/9 that of Germany and productivity was not 9x lower. In the past 3 decades, almost all of the growth in German car manufacturing came factories outside Germany. Of 17m cars produced in 2017, 11 m were made outside. The relocation of jobs was a threat that weakened unions. Manufacturing employment fell by 15pct, hurting men especially. Chancellor Roman herzog said germany could be left behind in the post Cold War era and argued to dismantle social benefits to make Germany more competitive. Demand and investment actually briefly gained in the late 1990s due to a tech bubble mirroring the Nasdaq (neueu markt) which also collapsed by 95pct.
+Post-reunification, there was a spike in inflation and the government responded with high interest rates and cut fiscal spending in line with the Maastricht treaty. This cut growth and investment, and it occurred at the same time as Eastern and Central Europe were opening to investment. Salaries in Slovakia for instance were 1/9 that of Germany and productivity was not 9x lower. In the past 3 decades, almost all of the growth in German car manufacturing came from factories outside of Germany. Of 17m cars produced in 2017, 11m were made outside. The relocation of jobs was a threat that weakened unions. Manufacturing employment fell by 15pct, hurting men especially. Chancellor Roman herzog said Germany could be left behind in the post Cold War era and argued to dismantle social benefits to make Germany more competitive. Demand and investment actually briefly gained in the late 1990s due to a tech bubble mirroring the Nasdaq (neueu markt) which also collapsed by 95pct. After the tech boom, investment fell as did consumption. Borrowing increased during the good times and created a debt bubble. After it popped, there was a long period of deleveraging and deflation. Businesses cut wages and investment. The savings rate also rose a little.  
 
-After the tech boom, investment fell as did consumption. Borrowing increased during the good times and created a debt bubble. After it popped, there was a long period of deleveraging and deflation. Businesses cut wages and investment. The savings rate also rose a little.
+By now Germany was in the Eurozone and wasn’t able to cut interest rates as the rest of  union was doing well, especially Spain. Fiscal policy was also restrained by Maastricht rules and was hampered by high interest rates on reunification era loans. The net effect was a cut to German imports and a transformation of the current account deficit into a surplus. Cuts to investment without cuts to the savings rate and an excessively restrictive fiscal policy created a current account surplus. That is, it wasn’t the competitiveness of German exports that drove the surplus but the collapse of imports. This persisted due to policy choices.
 
-  
+Hart reforms pushed by Schroeder slashed the welfare state and expanded the number of jobs but made many part time. It contained various tax cuts including on capital gains that favored the rich. This blew up the poverty rate, and Schroeder lost to Merkel. 
 
-By now germany was in the eurozone and wasn’t able to cut interest rates as the rest of the eurozone was doing well, especially Spain. Fiscal policy was also restrained by Maastricht rules and was hampered by high interest rates on reunification era loans. The net effect was a cut to German imports and a transformation of the current account deficit into a surplus. Cuts to investment without cuts to the savings rate and an excessively restrictive fiscal policy created a current account surplus. That is, it wasn’t the competitiveness of German exports that drove the surplus but the collapse of imports. This persisted due to policy choices.
+Hartz negotiated with VW unions in the 1990s to keep workers but with shorter weeks. More unemployment but at lower pay became his strategy for the country as well. Retirement ages rose, unemployment benefits were slashed, social benefits and taxes were cut. Lowering unemployment benefits was meant to force people back to work. Hartz argued that many people chose unemployment because of the generous benefits. The generous social programs extended to East Germany were reversed. Schroeder pushed through these reforms alongside his popular opposition to the Iraq war. These policies were popular with most Germans except in the east who felt betrayed. The biggest impact was an increase in poverty and a switch to part-time work which makes up 30% of jobs. 
 
-Hart reforms pushed by Schroeder slashed the welfare state and expanded the number of jobs but made many part time. It contained various tax cuts including on capital gains that favored the rich. This blew up the poverty rate. Schroeder lost to Merkel.
-
-  
-
-Hartz negotiated w VW unions in the 1990s to keep workers but with shorter weeks. More unemployment but at lower pay became his strategy for the country as well. Retirement ages rose, unemployment benefits were slashed, social benefits and taxes were cut. Lowering unemployment benefits was meant to force people back to work. Hartz argued that many people chose unemployment because of the generous benefits. The generous social programs extended to east Germany were reversed. Shroeder pushed through these reforms alongside his popular opposition to the Iraq war.
-
-  
-
-These policies were popular with most Germans except in the east who felt betrayed. The biggest impact was an increase in poverty and a switch to part-time work which makes up 30pxt or jobs.
-
-  
-
-Agenda 2010 the last phase of the Hartz reforms had a lasting impact on labour relations. It drastically increased the number of workers over 55 whose wellbeing was worse than when they received social support. Poverty was higher than in Austria and even southern Europe at the onset of the financial crisis.
-
-  
-
-Schroeder told unions to be more flexible. German workers made less in real terms in 2013 than in 1999 after taking into account taxes. Even though he didn’t t force it, businesses took the hint. Employees were forced back to work and to accept less.
+Agenda 2010, the last phase of the Hartz reforms, had a lasting impact on labour relations. It drastically increased the number of workers over 55 whose wellbeing was worse than when they received social support. Poverty was higher than in Austria and even southern Europe at the onset of the financial crisis. Schroeder told unions to be more flexible. German workers made less in real terms in 2013 than in 1999 after taking into account taxes. Even though he didn’t t force it, businesses took the hint. Employees were forced back to work and to accept less.
 
 Business and government policies explain the continued shift of wealth towards the wealthy. Week labour protections, inheritance taxes that exempt businesses, low property taxes, the abolishment of the wealth tax, and the shifting of jobs to emerging Europe all contributed to the shift in earnings towards those who save. There was a massive shift in the distribution of income towards capital and away from labour. This was caused by a relentless obsession with international competitiveness. Shifting jobs overseas increases export income while low domestic spending kept savings high. Gains on assets disproportionately went to the wealthy because of how unequal Germany is. The median German is poorer than the median Spaniard. Most of the wealth is in family businesses which are controlled by the rich.
 
-  
+Germans also started saving more in the late 1990s because they feared the slashing of government pensions and losing their jobs to cheaper markets in emerging Europe. The excess German savings needed to be invested somewhere. In a closed economy, it would just lead to lower overall income as there would be insufficient domestic demand to fund income. Germany was able to invest its savings abroad though, especially to the rest of the eurozone. It was not principally responsible for funding the mortgage boom in the US which was dollar funded (this contradicts carry trade book). 
 
-Germans also started saving more in the late 1990s because they feared the slashing of government pensions and losing their jobs to cheaper markets in emerging Europe.
+Most of the savings were recycled through German banks. Insufficient demand for credit plus excess deposits meant banks had to lend abroad. Most of this came from the state lender Landesbank who lent to Spain, Italy, Greece, Ireland, and others. It funded excess consumption (which turned into imports for German goods) and bad investments like the Don Quixote airport in Spain. As described by Bernanke in his speech, German investment in foreign assets (including the US) increased household wealth abroad and encouraged consumption. People felt wealthier and hence saved less. Their consumption included imports from abroad. Just as Bernanke pointed out, the relation between household wealth and current account deficits, Pettis points out the relation between income inequality and current account surpluses. [[Bernanke on Savings Glut]]
 
-The excess German savings needed to be invested somewhere. In a closed economy, it would just lead to lower overall income as there would be insufficient domestic demand to fund income. Germany was able to invest its savings abroad though, especially to the rest of the eurozone. It was not principally responsible for funding the mortgage boom in the US which was dollar funded (this contradicts carry trade book).
+The excess savings financed current account deficits in peripheral Europe, especially Spain. They went to countries with higher inflation but converging interest rates due to the eurozone (see [[Rise of Carry]]). The inflows funded consumption well in excess of income and hence production. The difference then had to come from imports. This is an important insight. It explains why capital inflows that increase asset values (rather than productive capacity) increase current account deficits. 
 
-  
+Competitiveness was not the issue. Spanish exports grew with GDP. The problem was imports. It’s not culture either. Germany went through something similar in the 1870s. Countries can’t absorb those kinds of flows. Soaring equity and real estate values increase perceived wealth and encourage spending. Banks flush with cash need to lend and hence lower standards. 
 
-Most of the savings were recycled through German banks. Insufficient demand for credit plus excess deposits meant banks had to lend abroad. Most of this came from the state lender Landesbank who lent to Spain, Italy, Greece, Ireland, and others. It funded excess consumption (which turned into imports for German goods) and bad investments like the Don Quixote airport in Spain. As described by Bernanke in his speech, German investment in foreign assets (including the US) increased household wealth abroad and encouraged consumption. People felt wealthier and hence saved less. Their consumption included imports from abroad. Just as bernanke pointed out the relation between household wealth and current account deficits, pettis points out the relation between income inequality and current account surpluses.
+Given the eurozone, Spain couldn’t raise rates during the boom or lower them during the crash. While they could've cut the deficit to help offset low private savings, cuts would have needed to be so large that it would be politically impossible. Even when German banks retrenched, the surpluses continued. This is because many German banking assets became part of the target2 system (think [[Geopoltical Alpha]]). Germany also bought back most of its debt and so foreign savers (or domestic) couldn’t park assets in Germany, further encouraging the imbalance. Germans blame peripheral Europe’s profligacy for the crisis while ignoring their part. They expected the rest of Europe to follow the changes they made in the Hart reforms.
 
-  
+When put like this , the culprit seems to be the lenders since that’s there the funding comes from. A lot of links with [[Rise of Carry]] book as well as corporate finance. Excess liquidity creates the same balances with HY credits. It encourages poor investments in the same way. Soaring equity and debt valuations do not encourage saving and conservatism. It encourages consumption and investment, especially bad investments. A high equity value allows stock issuances, just like a soaring currency value attracts further foreign investment.
 
-The excess savings financed current account deficits in peripheral Europe, especially Spain. They went to countries with higher inflation but converging interest rates due to the eurozone (see carry trade book). The inflows funded consumption well in excess of income and hence production. The difference then had to come from imports. This is an important insight. It explains why capital inflows create current account deficits.
+From 1960s till 2010, German law only allowed fiscal deficits for investment and emergencies. As the welfare state and interest expense grew, officials pushed for tighter restrictions on spending. Reunification led to much higher fiscal spending and debt as the two sides converged and the social safety net grew. The resulting laws only allowed deficit spending for natural disasters (if voted on). It didn’t allow deficits for infrastructure. This was backed by wealthy Germans who were tired of supporting eastern Germany. The constitutional law was called schuldenbremse - debt brakes.  
 
-  
+The result of these changes has been chronic underinvestment in Germany including basic infrastructure. People have taken the wrong lessons from the Eurozone crisis, and Germany's policies have evolved into the fiscal compact for the whole eurozone. The bloc used to run a balanced current account and fiscal matched private deficits or surpluses. Now the eurozone runs large surpluses including the periphery. Greece cut investment and consumption by a third. The current account surpluses aren’t the result of export performance but rather cuts in domestic spending. 
 
-Competitiveness was not the issue. Spanish exports grew with gdp. The problem was imports. It’s not culture either. Germany went through something similar in the 1870s. Countries can’t absorb those kinds of flows. Soaring equity and real estate values increase perceived wealth and encourage spending. Banks flush with cash need to lend and hence lower standards.
+The center right in Germany has a deep ideological problem with fiscal spending. They claim to be saving for an aging population. But given much of the debt has deeply negative real rates, their fiscal plans only make sense if you’re expecting negative returns in investment.  
 
-  
+While deficit countries became surplus countries, the traditional lenders (Germany and Netherlands) continued to be net savers. The emerging world and the Anglo sphere has had to absorb the savings with trade deficits and debt. The switch to surplus has also resulted in rising inequality in peripheral Europe. Corporate taxes have fallen and VATs have risen while wages have fallen to boost competitiveness. They have been willing to go through austerity to avoid the risk of going through a Greece like depression.
 
-Given the eurozone, Spain couldn’t raise rates during the boom or lower them during the crash. While they couldve cut the deficit to help offset low private savings, it would have needed to be so large that it was politically impossible. Even when german banks retrenched, the surpluses continued. This is because many German banking assets became part of the target2 system (think in geopolitical alpha). Germany also bought back most of its debt and so foreign savers (or domestic) couldn’t park assets in Germany, further encouraging the imbalance. 
 
-  
+**The US Exception**
 
-Germans blame peripheral Europe’s profligacy for the crisis while ignoring their part. They expected the rest of Europe to follow the reforms they made in Hart reforms.
-
-  
-
-When put like this , the culprit seems to be the lenders since that’s there the funding comes from. A lot of links with carry trade book as well as corporate finance. Excess liquidity creates the same balances with HY credits. It encourages poor investments in the same way.
-
-Soaring equity and debt valuations do not courage saving and conservatism. It encourages consumption and investment, especially bad investments. A high equity value allows stock issuances, just like a soaring currency value attracts further foreign investment.
-
-From 1960s till 2010, German law only allowed fiscal deficits for investment and emergencies. As the welfare state and interest expense grew, officials pushed for tighter restrictions on spending. Reunification led to much higher fiscal spending and debt as the two sides converged and the social safety net grew. the resulting laws only allowed deficit spending for natural disasters (if voted on). It didn’t allow deficits for infrastructure. This was backed by wealthy Germans who were tired of supporting eastern Germany. The constitutional law was called schuldenbremse - debt brakes:
-
-  
-
-The result of these changes has been chronic underinvestment in Germany including basic infrastructure.
-
-People have taken the wrong lessons from the eurozone crisis, and germanys policies have evolved into the fiscal compact for the whole eurozone. The bloc used to run a balanced current account and fiscal matched private deficits or surpluses. Now the eurozone runs large surpluses including the periphery. Greece cut investment and consumption by a third. The current account surpluses aren’t the result of export performance but rather cuts in domestic spending.
-
-  
-
-The center right in Germany has a deep ideological problem with fiscal spending. They claim to be saving for an aging population. But given much of the debt has deeply negative real rates, their fiscal plans only make sense if you’re expecting negative returns in investment.
-
-  
-
-While deficit countries became surplus countries, the traditional lenders (Germany and Netherlands ) continued to be net savers. The emerging world and the Anglo sphere has had to absorb the savings with trade deficits and debt. The switch to surplus has also resulted in rising inequality in peripheral Europe. Corporate taxes have fallen and VATs have risen while wages have fallen to boost competitiveness. Their willing to go through austerity to avoid the risk of going through a Greece like depression.
-
-The US and Germany are similar in that they have income inequality and shifted wealth towards capital versus labour. Like the Hartz reforms, the US had welfare reforms and the bush tax cuts. But since the USD is the worlds reserve asset, and it is so accommodating to inflows, it’s been forced to consume more than it produces. The inflows have strengthened purchasing power and the dollar, leading to a current account deficit. Interest rates have been pushed down, increasing borrowing and consumption. Ordinarily, foreign investors would demand higher real returns (and a weaker currency), but the flows haven been economical. Foreigners have parked savings in the US due to an aversion to risk. This was done in lieu of investing domestically which would increase demand at home. By definition, inflows in the US have led to a combination of more investment, more consumption, and less output.
-
-  
-
-We should expect a surplus in the US as in Germany. Lower taxes and welfare programs should have led to higher savings rates. Instead, the savings rate halved from the 1970s to the 1990s.
-
-  
+The US and Germany are similar in that they have income inequality and shifted wealth towards capital versus labour. Like the Hartz reforms, the US had welfare reforms and the Bush tax cuts. But since the USD is the worlds reserve asset, and it is so accommodating to inflows, it’s been forced to consume more than it produces. The inflows have strengthened purchasing power and the dollar, leading to a current account deficit. Interest rates have been pushed down, increasing borrowing and consumption. Ordinarily, foreign investors would demand higher real returns (and a weaker currency), but the flows haven been uneconomical. Foreigners have parked savings in the US due to an aversion to risk. This was done in lieu of investing domestically which would increase demand at home. By definition, inflows in the US have led to a combination of more investment, more consumption, and less output. We should expect a surplus in the US as in Germany. Lower taxes and welfare programs should have led to higher savings rates. Instead, the savings rate halved from the 1970s to the 1990s.  
 
 There was a similar boom in the late 1990s which led to a crash. Investment plummeted subsequently, and since then, income had disproportionately gone to shareholders and creditors rather than workers. Most companies generate more FCF than what they invest (until 2014 at least). Employees are worse off now than pre-2000.
 
-In the US, private sector, government, and household balances tend to offset one another. Many argue that the fiscal deficit is driving the current account deficit. But when it’s been in surplus, it was met by dissavings in the other two sectors. The current account should be treated as the independent variable driving the internal balances. The main difference between the US and Germany is the persistent bid for US assets. This is due to the reserve nature of dollars that’s emerged since the collapse of the gold standard during the Great Depression.
+In the US, private sector, government, and household balances tend to offset one another. Many argue that the fiscal deficit is driving the current account deficit. But when it’s been in surplus, it was met by dissavings in the other two sectors [[Deficit Myth]]. The current account should be treated as the independent variable driving the internal balances. The main difference between the US and Germany is the persistent bid for US assets. This is due to the reserve nature of dollars that’s emerged since the collapse of the gold standard during the Great Depression.
 
-Gold standard had eroded by WW1, when only 5pct of its notes were backed by gold. Most countries abandoned their peg to finance the war effort. After the war, at a conference in Genoa, major powers agreed to return to the pre-war peg. Current account surplus countries would get gold inflows which would expand credit and inflate wages. This would increase imports, reduce exports, and the gold flows would reverse. Hence, the world would be kept in equilibrium.
+The gold standard had eroded by WW1, when only 5pct of its notes were backed by gold. Most countries abandoned their peg to finance the war effort. After the war, at a conference in Genoa, major powers agreed to return to the pre-war peg. Current account surplus countries would get gold inflows which would expand credit and inflate wages. This would increase imports, reduce exports, and the gold flows would reverse. Hence, the world would be kept in equilibrium. 
 
-  
+France and the US didn’t abide by the standards. France devalued its currency which allowed for a larger current account surplus. The US experienced less inflation than Europe during the war, so its currency was effectively depreciated relative to Europe. It was also earning income from loans to Europe. Both countries experienced good inflows but they sterilized the flows by taking gold out of circulation. Deficit countries stuck to the standard until the Great Depression. Europe, Japan, and the US eventually broke the peg, while Germany was cut out of the system by the end of the 30s.
 
-France and the US didn’t abide by the standards. France devalued its currency which allowed for a larger current account surplus. The US experienced less inflation than Europe during the war, so its currency was effectively depreciated relative to Europe. It was also earning income from loans to Europe. Both countries experienced good inflows but they sterilized the flows by taking gold out of circulation. Deficit countries stuck to the standard until the Great Depression. Europe, Japan, and the US eventually broke the peg, while germany was cut out of the system by the end of the 30s.
+Towards the end of WW2, the Allies met in Bretton Woods to develop a new system. Keynes suggested an international settlement system with a reserve asset (bancor). Surplus and deficit countries would be punished for imbalances. Surplus countries would have to appreciate their currencies. The US vetoed the plan and insisted on the dollar as the reserve asset. Countries would have to maintain fixed exchange rates to the dollar. At the time, the US had a large surplus and thought this would continue. It also expected domestic spending to fall post-war. Countries would now have to hold the dollar as they used to hold gold. Europe agreed because they could still exchange dollars for gold at a fixed rate.
 
-Towards the end of ww2, the Allie’s met in bretton woods to develop a new system. Keynes suggested an international settlement system with a reserve asset (bancor). Surplus and deficit countries would be punished for imbalances. Surplus countries would have to appreciate their currencies. The US vetoed the plan and insisted on the dollar as the reserve asset. Countries would have to maintain fixed exchange rates to the dollar. At the time, the US had a large surplus and thought this would continue. It also expected domestic spending to fall post-war. Countries would now have to hold the dollar as they used to hold gold. Europe agreed because they could still exchange dollars for gold at a fixed rate.
+The US was against any plan to punish surplus countries. If you had a deficit, it would have to be offset with higher savings by cutting fiscal spending. This could occur by depreciating your currency or with unemployment. The US had a current account surplus in the 1950s but a larger capital account deficit. It balanced by selling more claims against gold reserves. The US dollar was overvalued. Rather than depreciating, they sold more claims abroad to maintain the peg. Countries started converting dollars for gold, and eventually half of the reserves were lost. This was exacerbated by Kennedy’s election and the desire for more social spending. 
 
-  
+By 1971, with Germany making the mark float against the dollar, a deteriorating trade balance, and rising inflation, Nixon abandoned the peg. If countries hadn’t demanded gold, the peg could have been maintained longer. The fixed exchange system was also exporting inflation. Some argued that if the US had kept inflation under control, it could have maintained a fixed exchange system and controlled global monetary policy. Inflation also deferred more gold mining as the cost of mining also rose relative to gold prices. 
 
-The US was against any plan to punish surplus countries. If you had a deficit, it would have to be offset with higher savings by cutting fiscal spending. This could occur by depreciating your currency or with unemployment.
+Bretton woods 2 was the system that followed where most countries maintained pegs against the USD. These pegs were expensive. This continued until the Asia financial Crisis. Those countries had been major recipients of inflows. This reversed in 1997. The countries had large dollar debts and a carry crash eventually occurred.  [[The Rise of Carry]]The IMF came to the rescue with contractionary policy recommendations which crushed imports and created current account surpluses. The countries never wanted to repeat Thailand's experience and so accumulated large dollar reserves. This diverted domestic spending and kept domestic demand low and created current account surpluses. [[Bernanke on Savings Glut]]
 
-  
-
-The US had a current account surplus in the 1950s but a larger capital account deficit. It balanced by selling more claims against gold reserves. The US dollar was overvalued. Rather than depreciating, they sold more claims abroad to maintain the peg. Countries started converting dollars for gold, and eventually half of the reserves were lost. This was exacerbated by Kennedy’s election and the desire for more social spending.
-
-  
-
-By 1971, with Germany making the mark float against the dollar, a deteriorating trade balance, and rising inflation, Nixon abandoned the peg. If countries hadn’t demanded gold, the peg could have been maintained longer. The fixed exchange system was also exporting inflation. Some argued that if the US had kept inflation under control, it could have maintained a fixed exchange system and controlled global monetary policy. Inflation also deferred more gold mining as the cost of mining also rose relative to gold prices.
-
-  
-
-Bretton woods 2 was the system that followed where most countries maintained pegs against the USD. These pegs were expensive. This continued until the Asia financial Crisis. Those countries had been major recipients of inflows. This reversed in 1997. The countries had large dollar debts and a carry crash eventually occurred. The IMF came to the rescue with contractionary policy recommendations which crushed imports and created current account surpluses. The countries never wanted to repeat Thai process and so accumulated large dollar reserves. This diverted domestic spending and kept domestic demand low and created current account surpluses.
-
-  
-
-China watched events and followed the same process by accumulating trillions in reserves. By maintaining peg, they could maintain a current account surplus and not depend on foreign financing. China had to sterilize inflows to prevent its currency from appreciating and so accumulated trillions of reserves to maintain the peg.
-
-  
+China watched events and followed the same process by accumulating trillions in reserves. By maintaining peg, they could maintain a current account surplus and not depend on foreign financing. China had to sterilize inflows to prevent its currency from appreciating and so accumulated trillions of reserves to maintain the peg. 
 
 Outside of Asia, the commodity exporters (Middle East, Russia, Norway) accumulated large reserves. These unsolicited inflows explain why the dollar appreciated even as the current account decreased and rates fell. Ordinarily you’d think the US would need higher rates to attract inflows as the current account deficit increases.
 
-The demand for riskless US assets was not sufficiently met with treasuries. The next best was MBS from the GSEs and the private label mortgage securities. Foreign purchases of reserves also meant there was an excess of production over demand. This was absorbed by the US. This resulted in asset bubbles and killed the domestic manufacturing sector. If the US had borrowed enough to meet the demand for treasuries and spent the proceeds on domestic stimulus, it could have prevented an asset bubble. That is, a larger fiscal deficit would have resulted in a smaller private deficit (see the bernanke and kelton articles). 
+The demand for riskless US assets was not sufficiently met with treasuries. The next best was MBS from the GSEs and the private label mortgage securities. Foreign purchases of reserves also meant there was an excess of production over demand. This was absorbed by the US. This resulted in asset bubbles and killed the domestic manufacturing sector. If the US had borrowed enough to meet the demand for treasuries and spent the proceeds on domestic stimulus, it could have prevented an asset bubble. That is, a larger fiscal deficit would have resulted in a smaller private deficit (see [[Deficit Myth]], [[Bernanke on Savings Glut]]). 
 
-  
-
-The inflows and demand to assets led to the lowering of credit underwriting standards. More demand and limited supply leads to a combination of higher prices (lower rates) and more supply. People who could ordinarily qualify for mortgages already had one. To get additional supply, standards had to be lowered. This led to an increase in purchasing power which led to more asset appreciation and credit growth and so on. The increase in wealth led to less savings and more debt infused consumption.
-
-The increases in household wealth (driven by the mortgage boom) caused Americans to save less.
-
-  
+The inflows and demand for assets led to the lowering of credit underwriting standards. More demand and limited supply leads to a combination of higher prices (lower rates) and more supply. People who could ordinarily qualify for mortgages already had one. To get additional supply, standards had to be lowered. This led to an increase in purchasing power which led to more asset appreciation and credit growth and so on. The increase in wealth led to less savings and more debt infused consumption. The increases in household wealth (driven by the mortgage boom) caused Americans to save less.  
 
 Eventually this unwound. Everyone who wanted a house got one and credit growth slowed. This reversed the process and house prices started falling. Unlike Greece and southern Europe, the U.S. didn’t experience a consumption boom. While savings rates fell, overall consumption was not historically high. Income inequality led to muted domestic demand. But domestic production fell by even more, so demand went towards imports. The manufacturing sector bore the brunt of job losses during this period. The foreign inflows caused USD appreciation and made domestic production uncompetitive relative to imports. There was a direct relationship between the areas where jobs were lost to foreign imports and credit growth. People substituted lost wages with more debt.
 
 Post GFC, things should have returned to equilibrium. The recession should have brought down imports. Foreign savings though caused the same trends to persist. They necessarily result in lower domestic savings or income. They appreciate the dollar which lowers exports and increases consumption. The loss of exports leads to unemployment which results in lower savings. The fed will respond with lower rates which also leads to more debt. Inflows may cause asset appreciation which leads to lower savings. The government will increase unemployment benefits and other fiscal transfers which increases consumption. The main buyers of dollar assets post 2014 haven’t been reserve managers but Europeans looking for safe assets. Low deficits and ECB asset purchases decreased euro safe assets.
 
-Keynes understood the downside to having the reserve currency. The UK kept the pound unreasonably high in the 1910s to protect the value of sterling assets bought by commonwealth residents including Indian residents. The result was higher unemployment during the 1920s. The British people then voted for change and the pound was devalued and rates were lowered.
+Keynes understood the downside to having the reserve currency. The UK kept the pound unreasonably high in the 1910s to protect the value of sterling assets bought by commonwealth residents including Indian residents. The result was higher unemployment during the 1920s. The British people then voted for change and the pound was devalued and rates were lowered. 
 
-  
+Because the US doesn’t offset the inflows by issuing new debt, the private sector bears the brunt. I believe he means that without sterilization, the stronger dollar kills industry requiring more private sector debt, asset sales, or equity issuances. The gold standard kept things in check (see previous description). This was abandoned during the war, and there hasn’t been the will to return to the discipline it imposed.
 
-Because the US doesn’t offset the inflows by issuing new debt, the private sector bears the brunt. I believe he means that without sterilization, the stronger dollar kills industry requiring more private sector debt, asset sales, or equity issuances.
+**Conclusion**
 
-  
+The US, along with the UK, Canada, and Australia resemble the colonies in the 19th century. The colonies were forced to buy European exports and accumulate debt to pay for them. The US has decided to favor the interests of financiers and the rich who benefit from a stronger dollar and from creating financial assets for foreigners. This political and income inequality has enabled elites in surplus countries to cut worker wages and social safety nets there as well. Ordinarily, paying workers low wages would result in insufficient demand for your goods. That’s not an issue when you can sell to the US and park profits in US assets. 
 
-The gold standard kept things in check (see previous description). This was abandoned during the war, and there hasn’t been the Will to return to the discipline it imposed.
+Some countries like New Zealand and Canada are starting to impose capital controls like those restricting foreign purchases of real estate. The US has still decided to favor owners of capital. Some trade deals were signed for strategic purposes during the Cold War. The US has also relished its ability to impose financial sanctions using the dollar. 
 
-  
+There’s been a political obsession with open capital markets with the belief by some that this would lead to wealth for everyone. Capital inflows though tend to be speculative and feed bubbles. This is unsustainable as depressing domestic demand lowers income and grows debt which will be self defeating. The US can’t solve the problem in an open system. If it just increases spending to reduce income inequality it’ll likely increase the current account deficit further. 
 
-Conclusion
+It should take the burden off the private sector by issuing debt to accommodate foreign savers. Spend on infrastructure and expand the social safety net. It could also support domestic production disadvantaged by the strong dollar. Part of the drive for US assets is the difficulty foreign countries have in borrowing dollars. It should institutionalize the central bank swap lines created during prior crises.  
 
-The US, along with the uk, Canada, and Australia resemble the colonies in the 19th century. The colonies were forced to buy European exports and accumulate debt to pay for them. The US has decided to favor the interests of financiers and the rich who benefit from a stronger dollar and from creating financial assets for foreigners. This political and income inequality has enabled elites in surplus countries to cut worker wages and social safety nets there as well. Ordinarily, paying workers low wages would result in insufficient demand for your goods. That’s not an issue when you can sell to the US and park profits in US assets. 
 
-  
-
-Some countries like New Zealand and Canada are starting to impose capital controls like those restricting foreign purchases of real estate. The US has still decided to favor owners of capital. Some trade deals were signed for strategic purposes during the Cold War. The us has also relished its ability to impose financial sanctions using the dollar.
-
-  
-
-There’s been a political obsession with open capital markets with the belief by some that this would lead to wealth for everyone. Capital inflows though tend to be speculative and feed bubbles.
-
-  
-
-This is unsustainable as depressing domestic demand lowers income and grows debt which will be self defeating.
-
-  
-
-The US can’t solve the problem in an open system. If it just increases spending to reduce income inequality it’ll likely increase the current account deficit further.
-
-  
-
-It should take the burden off the private sector by issuing debt to accommodate foreign savers. Spend on infrastructure and expand the social safety net. It could also support domestic production disadvantaged by the strong dollar. Part of the drive for US assets is the difficulty foreign countries have in borrowing dollars. It should institutionalize the central bank swap lines created during prior crises.
-
-  
-
-Policy prescriptions 
+**Policy prescriptions** 
 
 China should enhance its safety net and end the hukou system. Strengthening labour unions would also shift wealth to workers. SOEs should pay dividends, raise taxes on the rich. Raise environmental regulations and continue to prop up the Yuan.
 
-  
-
 Europe should increase its budget deficits which would require a federalization of the treasury. Raise taxes on the rich including inheritance taxes. Lower inequality especially in Germany.
 
-  
-
 Will result in less debt, more consumption, and hence higher income.
+
+
+

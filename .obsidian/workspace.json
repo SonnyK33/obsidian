@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "pettis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -137,8 +138,9 @@
   },
   "active": "023f4b084bb7c63b",
   "lastOpenFiles": [
-    "Outlines/To Read - Outline.md",
+    "Molecules/Net Assessment - China.md",
     "Trade Wars are Class Wars - WIP.md",
+    "Outlines/To Read - Outline.md",
     "Deficit Myth.md",
     "China - Outline.md",
     "WIL/WILT - 10.17.23.md",
