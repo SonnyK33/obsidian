@@ -18,6 +18,16 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "aab5959f55d107ad",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ]
       }
@@ -124,9 +134,10 @@
   },
   "active": "afb61862661e343c",
   "lastOpenFiles": [
+    "Long, Slow Death of Global Devlopment.md",
+    "Trade Wars are Class Wars - WIP.md",
     "Molecules/Systems Examples.md",
     "WIL/WILT - 10.19.23.md",
-    "Trade Wars are Class Wars - WIP.md",
     "Molecules/Net Assessment - China.md",
     "Outlines/To Read - Outline.md",
     "Deficit Myth.md",
@@ -137,7 +148,6 @@
     "Molecules/GDP.md",
     "Savings vs Investment.md",
     "Volatility Machine.md",
-    "Long, Slow Death of Global Devlopment.md",
     "Bernanke on Savings Glut.md",
     "WIL/WILW - 9.29.23.md",
     "Dirty Hands.md",
