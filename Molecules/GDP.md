@@ -7,7 +7,7 @@ https://courses.lumenlearning.com/wm-macroeconomics/chapter/calculating-gdp/#:~:
 [[US Trade Policy]]
 [[A Monetary and Fiscal History of the US 1961-2021]]
 [[Tight Monetary plus Loose Fiscal]]
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
 Investment = physical investments not financial
 
 Fundamental identity:

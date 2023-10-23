@@ -1,6 +1,6 @@
 Type: #source 
 Author: Tim Lee, Jamie Lee, and Kevin Coldiron
-References: [[Trade Wars are Class Wars - WIP]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]] [[Second Leg Down]]
+References: [[Trade Wars are Class Wars]], [[Volatility Machine]], [[A Monetary and Fiscal History of the US 1961-2021]] [[Second Leg Down]]
 [[Development Models - WIP]]
 [[Tight Monetary plus Loose Fiscal]]
 [[Nigeria - Outline]]
@@ -89,7 +89,7 @@ The Japanese carry trade grew more post-2003. The BOJ was worried about its trad
 
 These fluctuations are directional indicators of the global carry trade. The Euro became major carry currency post 2013. This can be seen with net foreign asset positions of peripheral banks. Swiss franc carry trade blew up in 2015. The Swiss franc was another major carry currency but was mainly used by households from Eastern Europe to fund cheap mortgages. Australia was the biggest beneficiary of the carry trade in 2007. The GFC crash was short lived for carry trades as exchange rates quickly reverted. Post-Asian Financial crisis, the countries quickly restructured their economies and went from big deficit to big current account surpluses. That didn’t happen post GFC. 
 
-Per [[Trade Wars are Class Wars - WIP]], one of the reasons for this is that the CA deficits in the run-up to the Asian Financial Crisis were developing countries with large investment needs. Many of those investments were likely coming to fruition by the late 90s and may have powered the export boom in the following decades. By contrast, post the GFC, the CA deficit was in rich countries (primarily the US, but also UK, Canada, and Australia), where the excess savings from abroad were being wasted on bad investments (e.g. US subprime mortgages).   
+Per [[Trade Wars are Class Wars]], one of the reasons for this is that the CA deficits in the run-up to the Asian Financial Crisis were developing countries with large investment needs. Many of those investments were likely coming to fruition by the late 90s and may have powered the export boom in the following decades. By contrast, post the GFC, the CA deficit was in rich countries (primarily the US, but also UK, Canada, and Australia), where the excess savings from abroad were being wasted on bad investments (e.g. US subprime mortgages).   
 
 Chapter 3 - Carry, Leverage, and Credit
 Selling insurance is the classic carry trade. But selling house insurance, for example, should be uncorrelated with a fire. You should be able to sell insurance on multiple houses to diversify your risk. In financial markets selling insurance itself may create the conditions for a trigger. Volatility selling initially leads to capital appreciation which lures more flows and encourages leverage. This creates an imbalance (i.e. the target asset restructures in a way that relies on more of these flows) that requires more and more flows. Eventually it reverses. Carry traders are providing liquidity like a market maker. Carry always leads to more leverage and should lead to more debt. This may not be captured by macro stats, e.g. if someone sells a lot of insurance he has a contingent liability which he can’t honor. This may not be calculated in a bank's credit stats. 

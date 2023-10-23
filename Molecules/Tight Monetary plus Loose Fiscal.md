@@ -1,7 +1,7 @@
 Type: #molecule 
 References: [[A Monetary and Fiscal History of the US 1961-2021]]
 [[The Rise of Carry]]
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
 [[GDP]]
 [[Dollar's Imperial Circle]]
 [[Forward Guidance - Howell, Constan - WIP]]

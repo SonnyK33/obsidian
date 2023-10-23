@@ -3,7 +3,7 @@ References: [[US Trade Policy]]
 [[Development Models - WIP]]
 https://foreignpolicy.com/2010/08/19/is-china-turning-japanese/
 https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/the-national-saving-and-investment-identity/
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
 [[Trade balances and Capital Flows]]
 [[WILT - 8.11.23]]
 [[WILT - 8.22.23]]

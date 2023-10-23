@@ -1,7 +1,7 @@
 Type: #source 
 References: [[Savings vs Investment]]
 [[Japan, Germany, and the Challenge of Excess Savings]]
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
 
 The US' CA deficit can only partially be explained by the budget deficit. Germany and Japan have surpluses while running budget deficits. Part of it is due to global factors. That it’s equal to the savings deficit is a tautology. What’s unexplained though is what caused the savings deficit.
 

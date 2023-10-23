@@ -2,7 +2,7 @@ Type: #WILT
 References: [Stimulus is never just temporary | The Tangled Woof (andrewbatson.com)](https://andrewbatson.com/2023/08/08/stimulus-is-never-just-temporary/)
 https://www.ft.com/content/20e82fb4-681d-4f41-934c-d64be061351c?shareType=nongift
 [[China - Outline]]
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
 [[Savings vs Investment]]
 WILT
 

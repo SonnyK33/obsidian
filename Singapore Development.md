@@ -1,4 +1,4 @@
-References: [[Trade Wars are Class Wars - WIP]]
+References: [[Trade Wars are Class Wars]]
 [[Indian Savings Rate]]
 https://twitter.com/sizwelo/status/1677919606562865153?s=51&t=CaclG1FomgeFt4ryslQBgg
 

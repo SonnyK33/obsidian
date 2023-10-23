@@ -120,7 +120,7 @@ He taught course on Confucian theory w author at schwartzman college 
 - Lipton on public opinion
 
 
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
 Read - gerchenkron economic backwardness
 
 

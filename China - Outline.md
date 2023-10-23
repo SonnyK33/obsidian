@@ -30,4 +30,4 @@ May be at peak infections in China but deaths normally peak 2 wks after so haven
 China will make it easier for companies in hard sciences to list and harder for others (e.g fashion, consumer electronics). Companies must support national objective not just earn profits.
 
 **Trade Surpluses**
-[[Trade Wars are Class Wars - WIP]]
+[[Trade Wars are Class Wars]]
