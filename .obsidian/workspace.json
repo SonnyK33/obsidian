@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 10.23.23.md",
+                "file": "WIL/WILT - 10.24.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 10.23.23.md",
+                "file": "WIL/WILT - 10.24.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +146,9 @@
   },
   "active": "afb61862661e343c",
   "lastOpenFiles": [
-    "Trade Wars are Class Wars.md",
     "WIL/WILT - 10.23.23.md",
+    "WIL/WILT - 10.24.23.md",
+    "Trade Wars are Class Wars.md",
     "Untitled 1.md",
     "Macro vs Idiosyncratic.md",
     "Molecules/Framework.md",
@@ -170,7 +171,6 @@
     "WIL/WILW - 9.29.23.md",
     "Dirty Hands.md",
     "Flies.md",
-    "No Exit.md",
-    "Outlines/Philosophy - Outline.md"
+    "No Exit.md"
   ]
 }
