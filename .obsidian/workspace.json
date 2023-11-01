@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 10.30.23.md",
+                "file": "Deficit Myth.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deficit myth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 10.30.23.md",
+                "file": "Deficit Myth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +147,9 @@
   },
   "active": "afb61862661e343c",
   "lastOpenFiles": [
-    "WIL/WILT - Template.md",
+    "WIL/WILT - 11.1.23.md",
     "WIL/WILT - 10.30.23.md",
+    "WIL/WILT - Template.md",
     "WIL/WILT - 10.24.23.md",
     "WIL/WILT - 10.23.23.md",
     "Trade Wars are Class Wars.md",
@@ -170,7 +172,6 @@
     "Volatility Machine.md",
     "Bernanke on Savings Glut.md",
     "WIL/WILW - 9.29.23.md",
-    "Dirty Hands.md",
-    "Flies.md"
+    "Dirty Hands.md"
   ]
 }
