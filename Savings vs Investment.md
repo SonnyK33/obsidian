@@ -11,6 +11,8 @@ https://courses.lumenlearning.com/suny-fmcc-macroeconomics/chapter/the-national-
 [[Kelton - How Should We Think About Fiscal Sustainability]]
 [[WILT - 9.14.23]]
 [[GDP]]
+[[Deficit Myth]]
+
 
 The quantity of financial capital supplied must equal the quantity demanded. 
 

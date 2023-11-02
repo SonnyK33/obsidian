@@ -1,9 +1,25 @@
 Type: #source 
 Author: Stephanie Kelton
-References: [[Trade Wars are Class Wars]]
+References: [[Trade Wars are Class Wars]] [[Savings vs Investment]]
+
+
+**Questions**
+1) Kelton downplays the importance of skill mis-matches in unemployment
+2) Furman argued fiscal deficit crowd out private investment - why?
+
+
+Takeaways
+1) The only reason the government issues bonds when there are deficits, is to clean up reserves and keep the rate in check. That's because fiscal deficits flow into bank accounts and increase the reserves in the system. Excess reserves push interest rates down. This makes intuitive sense. If the government spends excess money into the system, banks can keep deposit rates low as they won't be craving liquidity. So the government borrowing actually serves to prevent the infusion of excess reserves which would push rates below the target level.
+2) If borrowing in FX, crowding out is a real risk. If there's a fixed exchange rate regime, you lose control of the interest rate. For example, when Russia fixed its rate to the USD in 1998, people demanded dollars which drove up rates. They couldn’t keep low rates as they needed to disincentivize conversion, given limited FX reserves. This explains high rates in countries with default risk and fixed exchange rates.
+
+
 
 **Executive Summary**
 Inflation is the only constraint on fiscal spending, and a "sovereign issuer", that is a country who borrows in its own currency has no fiscal constraints. This is equivalent to saying that  that real resources are a country's only constraint. They can print as much currency as they want; what matters is if there are enough assets to purchase. Conventional wisdom say that a country needs to keep its fiscal house in order just like a household or a business. They argue that expenses must be financed either with taxes or borrowing. Kelton argues that both of those mechanisms serve other purposes, as there is no need to finance spending. Taxes jumpstart and incentivize an economy. What gives value to a nation's currency? You only want it because others want it. This becomes a circular reference. An argument that makes sense to me is that you want it because you are required to pay taxes to the government in its own currency. If this wasn't a requirement, you may choose to transact in other currencies. This theory is called chartalism, which was a precursor to MMT. Countries borrow in order to give their residents (and foreigners) a savings product. Kelton compares treasuries and dollars to savings and chequing accounts, respectively. It's clear that there is a desire for treasury securities amongst the American public. That itself gives a reason for the US to borrow. The implications of Kelton's argument (which is a summary of Modern Monetary Theory) is that governments can and should spend more money on causes deemed worthy. They shouldn't feel restrained for ideological reasons. I agree with the theoretical underpinnings of her argument. The tough part is implementation. She proposes for an agency similar to the CBO to rule on budgets and decide whether they are likely to increase the capacity for the economy to absorb future spending. That is, for them to decide when spending will be inflationary or not. I'm not an expert here, but I suspect that would be a difficult exercise filled with many assumptions. That doesn't mean it shouldn't be attempted though.   
+
+Federal Job Guarantee
+
+**Summary**
 
 Taxes are for reducing inequality and to create demand for currency. The state does this to incentivize work and the creation of public goods. Chartalism was a theory that the ancient world used taxes to organize society. MMT argues that it, rather than barter system, was common in history. Dollars then became the medium of exchange, but that was not the original purpose. 
 
@@ -18,189 +34,54 @@ There are two types of inflation: cost push, which refers to acts of god, union 
 Monetarist definition 
 They believed excess money supply creates inflation. Keynes argues in favor of spending to boost wages and employment. Friedman came up with the natural rate; if the economy goes below that, prices will rise more than wages, and employees will demand higher wages. This will cause unemployment to return to its natural level. His key argument was that a certain amount of unemployed people were necessary to stabilize inflation.
 
-The Fed optimizes inflation with unemployment. NAIRU is obviously unobservable, but the Fed implicitly allows certain unemployment to achieve price stability. MMT argues Fed is ill-equipped for crises as its only tools create more private sector debt (by encouraging borrowing). There are some parallels here with [[Trade Wars are Class Wars]], which argues that the federal government should borrow more to alleviate debt burdens on households. 
+The Fed optimizes inflation with unemployment. NAIRU is obviously unobservable, but the Fed implicitly allows certain unemployment to achieve price stability. Kelton downplays the issue of skill mismatch in unemployment, but this is a real issue. MMT argues Fed is ill-equipped for crises as its only tools create more private sector debt (by encouraging borrowing). There are some parallels here with [[Trade Wars are Class Wars]], which argues that the federal government should borrow more to alleviate debt burdens on households.   
+
+Lerner argued for functional finance-- the use of fiscal policies to close the output gap. Tax and spending are used to achieve a balance. The government can raise taxes and cut fiscal spending if there's inflation, and vice versa. However, there would still be involuntary unemployment. MMT hence argues for a federal job guarantee.
+
+**Federal Job Guarantee**
+
+The government would guarantee anyone who wants a job one in the caring sector. It would set a minimum wage which becomes the floor, say $15/hr. This would act as an automatic stabilizer. We would know if the economy is truly at full employment if no one shows up for federal job. It's analogous to the risk free rate that savers can access. It would smoothen cycles and keep skills fresh and would replace some unemployment schemes. The program should decentralize the granting of jobs to the local level, but the financing would be guaranteed by the federal government. This would help people who have big gaps in employment and would set minimum price of labour as we currently set price of capital. It could actually ease labour inflation, as there would ideally be a pool of employable people available and you wouldn’t have to bid up employed people.  
+
+**Taxes**
+Taxes on the rich don’t open up fiscal space as the rich were unlikely to spend anyways. 
+So if economy is at capacity and you decide to raise fiscal spending and pay with tax on rich, that will be inflationary. The CBO should analyze inflation risk rather than the effect on the deficit. 
 
   
 
-Downplays issue of skill mismatch in unemployment. How to address?
+Chapter 3 - Debt
 
-  
+People hate the federal debt, but they like treasury securities. A trade surplus means a creditor country has insufficient domestic demand. Exporters are paid in dollars which they choose to convert to treasuries; this is analogous to moving from checking to savings accounts. There isn't a budget limit but there is a limit on the economy’s ability to absorb extra spending. More borrowing means more interest at higher rates possibly which means more money in the economy which can be inflationary. Lot of treasuries are now held by foreigners so the inflationary impact could be muted. The MMT argument is to keep rates low and below the GDP growth rate to prevent unsustainable debt dynamics. Central banks drive short term rates and can control long-term rates by buying bonds, as the Fed did during WW2 or Japan is doing now through YCC.   
 
-Lerner argued for functional finance - use fiscal policies to close output gap. Tax and spending to achieve balance. Raise taxes and cut fiscal if inflation.
+If the Fed was to monetize debt, it would not change the private sector's wealth. They would simply hold dollars rather than treasuries. The only thing that would change is no interest income would be earned. So that may actually push prices down.   
 
-Would still have involuntary unemployment
-
-MMT argues for a federal job guarantee
-
-Federal job guarantee
-
-Guarantee anyone who wants a job one in the caring sector 
-
-Would set a min wage which becomes the floor, say $15/hr
-
-Would act as an automatic stabilizer
-
-Will know if at full employment if no one shows up for federal job 
-
-Analogous to risk free rate that savers can access
-
-Would smoothen cycles and keep skills fresh
-
-Would replace some unemployment schemes  
-
-Decentralize nature of jobs to local level but financing guaranteed be federal government 
-
-Would help people who have big gaps in employment 
-
-Could use rate to set price of labour as we currently set price of capital 
-
-Could actually ease labour inflation - as there would ideally be a pool of employable people available and you wouldn’t have to bid up employed people 
-
-  
-
-Taxes on the rich don’t open up fiscal space as the rich were unlikely to spend anyways
-
-So if economy is at capacity and you decide to raise fiscal spending and pay with tax on rich, will
-
-Be inflationary 
-
-  
-
-CBO should analyze inflation risk rather than effect on deficit 
-
-  
-
-Chapter 3
-
-People hate the federa debt but like treasury securities
-
-Trade surplus means creditor country has insufficient domestic demand
-
-They’re paid in dollars which they choose to convert to treasuries - analogous to moving from checking to savings account 
-
-  
-
-Stab - spend 100, tax 90 leaves 10 left 
-
-They then borrow an equivalent 10
-
-But the credit gets the 10 from the government
-
-  
-
-No budget limit 
-
-Limit is the economy’s ability to absorb extra spending
-
-More
-
-Borrowing means more interest at higher rates possibly which means more money in the economy which can be inflationary
-
-Lot of treasuries held by foreigners so inflationary impact could be muted
-
-  
-
-MMT argument is to keep rates low bc prevents rate exceeding gdp growth and prevents unsustainable debt dynamics 
-
-  
-
-Central banks drive short term rates and can control LT by buying bonds as fed did during ww2 or Japan doing now through YCC
-
-  
-
-Monetizing debt would not change the private sectors wealth
-
-Would hold dollars Vs treasuries
-
-Only thing would change is no interest income
-
-So should
-
-Push prices down
-
-  
-
-Every time debt was paid off through surpluses economy went into recession
-
-Clinton came close to paying off debt in late 90s but stopped as worried about no treasuries and the ability of Fed to set rates 
-
-At the time treasuries used to drain reserves and set rates 
-
-That’s now done directly so not needed for this purpose 
-
-Main purpose now is for a safe interest earning asset
-
-  
+Every time the debt was paid off through surpluses, the economy went into recession. Clinton came close to paying off the debt in late 1990s, but he stopped as the government worried about the lack of treasuries and the ability of the Fed to set rates. At the time, treasuries were used to drain reserves and set rates. That’s now done directly, so they are not needed for this purpose. The main purpose now is for a safe interest earning asset.  
 
 Chapter 4
 
-Mainstream argues that fiscal deficits crowd out private savings and investment by raising rates
-
-Furman argued this - why?
-
-Godley - one equation of the world 
-
-Sector balance models
-
-  
+The mainstream argues that fiscal deficits crowd out private savings and investment by raising rates. Godley's "one equation of the world" used sector balance models.  
 
 Gov balance = non government balance 
+SFC models require that all flows must sum to a stock somewhere.
+Accumulated fiscal deficits should equal our savings, and so they don't decrease savings.  
 
-SFC models - all flows must sum to a stock somewhere
+The crowding out argument is that borrowings to finance deficits take up scarce savings, and so it increases rates for investment financing. This is the loanable funds model. But even in this formulation,  the deficits should turn into treasuries held by the public (since they finance deficits with borrowing) which are financial assets and should increase available funding for investment.  
 
-Accumulated fiscal deficits should equal our savings
+The only reason the government issues bonds when there are deficits, is to clean up reserves and keep the rate in check. That's because fiscal deficits flow into bank accounts and increase the reserves in the system. Excess reserves push interest rates down. This makes intuitive sense. If the government spends excess money into the system, banks can keep deposit rates low as they won't be craving liquidity. So the government borrowing actually serves to prevent the infusion of excess reserves which would push rates below the target level. To avoid excess reserves, pre-2008, the Fed would perform open market operations and sell treasuries to drain reserves. Now they just set the rate. 
 
-And so doesn’t decrease savings 
+Treasuries are issued through auctions to primary dealers who are backstopped by fed. The Fed makes sure that it’s profitable for the participating banks to purchase. Primary dealers are in special position and guaranteed to profit so will always set reasonable bids. Until 1951, the Fed would stand ready to buy unlimited treasury bills at a set rate which gave banks an alternative to reserves. The Fed was able to set rates at 0% in 2008 despite a 10% deficit. This only applies to borrowing in your currency.  
 
-  
+If borrowing in FX, crowding out is a real risk. If there's a fixed exchange rate regime, you lose control of the interest rate. For example, when Russia fixed its rate to the USD in 1998, people demanded dollars which drove up rates. They couldn’t keep low rates as they needed to disincentivize conversion, given limited FX reserves. This explains high rates in countries with default risk and fixed exchange rates.
 
-Crowding out argument is that borrowings to finance deficits take up scarce savings and so increase rates for investment financing 
+If the fiscal deficit is less than trade deficit, that implies a private sector deficit. 
 
-This is the loanable funds model
+M - X = (I - S) - (T - G)
+(M-X) + (T-G) = I-S
+(M-X) - (G-T) = I-S
+(G-T) - (M-X) = S-I
+S-I<0 <=> (M-X) > (G-T)
 
-But even here the deficits should turn into treasuries held by the public (since they finance deficits w borrowing) which are financial assets and should increase available funding for investment 
+10 - 5 = (I-S) - (-3)
 
-  
-
-Only reason govt issues bonds when deficits is to clean up reserves and keep the rate in check 
-
-Prevents infusion of reserves from pushing rate below target level
-
-  
-
-Treasuries issuers through auctions to primary dealers who are backstopped by fed. Fed makes sure that it’s profitable to purchase.
-
-Without bond sales to finance deficits
-
-High deficits should push rates down as would lead to excess reserves 
-
-To avoid that, pre 2008, the Fed would perform open market operations and sell treasuries to drain reserves
-
-Now they just set the rate 
-
-  
-
-Primary dealers are in special position and guaranteed to profit so will always set reasonable bids 
-
-Not really a fair market
-
-Until 1951 the Fed would stand ready to buy unlimited Tbills at a set rate which gave banks an alternative to reserves 
-
-Fed was able to set rates at 0 in 08 despite 10pct deficit 
-
-  
-
-If borrowing in FX, crowding out is real risk
-
-If fixed exchange rate regime lose control of rate
-
-Eg when Russia fixed rate to usd in 1998, ppl demanded dollars which drive up rates 
-
-Couldn’t keep low rates as needed to disincentivize conversion given limited reserves
-
-Explains high rates in countries w default risk and fixed exchange rates
-
-If fiscal deficit is less than trade deficit implies a private sector deficit
 
 See charts in attachment
 
