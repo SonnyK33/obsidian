@@ -11,6 +11,8 @@ References: [[Trade Wars are Class Wars]] [[Savings vs Investment]]
 Takeaways
 1) The only reason the government issues bonds when there are deficits, is to clean up reserves and keep the rate in check. That's because fiscal deficits flow into bank accounts and increase the reserves in the system. Excess reserves push interest rates down. This makes intuitive sense. If the government spends excess money into the system, banks can keep deposit rates low as they won't be craving liquidity. So the government borrowing actually serves to prevent the infusion of excess reserves which would push rates below the target level.
 2) If borrowing in FX, crowding out is a real risk. If there's a fixed exchange rate regime, you lose control of the interest rate. For example, when Russia fixed its rate to the USD in 1998, people demanded dollars which drove up rates. They couldn’t keep low rates as they needed to disincentivize conversion, given limited FX reserves. This explains high rates in countries with default risk and fixed exchange rates.
+3) There should be a focus on developing productive capacity to handle govt benefits e.g. doctors for Medicare patients rather than funding the program.
+
 
 
 
@@ -80,163 +82,28 @@ M - X = (I - S) - (T - G)
 (G-T) - (M-X) = S-I
 S-I<0 <=> (M-X) > (G-T)
 
-10 - 5 = (I-S) - (-3)
 
+It's possible to improve the private sector balance by increasing the fiscal deficit over the trade deficit or by cutting trade deficit. Countries try to cut their trade deficit by devaluing their currency. If they can’t devalue (because they're in a currency union for example), many will internally devalue i.e. by cutting labour costs like Germany did with the Hartz reforms in the early 2000s. Trade deficits aren't necessarily bad, but they do imply job losses in export-led sectors. The job guarantee would alleviate these fears.  
 
-See charts in attachment
+The obsession with the trade deficit is a remnant from the gold standard when you needed it to buy imports and deficits led to gold outflows. This was abandoned during WW1, and was then reestablished post WW2. The gold standard was tied to the US dollar and was part of a fixed exchange rate framework. Nixon abandoned the standard to get more policy space. He cut taxes, implemented price controls, and ended convertibility. The gold standard was already under pressure from UK devaluations and others, but Nixon fully ended it.
 
-Can improve private sector balance by increasing fiscal deficit over trade deficit or by cutting trade deficit
+Developing countries that issue in their own currency still aren’t completely monetarily sovereign as need to worry about imports which require hard currency. Developing countries with import needs further erode their sovereignty by borrowing in dollars. Pegging, dollarizing, or currency unions weaken monetary sovereignty. The first two also encourage the private sector to borrow in dollars, leading the sovereign to also accumulate more dollar debt. All of these moves weaken sovereignty.  
 
-If can’t devalue currency like eurozone many use inter devaluations ie cutting labour costs like Germany w Hartz reforms in early 2000s
+Countries with deep capital markets that can attract investment create a bid for their currencies as well, which gives them more policy space. Developing countries tend to import high value goods and export cheap labour and commodities. Investors speculate but don’t make real investments in local currency. Having to buy FX for imports, further weakens their currency making it harder to service foreign debts. These countries vulnerable to carry crashes as they get speculative capital that leaves quickly [[The Rise of Carry]].   
 
-  
+The Volcker hikes caused bankruptcies throughout EM as the whole world was exposed to US rates and FX. The WB and IMF were created during Bretton Woods when exchange rates were fixed. They remained after and are fixated on free trade and capital flows. Those policies are said to discipline developing economies. They advise countries to raise rates, cut fiscal, open trade and sometimes to peg currency. Countries that try pegs but can’t get enough FX may have to abandon the pegs, causing rapid depreciation and possible hyperinflation, as costs are passed through. The World Bank frequently tells these countries to specialize their exports and focus on their comparative advantage rather than develop the same way rich countries developed. China and the US limited imports during their development stage and focused on domestic production. China also limited the role of financial institutions. 
 
-Job guarantee will alleviate fears from job losses due to trade deficits
-
-  
-
-Obsession w trade deficit remnant from gold standard when you needed it to buy imports and deficits cost gold
-
-Abandoned during ww1 then reestablisjed post ww2
-
-But tied to usd 
-
-Nixon then abandoned to get more policy space
-
-Nixon cut taxes price controls and ended convertibility
-
-Gold standard Was under pressure from Uk devaluations and others but Nixon fully ended it
-
-Developing countries that issue in own currency still aren’t completely monetarily sovereign as need to worry about imports which require hard currency
-
-Developing countries w import needs further erode sovereignty by borrowing in dollars
-
-  
-
-Pegging, dollarizing or currency unions weaken monetary sovereignty 
-
-The first 2 also encourage the private sector to borrow in dollars and the sovereign may accumulate more dollar debt
-
-All weakening sovereignty 
-
-  
-
-Countries w deep capital markets that can attract investment creates a bid for their currencies as well 
-
-This gives them more policy space
-
-  
-
-Developing countries tend to import high value goods and export cheap labour and commodities
-
-Investors speculate but don’t make real investments in local currency 
-
-Having to buy fx for imports further weakens currency making it harder to service foreign debts
-
-These countries vulnerable to carry crashes as they get speculative capital that leaves quickly 
-
-  
-
-Volcker hikes causes bankruptcies throughout EM as whole world exposed to US rates and fx
-
-WB and IMF created during bretton woods when exchange rates were fixed
-
-They remained after and are fixated on free trade and capital flows 
-
-Thought those would discipline developing economies
-
-Advise countries to raise rates, cut fiscal, open trade and sometimes to peg currency
-
-Countries that try pegs but can’t get enough fx may have to abandon pegs causing rapid depreciation and possible hyperinflation as costs are passed through 
-
-  
-
-WB frequently tells these countries to specialize their exports and focus on comparative advantage rather than develop the way rich countries developed
-
-China and the US limited imports during their development stage and focused on domestic production
-
-China also limited role of financials institutions 
-
-  
-
-Argentina instituted job guarantee after defaulting in 2000 - check this 
-
-  
-
-Most free trade acts force developing countries to focus on export led growth and to internally devalue through lower wages and regulations
-
-  
-
-Developing countries should regulate capital flows even if can’t get to level of bretton woods
-
-Make it harder for speculators to put in hot money and easily pull out 
-
-  
+ Most free trade acts force developing countries to focus on export led growth and to internally devalue through lower wages and regulations. Developing countries should regulate capital flows even if they can’t get to the level of Bretton Woods. That would make it harder for speculators to put in hot money and easily pull out.   
 
 Chapter 6
 
-Was mistake to tie social security to payroll taxes as not necessary to fund
+It was mistake to tie social security to payroll taxes as they aren't necessary to fund the program. Medicare parts B and D are funded through SMI trust. That one is deemed sustainable only because the federal government is authorized to pay benefits whether the trust is funded or not. Life expectancy is skewed and hasn’t increased for the poor. There should be a focus on developing productive capacity to handle govt benefits e.g. doctors for Medicare patients rather than funding the program.
 
-Medicare parts B and D are funded through SMI trust 
+Greenspan, when testifying and answering Paul Ryan’s question, said there was no issue of solvency for any entitlement program. The question is if the economy will produce enough assets for program beneficiaries to consume (e.g. enough healthcare, consumption goods etc.). For Medicare, the question isn’t how to pay for it, but how to resource it. There is a need to invest in education and other productive capacity. Income inequality leads to savings deficits (per Pettis as well - [[Trade Wars are Class Wars]]). MMT is about generating fiscal space. If there are unemployed people, and there’s an ability to produce more goods without raising prices, we should do that. It promotes fiscal over monetary in importance. It doesn't require any new powers. Congress already has completely discretion since abandoning the gold standard. The CBO already scores on fiscal could do same on real resources.  
 
-That one is deemed sustainable only bc Fed govt is authorized to pay benefits whether the trust is funded or not
+The Shelf project, run by a Georgetown professor, has a shelf full of proposals for raising tax revenue to satisfy pay-go requirements. 
 
-  
+If moving to a system more reliant on fiscal policy, there needs to be guardrails but also automatic fiscal stabilizers that don’t require congressional action, e.g. the job guarantee. A job in country’s unit of account is essentially a tax credit (i.e. a way to pay taxes that are required to be paid in a certain currency). Jobs would be be determined at the community level and would focused on unmet needs. They expect an average of 15m people on it at any given time. 
 
-Life expectancy is skewed and hasn’t increased for the poor
+Argentina instituted a job guarantee after defaulting in 2000 [[Argentina - Outline]]. It was also tried in India, but it shouldn’t be temporary but a permanent shock absorber. 
 
-There should be focus on developing productive capacity to handle govt benefits eg doctors for Medicare patients
-
-Greenspan when testifying and answering Paul Ryan’s question- no issue of solvency for entitlement program 
-
-Question is if economy will produce enough assets for program beneficiaries to consume
-
-Enough healthcare, consumption goods etc
-
-For Medicare the question isn’t how to pay for it but how to resource it
-
-Need enough doctors and hospitals
-
-Need to invest in education and other productive capacity
-
-Income inequality leads to savings deficit per pettis as well
-
-MMT is about fiscal space
-
-If there are unemployed ppl and there’s an ability to produce more goods without raising prices should do that 
-
-  
-
-Promotes fiscal over monetary in importance
-
-No new powers - congress already has completely discretion since abandoning the gold standard 
-
-CBO already scores on fiscal could do same on real resources 
-
-  
-
-Shelf project - run by a Georgetown professor - has a shelf full of proposals for raising tax revenue to satisfy paygo requirements 
-
-  
-
-If moving to more fiscal
-
-Need guardrails but also automatic fiscal stabilizers that don’t require congressional action
-
-Eg the job guarantee
-
-A job in country’s unit of account is essentially a tax credit
-
-Jobs for guarantee to be determined at community level
-
-Focused on unmet needs 
-
-expecting 15m ppl on it on average 
-
-Tried in Argentina and India but shouldn’t be temporary but a permanent shock absorber 
-
-Would need a stock of necessary jobs on hand to b filled 
-
-  
-
-Tobin explained to jfk that inflation is only cap on fiscal Spending

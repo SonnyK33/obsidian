@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 11.2.23.md",
+                "file": "Deficit Myth.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "deficit myth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 11.2.23.md",
+                "file": "Deficit Myth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,8 +147,8 @@
   },
   "active": "afb61862661e343c",
   "lastOpenFiles": [
-    "Deficit Myth.md",
     "WIL/WILT - 11.2.23.md",
+    "Deficit Myth.md",
     "Savings vs Investment.md",
     "WIL/WILT - 11.1.23.md",
     "WIL/WILT - 10.30.23.md",
