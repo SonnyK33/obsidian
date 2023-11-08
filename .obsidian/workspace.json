@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deficit Myth.md",
+                "file": "WIL/WILT - 11.8.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deficit myth",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +87,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Deficit Myth.md",
+                "file": "WIL/WILT - 11.8.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,8 +146,9 @@
   },
   "active": "afb61862661e343c",
   "lastOpenFiles": [
-    "WIL/WILT - 11.2.23.md",
     "Deficit Myth.md",
+    "WIL/WILT - 11.8.23.md",
+    "WIL/WILT - 11.2.23.md",
     "Savings vs Investment.md",
     "WIL/WILT - 11.1.23.md",
     "WIL/WILT - 10.30.23.md",
@@ -171,7 +171,6 @@
     "WIL/WILT - 10.12.23.md",
     "Molecules/GDP.md",
     "Volatility Machine.md",
-    "Bernanke on Savings Glut.md",
-    "WIL/WILW - 9.29.23.md"
+    "Bernanke on Savings Glut.md"
   ]
 }
