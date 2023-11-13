@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 11.9.23.md",
+                "file": "WIL/WILT - 11.13.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 11.9.23.md",
+                "file": "WIL/WILT - 11.13.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,14 +146,15 @@
   },
   "active": "afb61862661e343c",
   "lastOpenFiles": [
-    "Deficit Myth.md",
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 11.13.23.md",
     "WIL/WILT - 11.9.23.md",
+    "Deficit Myth.md",
     "WIL/WILT - 11.8.23.md",
     "WIL/WILT - 11.2.23.md",
     "Savings vs Investment.md",
     "WIL/WILT - 11.1.23.md",
     "WIL/WILT - 10.30.23.md",
-    "WIL/WILT - Template.md",
     "WIL/WILT - 10.24.23.md",
     "WIL/WILT - 10.23.23.md",
     "Trade Wars are Class Wars.md",
@@ -170,7 +171,6 @@
     "China - Outline.md",
     "WIL/WILT - 10.17.23.md",
     "WIL/WILT - 10.12.23.md",
-    "Molecules/GDP.md",
-    "Volatility Machine.md"
+    "Molecules/GDP.md"
   ]
 }
