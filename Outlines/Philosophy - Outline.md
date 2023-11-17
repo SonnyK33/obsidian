@@ -23,6 +23,9 @@ Cynics
 [[Dark Ages]]
 [[Plotinus]]
 
+[[St Augustine]]
+[[Boethius]]
+[[Avicenna]]
 
 Summaries:
 [[Hellenestic]]

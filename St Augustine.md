@@ -1,0 +1,6 @@
+Type #Atom 
+References: [[Philosophy - Outline]]
+
+His father was a pagan and his mother was a Christian. As a result, he constantly felt Christian guilt. Like Plato, he saw the difference between reality and true forms. He followed Manichaeism and then converted to Christianity after an epiphany. He's credited with merging neoplatanism with Christianity. He was influenced by the fountain analogy and the separation between the truth and what we see. The fountain analogy described the world as a series of layers, with the actual truth at the top. As water flowed down to the next level, some of the truth was lost. So what we observe (at the bottom) is only a residual of the truth. This was how he reconciled with evil. It only appeared evil to us; it's part of a bigger plan which we can't see. He said that evil exists because man has free will.  
+
+His main difference with neoplatanism was that Plotinus thought the world always existed whereas Augustine needed a concept of time. He took a specific view of time. He believed time was a human construct to explain our reality. The past is our current memory of what happened. The past, present, and future all the same thing
