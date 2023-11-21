@@ -26,6 +26,15 @@ Cynics
 [[St Augustine]]
 [[Boethius]]
 [[Avicenna]]
+[[Three Islamic Truths]]
+
+[[The Anselm of Canterbury]]
+[[Two Medieval Approaches to God]]
+[[Thomas Aquinas]]
+
+[[Renaissance]]
+[[Machiavelli]]
+[[Francis Bacon]]
 
 Summaries:
 [[Hellenestic]]

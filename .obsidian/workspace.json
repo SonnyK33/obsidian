@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afb61862661e343c",
+            "id": "fd32ff4b211630a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Outlines/Philosophy - Outline.md",
+                "file": "Woke Capital.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "singapore",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,7 +87,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Outlines/Philosophy - Outline.md",
+                "file": "Woke Capital.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,33 +145,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "afb61862661e343c",
+  "active": "fd32ff4b211630a3",
   "lastOpenFiles": [
-    "Avicenna.md",
+    "Francis Bacon.md",
     "Outlines/Philosophy - Outline.md",
+    "Machiavelli.md",
+    "Woke Capital.md",
+    "The Long, Slow Death of Global Development - American Affairs Journal.md",
+    "Deficit Myth.md",
+    "Singapore Development.md",
+    "Molecules/Indian Savings Rate.md",
+    "Long, Slow Death of Global Devlopment.md",
+    "Renaissance.md",
+    "Meditations.md",
+    "Thomas Aquinas.md",
+    "Two Medieval Approaches to God.md",
+    "Three Islamic Truths.md",
+    "The Anselm of Canterbury.md",
+    "Avicenna.md",
     "Boethius.md",
     "St Augustine.md",
     "Plotinus.md",
     "Outlines/Renewables - Outline.md",
-    "Deficit Myth.md",
     "Trade Wars are Class Wars.md",
     "The Power and the Glory.md",
     "Thinking in Systems.md",
     "WIL/WILT - 11.16.23.md",
     "WIL/WILT - Template.md",
-    "WIL/WILT - 11.15.23.md",
-    "WIL/WILT - 11.14.23.md",
-    "WIL/WILW - Template 1.md",
-    "WIL/WILT - 11.9.23.md",
-    "WIL/WILT - 11.8.23.md",
-    "WIL/WILT - 11.2.23.md",
-    "Savings vs Investment.md",
-    "WIL/WILT - 11.1.23.md",
-    "WIL/WILT - 10.30.23.md",
-    "WIL/WILT - 10.24.23.md",
-    "WIL/WILT - 10.23.23.md",
-    "Untitled 1.md",
-    "Macro vs Idiosyncratic.md",
-    "Molecules/Framework.md"
+    "WIL/WILT - 11.15.23.md"
   ]
 }

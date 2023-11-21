@@ -1,6 +1,7 @@
 References: [[Trade Wars are Class Wars]]
 [[Indian Savings Rate]]
 https://twitter.com/sizwelo/status/1677919606562865153?s=51&t=CaclG1FomgeFt4ryslQBgg
+[[The Long, Slow Death of Global Development - American Affairs Journal]]
 
 Singapore is one of the 20th century's greatest success stories that many believe should be copied. What many don’t say (or know) is that Singapore became successful through compulsory land expropriation.
 
