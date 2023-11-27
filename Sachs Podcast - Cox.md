@@ -1,0 +1,4 @@
+Type: #source 
+[[To Read - Outline]]
+
+All men are created equally was from the Declaration of independence. They thought themselves equal not despite slavery but because of it. They could ignore minorities and women. A writer post WW2 wrote that there’s a Hitler in every generation the question is why are they followed at certain times. After Blacks won equal rights post civil war, Southern whites moved the argument to class and said black voting would result in redistribution and socialism. This predated the Russian revolution. It coincided with westward expansion where cowboys propagated myth of individualism. Whites found refuge there as they saw socialism in the east..

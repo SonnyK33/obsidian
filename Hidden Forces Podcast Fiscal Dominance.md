@@ -1,6 +1,6 @@
 Type: #source 
 References: [[Savings vs Investment]]
-
+[[Forward Guidance Podcast - Eichengreen]]
 
 Because of bank reserves are not scarce and banks actually earn interest on them, they are not part of the monetary base that the government can inflate away. Only physical cash can pay the inflation tax, and an extremely high inflation rate would be necessary to inflate away debt (40%). The more likely option is that the government will require banks to hold reserves and/or pay a lower rate on them. This in turn will drive down deposit rates, and lead to financial repression.
 

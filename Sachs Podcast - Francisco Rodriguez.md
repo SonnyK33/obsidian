@@ -1,0 +1,4 @@
+Type: #source
+References: [[Venezuela - Outline]]
+
+Venezuelan per capita income is down 70%, which is the highest ever in peace time. Production fell by 5/6 in Aug 17 after financial sanctions. The largest decline was for those firms who previously had access to financing pre-sanctions. In the last regional elections, 58pct of vote went to those who opposed sanctions. At the time of sanctions, Brazil, Colombia, and Argentina all had right wing governments supporting sanctions. This is not  the case now. Europe recognized Guaido but not his ambassadors as they thought it would be temporary. The United States only gave waivers to chevron who sells oil in the us. They didn’t give it for European companies who requested it. 

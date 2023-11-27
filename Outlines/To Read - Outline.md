@@ -90,7 +90,7 @@ Kafka's the Castle
 Brothers Karamzov
 
 [[Dollar's Imperial Circle]]
-Global Savings Glut - Bernanke
+Global Savings Glut - Bernanke - READ
 
 
 [[Forward Guidance - Howell, Constan - WIP]]
@@ -119,10 +119,14 @@ He taught course on Confucian theory w author at schwartzman college 
 - learn more about the meritocratic system under Confucius 
 - Lipton on public opinion
 
-
 [[Trade Wars are Class Wars]]
 Read - gerchenkron economic backwardness
 
+[[Sachs Podcast - Figes]]
+Read story of Russia and Crimean war
+
+[[Sachs Podcast - Cox]]
+Read - true believers 
 
 
 **Fiction**
@@ -153,4 +157,4 @@ what are other minority groups in Ukraine?
 - new book - A Kidnapped West by Milan Kundera - about small countries in the EU
 
 [[Dollar Hegemony]]
-What caused runs on foregin  banks during covid?
+What caused runs on foregin banks during covid?

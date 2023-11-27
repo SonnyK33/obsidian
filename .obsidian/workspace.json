@@ -4,44 +4,131 @@
     "type": "split",
     "children": [
       {
-        "id": "f3342b7a83023535",
+        "id": "376468953a089913",
         "type": "tabs",
         "children": [
           {
-            "id": "fd32ff4b211630a3",
+            "id": "2cf2d30b60f60f17",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Woke Capital.md",
+                "file": "WIL/WILT - 11.27.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "b89a255e62fd7404",
+            "id": "a7abf29ca565ef68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Extraterritorial Deals.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "aab5959f55d107ad",
+            "id": "2cfb17d1ed8131a3",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.16"
+                "file": "Sachs Podcast - Rashid Khalidi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25734788f031af15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sachs Podcast - Francisco Rodriguez.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b9d990f0e81c6a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sachs Podcast - Mersheimer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "db2fe81458a0bc40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sachs Podcast - Cummings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "84d63c7dd20ec417",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sachs Podcast - Coyne.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b310d611b60613b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forward Guidance Podcast - Eichengreen.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a358ad4e870ea8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Forward Guidance - Peter Farac.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "71a412b5144e12de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "FT - Cocoa leaves.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -70,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "singapore",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -87,8 +174,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -108,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Woke Capital.md",
+                "file": "FT - Cocoa leaves.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,33 +231,33 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "fd32ff4b211630a3",
+  "active": "71a412b5144e12de",
   "lastOpenFiles": [
+    "Forward Guidance - Peter Farac.md",
+    "FT - Cocoa leaves.md",
+    "Forward Guidance Podcast - Eichengreen.md",
+    "Hidden Forces Podcast Fiscal Dominance.md",
+    "Sachs Podcast - Coyne.md",
+    "Sachs Podcast - Cox.md",
+    "Outlines/To Read - Outline.md",
+    "Sachs Podcast - Cummings.md",
+    "Sachs Podcast - Figes.md",
+    "Sachs Podcast - Mersheimer.md",
+    "Sachs Podcast - Francisco Rodriguez.md",
+    "Sachs Podcast - Rashid Khalidi.md",
+    "WIL/WILT - 11.27.23.md",
+    "Extraterritorial Deals.md",
+    "A Monetary and Fiscal History of the US 1961-2021.md",
+    "The Dean of Shandong.md",
+    "Molecules/Solar Panels.md",
+    "Outlines/To Write - Outline.md",
+    "Sources/Commodities Note.md",
+    "Outlines/To do - Outline.md",
+    "Untitled 1.md",
+    "Woke Capital.md",
     "Francis Bacon.md",
     "Outlines/Philosophy - Outline.md",
     "Machiavelli.md",
-    "Woke Capital.md",
-    "The Long, Slow Death of Global Development - American Affairs Journal.md",
-    "Deficit Myth.md",
-    "Singapore Development.md",
-    "Molecules/Indian Savings Rate.md",
-    "Long, Slow Death of Global Devlopment.md",
-    "Renaissance.md",
-    "Meditations.md",
-    "Thomas Aquinas.md",
-    "Two Medieval Approaches to God.md",
-    "Three Islamic Truths.md",
-    "The Anselm of Canterbury.md",
-    "Avicenna.md",
-    "Boethius.md",
-    "St Augustine.md",
-    "Plotinus.md",
-    "Outlines/Renewables - Outline.md",
-    "Trade Wars are Class Wars.md",
-    "The Power and the Glory.md",
-    "Thinking in Systems.md",
-    "WIL/WILT - 11.16.23.md",
-    "WIL/WILT - Template.md",
-    "WIL/WILT - 11.15.23.md"
+    "The Long, Slow Death of Global Development - American Affairs Journal.md"
   ]
 }
