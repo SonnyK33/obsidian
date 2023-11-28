@@ -1,5 +1,6 @@
 Type: #molecule 
 References: [[Edge]]
+[[Routines]]
 [[Merton Model for Management Incentives]]
 [[WILT - 8.8.23]]
 [[Macro vs Idiosyncratic]]

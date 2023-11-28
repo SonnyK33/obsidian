@@ -121,14 +121,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FT - Cocoa leaves.md",
+                "file": "Molecules/Framework.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1bd7c016be078bb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 11.28.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FT - Cocoa leaves.md",
+                "file": "WIL/WILT - 11.28.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -231,10 +243,19 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "71a412b5144e12de",
+  "active": "1bd7c016be078bb0",
   "lastOpenFiles": [
-    "Forward Guidance - Peter Farac.md",
+    "Molecules/Evaluating Credits.md",
+    "Molecules/Framework.md",
+    "Molecules/Credit Scoring.md",
+    "Routines.md",
+    "Daily Routine.md",
+    "Molecules/Merton Model for Management Incentives.md",
+    "Molecules/Credit Buckets.md",
+    "WIL/WILT - 11.28.23.md",
+    "WIL/WILT - Template 1.md",
     "FT - Cocoa leaves.md",
+    "Forward Guidance - Peter Farac.md",
     "Forward Guidance Podcast - Eichengreen.md",
     "Hidden Forces Podcast Fiscal Dominance.md",
     "Sachs Podcast - Coyne.md",
@@ -249,15 +270,6 @@
     "Extraterritorial Deals.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "The Dean of Shandong.md",
-    "Molecules/Solar Panels.md",
-    "Outlines/To Write - Outline.md",
-    "Sources/Commodities Note.md",
-    "Outlines/To do - Outline.md",
-    "Untitled 1.md",
-    "Woke Capital.md",
-    "Francis Bacon.md",
-    "Outlines/Philosophy - Outline.md",
-    "Machiavelli.md",
-    "The Long, Slow Death of Global Development - American Affairs Journal.md"
+    "Molecules/Solar Panels.md"
   ]
 }

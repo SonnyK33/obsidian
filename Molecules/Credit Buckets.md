@@ -1,7 +1,7 @@
 Type: #molecule 
 References: [[Framework]]
 [[Macro vs Idiosyncratic]]
-
+[[Merton Model for Management Incentives]]
 
 
 1) BBB- credits 
