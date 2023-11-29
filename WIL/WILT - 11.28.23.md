@@ -15,21 +15,9 @@ I'm going through this new credit and will follow the framework to see how well 
 	- Consensus FCF for 2024 and 2025 is $450m each so they'll have $1.5bn by 2026
 	a.       What are their options?
 		- an uptiering or drop-down transaction is possible 
-		- 
 
-3.       If not, where will leverage go under different topline scenarios?
+Can stop the checklist here. The next step is a basic FCF model where I can sensitize digital and terrestrial ad spend. Is there a a new deal which would be interesting? I also need to look at the rest of the space, which in this case is just Cumulus I believe, and put the credit in the broader context. 
 
-4.       What scenario are bonds pricing in? If that scenario is a reasonable case, there’s nothing to do
-
-5.       If there are reasonable alternate scenarios, write out quick investment thesis – which should identify:
-
-a.        risks/catalysts
-
-b.       Upside/downside on securities
-
-c.       Likely issuer in future? When will they be issuing? How much? Structure, and what level would make sense? Reverse?
-
-6.       Schedule call if diligence questions and/or if likely issuer
 
 
 

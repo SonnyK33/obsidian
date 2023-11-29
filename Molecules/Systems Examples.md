@@ -9,6 +9,22 @@ Credit sits on larger stock than equity so moves slower
 **Inventory example**
 New orders are based on potential sales. Delays and uncertainty create a bullwhip effect. You need to understand different retailers’ inventory systems. How long is the delay? How are they making decisions on new orders? What are delays from factory? How long do they wait to change policies?
 
+**Credits as Systems**
+Inflows are revenues and Outflows are costs - opex, depreciation, interest, and dividends.
+The stock is invested capital - assets or net debt + equity. Principal payments don’t impact net debt and so aren’t outflows of invested capital. They are of liquidity, but that's a different system.   
+
+How to classify different credits?
+
+1) Most obvious is inflows > outflows?
+This is equivalent to EBIT > interest + dividends  ?
+This will be true for most credits, especially IG one  
+
+2) if yes, are assets increasing proportionally to the net inflows less outflows? And does the increase in assets/capital lead to more inflows? This is the ROIC question and describes a reinforcing loop. An obvious example is if capacity increases. What exactly are net inflows invested in? 
+
+3) are the dividends a balancing loop? Ie does more EBIT lead to more dividends?
+4) what is feeding the inflows? Prices or quantities? What’s feeding prices? Wages?
+
+
 **Credits with EBIT < Interest**
 Looking at VSCO whose interest expense is nearly equal to EBIT. Interest is an outflow and is a function of capital markets. Higher profitability should lead to higher rates. That's the balancing loop. EBIT are inflows of capital and come from the consumer. Consumer spending is a renewable resource which grows with wages and the economy--- the same loop that drives interest rates. 
 VSCO's asset value is a function of invested capital which is a function of these two loops. If rates increase faster than consumption (driven by wages and beliefs about future wealth appreciation), the asset will deplete over time. What's growing faster - interest rates or consumption?

@@ -70,6 +70,7 @@ In Bernanke's savings speech, he highlighted the aftermath of the Asian Financia
 
 18) Above three Will result in less debt, more consumption, and hence higher income.
 19) Adam Tooze (Chartbook 7/9/23) had a chart showing unit labour costs have converged with the US. But if consumption as a percentage of national income is still much lower than the US, doesn’t that imply GDP per person is much higher in China ? Perhaps the focus of Tooze's chart was just for certain sectors, but overall labour continues to get a low share?
+20) In the US, Pettis argues that high inequality has led to less consumption (though overall savings are still low), which can be addressed by either debt or unemployment. Marriner Eccles made this very point in the 1930s: the more income is concentrated, the more we require rising debt to prevent rising unemployment, and once debt can no longer rise, as happened in 1930, the alternative is a surge in unemployment.  So what is the ceiling on debt today? And will unemployment rise as fiscal deficits get constrained? Is that the catalyst? (https://twitter.com/michaelxpettis/status/1680573207215054850?s=51&t=1UAqXP8qb-k8n__xKbFvcw)
 
 
 

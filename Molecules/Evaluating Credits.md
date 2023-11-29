@@ -29,7 +29,7 @@ This is a HY credit that's about to be upgraded. The equity is easily ITM and th
 
 
 **Asset Returns**
-Appreciation comes from increasing invested capital or lowering the volatility of asset returns which increases the EV/FCF multiple.
+Appreciation comes from increasing invested capital or lowering the volatility of asset returns which increases the EV/FCF multiple. Understand the normalized FCF profile [[Normalized Earnings]]
 
 A long credit position is equivalent to selling a put struck at the corresponding debt/asset ratio. The underlying is value of the business’ assets.
 
@@ -48,7 +48,7 @@ Capital allocation is decided by management. Capital can be spent on:
 
 The first three decrease funds available for creditors and increase volatility of returns. New assets and businesses are uncertain (capex and M&A). Shareholder returns reduce future buffers for loss absorption.
 
-We need to break every credit into these fundamentals.
+We need to break every credit into these fundamentals. Think about an issuer's fixed vs variable costs to assess operating leverage and predict whether a company may raise or cut prices ([[Fixed vs Variable Costs]])
 
 1. Gross profit
 

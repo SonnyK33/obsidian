@@ -7,6 +7,7 @@ References: [[Edge]]
 [[WILT - 8.15.23]]
 [[WILT - 8.29.23]]
 [[Credit Scoring]]
+[[Fixed vs Variable Costs]]
 [[EM Sovereign Frameworks]]
 
 1) First answer the big questions
@@ -24,4 +25,5 @@ References: [[Edge]]
 6) Again use [[Credit Scoring]] to assess the asymmetry in potential idiosyncratic trades.
 7) Beyond the upside/downside, is there convexity in the trade [[Convexity]] ? 
 8) Trade construction (pairs, tenors, curves, etc)
+9) Always ask yourself why would someone have the opposite trade on? Or, what would make this a bad trade? In some cases, what would a trade undesirable is really the base case. 
 

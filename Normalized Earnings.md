@@ -1,0 +1,4 @@
+Type: #molecule 
+References: [[Framework]]
+https://twitter.com/fundamentedge/status/1627339654960943105?s=51&t=waz0Mxm609WZxYZ_rjfnvg
+This is mainly an equity tool, but normalizing earnings or FCF is important for spin-offs or special situations where the issuer is undergoing a major change. The key is to strip out unusual headwinds, use a normal margin, normalize capex spend, take into account changing interest expense if they'll be refinancing or if rates are changing. This seems obvious, but we often make the mistake of being too bearish given current headwinds. The "what could this credit look like" scenario is probably always  least 10-30% likely. 
