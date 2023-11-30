@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Routine.md",
+                "file": "WIL/WILT - 11.30.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Routine.md",
+                "file": "WIL/WILT - 11.30.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +209,8 @@
   },
   "active": "ad12ac9b292e2436",
   "lastOpenFiles": [
+    "Daily Routine.md",
+    "WIL/WILT - 11.30.23.md",
     "Routines.md",
     "Molecules/Framework.md",
     "Molecules/Secularism in post-partition India and Pakistan.md",
@@ -227,13 +229,11 @@
     "Credits as systems.md",
     "WIL/WILT - 11.28.23.md",
     "Molecules/Credit Scoring.md",
-    "Daily Routine.md",
     "Molecules/Merton Model for Management Incentives.md",
     "Molecules/Credit Buckets.md",
     "WIL/WILT - Template 1.md",
     "FT - Cocoa leaves.md",
     "Forward Guidance - Peter Farac.md",
-    "Forward Guidance Podcast - Eichengreen.md",
-    "Hidden Forces Podcast Fiscal Dominance.md"
+    "Forward Guidance Podcast - Eichengreen.md"
   ]
 }
