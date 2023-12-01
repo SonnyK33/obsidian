@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 11.30.23.md",
+                "file": "Molecules/Evaluating Credits.md",
                 "mode": "source",
                 "source": false
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 11.30.23.md",
+                "file": "Molecules/Evaluating Credits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,10 +209,11 @@
   },
   "active": "ad12ac9b292e2436",
   "lastOpenFiles": [
-    "Daily Routine.md",
-    "WIL/WILT - 11.30.23.md",
-    "Routines.md",
     "Molecules/Framework.md",
+    "Daily Routine.md",
+    "Routines.md",
+    "Molecules/GDP.md",
+    "WIL/WILT - 11.30.23.md",
     "Molecules/Secularism in post-partition India and Pakistan.md",
     "Molecules/Evaluating Credits.md",
     "Normalized Earnings.md",
@@ -233,7 +234,6 @@
     "Molecules/Credit Buckets.md",
     "WIL/WILT - Template 1.md",
     "FT - Cocoa leaves.md",
-    "Forward Guidance - Peter Farac.md",
-    "Forward Guidance Podcast - Eichengreen.md"
+    "Forward Guidance - Peter Farac.md"
   ]
 }
