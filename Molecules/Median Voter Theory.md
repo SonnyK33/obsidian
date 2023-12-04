@@ -1,5 +1,5 @@
 Type: #molecule 
-References: [[Geopoltical Alpha]]
+References: [[Geopolitical Alpha]]
 
 
 Papic argues that most political leaders are accountable to the median voter and will pay attention to the most important issues affecting  this group. The median voter thus acts as a contraint on the leader and guides his policies. Although this seems obvious, analysts are frequently guilty of ignoring the political constraints facing leaders. There are a few stories right now that can be viewed with this lense.

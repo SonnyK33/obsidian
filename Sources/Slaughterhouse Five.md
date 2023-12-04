@@ -6,7 +6,7 @@ The aliens (on Trafalmadore) see all things at once, and have no concept of time
 
 Another theme was the connection between the US' treatment of the poor to its war effort. The American traitor told the Germans that was something that made the US unique - set poor people against one another. The author also compared Dresden with the ghettos in his own city. 
 
-One part that stood out to me was when Pilgrim said the goal of war was to force comformity. He said most people are the "listless playthings of enormous forces". I read this book while reading [[Geopoltical Alpha]] which talked about [[Median Voter Theory]]. It occurred to me that MVT teaches the importance of paying attention to the median voter while war aims to destroy this notion. It destroys the individual.  
+One part that stood out to me was when Pilgrim said the goal of war was to force comformity. He said most people are the "listless playthings of enormous forces". I read this book while reading [[Geopolitical Alpha]] which talked about [[Median Voter Theory]]. It occurred to me that MVT teaches the importance of paying attention to the median voter while war aims to destroy this notion. It destroys the individual.  
 
 
 **Summary**

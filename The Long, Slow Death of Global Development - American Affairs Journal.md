@@ -1,7 +1,7 @@
 Type: #source 
 References: [[The Long, Slow Death of Global Development - American Affairs Journal]]
 [[Trade Wars are Class Wars]]
-[[Geopoltical Alpha]]
+[[Geopolitical Alpha]]
 [[Singapore Development]]
 [[Deficit Myth]]
 

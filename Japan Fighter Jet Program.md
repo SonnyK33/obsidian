@@ -3,7 +3,7 @@ References:
 [[Japan - Outline]] [[China - Outline]]
 [[The World According to Xi Jinping]]
 https://www.ft.com/content/f3c457e5-82ee-462f-b8f3-c701a8e4840e
-[[Geopoltical Alpha]]
+[[Geopolitical Alpha]]
 
 The fighter jet program could create a new alliance between the UK and Japan. Japan is  working with the UK and Italy to develop a next gen fighter jet. It's a big deal as it doesn’t involve the US which had been its primary defense partner since WW2. It stems from Japan's  frustration with US not sharing sensitive info. The goal is obvs China related   
   

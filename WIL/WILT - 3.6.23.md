@@ -1,5 +1,5 @@
 Type: #WILT 
-References: [[Geopoltical Alpha]]
+References: [[Geopolitical Alpha]]
 [[Nigeria - Outline]]
 [[Latam - Outline]]
 [[Clash of Empires Update Identifying Winners and losers]]

@@ -1,5 +1,5 @@
 References: [[WILT - 9.1.23]]
-[[Geopoltical Alpha]]
+[[Geopolitical Alpha]]
 [[The Rise of Carry]]
 [[China - Outline]]
 [[Systems Examples]]
@@ -28,7 +28,7 @@ There may be multiple systems operating, but in different timescales.
 
 
 
-This book attempts to abstract common observances into different systems. All are some combination of stocks and flows which interact with each other using either balancing or feedback loops. The author argues that if you see the underlying structure in a system, you can recognize patterns. There are common methods to improve systems that can be applied to different domains. Explaining behavior often comes down to understanding what the required "inflows" are, and what is limiting. Its focus on constraints to explain behavior reminded me of [[Geopoltical Alpha]].
+This book attempts to abstract common observances into different systems. All are some combination of stocks and flows which interact with each other using either balancing or feedback loops. The author argues that if you see the underlying structure in a system, you can recognize patterns. There are common methods to improve systems that can be applied to different domains. Explaining behavior often comes down to understanding what the required "inflows" are, and what is limiting. Its focus on constraints to explain behavior reminded me of [[Geopolitical Alpha]].
 If something persists, it's likely because of its underlying structure rather than the personalities involved. 
 
 **System Structure**

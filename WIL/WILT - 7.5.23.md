@@ -1,6 +1,6 @@
 Type: #WILT 
 References: https://themarket.ch/interview/george-magnus-china-will-not-be-able-to-de-dollarize-under-xi-ld.9180?mktcid=smsh&mktcval=Twitter
-[[Geopoltical Alpha]]
+[[Geopolitical Alpha]]
 
 WILT
 China introduced curbs on germanium and gallium exports, which are key to chipmaking. Japan and South Korea are the largest importers of the metals and have warned that these actions will raise prices. This was to be expected given all of the US-led sanctions on China, preventing it from importing chip making equipment. 

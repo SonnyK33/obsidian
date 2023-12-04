@@ -1,5 +1,5 @@
 Type: #source 
-References: [[india - Outline]] [[Geopoltical Alpha]]
+References: [[india - Outline]] [[Geopolitical Alpha]]
 
 India is now the largest country in the world and the fastest growing large economy. There’s three big changes behind that.
 

@@ -2,7 +2,7 @@ Type: #source
 Author: Brad Setser
 Series: Follow the Money @ CFR
 https://www.cfr.org/blog/new-geopolitics-global-finance
-References: [[Geopoltical Alpha]]
+References: [[Geopolitical Alpha]]
 [[Dollar Hegemony]]
 [[China - Outline]]
 

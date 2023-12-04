@@ -2,7 +2,7 @@ Type: #source
 Source:  Gavekal 2.23.23
 References: [[WILT - 3.6.23]]
 [[Dollar Hegemony]]
-[[Geopoltical Alpha]]
+[[Geopolitical Alpha]]
 
 Since the Asian Financial Crisis, and their bailout by the IMF,. Asian economies have accumulated as many dollar reserves as possible. They subsidizied their export industries to generate large current account surpluses. The reserves of South Korea, Singapore, Taiwan, Thailand, and the Philippines went from 200bn to 1.3tr from 1998 to 2022. These countries (like almost all countries) transact with each other in USD. Since energy is denominated in USD, if oil prices spike, any one of these countries could have a liquidity crisis. That limits the attractiveness of their currencies for others to hold. As a result, they only accept USD for intra-regional trade. The excess savings were deposited into UST which lowered US yields, encouraged more borrowing by Americans, and led to further trade deficits. This also killed the US industrial base. 
 
