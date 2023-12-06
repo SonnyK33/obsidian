@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 12.5.23.md",
+                "file": "WIL/WILT - 12.6.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 12.5.23.md",
+                "file": "WIL/WILT - 12.6.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,10 @@
   },
   "active": "0e13982dec4f424c",
   "lastOpenFiles": [
+    "WIL/WILT - Template.md",
+    "WIL/WILT - 12.6.23.md",
     "Molecules/Daily Routine.md",
+    "Molecules/Routines.md",
     "WIL/WILT - 12.5.23.md",
     "Molecules/Framework.md",
     "WIL/WILT - 12.3.23.md",
@@ -146,9 +149,6 @@
     "Turkey's Increasing Balance Sheet Risks.md",
     "Thinking in Systems.md",
     "Theta - WIP.md",
-    "The Rise of Carry.md",
-    "Thematic Investing.md",
-    "The Return of Industrial Policy.md",
-    "The Respectful Prostitute.md"
+    "The Rise of Carry.md"
   ]
 }
