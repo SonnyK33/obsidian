@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3ccf4082fbfa6869",
+        "id": "dd677a56585743e5",
         "type": "tabs",
         "children": [
           {
-            "id": "0e13982dec4f424c",
+            "id": "f07bb07b7fd41421",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 12.6.23.md",
+                "file": "WIL/WILT - 12.7.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 12.6.23.md",
+                "file": "WIL/WILT - 12.7.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,14 +122,16 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "0e13982dec4f424c",
+  "active": "f07bb07b7fd41421",
   "lastOpenFiles": [
-    "WIL/WILT - Template.md",
-    "WIL/WILT - 12.6.23.md",
+    "Molecules/Evaluating Credits.md",
+    "Molecules/Framework.md",
+    "WIL/WILT - 12.7.23.md",
     "Molecules/Daily Routine.md",
+    "WIL/WILT - 12.6.23.md",
+    "WIL/WILT - Template.md",
     "Molecules/Routines.md",
     "WIL/WILT - 12.5.23.md",
-    "Molecules/Framework.md",
     "WIL/WILT - 12.3.23.md",
     "A Monetary and Fiscal History of the US 1961-2021.md",
     "Disunited Kingdom.md",
@@ -147,8 +149,6 @@
     "Trade balances and Capital Flows.md",
     "Zoltan - War and Currency Statecraft.md",
     "Turkey's Increasing Balance Sheet Risks.md",
-    "Thinking in Systems.md",
-    "Theta - WIP.md",
-    "The Rise of Carry.md"
+    "Thinking in Systems.md"
   ]
 }
