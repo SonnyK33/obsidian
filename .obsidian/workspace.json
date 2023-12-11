@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 12.8.23.md",
+                "file": "WIL/WILT - 12.11.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 12.8.23.md",
+                "file": "WIL/WILT - 12.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,10 +136,11 @@
   },
   "active": "f07bb07b7fd41421",
   "lastOpenFiles": [
-    "Untitled 2.md",
-    "WIL/WILT - 12.8.23.md",
-    "WIL/WILT - 12.7.23.md",
     "Molecules/Daily Routine.md",
+    "WIL/WILT - 12.11.23.md",
+    "WIL/WILT - 12.8.23.md",
+    "Untitled 2.md",
+    "WIL/WILT - 12.7.23.md",
     "Molecules/Evaluating Credits.md",
     "Molecules/Framework.md",
     "WIL/WILT - 12.6.23.md",
@@ -160,7 +161,6 @@
     "Myth of  Sisyphus.md",
     "Kelton - How Should We Think About Fiscal Sustainability.md",
     "Mental Models.md",
-    "Trade balances and Capital Flows.md",
-    "Zoltan - War and Currency Statecraft.md"
+    "Trade balances and Capital Flows.md"
   ]
 }
