@@ -1,7 +1,4 @@
-Type: #WILT 
-[[WILT - 12.13.23]]
-WILT
-[[2024 Framework]]
+Type: #molecule 
 
 What's my framework for assessing variable outcomes? A credit which has more variable outcomes should trade at a higher spread than one with narrower outcomes, all else equal. The other variables include moneyness and time to maturity. I should break up the credits into categories based on those variables so I'm comparing like for like credits. But then how to determine how variable a credit's outcomes are in a systematic fashion?
 The rough framework I have in my head is:
@@ -12,27 +9,11 @@ Start with macro outcomes, but keep it simple. For now, there can be soft and ha
 
 This framework will not calculate a specific spread, but it will help for relative value across sectors, ratings, geographies, etc. 
 
-[[Thinking in Systems]]
-As I've been looking at Enova and Sunnova, I've been trying to think about the systems framework. Especially for Enova, the stocks and flows are important to understand. Is it a reinforcing loop or a balancing loop? Will think on this tomorrow.
 
-
-Narrative
-
-1 goal
-
-
-**Predictions**
-
-1) []
-Previous belief - 
-[ ]
-Update to priors - 
-[]
-Trade Review
-[]
+**Macro Scenarios**
 
 
 
 
-
-Macro
+**Sectoral Scenarios**
+What are the different trends in a given sector. 
