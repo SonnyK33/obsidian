@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/2024 Framework.md",
+                "file": "WIL/WILT - 12.14.23.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/2024 Framework.md",
+                "file": "WIL/WILT - 12.14.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,10 +134,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f2b41864c0e287d2",
+  "active": "f07bb07b7fd41421",
   "lastOpenFiles": [
-    "WIL/WILT - 12.12.23.md",
     "Molecules/2024 Framework.md",
+    "WIL/WILT - 12.14.23.md",
+    "WIL/WILT - 12.12.23.md",
     "WIL/WILT - 12.11.23.md",
     "WIL/WILT - 12.8.23.md",
     "WIL/WILT - 12.13.23.md",
@@ -160,7 +161,6 @@
     "Measuring the Moat.md",
     "Meta-labeling.md",
     "Momentum Trading.md",
-    "Monetarism.md",
-    "Myth of Sisyphus.md"
+    "Monetarism.md"
   ]
 }
