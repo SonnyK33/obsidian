@@ -1,5 +1,5 @@
 Type: #WILT 
-
+[[WILT - 12.20.23]]
 WILT
 SBNY, the crypto-focused bank, that collapsed along with SIVB in March, may have residual value, possibly through the equity. It failed due to a run on deposits, led by crypto-focused businesses. It's now in FDIC receivership, and its assets are being sold to pay off depositors. From our initial look, there may be assets in excess of liabilities, implying value for the subordinate bonds, and possibly the equity. The bonds are now trading in the 20s, and the stock has a $10m market cap. Its assets included commercial real estate, as well as loans to PE funds, which should be worth par. The FDIC already has a rather stringent loan loss reserve on the assets (~$6bn). If it's only say, 5bn, that would imply a $800m market cap (80x upside). 
 
