@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 1.11.24.md",
+                "file": "Molecules/Framework.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "403816a14ab32570",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
               }
             }
           },
@@ -41,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "liquidity",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 1.11.24.md",
+                "file": "Molecules/Framework.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,10 +137,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "403816a14ab32570",
+  "active": "fff71859529a0bd0",
   "lastOpenFiles": [
-    "WIL/WILT - 1.9.24.md",
+    "Molecules/Evaluating Credits.md",
     "WIL/WILT - 1.11.24.md",
+    "WIL/WILT - 1.9.24.md",
     "WIL/WILT - 1.8.24.md",
     "WIL/WILT - 1.5.24.md",
     "WIL/WILT - 1.4.24.md",
@@ -169,7 +160,6 @@
     "Thinking in Systems.md",
     "Molecules/Daily Routine.md",
     "Molecules/Framework.md",
-    "Molecules/Evaluating Credits.md",
     "Untitled 2.md",
     "WIL/WILT - 12.7.23.md",
     "WIL/WILT - 12.6.23.md",
