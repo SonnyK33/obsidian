@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "403816a14ab32570",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
+          },
+          {
             "id": "360518cae6dff116",
             "type": "leaf",
             "state": {
@@ -31,7 +41,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -114,7 +125,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -134,7 +147,7 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "f07bb07b7fd41421",
+  "active": "403816a14ab32570",
   "lastOpenFiles": [
     "WIL/WILT - 12.20.23.md",
     "WIL/WILT - 12.27.23.md",
