@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 1.22.24.md",
+                "file": "WIL/WILT - 1.23.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 1.22.24.md",
+                "file": "WIL/WILT - 1.23.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,8 +138,10 @@
   },
   "active": "f07bb07b7fd41421",
   "lastOpenFiles": [
-    "WIL/WILT - 1.18.24.md",
     "WIL/WILT - 1.22.24.md",
+    "WIL/WILT - 1.23.24.md",
+    "WIL/WILT - 1.23.22.md",
+    "WIL/WILT - 1.18.24.md",
     "WIL/WILT - 1.17.24.md",
     "WIL/WILT - 1.11.24.md",
     "WIL/WILT - 1.9.24.md",
@@ -161,8 +163,6 @@
     "WIL/WILT - 12.11.23.md",
     "WIL/WILT - 12.8.23.md",
     "WIL/WILT - 12.13.23.md",
-    "Thinking in Systems.md",
-    "Molecules/Daily Routine.md",
-    "Untitled 2.md"
+    "Thinking in Systems.md"
   ]
 }
