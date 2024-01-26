@@ -1,4 +1,4 @@
 Type: #molecule 
 
 Credit Analysis - [[Framework]]
-Daily - [[Daily Routine]]
+Daily - [[Daily Routines]]
