@@ -2,11 +2,10 @@ Type: #WILT
 
 WILT
 Daily Agenda:-
-- Catalent - what are key questions?
-- Westjet deal
+- Catalent - FCF scenarios?
 - Lumen recovery 
+- call w/ SBNY guy
 - EUR REITs
-- size trades on initial review
 - New issue reverse strategy - start with energy names
 - MPW  - in pipeline
 - read Save 8% bond OM
