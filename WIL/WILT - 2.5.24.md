@@ -2,9 +2,9 @@ Type: #WILT
 
 WILT
 Daily Agenda:-
-- Catalent - FCF scenarios?
+- Catalent - anything to do?
+- ORI
 - Lumen recovery 
-- call w/ SBNY guy
 - EUR REITs
 - New issue reverse strategy - start with energy names
 - MPW  - in pipeline
