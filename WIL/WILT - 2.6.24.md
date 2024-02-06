@@ -2,14 +2,13 @@ Type: #WILT
 
 WILT
 Daily Agenda:-
-- Catalent - anything to do?
 - ORI
+- MPW  - in pipeline
+- read Save 8% bond OM
 - Lumen recovery 
 - EUR REITs
 - New issue reverse strategy - start with energy names
-- MPW  - in pipeline
-- read Save 8% bond OM
-- 
+ 
 
 
 
