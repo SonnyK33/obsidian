@@ -2,9 +2,9 @@ Type: #WILT
 
 WILT
 Daily Agenda:-
-- ORI
-- MPW  - in pipeline
-- read Save 8% bond OM
+- DHC
+- MPW  - reverse discussion
+- Save - key questions
 - Lumen recovery 
 - EUR REITs
 - New issue reverse strategy - start with energy names
