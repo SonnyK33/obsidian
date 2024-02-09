@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "The World of Yesterday.md",
+                "file": "WIL/WILT - 2.9.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The World of Yesterday.md",
+                "file": "WIL/WILT - 2.9.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,8 +163,10 @@
   },
   "active": "34fb81ce365d08a1",
   "lastOpenFiles": [
-    "Radzetsky March.md",
+    "WIL/WILT - 2.8.24.md",
+    "WIL/WILT - 2.9.24.md",
     "The World of Yesterday.md",
+    "Radzetsky March.md",
     "Pascal's Wager.md",
     "Outlines/Philosophy - Outline.md",
     "Descartes.md",
@@ -172,7 +174,6 @@
     "Francis Bacon.md",
     "Essentialism.md",
     "Untitled 18.md",
-    "WIL/WILT - 2.8.24.md",
     "WIL/WILT - 2.7.24.md",
     "WIL/WILT - 2.8.23.md",
     "Untitled 2.md",
@@ -187,7 +188,6 @@
     "WIL/WILT - 1.23.22.md",
     "WIL/WILT - 1.18.24.md",
     "WIL/WILT - 1.17.24.md",
-    "WIL/WILT - 1.11.24.md",
-    "WIL/WILT - 1.9.24.md"
+    "WIL/WILT - 1.11.24.md"
   ]
 }
