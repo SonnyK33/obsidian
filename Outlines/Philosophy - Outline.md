@@ -36,5 +36,8 @@ Cynics
 [[Machiavelli]]
 [[Francis Bacon]]
 
+[[Hobbes]]
+[[Descartes]]
+[[Pascal's Wager]]
 Summaries:
 [[Hellenestic]]
