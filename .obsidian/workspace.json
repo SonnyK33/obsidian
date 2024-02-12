@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.8.24.md",
+                "file": "WIL/WILT - 2.12.24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bbea8f706ec5ba25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Laws of Trading.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.9.24.md",
+                "file": "The World of Yesterday.md",
                 "mode": "source",
                 "source": false
               }
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.9.24.md",
+                "file": "Laws of Trading.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,10 +173,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "34fb81ce365d08a1",
+  "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
+    "WIL/WILT - 2.12.24.md",
+    "Laws of Trading.md",
     "WIL/WILT - 2.8.24.md",
-    "WIL/WILT - 2.9.24.md",
     "The World of Yesterday.md",
     "Radzetsky March.md",
     "Pascal's Wager.md",
@@ -187,7 +200,6 @@
     "WIL/WILT - 1.22.24.md",
     "WIL/WILT - 1.23.22.md",
     "WIL/WILT - 1.18.24.md",
-    "WIL/WILT - 1.17.24.md",
-    "WIL/WILT - 1.11.24.md"
+    "WIL/WILT - 1.17.24.md"
   ]
 }
