@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Laws of Trading.md",
+                "file": "Advanced Portfolio Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Laws of Trading.md",
+                "file": "Advanced Portfolio Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,8 +175,9 @@
   },
   "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
-    "WIL/WILT - 2.12.24.md",
     "Laws of Trading.md",
+    "Advanced Portfolio Management.md",
+    "WIL/WILT - 2.12.24.md",
     "WIL/WILT - 2.8.24.md",
     "The World of Yesterday.md",
     "Radzetsky March.md",
@@ -199,7 +200,6 @@
     "WIL/WILT - 1.26.23.md",
     "WIL/WILT - 1.22.24.md",
     "WIL/WILT - 1.23.22.md",
-    "WIL/WILT - 1.18.24.md",
-    "WIL/WILT - 1.17.24.md"
+    "WIL/WILT - 1.18.24.md"
   ]
 }
