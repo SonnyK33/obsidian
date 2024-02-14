@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.13.24.md",
+                "file": "Superforecasting.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "superfo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,7 +114,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -134,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.13.24.md",
+                "file": "Superforecasting.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,15 +176,16 @@
   },
   "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
+    "Laws of Trading.md",
+    "Superforecasting.md",
+    "WIL/WILT - 2.13.24.md",
     "WIL/WILT - 2.10.23.md",
     "WIL/WILT - 2.9.23.md",
     "WIL/WILT - 2.8.24.md",
-    "WIL/WILT - 2.13.24.md",
     "WIL/WILT - 2.13.23.md",
     "WIL/WILT - 12.13.23.md",
     "WIL/WILT - 12.12.23.md",
     "Advanced Portfolio Management.md",
-    "Laws of Trading.md",
     "The World of Yesterday.md",
     "Radzetsky March.md",
     "Pascal's Wager.md",
@@ -199,7 +201,6 @@
     "WIL/WILT - 1.30.24.md",
     "WIL/WILT - 1.29.24.md",
     "WIL/WILT - 1.30.23.md",
-    "Molecules/Daily Routines.md",
-    "WIL/WILT - 1.26.24.md"
+    "Molecules/Daily Routines.md"
   ]
 }
