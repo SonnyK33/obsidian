@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.13.24.md",
+                "file": "Sources/Stillwell and the American Experience in China (1911-1945).md",
                 "mode": "source",
                 "source": false
               }
@@ -25,43 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Superforecasting.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d49b8be654c06ee3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Pascal's Wager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34fb81ce365d08a1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The World of Yesterday.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "360518cae6dff116",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
+                "file": "WIL/WILT - 2.14.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "superfo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -114,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -135,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Superforecasting.md",
+                "file": "WIL/WILT - 2.14.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,9 +139,11 @@
   },
   "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
-    "Laws of Trading.md",
     "Superforecasting.md",
-    "WIL/WILT - 2.13.24.md",
+    "Sources/Stillwell and the American Experience in China (1911-1945).md",
+    "WIL/WILT - 2.14.24.md",
+    "Untitled 2.md",
+    "Laws of Trading.md",
     "WIL/WILT - 2.10.23.md",
     "WIL/WILT - 2.9.23.md",
     "WIL/WILT - 2.8.24.md",
@@ -197,10 +162,8 @@
     "Untitled 18.md",
     "WIL/WILT - 2.7.24.md",
     "WIL/WILT - 2.8.23.md",
-    "Untitled 2.md",
     "WIL/WILT - 1.30.24.md",
     "WIL/WILT - 1.29.24.md",
-    "WIL/WILT - 1.30.23.md",
-    "Molecules/Daily Routines.md"
+    "WIL/WILT - 1.30.23.md"
   ]
 }
