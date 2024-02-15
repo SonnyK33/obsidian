@@ -2,7 +2,7 @@ Type: #WILT
 
 WILT
 Daily Agenda:-
-- EUR REITs - AroundTown - financials
+- EUR REITs - comps and writeup
 - NBR credit vs equity
 - MPW  - reverse discussion- 
 - SFR- 
