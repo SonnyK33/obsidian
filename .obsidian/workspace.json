@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.23.24.md",
+                "file": "WIL/WILT - 2.28.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.23.24.md",
+                "file": "WIL/WILT - 2.28.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,9 @@
   },
   "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
-    "WIL/WILT - 2.21.24.md",
     "WIL/WILT - 2.23.24.md",
+    "WIL/WILT - 2.28.24.md",
+    "WIL/WILT - 2.21.24.md",
     "WIL/WILT - 2.15.24.md",
     "WIL/WILT - 1.26.24.md",
     "WIL/WILT - 1.29.24.md",
@@ -150,7 +151,6 @@
     "Outlines/Philosophy - Outline.md",
     "Descartes.md",
     "Hobbes.md",
-    "Francis Bacon.md",
-    "Essentialism.md"
+    "Francis Bacon.md"
   ]
 }
