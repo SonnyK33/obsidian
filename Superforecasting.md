@@ -2,38 +2,79 @@ Type: #source
 Author: Philip Tetlock
 References: [[The Laws of Trading]] [[Advanced Portfolio Management]]
 
-Tetlock argues that anyone can improve their ability to forecast events, even, and especially, non-subject experts. He uses the fox and hedgehog metaphor to describe the two ways of building expertise. Foxes attempt to know a little about a lot of things and connect dots. They're humble about what they don't know and are able to abstract from specific issues to broader lessons. Hedgehogs, conversely, have one big idea and fit everything into that mold. They're subject experts, which often makes them arrogant and inflexible to new information. 
+Tetlock argues that anyone can improve their ability to forecast events, even, and especially, non-subject experts. He uses the fox and hedgehog metaphor to describe the two ways of building expertise. Foxes attempt to know a little about a lot of things and connect dots. They're humble about what they don't know and are able to abstract from specific issues to broader lessons. Hedgehogs, conversely, have one big idea and fit everything into that mold. They're subject matter experts, which often makes them arrogant and inflexible to new information. 
 
 Becoming a fox requires practice with forecasting. You need to conduct assessments of why you were wrong or right about previous forecasts. Specificity, to the extent possible, is also important. Vague assertions only shield the predictor from criticism when he's wrong. Abstracting, or taking the outside view, is an important step. Even obscure events can be related to ones that already occurred. 
+
+A key insight in the book is that you need to know when to rely on intuition and when not to. If the information required to use system 1 thinking (intuition) is available, then this mode may be sufficient. This requires humility of what you don't know. 
 
 Chapter 1 An Optimistic Skeptic
 Chapter 2 Illusions of Knowledge
 
-We operate with two systems of cognition. System 1 is intuition, and system 2 is conscious thinking. System 1 allows for snap judgements. Accurate predictions require a plan and reassessments; they require system 2 thinking. Subject matter experts (hedgehogs) rely on system 1 thinking. 
+We operate with two systems of cognition. System 1 is intuition, and system 2 is conscious thinking. System 1 allows for snap judgements. Accurate predictions require a plan and reassessments; they require system 2 thinking. Subject matter experts (hedgehogs) rely on system 1 thinking. Medicine for a long time was driven by intuition.
 
-Medicine for a long time was driven by intuition
-
-We justify what our system
-
-1 initially perceives -
-
-Confirmation bias
-
-Attribution bias -
-
-If too complex to figure out, simplify question
-
-Need to know when to go with system 1 and when to doubt it. It can detect subtle patterns that you’ve observed over time and extrapolate. The question is if the information required to use system 1 likely exists or not. If it’s unlikely to be available, should be skeptical of snap judgements. 
-
+We justify what our system 1 initially perceives; this is confirmation bias. Attribution bias is when we over-simplify a questions, and answer a different one instead. You need to know when to go with system 1 and when to doubt it. It can detect subtle patterns that you’ve observed over time and extrapolate. The question is if the information required to use system 1 likely exists or not. **If it’s unlikely to be available, you should be skeptical of snap judgements.** 
 
 Chapter 3 Keeping Score
+
+Quantifying probabilities and forecasts keeps you honest. It forces you to calibrate judgements and think about how you’re estimating. It prevents truisms like saying something may happen. When you place odds on something, you should lose commensurately if wrong. Making small bets like this sharpens your ability to calibrate your level of conviction. 
+
+
 Chapter 4 Superforecasters
+
+
+Big idea people (hedgehogs) are driven by ideology and try to fit what they observe to their worldview. Foxes, conversely, know a little about a lot of things. They admit when they're wrong and use probabilities to communicate their confidence and to keep them honest. He's referencing the Isaiah Berlin essay. He gives the example of Larry Kudlow, as a hedgehog who fits everything into his supply side ideology. Hedgehogs are simplistic and have lots of easy answers. This makes them pleasing to audiences, and they hence become more popular than foxes and who have nuance. Hedgehogs' one big idea make them confident and more palatable. 
+
+Aggregating experts can be useful. Errors in guesses will cancel out, and the useful adjustments they make will add up. This only works if people are making smart estimates. The super-forecasters beat IARPA by aggregating the crowds, taking the top performers, and then extremizing their forecasts. For instance, 70pct was turned into 85 and 30 became 10 to simulate confidence. Top performers were selected based on previous observations of accuracy.  
+
+Regression to the mean is powerful and forgotten often. Many things we attribute to skill are often just luck and mean reversion. Everyone is right eventually, and you’ll likely feel better even without medication. We shouldn’t always attribute effects to specific stimuli. Even among super forecasters, only 70pct remained accurate in the next period. They were much better than random guessers, and showing less mean reversion, but they weren't not infallible 
+
 Chapter 5 Supersmart?
+
+Super forecasters are smarter than average but they aren't geniuses. The point of diminishing returns comes quickly, and curiosity and awareness are more important than genius level IQ. Geniuses may actually do worse because they're overconfident.
+
+The key to solving complex problems is breaking down the questions into constituent parts and easier questions, like the market sizing consultants do. Break questions into knowable and unknowable. For the former, what do you need to know? What would need to be true for it to be true. 
+
+For example, try answering how many piano tutors are there in Chicago. Start with the population in Chicago, then how many own pianos, and how often does one need tuning. The key is to understand what’s knowable and what isn’t. These back of envelope answers tends to be accurate even without outside info.
+
+You start with the outside view; this is the general case abstracted from the details. For example if you're trying to forecast a border dispute, first assess how often those occur. This gives a base rate which you can then adjust. If you're starting with an inside view, there's risk of anchoring bias.
+
+Then move to the inside view. Start with hypotheses, and for each, determine what would need to be true for it to be true. It doesn’t help to just immerse yourself in general information. For each question, try considering the opposite question to prevent anchoring. Write down your prediction and thought process. Come back to it a few days later. Do you still agree? Be actively open minded and seek other views.
+
 Chapter 6 Superquants?
-Chapter 7 Supernewsjunkies?
+
+Numeracy is important but advanced quant techniques are not. Strive to be more granular in probability forecasts. Super forecasters don’t have false precision; the more precise they are the more accurate they tend to be. Rounding off their prob estimates takes away the accuracy quickly. Try making forecasts more precise in stages.  
+
+Don’t think of things as inevitable. If you think something was meant to be just because it was unlikely to happen (like falling in love with someone) that means you think the probability was 100pct which is contradictory. Instead, take it as evidence of how uncertain the future is. Instead of the "why", think about the "how". Like in [[Slaughterhouse Five]], - why me? Why not me? Aurelius in [[Meditations]] also talks about this. Understand the process, and don’t worry about the why. Believing in fate is reassuring but it hurts forecasts. Remember to think about the outside view and to not get lost in emotional details - that’s what leads to fatalistic thinking
+
+Chapter 7 Super news junkies?
+
+The above process, breaking all questions into small ones, and separating known from unknown questions is much more useful than immersing yourself in information. Test all assumptions and take the outside view. Where have you seen similar questions before? This is a specific case of a general case. Then take the inside view and assess what’s unique here.
+
+Compare your views with others and determine what the market is pricing in. This way you can extract wisdom from crowds. You can synthesize views as specifically as possible using probabilities. Make note of metrics you need to follow to change your mind and the forecasted probabilities. Pay attention to those metrics and update them often. Preparation is key here, as is recording the metrics and timelines. Collect major questions into categories and see what the common metrics are. You need to update forecasts with new information. It can be hard to adjust prior views, and it's often hard to change beliefs because they’re deeply held and may tie with your identity. It's important to not tie your forecasts and predictions with your values. Otherwise changing them challenges everything else you believe. This can be a weakness for subject matter experts as their forecasts become sacred, and it's hard to admit you’re wrong. Another way of saying this is you should have conviction, but it should be loosely held and you need to be willing to change it with new information. Have an advantage by making predictions over things you don’t care about. We can also be guilty of overreacting to irrelevant information. You can avoid this by thinking of key questions and metrics ahead of time. The best forecasters update often but generally rely on small changes.
+
 Chapter 8 Perpetual Beta
-Chapter 9 Superteams
+
+A growth mindset is key. You can learn anything and get better with practice. Don’t rely on endowments. We need to be objective and not be lured by praise. Be self critical and always be improving and looking to learn. 
+
+Chapter 9 Super teams
+
+Groups can be powerful via aggregation and from canceling out individual errors, but they can also lead to complacency and groupthink. Unanimity can be taken as meaning certainty. Teams normally outperform individuals, as they have different styles and can do more research. This requires members to challenge each other and be critical without offending, which requires mutual trust. Diverse teams are good if they can each contribute something. That’s the logic of extremizing results. In the Bin Laden example, many members knew stuff that others didn’t. Extremizing would’ve compensated for this and produced an average forecast in the 90s. A team with no diversity where everyone knows the same thing shouldn’t be extremized.
+
 Chapter 10 The Leader's Dilemma
+
+Motler, a German general, came up with plans but let those on the ground execute. This acknowledges that no plan survives the encounter with the enemy so we must be flexible and open to new information. But when a plan is decided, we must act. Be confident especially vs enemies but be intellectually humble and open to the idea that you could be wrong. Milton, in paradise lost, said the devil is evil, but he's also resourceful. Don’t sacrifice facts for morality. That is, you can learn from those you disagree with, for example the competence of the German army despite their evil goals.
+
+I’d add that often moral judgements themselves tend to be hypocritical and inconsistent. We should test our objectivity. Conversely, if you follow Aurelius, morality and fact based judgement should be one in the same, though the former should flow from the latter not the reverse. 
+
+
+
+
+
+  
+
+Many forecasters esp those in charge are guilty of this error eg underestimating Russian or Syrian armies
+
 Chapter 11 Are They Really So Super?
 Chapter 12 What's Next?
 Epilogue
@@ -41,254 +82,6 @@ An Invitation
 Appendix: Ten Commandments for Aspiring Superforecasters.
 
 
-
-
-
-Quantify probabilities.
-
-Forces you to calibrate judgements and think about how you’re estimating. Prevents truisms.like something may happen
-
-When you place odds on something should lose commensurately if wrong 
-
-  
-
-Big idea ppl are driven by ideology and try to fit to their worldview - hedgehogs
-
-Foxes know about a lot of
-
-Stuff
-
-And admit when wrong, state probabilities
-
-From Isaiah Berlin essay 
-
-Kudlow a hedgehog who fits everything into supply side ideology
-
-Hedgehogs are Simplisitc w easy answers. This makes them pleasing to audiences and they hence become more popular than foxes and who have nuance.
-
-H’s one big idea makes them confident and more palatable.
-
-  
-
-Aggregating experts can be useful. Errors in guesses will cancel our and useful adjustments they make will add up. Works if ppl are making smart estimates.
-
-Beat IARPA by aggregating the crowds, taking the top performers and then extrmizing their forecasts ie 70pct to 85 and 30 to 10 to simulate confidence 
-
-Top performers based on previous observations of accuracy 
-
-  
-
-Regression to the mean is powerful and forgotten often
-
-Thinks we attribute to skill are often just luck and mean reversion ie everyone right eventually, you’ll likely feel better even without medication so shouldn’t always attribute to treatment, etc
-
-  
-
-Even among super forecasters, only 70pct remained accurate the next period 
-
-Much better than random guessers and showing less mean reversion but still not infallible 
-
-  
-
-Chap 5
-
-Super forecasters are smarter than average but not geniuses 
-
-Point of diminishing returns and curiosity and awareness are more important and genius level IQ
-
-Wonder if geniuses actually do worse bc overconfident 
-
-  
-
-Break down questions into constituent parts and easier questions 
-
-Like consulting market sizing
-
-What do you need to know
-
-What would need to be true for x to be true 
-
-How many piano tutors In Chicago
-
-Population in Chicago, how many own pianos, how often does one need tuning etc
-
-Key is to understand what’s knowable and what isn’t 
-
-These back of envelope answers Tends to be accurate even without outside info
-
-Start with the outside view 
-
-This is the general case abstracted from the details 
-
-Eg trying to forecast a border dispute first assess
-
-How often those occur 
-
-This gives a base rate which you can then adjust 
-
-If start w inside view risk of anchoring bias
-
-For inside view
-
-Start with hypotheses 
-
-For each, what would need to be true for it to be true 
-
-Doesn’t help to just immerse yourself in general information 
-
-For each question, try considering the opposite question to prevent anchoring
-
-Write down your prediction and thought process 
-
-Come back to it a few days later 
-
-Would you still agree 
-
-  
-
-Active open minded - seek other views
-
-Numeracy important but advanced quant techniques not
-
-Attempt to be more granular in probability forecasts
-
-Super forecasters don’t have false precision - the more precise they are the more accurate they tend to be 
-
-Rounding off their prob estimates takes away the accuracy quickly 
-
-Make forecast more precise in stages 
-
-  
-
-Don’t think of things as inevitable. If you think something was meant to be just because it was unlikely (like falling in love w someone) that means you think the prob was 100pct which is contradictory 
-
-Take it as evidence of how uncertain the future is 
-
-Instead of why think about how - how did something happen 
-
-Like slaughter house - why me? Why not me?
-
-And Aurelius - understand the process 
-
-Don’t worry about why 
-
-Believing in fate is reassuring but hurts forecast
-
-Remember to think about outside view and not get lost in emotional details - that’s what leads to fatalistic thinking
-
-  
-
-Chap 7 - news
-
-Process - break all questions into small ones
-
-Separate known from unknown 
-
-Test all assumptions 
-
-Take outside view - where have you seen similar questions before - this is a specific case of a general case
-
-Then inside view - what’s unique here
-
-Compare your views w others - what’s market pricing 
-
-Extract wisdom from crowd
-
-Synthesize views as specifically as possible using probabilities 
-
-Make note of metrics you need to follow to change mind and prob 
-
-Pay attention of those metrics and update often 
-
-Preparation is key here as is recording the metrics and timelines 
-
-Collect major questions into categories and see what the common metrics are
-
-Need to update forecasts w new info 
-
-Can be hard to adjust prior views
-
-Often hard to change beliefs bc they’re deeply held and may tie w your identity
-
-Changing them crashes everything else you believe
-
-Can be a weakness for subject matter experts as their forecasts become sacred and hard to admit you’re wrong 
-
-Another way of saying should have conviction but should be loosely held and willing to change w new info 
-
-Don’t make them your identity
-
-Have an advantage making predictions over things you don’t care about 
-
-  
-
-May also be guilty of overreacting to irrelevant information. Need to filter that out. Helps by thinking of key questions and metrics ahead of time.
-
-SF update often but they make small changes
-
-Chap 8
-
-Growth mindset is key
-
-Always be practicing 
-
-You can learn anything and get better w practice 
-
-Don’t rely on endowments
-
-Need to be objective and not lured by praise
-
-Be self critical
-
-Always be improving and looking to learn. Assume you have much to learn and improve.
-
-  
-
-Chap 8
-
-Groups can be powerful via aggregation and canceling out one’s errors
-
-But can also lead to complacency and groupthink
-
-Unanimanity taken as meaning certainty
-
-Teams normally outperform individuals 
-
-As they have different styles and can do more research 
-
-Requires members to challenge each other and be critical without offending 
-
-That requires mutual trust
-
-Diverse teams are good if they can Each contribute something . That’s logic of extremising results. In bid laden example, many members knew stuff others didn’t.
-
-ExtrmiIng would’ve compensated for this and produced an average forecast in the 90s. A team w no diversity where the very one knows the same thing Shouldn’t be extemized.
-
-  
-
-Chap 10
-
-Motler- German general - come up with plans but let those on the ground execute. Acknowledges that no plan survives encounter w enemy so must be flexible and open to new info 
-
-  
-
-But when a plan is decided must act
-
-Be confident esp vs enemies but intellectually humble ie open to idea that you could be wrong 
-
-  
-
-Milton - paradise lost - devil is evil but also resourceful 
-
-Don’t sacrifice facts for morality. That is you can learn from those you disagree with eg the competence of the German army despite their evil goals
-
-I’d add that often moral judgements themselves are hypocritical and inconsistent - you should test those as well 
-
-If you follow Aurelius - morality and fact based judgement should be one in the same though former should flow from latter not the reverse 
-
-  
-
-Many forecasters esp those in charge are guilty of this error eg underestimating Russian or Syrian armies
 
 Chap 11
 
