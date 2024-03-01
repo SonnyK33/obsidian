@@ -8,6 +8,42 @@ Becoming a fox requires practice with forecasting. You need to conduct assessmen
 
 A key insight in the book is that you need to know when to rely on intuition and when not to. If the information required to use system 1 thinking (intuition) is available, then this mode may be sufficient. This requires humility of what you don't know. 
 
+Steps to effective forecasting:
+
+1) Triage - answer questions where the work will pay off. Don't focus on impossible ones or easy ones that can be approximated. This means keep the timeframe reasonable. 
+
+2) Break hard questions into easier ones and separate them into knowable and unknowable pieces. Remember "Fermi-ization", the market sizing technique, which is often reasonably accurate. This may be the most important part. 
+	1) For example - will COMM's EBITDA increase in H2'24?
+		1) Will its revenue increase?
+		2) Which segments are most important?
+			1) In those segments, will it sell more items?
+				1) Will its customer purchase more items?
+					1) Who are their customers?
+						1) What have they said about capex?
+						2) Can they spend more?
+		3) Repeat for other segments
+		4) Will its costs increase?
+			1) what are fixed versus variable costs?
+				1) Are fixed costs likely to change?
+
+4) Start with the outside view, and think about where have you seen something similar. When you've established the baseline, switch to the inside view. For my purposes, this is why it's important to separate trades into types. All liquidity-constrained trades have similarities. Likewise for recovery trades. For the COMM example, when was the last time Telco/cable companies cut capex? How long does it take for suppliers to recover? Energy suppliers in 2021 could be a good comparable.
+
+5) Maintain a balance balance between over and under reacting to new information. Incrementally update when you receive new information and be open to changing your mind if something happens. It's important to identify what information you're waiting for. Capex budgets, leverage of customers, etc. 
+ 
+6) Understand the causal forces that lead to opposing views. Your thesis plus the antithesis gets you a synthesis. To form a coherent "dragonfly" view, you need to understand opposing arguments. List in advance what would change your mind. Even doves should know when they’d become hawks. If your answer is never, your predictions are becoming too close to your identity. You need to avoid that. Come up with the opposite thesis for all trades. Why would someone do the opposite?
+
+7) Separate your predictions into degrees of uncertainty. Be as specific as possible but no more. It helps to quantify with as much gradiation as possible and to avoid vague phrases. Come up with a %, and compare with what the market price is implying. 
+
+8) Be humble about changing your mind, but you also need to be decisive and confident. This is easier when you identify the metrics in advance.
+
+9) Fix past mistakes but avoid rear view bias. Do post mortems on correct predictions as well as ones where you might’ve gotten lucky. Review trades when they're closed. 
+
+10) To manage effective teams, understand your team mates' opinions.
+
+11) Practice making forecasts and see where you went wrong.
+
+
+
 Chapter 1 An Optimistic Skeptic
 Chapter 2 Illusions of Knowledge
 
@@ -65,168 +101,45 @@ Chapter 10 The Leader's Dilemma
 
 Motler, a German general, came up with plans but let those on the ground execute. This acknowledges that no plan survives the encounter with the enemy so we must be flexible and open to new information. But when a plan is decided, we must act. Be confident especially vs enemies but be intellectually humble and open to the idea that you could be wrong. Milton, in paradise lost, said the devil is evil, but he's also resourceful. Don’t sacrifice facts for morality. That is, you can learn from those you disagree with, for example the competence of the German army despite their evil goals.
 
-I’d add that often moral judgements themselves tend to be hypocritical and inconsistent. We should test our objectivity. Conversely, if you follow Aurelius, morality and fact based judgement should be one in the same, though the former should flow from the latter not the reverse. 
+I’d add that often moral judgements themselves tend to be hypocritical and inconsistent. We should test our objectivity. Many forecasters, especially those in charge, are guilty of this error. For instance, they underestimate Russian or Syrian armies because they disagree with their goals. If you follow Aurelius, morality and fact based judgement should be one in the same, though the former should flow from the latter not the reverse. 
 
-
-
-
-
-  
-
-Many forecasters esp those in charge are guilty of this error eg underestimating Russian or Syrian armies
 
 Chapter 11 Are They Really So Super?
+
+How would your forecast change if the question was a little different? For example, if the timeframe for something to happen was extended. He calls this scope sensitivity. Again, it helps to start with the outside view to get a base case. 
+
+Even with good forecasts, you have to be wary of black swans, and the unpredictable. All forecast should be tentative and know when you’d change your mind. There are many alternative futures, and the "impossible" happens frequently (fat tails per Taleb).
+
 Chapter 12 What's Next?
+
+Forecasts often have an agenda, as they seek to promote the forecaster's interests. 
+
+We care about the big questions, but it's easier to score the simpler binary questions. The key is to break down big important question into these smaller ones which are cumulative and form the logical catalyst path. 
+
+Hedgehogs may actually be better at asking questions, as they’re big picture thinkers and have one big idea. They can think thematically. Whereas foxes are good at answering those questions. They may be too in the weeds to think of the best questions. So you often need bit of both. Think thematically, but answer systematically. 
+
 Epilogue
 An Invitation
 Appendix: Ten Commandments for Aspiring Superforecasters.
 
+1) Triage - answer questions where the work will pay off. Don't focus on impossible ones or easy ones that can be approximated.  
 
+2) Break hard questions into easier ones and separate them into knowable and unknowable pieces. Remember "Fermi-ization", the market sizing technique, which is often reasonably accurate.  
 
-Chap 11
+3) Start with the outside view, and think about where have you seen something similar. When you've established the baseline, switch to the inside view. 
 
-Scope sensitivity 
+4) Maintain a balance balance between over and under reacting to new information. Incrementally update when you receive new information and be open to changing your mind if something happens.
 
-How would your forecast change if the question was a little different eg a longer timeframe for something to happen
+5) Understand the causal forces that lead to opposing views. Your thesis plus the antithesis gets you a synthesis. To form a coherent "dragonfly" view, you need to understand opposing arguments. List in advance what would change your mind. Even doves should know when they’d become hawks. If your answer is never, your predictions are becoming too close to your identity. You need to avoid that.
 
-Again helps to start w outside view to get base case
+6) Separate your predictions into degrees of uncertainty. Be as specific as possible but no more. It helps to quantify with as much gradiation as possible and to avoid vague phrases.
 
-Even w good forecasts have to be wary of black swans
+7) Be humble about changing your mind, but you also need to be decisive and confident.
 
-All forecast should be tentative 
+8) Fix past mistakes but avoid rear view bias. Do post mortems on correct predictions as well as ones where you might’ve gotten lucky.
 
-Strive for anti fragility 
+9) To manage effective teams, understand your team mates' opinions.
 
-Know when you’d change your mind
+10) Practice making forecasts and see where you went wrong.
 
-There are many alternative futures 
-
-Fat tails per taleb
-
-Remember that when forecasting 
-
-  
-
-Chap 12
-
-Forecasts often have an agenda 
-
-They seek to promote the forecasters interests
-
-We care about the big questions but easier to score the simpler binary questions 
-
-Key is to break down big important question into these smaller ones which are cumulative and form the logical catalyst path
-
-Hedgehogs may be better at asking questions 
-
-They’re big picture and have 1 big idea 
-
-Can think thematically
-
-Whereas foxes are good at answering 
-
-They may be too in the weeds to
-
-Think of best questions 
-
-So need bit of
-
-Both
-
-Appendix
-
-Guidelines
-
-1) triage - answer questions where work will pay off
-
-Not impossible ones or easy ones that can be approximated 
-
-  
-
-2) break he’d questions into easier ones 
-
-Separate into knowable and unknowable 
-
-Fermize - market sizing technique 
-
-Often accurate
-
-  
-
-3) start w outside view
-
-Where have you seen something similar 
-
-When you have baseline switch to inside 
-
-  
-
-4)
-Right.m balance of over and under reacting to new info 
-
-Incrementally update when new info 
-
-Be open to changing mind if x happens 
-
-  
-
-5
-
-Understand the causal forces that lead to opposing views
-
-Thesis plus antithesis gets synthesis
-
-To form a coherent dragonfly view need to understand opposing arguments 
-
-List in advance what would change your mind 
-
-Doves should know when they’d become hawks 
-
-  
-
-6
-
-Separate into degrees of uncertainty 
-
-As much as possible but no more
-
-Helps to quantify w as much gradiation as possible 
-
-Avoid vague phrases
-
-  
-
-7
-
-Be humble about changing 
-
-Mind and getting better but also need to be decisive
-
-And confident 
-
-  
-
-8
-
-Fix past mistakes but avoid rear view bias
-
-Do post Mortema on correct predictions as well as might’ve gotten lucky
-
-  
-
-9
-
-Team management 
-
-Understand team mates opinions 
-
-  
-
-10
-Need to practice 
-
-  
-
-11
-
-No rules are firm
+11) No rules are firm.
