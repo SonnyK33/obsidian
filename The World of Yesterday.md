@@ -1,6 +1,6 @@
 Author: Stefan Zweig
 Type: #source 
-References: [[Radzetsky March]]
+References: [[The Radetzky March]]
 
 **Exec Summary**
 Zweig captured Austria, and especially Vienna, at the turn of the twentieth century. He describes the Viennese as innocent, naive, and indulgent. They thought they had progressed past the point of conflict. They were obsessed with the arts-- especially theatre, and were oblivious about politics, even in neighboring Germany. They took their liberal nature for granted, and thought the age of conflicts was behind them. It reminded me of how some Western leaders (Fukuyama, most famously), described the late 1990's. We had reached the end of history, and nothing could stop the trajectory towards Western style democracy. 

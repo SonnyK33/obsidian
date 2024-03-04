@@ -3,6 +3,7 @@ Type: #source
 [[Existentialism - Outline]]
 [[Like a Fading Shadow]]
 [[No Exit]]
+[[Meditations]]
 **Summary**
 Sisyphus is a character in an ancient Greek story. For his sins against a powerful king, he was sentenced to spend eternity pushing a rock up a hill. When he reached the top, the rock would fall, and he would return to the bottom and push it back up. This cycle would repeat forever. The implication is that to be forced to perform a mindless and repetitive task would be a horrible punishment. Camus' premise in this book is that every person's life could be thought of in similar terms to Sisyphus endlessly pushing a rock up a hill. We tend to attach great meanings to our lives-- to our family, careers, and activities. But in the end, none of it really matters. Everyone dies and all activities come to an end. Nothing has any grand meaning. Camus then asks if all our lives are meaningless, why should we go on living? The answer is that the meaning to life is to simply live. The "myth" in the title refers to idea that Sisyphus' life was meaningless. In fact, all of our lives have meaning. Just the act of going through the motions everyday constitute a reason to live. The book end with the classic line: "The struggle towards the heights alone is enough to fill a man’s heart. One must imagine Sisyphus happy".
 

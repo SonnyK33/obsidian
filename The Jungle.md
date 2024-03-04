@@ -3,6 +3,7 @@ Type: #source
 References: [[Rickshaw Boy]]
 [[The Dean of Shandong]]
 [[Plato]]
+[[The Radetzky March]]
 **Takeaways**
 
 This is a book about the cruelty of American capitalism and how corrupt politicians work with businesses to rig the system. At times the book gets  repetitive. Jurgis would get a break or a streak of good luck only for it to fall apart. That’s the point of the book. Capitalism requires you to hope for these breaks. But you’ll never get out of the rat race. The system is rigged and when  Jurgis eventually gets  red pilled (Plato’s cave allegory) he understands how he never had a chance. He understands how trusts work and how they control the government. How individualism means being at the mercy of a cruel world. The meat packers were chosen because it’s the perfect metaphor for cruelty and the slaughtering of innocents. Jurgis was a hog too. The Book reminded me of [[rickshaw boy]] which was written at the same time. The difference is the protagonist there never became class conscious and died hopeless.
