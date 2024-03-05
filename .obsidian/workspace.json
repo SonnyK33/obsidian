@@ -13,38 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.29.24.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2e5293ea0e1de646",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Meditations.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c423ab407ec2056c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Radetzky March.md",
+                "file": "WIL/WILT - 3.5.24.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Radetzky March.md",
+                "file": "WIL/WILT - 3.5.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,18 +124,20 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "c423ab407ec2056c",
+  "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
-    "The Jungle.md",
+    "WIL/WILT - 2.29.24.md",
+    "WIL/WILT - 3.5.24.md",
+    "WIL/WILT - 3.1.23.md",
+    "Meditations.md",
     "The Radetzky March.md",
+    "The Jungle.md",
     "The World of Yesterday.md",
     "Radzetsky March.md",
-    "Meditations.md",
     "Essentialism.md",
     "Myth of Sisyphus.md",
     "Superforecasting.md",
     "WIL/WILT - 2.28.24.md",
-    "WIL/WILT - 2.29.24.md",
     "WIL/WILT - 2.23.24.md",
     "WIL/WILT - 2.21.24.md",
     "WIL/WILT - 2.15.24.md",
@@ -174,8 +151,6 @@
     "Laws of Trading.md",
     "WIL/WILT - 2.10.23.md",
     "WIL/WILT - 2.9.23.md",
-    "WIL/WILT - 2.13.23.md",
-    "WIL/WILT - 12.13.23.md",
-    "WIL/WILT - 12.12.23.md"
+    "WIL/WILT - 2.13.23.md"
   ]
 }
