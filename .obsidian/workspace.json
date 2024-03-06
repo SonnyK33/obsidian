@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 3.5.24.md",
+                "file": "WIL/WILT - 3.6.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.5.24.md",
+                "file": "WIL/WILT - 3.6.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,9 @@
   },
   "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
-    "WIL/WILT - 2.29.24.md",
     "WIL/WILT - 3.5.24.md",
+    "WIL/WILT - 3.6.24.md",
+    "WIL/WILT - 2.29.24.md",
     "WIL/WILT - 3.1.23.md",
     "Meditations.md",
     "The Radetzky March.md",
@@ -150,7 +151,6 @@
     "Untitled 2.md",
     "Laws of Trading.md",
     "WIL/WILT - 2.10.23.md",
-    "WIL/WILT - 2.9.23.md",
-    "WIL/WILT - 2.13.23.md"
+    "WIL/WILT - 2.9.23.md"
   ]
 }
