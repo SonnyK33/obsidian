@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 3.6.24.md",
+                "file": "Advanced Portfolio Management.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "advanced",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.6.24.md",
+                "file": "Advanced Portfolio Management.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +127,8 @@
   },
   "active": "bbea8f706ec5ba25",
   "lastOpenFiles": [
-    "WIL/WILT - 3.5.24.md",
     "WIL/WILT - 3.6.24.md",
+    "WIL/WILT - 3.5.24.md",
     "WIL/WILT - 2.29.24.md",
     "WIL/WILT - 3.1.23.md",
     "Meditations.md",

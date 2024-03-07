@@ -61,7 +61,7 @@ Get your fundamental theses. Convert into positions by weighting by expected ret
 
 *How much factor risk should you take?*
 
-Most managers have no skill in factors. If you assume all PnL comes from idio factors, you want to keep idio variance as a pct of total as high as possible. Above 75pct you have diminishing returns though dude to trading costs and limited accuracy of models. Rule of thumb is lowering share by 5pct cuts returns by 2.5pct. Your sharpe ratio decreases with factor risk. The higher your sharpe, the less market exposure you want - see book for calculation. The more stocks you can own the easier it is to be market neutral. I’m not sure the same can be said for bonds. That is, it could be tougher to run market neutral. 
+Most managers have no skill in factors. If you assume all PnL comes from idio factors, you want to keep idio variance as a pct of total as high as possible. Above 75pct you have diminishing returns though due to trading costs and limited accuracy of models. Rule of thumb is lowering share by 5pct cuts returns by 2.5pct. Your sharpe ratio decreases with factor risk. The higher your sharpe, the less market exposure you want - see book for calculation. The more stocks you can own the easier it is to be market neutral. I’m not sure the same can be said for bonds. That is, it could be tougher to run market neutral. 
 Factor exposure should be minimized but it’s hard to keep it at zero. Keep exposures within a range and Be mindful of where they could go. Ie how much could energy widen?  
 
 *Understand your performance* 
