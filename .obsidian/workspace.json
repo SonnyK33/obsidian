@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d3209d3a1fb0db51",
+        "id": "9c4b6556f1fcd870",
         "type": "tabs",
         "children": [
           {
-            "id": "5ddaaa715346a1fb",
+            "id": "1831f57deb194347",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Credit Skew.md",
+                "file": "WIL/WILT - 3.12.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/Credit Skew.md",
+                "file": "WIL/WILT - 3.12.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +124,11 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "5ddaaa715346a1fb",
+  "active": "1831f57deb194347",
   "lastOpenFiles": [
     "WIL/WILT - 3.11.24.md",
+    "WIL/WILT - 3.12.24.md",
+    "Molecules/Credit Skew.md",
     "WIL/WILT - 3.6.24.md",
     "WIL/WILT - 3.8.23.md",
     "WIL/WILT - 3.7.23.md",
@@ -149,8 +151,6 @@
     "WIL/WILT - 1.26.24.md",
     "WIL/WILT - 1.29.24.md",
     "WIL/WILT - 1.30.24.md",
-    "WIL/WILT - 2.7.24.md",
-    "WIL/WILT - 2.8.24.md",
-    "Sources/Stillwell and the American Experience in China (1911-1945).md"
+    "WIL/WILT - 2.7.24.md"
   ]
 }
