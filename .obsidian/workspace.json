@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 3.21.24.md",
+                "file": "WIL/WILT - 3.22.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 3.21.24.md",
+                "file": "WIL/WILT - 3.22.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,8 +126,9 @@
   },
   "active": "1831f57deb194347",
   "lastOpenFiles": [
-    "WIL/WILT - 3.20.24.md",
     "WIL/WILT - 3.21.24.md",
+    "WIL/WILT - 3.22.24.md",
+    "WIL/WILT - 3.20.24.md",
     "WIL/WILT - 3.19.24.md",
     "WIL/WILT - 3.18.24.md",
     "WIL/WILT - 3.15.24.md",
@@ -150,7 +151,6 @@
     "Myth of Sisyphus.md",
     "Superforecasting.md",
     "WIL/WILT - 2.28.24.md",
-    "WIL/WILT - 2.23.24.md",
-    "WIL/WILT - 2.21.24.md"
+    "WIL/WILT - 2.23.24.md"
   ]
 }
