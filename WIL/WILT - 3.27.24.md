@@ -17,8 +17,7 @@ Daily Agenda:-
 
 
 
-WILT
-AMCX reverse was a miss. 
+
 
 **Predictions**
 
