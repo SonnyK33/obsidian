@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Molecules/Framework.md",
+                "file": "WIL/WILT - 4.4.24.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Molecules/Framework.md",
+                "file": "WIL/WILT - 4.4.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,6 +126,8 @@
   },
   "active": "1831f57deb194347",
   "lastOpenFiles": [
+    "WIL/WILT - 4.3.24.md",
+    "WIL/WILT - 4.4.24.md",
     "Molecules/Evaluating Credits.md",
     "Molecules/Framework.md",
     "Molecules/2024 Framework.md",
@@ -134,7 +136,6 @@
     "Molecules/Credit Buckets.md",
     "Molecules/Edge.md",
     "Molecules/2023 Trades.md",
-    "WIL/WILT - 4.3.24.md",
     "WIL/WILT - 4.2.24.md",
     "WIL/WILT - 4.1.24.md",
     "WIL/WILT - 3.27.24.md",
@@ -150,7 +151,6 @@
     "WIL/WILT - 3.11.24.md",
     "Molecules/Credit Skew.md",
     "WIL/WILT - 3.6.24.md",
-    "WIL/WILT - 3.8.23.md",
-    "WIL/WILT - 3.7.23.md"
+    "WIL/WILT - 3.8.23.md"
   ]
 }
