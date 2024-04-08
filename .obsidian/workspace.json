@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WIL/WILT - 2.29.24.md",
+                "file": "WIL/WILT - 4.8.24.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "518c7b29e153f812",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WIL/WILT - 2.29.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,9 +132,12 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1831f57deb194347",
+  "active": "518c7b29e153f812",
   "lastOpenFiles": [
+    "WIL/WILT - 4.8.24.md",
+    "WIL/WILT - 4.6.24.md",
     "WIL/WILT - 4.5.24.md",
+    "WIL/WILT - 2.29.24.md",
     "WIL/WILT - 4.4.24.md",
     "WIL/WILT - 4.3.24.md",
     "Molecules/Evaluating Credits.md",
@@ -148,9 +159,6 @@
     "WIL/WILT - 3.19.24.md",
     "WIL/WILT - 3.18.24.md",
     "WIL/WILT - 3.15.24.md",
-    "WIL/WILT - 3.12.24.md",
-    "WIL/WILT - 3.11.24.md",
-    "Molecules/Credit Skew.md",
-    "WIL/WILT - 3.6.24.md"
+    "WIL/WILT - 3.12.24.md"
   ]
 }
