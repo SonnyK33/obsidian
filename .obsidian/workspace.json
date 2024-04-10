@@ -23,8 +23,12 @@
             "id": "518c7b29e153f812",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "WIL/WILT - 4.10.24.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "WIL/WILT - 4.10.24.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +140,7 @@
   "active": "518c7b29e153f812",
   "lastOpenFiles": [
     "WIL/WILT - 4.8.24.md",
+    "WIL/WILT - 4.10.24.md",
     "WIL/WILT - 4.6.24.md",
     "WIL/WILT - 4.5.24.md",
     "WIL/WILT - 2.29.24.md",
@@ -158,7 +164,6 @@
     "WIL/WILT - 3.20.24.md",
     "WIL/WILT - 3.19.24.md",
     "WIL/WILT - 3.18.24.md",
-    "WIL/WILT - 3.15.24.md",
-    "WIL/WILT - 3.12.24.md"
+    "WIL/WILT - 3.15.24.md"
   ]
 }
